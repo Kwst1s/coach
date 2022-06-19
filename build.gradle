@@ -28,7 +28,7 @@ sonarqube {
 
 apply plugin: 'com.android.application'
 
-apply plugin: "org.sonarqube"
+
 apply plugin: "com.hiya.jacoco-android"
 
 
@@ -45,7 +45,7 @@ repositories {
     jcenter()
 }
 
-apply plugin: "org.sonarqube"
+
 repositories {
     mavenCentral()
     google()
