@@ -1,0 +1,165 @@
+[{
+		"type": "text",
+		"content": "To learn more about treatment, including where to find it, visit the National Center for PTSD website"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.ptsd.va.gov/",
+		"content": "National Center for PTSD"
+	},
+	{
+		"type": "text",
+		"content": "To locate a mental health care provider:"
+	},
+	{
+		"type": "list",
+		"content": ["Find Local Care: Locate the Veterans services closest to you."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.mentalhealth.va.gov/get-help/local-care.asp",
+		"content": "Find Local Care"
+	},
+
+	{
+		"type": "list",
+		"content": ["Behavioral Health Treatment Services Locator (SAHMHSA): Resources and locations for the general public as well as veterans."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://findtreatment.samhsa.gov/",
+		"content": "Behavioral Health Treatment Services Locator (SAMHSA)"
+	},
+	{
+		"type": "list",
+		"content": ["Military OneSource"]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.militaryonesource.mil/",
+		"content": "Military OneSource"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-800-342-9647",
+		"content": "Call 1-800-342-9647"
+	},
+	{
+		"type": "text",
+		"content": "Contact the VA Health System"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-877-222-8387",
+		"content": "VA Health System"
+	},
+	{
+		"type": "text",
+		"content": "or visit the Returning Service Members website to ask for a referral."
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.oefoif.va.gov",
+		"content": "Returning Service Members website"
+	},
+	{
+		"type": "list",
+		"content": ["Women Veterans can call the Women Veterans Call Center at 1-855-829-6636"]
+	},
+
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-855-829-6636",
+		"content": "Call 1-855-829-6636"
+	},
+
+	{
+		"type": "list",
+		"content": ["Some personnel may also be eligible for services at local Vet Centers."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.vetcenter.va.gov",
+		"content": "Vet Centers"
+	},
+
+	{
+		"type": "list",
+		"content": ["The American Psychological Association offers an online tool for finding a psychologist in your area."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://locator.apa.org",
+		"content": "American Psychological Association"
+	},
+
+	{
+		"type": "list",
+		"content": ["The American Association for Marriage and Family Therapy also maintains an online tool for finding a marriage or family counselor."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://therapistlocator.net/",
+		"content": "American Association for Marriage and Family Therapy"
+	},
+
+	{
+		"type": "list",
+		"content": ["Psychology Today provides a tool for locating a counselor, support group, or psychiatrist near you."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.psychologytoday.com/intl",
+		"content": "Psychology Today"
+	},
+
+	{
+		"type": "text",
+		"content": "If you are a family member trying to help a Veteran with PTSD:"
+	},
+	{
+		"type": "list",
+		"content": ["Try calling Coaching Into Care at 1-888-823-7458 which is available Monday through Friday, 8am-8pm PST. Talk to a real person who can provide information, encouragement, and expert advice for helping a Veteran get effective treatments for PTSD."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.mirecc.va.gov/coaching/services.asp",
+		"content": "Coaching Into Care"
+	},
+
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-888-823-7458",
+		"content": "Call 1-888-823-7458"
+	},
+	{
+		"type": "list",
+		"content": ["GiveAnHour offers free or low-cost counseling services to military personnel, Veterans, and their family members."]
+	},
+
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://giveanhour.org/",
+		"content": "GiveAnHour"
+	}
+]

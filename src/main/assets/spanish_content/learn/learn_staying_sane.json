@@ -1,0 +1,600 @@
+[
+  {
+    "displayName": "Priorizarse a Sí Mismo, Ahora Mismo",
+    "id": 1000,
+    "related_tools": [
+      105,
+      103
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“Ámese a sí mismo primero, y todo lo demás cae en línea.” -- Lucille Ball"
+      },
+      {
+        "type": "text",
+        "content": "Priorizar a sus propias necesidades emocionales y físicas no es egoísta. Con el fin de servir a los demás, es fundamental que primero mantengamos nuestras baterías cargadas. Cuidarnos bien es el combustible que nos mantendrá en movimiento durante este tiempo desafiante."
+      }
+    ]
+  },
+  {
+    "displayName": "Que Esperar",
+    "id": 1001,
+    "related_tools": [
+      105,
+      33
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Estamos en una época sin precedentes. No existe una guía sobre cómo hacer esto. Durante tiempos de crisis, recuerde que es común sentirse:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cansado",
+          "Brumoso",
+          "Improductivo",
+          "Irritable",
+          "Desencadenado",
+          "Abrumado"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Esto es duro. Este es un maratón. Permítase reducir sus estándares y productividad. Sea gentil con sí mismo mientras se adapta a esta \"nueva y temporal normalidad\".”"
+      },
+      {
+        "type": "text",
+        "content": "Trate de no perder demasiado tiempo preocupándose por el futuro. Pruebe un ejercicio de atención plena, que puede ayudar con situaciones en las que no podemos predecir el futuro, o programe un tiempo y espacio para la preocupación productiva con \"tiempo de preocupación\"."
+      }
+    ]
+  },
+  {
+    "displayName": "Manejo de la Irritabilidad",
+    "id": 1002,
+    "related_tools": [
+      29,
+      5,
+      104
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El mundo ha cambiado y estamos nadando en la incertidumbre. Es humano sentirse irritable y frustrarnos fácilmente con el mundo que nos rodea."
+      },
+      {
+        "type": "text",
+        "content": "Cuando se sienta ansioso o irritable, tómese un tiempo para notarlo y déjelo fluir. Tómese un descanso de las discusiones que se calientan. Prueba la Respiración Profunda para liberar algo de su tensión interna. Utilice imágenes guiadas para tomar un descanso mental."
+      },
+      {
+        "type": "text",
+        "content": "Realice un ejercicio relajante como yoga o estiramiento para aflojar la tensión en el cuerpo."
+      },
+      {
+        "type": "text",
+        "content": "Distraerse con actividades gratificantes, captivas o positivas para darle un descanso a sus preocupaciones o irritaciones."
+      }
+    ]
+  },
+  {
+    "displayName": "Manejo de Ansiedad de Mascarillas",
+    "id": 100001,
+    "related_tools": [
+      5,
+      3,
+      20,
+      104,
+      105,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Ver mascarillas o usar mascarillas puede provocar fuertes emociones negativas."
+      },
+      {
+        "type": "text",
+        "content": "El primer paso es saber por qué está experimentando emociones negativas:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<i>Las mascarillas faciales pueden producir sensaciones físicas desagradables</i>. Sentirse caliente, mareado o notar cambios en su respiración puede interpretarse como peligroso. Esto puede provocar ansiedad, pánico o sentimientos de claustrofobia.",
+          "<i>Las mascarillas pueden resultar físicamente incómodas</i>. Los revestimientos faciales pueden empañar los anteojos, bloquear su visión, irritar su piel o resultar en \"acné de mascarilla\".",
+          "<i>La falta de señales sociales puede ser inquietante</i>. Necesitamos pistas de expresiones faciales y tono de voz para evaluar si una persona es segura o no. Si no recibimos estas señales debido a que nos cubrimos el rostro, es posible que nos sintamos aprensivos o inseguros.",
+          "<i>El uso de una mascarilla puede dificultar la comunicación</i>. Las mascarillas pueden dificultar la audición de otras personas y dar lugar a malentendidos.",
+          "<i>Las mascarillas son recordatorios de que estamos en una pandemia</i>.  El cubrimiento de la cara puede desencadenar el miedo a la enfermedad y las preocupaciones por los seres queridos.",
+          "<i>Los recuerdos traumáticos pueden estar relacionados con las máscaras faciales</i>. Las máscaras faciales pueden estar asociadas con experiencias traumáticas previas, como hospitalizaciones, misiones de combate, robos o asaltos y desastres naturales, como terremotos o incendios forestales.",
+          "<i>Usar una mascarilla puede generar comentarios negativos</i>. La gente puede pensar que tiene malas intenciones o que está comunicando una posición política."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Una vez que comprenda por qué está experimentando emociones negativas, puede comenzar a manejarlas. Consulte las herramientas sugeridas para ayudarlo."
+      },
+      {
+        "type": "list",
+        "content": [
+          "<i>Recuerde que las mascarillas son seguras</i>. No hay cambios significativos en los niveles de oxígeno o dióxido de carbono cuando se usa una máscara.",
+          "<i>Encuentre o haga la mascarilla perfecta</i>. Personalice su mascarilla encontrando el diseño y la tela adecuados. Rocíe ligeramente su mascarilla con un olor que le guste (por ejemplo, lavanda, madera).",
+          "<i>Haga que su mascarilla sea lo más cómoda posible</i>. Vea si prefiere las cintas para la cabeza o las presillas para las orejas. Asegúrese de que su mascarilla no esté demasiado apretada contra su cara.",
+          "<i>Practique el uso de una mascarilla</i>. Aumente gradualmente el tiempo, la ubicación y las actividades que realiza mientras usa una mascarilla.",
+          "<i>Desafíe sus pensamientos negativos</i>. Primero observe sus pensamientos (p. Ej., \"Odio usar esta máscara\") y luego agréguele (p. Ej., \"Odio usar esta máscara Y ... todavía puedo hacer lo que se necesita para mantenerme a mí y a los demás seguros\").",
+          "<i>Concéntrase en su respiración</i>. Evite la respiración rápida y superficial mientras usa su mascarilla. Disminuya la velocidad de su respiración, asegurándose de que su exhalación dure más que su inhalación.",
+          "<i>Utilice técnicas de distracción y relajación</i>.",
+          "<i>Practique técnicas de atención plena que lo mantengan en el presente</i>.",
+          "<i>Busque apoyo social compartiendo su experiencia</i>."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Para comprender más sobre los mitos sobre el uso de mascarillas, visite el sitio web de Asociación Americana de Personas Jubiladas en Salud, Enfermedades y Tratamientos:"
+      },
+      {
+        "content": "7 Mitos Sobre las Mascarillas",
+        "type": "link",
+        "link": "https://www.aarp.org/espanol/salud/enfermedades-y-tratamientos/info-2020/mitos-sobre-el-uso-de-mascarillas.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información sobre cómo reducir la ansiedad por el uso de mascarillas, visite:"
+      },
+      {
+        "content": "Siquia: Sí, la mascarilla puede generarte ansiedad (y así puedes evitarlo)",
+        "type": "link",
+        "link": "https://www.siquia.com/2020/07/mascarilla-ansiedad/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Encontrar el Humor",
+    "id": 1003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“Como una lluvia de verano bienvenida, el humor puede limpiar y enfriar repentinamente la tierra, el aire y a ti.” -- Langston Hughes"
+      },
+      {
+        "type": "text",
+        "content": "Aunque puede parecer imposible \"ser feliz\", el mundo puede ser un lugar divertido."
+      },
+      {
+        "type": "text",
+        "content": "Si está solo, busque algunos videos divertidos en línea o vea su película de comedia favorita."
+      },
+      {
+        "type": "text",
+        "content": "Si está con su pareja, familia o compañeros de departamento, vea una comedia que todos disfruten. Pase tiempo en el momento presente y sea chistoso con sus hijos o su pareja. Pruebe un juego como las charadas, comience una fiesta de baile, comparta chistes, use disfraces o hable con voces divertidas para traer algo de luz y risas a su día."
+      }
+    ]
+  },
+  {
+    "displayName": "Encontrar la Calma",
+    "id": 1004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "En tiempos caóticos anhelamos lo familiar y buscamos consuelo."
+      },
+      {
+        "type": "text",
+        "content": "Mientras que las cosas que son familiares o reconfortantes pueden no ser accesibles en este momento, puede que necesite ser creativo al pensar en otras formas de calmarse."
+      },
+      {
+        "type": "text",
+        "content": "Piensa en lo que lo calma."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Sonidos",
+          "holores",
+          "texturas",
+          "imagenes",
+          "actividades",
+          "algunas personas",
+          "alimentos",
+          "películas o programas de televisión"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Haga una “lista reconfortante” de cosas que pueden calmarlo en este momento y manténgala visible en su refrigerador, para cuando necesite ideas."
+      },
+      {
+        "type": "text",
+        "content": "Tómese el tiempo para elegir algo de la lista tan a menudo como pueda. Incluso unos pocos minutos pueden marcar la diferencia."
+      },
+      {
+        "type": "text",
+        "content": "Es probable que típicamente puede usar cosas como el alcohol u otras sustancias para calmarse cuando está estresado. Sin embargo, sus niveles de estrés pueden ser más altos ahora y durar más. Así que tenga en cuenta cuánto está aumentando su consumo de alcohol y otras sustancias. Examine cómo su uso podría estar afectando sus relaciones y su capacidad para funcionar. Si nota que el consumo de sustancias le está afectando, consulte la sección Buscar Recursos de esta aplicación para obtener ayuda."
+      }
+    ]
+  },
+  {
+    "displayName": "Lidiando con la Soledad",
+    "id": 1005,
+    "related_tools": [
+      4
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“Esto también pasará.”"
+      },
+      {
+        "type": "text",
+        "content": "Estos sentimientos son difíciles y esperados, pero recuerde que no son permanentes."
+      },
+      {
+        "type": "text",
+        "content": "Considere las opciones que tiene disponibles para conectarse con quienes le importan. Pruebe el chat de video o únase a un grupo de reunión virtual sobre un tema que le guste (club de libros, horas feliz, manualidades, videojuegos, cocina). Envíe una carta por correo postal o un regalo hecho a mano. Grabe un video para alguien que ama o extrañe."
+      },
+      {
+        "type": "link",
+        "full": true,
+        "link": "https://www.whatsapp.com/?lang=es",
+        "content": "La aplicación WhatsApp"
+      },
+      {
+        "type": "text",
+        "content": "Encuentre formas de conectarse consigo mismo si no puede estar con otras personas. Puede ser un buen momento para escribir en un diario, ser creativo o simplemente mejorar su relación con sus pensamientos y sueños internos, de la manera que mejor funcione para usted."
+      },
+      {
+        "type": "text",
+        "content": "Puede que se sorprenda descubrir nuevos aspectos de sí mismo."
+      }
+    ]
+  },
+  {
+    "displayName": "Aprovechando la Frustración",
+    "id": 1006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Está bien llorar, gritar o sentir pánico si está molesto y abrumado."
+      },
+      {
+        "type": "text",
+        "content": "Cuando esté en ese espacio mental, intente pensar en cómo podría usar su frustración para motivar un cambio que le ayude a usted y a los demás."
+      },
+      {
+        "type": "text",
+        "content": "Piense en cuáles son sus necesidades y prioridades específicas, y cómo se sienten frustradas."
+      },
+      {
+        "type": "text",
+        "content": "Encuentre formas creativas de acercarse un poco más a satisfacer algunas de esas necesidades. Haga un plan. Trate de dar pequeños pasos para cumplir con ese plan todos los días."
+      }
+    ]
+  },
+  {
+    "displayName": "Practicando la Gratitud",
+    "id": 1007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "A Veces cuando uno se siente deprimido, puede ser difícil \"cambiar la energía\"."
+      },
+      {
+        "type": "text",
+        "content": "Las investigaciones demuestran que la práctica de la gratitud puede mejorar nuestro estado de ánimo y bienestar, ¡e incluso aumentar nuestra longevidad!"
+      },
+      {
+        "type": "text",
+        "content": "Considere tomar nota mental de las personas y las cosas de la vida que le levantan el ánimo y le provocan alegría, paz y consuelo."
+      }
+    ]
+  },
+  {
+    "displayName": "Abordando las Preocupaciones",
+    "id": 1008,
+    "related_tools": [
+      3,
+      103,
+      4
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "La pandemia nos está afectando en muchos niveles."
+      },
+      {
+        "type": "text",
+        "content": "Las personas están preocupadas por más de una cosa, incluidos los temores por la exposición al virus COVID-19, la preocupación por la salud y el bienestar de los demás, y la ansiedad por las formas en que la respuesta a la pandemia ha afectado su vida en muchas maneras (financiera, socialmente , planes para el futuro, etc.). En medio de problemas complejos y superpuestos, es fácil sentirse abrumado."
+      },
+      {
+        "type": "text",
+        "content": "Cuando las personas se sienten abrumadas, a veces se quedan estancadas y sienten que no pueden hacer nada."
+      },
+      {
+        "type": "text",
+        "content": "Una forma de lidiar con esto es usar los pasos de resolución de problemas:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Identificar y enumerar sus problemas principales.",
+          "Dividir los problemas en partes más pequeñas.",
+          "Realice una lluvia de ideas sobre los posibles \"próximos pasos\" para cada fragmento.",
+          "Elija algunos de los siguientes pasos y averigüe qué necesita hacer a continuación:"
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "¿Necesita ayuda para hacer un plan?",
+          "¿Necesita más información?",
+          "¿Necesita más recursos?",
+          "¿Necesita un cambio de perspectiva?",
+          "¿Necesita incorporar algunas actividades y hábitos positivos en su horario?",
+          "¿Necesita ayuda de otras personas?"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Haga un plan simple y factible basado en sus respuestas a estas preguntas y anótelo."
+      },
+      {
+        "type": "text",
+        "content": "Una vez que tenga un plan:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Ponga su plan en su horario en pasos pequeños y factibles.",
+          "No se desanime si no logra sus pasos a la perfección.",
+          "Dése crédito incluso por las pequeñas acciones que realice.",
+          "Regrúpese si ha establecido sus metas demasiado altas y desarrolle algunas estrategias de calma o de cuidado personal para desarrollar su fuerza.",
+          "Verifique sus opciones de recursos",
+          "Averigüe quién puede ayudar. Puede haber otras personas en su vida, o en su misma situación, que puedan ayudarlo a guiarlo a través de sus próximos pasos."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "¡No olvide pedir ayuda! Pedir ayuda puede marcar una gran diferencia para ayudarlo a superar los momentos difíciles. Consulte sus contactos telefónicos ahora mismo para obtener ideas sobre quién podría ayudarlo."
+      },
+      {
+        "type": "text",
+        "content": "También puede consultar la sección Buscar Recursos de esta aplicación para obtener más ideas:"
+      },
+      {
+        "type": "link_internal",
+        "link": "get_support",
+        "full": true,
+        "content": "Encuentre Recursos"
+      },
+      {
+        "type": "text",
+        "content": "En este proceso, puede aprender algo que le permita ayudar a otros."
+      }
+    ]
+  },
+  {
+    "displayName": "Encontrando Significado",
+    "id": 1009,
+    "related_tools": [
+      3
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Cambiar su perspectiva puede aumentar su confianza para superar tiempos difíciles."
+      },
+      {
+        "type": "text",
+        "content": "Puede hacerse algunas preguntas para ayudar con este proceso:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "¿Qué versión de mí quiero que surja de esto?",
+          "¿Qué historia puedo crear sobre esta experiencia?",
+          "¿Cómo quiero que yo actúe, como uno de los personajes centrales de la historia?",
+          "¿Qué ejemplo quiero ser para mis hijos, mis familiares, mis amigos o mis compañeros de trabajo?",
+          "¿Qué significa esta situación para mí en términos de mis creencias, mi fe o mis valores?",
+          "¿Qué es lo que más me importa? ¿Qué es lo que más aprecio?",
+          "¿Cómo puede ayudarme esta situación a definir mejor lo que más aprecio?"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Cree algunos “principios” para usted en función de sus respuestas a estas preguntas."
+      },
+      {
+        "type": "text",
+        "content": "Escríbalos. Colóquelos en algún lugar donde pueda verlos con regularidad. Haga un plan para encontrar formas de ponerlos en práctica de diferentes maneras."
+      }
+    ]
+  },
+  {
+    "displayName": "Manejando el Estrés Financiero",
+    "id": 1010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Este es un momento especialmente difícil porque muchas personas han perdido su trabajo y sus salarios. Las personas de color (afroamericanos, Latinoamericanos o Latinx) y las mujeres han experimentado tasas de desempleo aún más altas que el promedio nacional. Por más difícil que sea, concéntrese en pasar cada día. Consulte la programación de asistencia para el empleo de su estado para saber para qué podría calificar en términos de ayuda. Comuníquese con su vecindario, amigos y familiares o comunidad espiritual si lo necesita."
+      },
+      {
+        "type": "text",
+        "content": "Recuerde que muchas personas necesitan ayuda en este momento. Pedir ayuda es el paso más importante para superarlo."
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información sobre recursos que lo ayudarán con sus necesidades, consulte:"
+      },
+      {
+        "type": "link_internal",
+        "content": "Encuentre Recursos",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      }
+    ]
+  },
+  {
+    "displayName": "Mantenerse Fuerte",
+    "id": 1011,
+    "related_tools": [
+      45
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Durante el estrés de la pandemia, encontrará una serie de recursos, incluida esta aplicación."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Elija las estrategias que mejor se adapten a sus necesidades.",
+          "Practique el uso de esas estrategias con regularidad.",
+          "Recuérdese seguir usándolos, especialmente cuando sienta fuertes sentimientos.",
+          "Recuerde sus valores fundamentales, sus prioridades principales y aquello por lo que puede estar agradecido.",
+          "Ayude a los demás cuando lo necesiten.",
+          "Recuerde que está en esto a largo plazo.",
+          "Vaya a su ritmo. Tome cada día como un nuevo día.",
+          "Tenga paciencia consigo mismo y con los demás.",
+          "Sepa que tendrá contratiempos y haga planes para ellos.",
+          "Esté abierto al aprendizaje y al crecimiento de esta experiencia."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Las personas que comparten historias de adversidad y cómo sobrellevan los momentos difíciles a menudo se dan cuenta de que sus crisis pueden tener sentido si pueden ayudar a otros a superar los momentos difíciles. También crían niños más resilientes."
+      },
+      {
+        "type": "text",
+        "content": "Considere lo que le dirá a sus amigos y familiares sobre este momento en los años y décadas venideros, y trabaje para llegar a ese punto."
+      }
+    ]
+  },
+  {
+    "displayName": "Preocupaciones por la Exposición",
+    "id": 1012,
+    "related_tools": [
+      102,
+      105,
+      24,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Se comparte mucha información sobre cómo evitar contraer COVID-19. Una vez que haya leído acerca de las mejores prácticas para mantenerse seguro en la sección “Mantenerse Saludable\" de esta aplicación, intente controlar la ansiedad adicional que siente por enfermarse."
+      },
+      {
+        "type": "text",
+        "content": "Si se preocupa mucho o si interrumpe su sueño, use las herramientas de esta aplicación para conectarse a tierra o distraerse."
+      }
+    ]
+  },
+  {
+    "displayName": "Acuda a los Demas",
+    "id": 1013,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Es normal tener momentos de tristeza, desánimo o desesperanza en momentos como estos."
+      },
+      {
+        "type": "text",
+        "content": "Sin embargo, si su angustia se siente insoportable o interminable, o si siente que no vale la pena vivir la vida, comuníquese con los recursos para crisis de 24/7. Los consejeros capacitados pueden ayudarlo a controlar su estado de ánimo y recomendarle recursos locales. Hay ayuda disponible."
+      },
+      {
+        "type": "link_internal",
+        "link": "link_learn",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "content": "Apoyo en crisis",
+        "learn_id": 10000
+      }
+    ]
+  },
+  {
+    "displayName": "Afrontar la Decepción",
+    "id": 1014,
+    "related_tools": [
+      31,
+      46
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "En este momento, es probable que la mayoría de las cosas en su vida estén en espera. Lo más probable es que haya tenido que retrasar eventos de la vida que había estado esperando o que había planeado durante mucho tiempo."
+      },
+      {
+        "type": "text",
+        "content": "Las entrevistas de trabajo, cumpleaños, graduaciones, bodas, viajes y otros tipos de eventos importantes y significativos de la vida se posponen o cancelan por completo. Puede resultar especialmente difícil cuando los eventos no se pueden reprogramar o simplemente no se sentirán igual si suceden en un momento diferente."
+      },
+      {
+        "type": "text",
+        "content": "Puede sentirse triste, enojado, frustrado."
+      },
+      {
+        "type": "text",
+        "content": "Reconocer y sentarnos con sentimientos difíciles nos permite procesarlos y superarlos. Tales eventos forman el tejido de nuestras vidas e identidades, por lo que es de esperar que sientan una sensación de pérdida y dolor por ellos."
+      },
+      {
+        "type": "text",
+        "content": "Cuando se sienta preparado para superar estos sentimientos, considere la posibilidad de realizar el ejercicio de atención plena al malestar emocional. La herramienta Mis Sentimientos también puede ayudarlo a explorar y describir sus sentimientos."
+      }
+    ]
+  },
+  {
+    "displayName": "Dolor y Pérdida",
+    "id": 1015,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El dolor y la pérdida son emociones difíciles, incluso en las mejores condiciones."
+      },
+      {
+        "type": "text",
+        "content": "Experimentar la pérdida de alguien a quien ama o cuida durante una pandemia puede ser especialmente desgarrador. Es posible que no pueda lidiar con su dolor de la forma habitual. Decir adiós será diferente. Es posible que no pueda reunirse o realizar ceremonias culturales o religiosas de la forma habitual. Además de eso, es posible que no pueda dar o buscar consuelo de amigos y familiares como lo haría normalmente."
+      },
+      {
+        "type": "text",
+        "content": "Tales situaciones son increíblemente desafiantes. Considere explorar cómo puede honrar y recordar a aquellos que se han ido."
+      }
+    ]
+  },
+  {
+    "displayName": "Incertidumbre Sobre el Futuro",
+    "id": 1016,
+    "related_tools": [
+      6,
+      5
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Muchas cosas son inciertas en este momento. No hay una respuesta definitiva sobre cuándo las cosas volverán a ser exactamente como eran antes de la pandemia de COVID-19, o si alguna vez volverán."
+      },
+      {
+        "type": "text",
+        "content": "Puede resultar aterrador, frustrante o agotador no saber lo que podría suceder. Vivir en lo desconocido es difícil y en esos momentos es muy importante ser suave con nosotros mismos. Trate de recordar CRRP."
+      },
+      {
+        "type": "text",
+        "content": "C = Concéntrese en lo que está bajo su control<br>R = Reconozca sus pensamientos y sentimientos<br>R = Regrese a su cuerpo<br>P = Participe en lo que está haciendo"
+      },
+      {
+        "type": "text",
+        "content": "Considere probar Conexión a Tierra o Respiración Profunda como una forma de regresar a su cuerpo. Tomarse un tiempo para centrarse en su interior puede ayudarlo a encontrar más claridad para lo que está frente a usted."
+      }
+    ]
+  }
+]

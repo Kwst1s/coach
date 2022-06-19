@@ -1,0 +1,19 @@
+[{
+		"type": "text",
+		"content": "Cuando utiliza una aplicación de salud mental móvil del VA, ningún dato que pueda usarse para identificarle se envíara al VA ni a terceros. El VA no puede acceder, almacenar ni compartir ninguna información que used ingrese en esta aplicación, como nombres, números telefónicos, direcciones, imágenes o música."
+	},
+	{
+		"type": "text",
+		"content": "El VA utiliza algunas herramientas de análisis de software para ayudar a identificar y prevenir problemas de aplicaciones. Las aplicaciones móviles de VA no comparten información personal o de identificación con ninguno de los proveedores de estas herramientas."
+	},
+	{
+		"type": "text",
+		"content": "Al usar una aplicación móvil de VA, es su responsabilidad proteger cualquier información en la aplicación una vez que esté instalada en su dispositivo. Se recomienda configurar un código de acceso en su dispositivo para ayudar a mantener su información segura."
+	},
+	{
+		"type": "link_web",
+		"content": "Aplicaciones VA",
+		"full": true,
+		"link": "https://www.ptsd.va.gov/appvid/mobile/index.asp"
+	}
+]

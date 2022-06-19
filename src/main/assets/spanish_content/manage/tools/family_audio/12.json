@@ -1,0 +1,21 @@
+{
+	"filename": "mindful_eating.mp3",
+	"filename_es": "mindful_eating.mp3",
+	"title": "Mindful Eating",
+	"display_title": "Mindful Eating",
+	"subtitle":"sub_mindful_eating",
+	"intro_text": [{
+			"type": "text",
+			"content": "For this exercise, you will need three raisins or other small fruits, such as berries or cherries. Then, find a comfortable and quiet place to sit, where you will be able to focus on this mindfulness exercise."
+		},
+		{
+			"type": "text",
+			"content": "Please note that there will be pauses in the audio so you can practice without distraction."
+		},
+		{
+			"type": "text",
+			"content": "Time: about 6 minutes."
+		}
+	],
+	"image": "t12"
+}

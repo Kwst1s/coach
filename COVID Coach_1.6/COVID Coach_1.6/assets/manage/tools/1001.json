@@ -1,0 +1,58 @@
+{
+	"welcome_text": ["If you're having trouble staying awake until your recommended bedtime, see the Activities to Keep You Awake, below, for ideas on how to keep yourself up until it’s time for bed.","If an activity continues to work for you tap the star next to it to highlight it."],
+	"stars": [{
+		"id": 1,
+		"text": "Work on a project or hobby that you find interesting"
+	}, {
+		"id": 2,
+		"text": "Read a book that is hard to put down"
+	}, {
+		"id": 3,
+		"text": "Watch a mystery show"
+	}, {
+		"id": 4,
+		"text": "Write a long letter"
+	}, {
+		"id": 5,
+		"text": "Call a friend"
+	}, {
+		"id": 6,
+		"text": "Do stretching exercises"
+	}, {
+		"id": 7,
+		"text": "Stand up and walk around"
+	}, {
+		"id": 8,
+		"text": "Do house chores"
+	}, {
+		"id": 9,
+		"text": "Listen to upbeat music (sing or hum along)"
+	}, {
+		"id": 10,
+		"text": "Dance to upbeat music"
+	}, {
+		"id": 11,
+		"text": "Watch a comedy show"
+	}, {
+		"id": 12,
+		"text": "Turn on all the lights"
+	}, {
+		"id": 13,
+		"text": "Go outside (if in a safe area)"
+	}, {
+		"id": 14,
+		"text": "Pack tomorrow's lunch"
+	}, {
+		"id": 15,
+		"text": "Prepare meals for the rest of the week"
+	}, {
+		"id": 16,
+		"text": "Sort laundry"
+	}, {
+		"id": 17,
+		"text": "Organize computer files"
+	}, {
+		"id": 18,
+		"text": "Organize drawers/shelves"
+	}]
+}

@@ -1,0 +1,73 @@
+{
+	"low": [{
+			"type": "text",
+			"content": "Su puntaje actual de bienestar es bastante baja. Eso no es inusual dados estos tiempos realmente estresantes. Piensae en qué pequeños pasos o acciones podría tomar a diario que podrían ayudarle a sentirse un poco mejor. ¿Qué tipo de cosas podrían traerle un poco de felicidad, paz o relajación?"
+		},
+		{
+			"type": "text",
+			"content": "Cheque la sección Manejo de estrés para explorar maneras de sentirse un poco mejor en el momento. Conciencia plena puede ser un buen lugar para empezar a encontrar un poco de paz. Trate de usar Actividades de interior para encontrar maneras de participar plenamente en su día, incluso cuando no pueda salir de casa. Herramientas de relaciónes incluye consejos para interactuar con sus seres queridos."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manejo de estrés"
+		},
+		{
+			"type": "text",
+			"content": "Considere establecer una meta pequeña diaria para practicar una cosa que podría hacerle sentir más equilibrado."
+		},
+		{
+			"type": "link_internal",
+			"link": "mood_check",
+			"full":true,
+			"content": "Establezca una meta"
+		}
+	],
+	"medium": [{
+			"type": "text",
+			"content": "Su puntaje actual de bienestar está justo en el medio del rango. Parece que ha sido capaz de mantenerse bien a pesar de todos los cambios que estan sucediendo. Para añadir algunos momentos de paz, felicidad o comodidad, cheque a la sección Manejo de estrés. ¡Tome un poco de tiempo con la herramienta Imágenes Positivas para tomar unas vacaciones mentales! Practique la respiración profunda para regular cualquier ansiedad que este experimentando. Pruebe a la herramienta Actividades de interior para obtener más ideas sobre cómo interactuar con su día."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manejo de estrés"
+		},
+		{
+			"type": "text",
+			"content": "Considere establecer una meta pequeña diaria para practicar una cosa que podría hacerle sentir más equilibrado."
+		},
+		{
+			"type": "link_internal",
+			"link": "mood_check",
+			"full":true,
+			"content": "Establezca una meta"
+		}
+	],
+	"high": [{
+			"type": "text",
+			"content": "Su puntaje actual de bienestar es alto! Incluso, en estos tiempos difíciles, usted está logrando mantener un fuerte sentido de bienestar. Manténgalo practicando regularmente las herramientas y hábitos que le ayudan a sentirse fuerte. ¡Mejore sus días continuando conectando con otros!"
+		},
+		{
+			"type": "text",
+			"content": "Siempre puede visitar la sección Manejo de estrés para crear su biblioteca de herramientas de afrontamiento."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manejo de estrés"
+		},
+		{
+			"type": "text",
+			"content": "Considere establecer una meta pequeña diaria para practicar una cosa que podría hacerle sentir más equilibrado."
+		},
+		{
+			"type": "link_internal",
+			"full":true,
+			"link": "mood_check",
+			"content": "Establezca una meta"
+		}
+	]
+}

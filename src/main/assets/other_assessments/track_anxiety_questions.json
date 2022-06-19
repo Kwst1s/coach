@@ -1,0 +1,184 @@
+[{
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Feeling nervous, anxious, or on edge?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 0
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Not being able to stop or control worrying?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 1
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Worrying too much about different things?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+
+	"number": 2
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Trouble relaxing?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 3
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Being so restless that it is hard to sit still?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 4
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Becoming easily annoyed or irritable?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 5
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last 2 weeks, how often have you been bothered by:"
+	}, {
+		"type": "text",
+		"content": "Feeling afraid as if something awful might happen?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 6
+}]

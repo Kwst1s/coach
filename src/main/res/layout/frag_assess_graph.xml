@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.tabs.TabLayout android:id="@+id/assess_tablayout" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" app:tabGravity="1" style="@style/tabLayoutWhite"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/assess_graph_layout_graph" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/assess_graph_layout_graph_layout" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_medium">
+            <ImageView android:layout_gravity="center_vertical" android:id="@+id/asses_graph_img_previous" android:padding="@dimen/padding_medium" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow_left" android:contentDescription="@string/previous"/>
+            <ImageView android:layout_gravity="center_vertical" android:id="@+id/asses_graph_img_next" android:padding="@dimen/padding_medium" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow_right" android:contentDescription="@string/next"/>
+        </LinearLayout>
+    </LinearLayout>
+    <ScrollView android:id="@+id/assess_graph_layout_table" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TableLayout android:gravity="center_horizontal" android:id="@+id/assess_graph_table" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large">
+                <TableRow android:gravity="center_horizontal" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_medium">
+                    <TextView android:textSize="@dimen/txt_xnormal" android:textStyle="bold" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/date"/>
+                    <View android:layout_width="@dimen/padding_xlarge" android:layout_height="1px"/>
+                    <TextView android:textSize="@dimen/txt_xnormal" android:textStyle="bold" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/score"/>
+                </TableRow>
+            </TableLayout>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@+id/soothe_senses_img" android:layout_width="match_parent" android:layout_height="200dp" android:layout_marginBottom="@dimen/padding_mlarge" android:src="@drawable/t49" android:scaleType="centerCrop"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/black" android:id="@+id/soothe_senses_txt_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_small" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_semibold" android:layout_marginStart="@dimen/padding_large" android:layout_marginEnd="@dimen/padding_large" app:fontFamily="@font/font_semibold"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:id="@+id/soothe_senses_txt_content" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" android:layout_marginStart="@dimen/padding_large" android:layout_marginEnd="@dimen/padding_large" app:fontFamily="@font/font_regular"/>
+    </LinearLayout>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_c_refr"/>
+</LinearLayout>

@@ -1,0 +1,604 @@
+[
+  {
+    "displayName": "Prioritizing Yourself, Right Now",
+    "id": 1000,
+    "related_tools": [
+      105,
+      103
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“Love yourself first, and everything else falls in line.” -- Lucille Ball"
+      },
+      {
+        "type": "text",
+        "content": "Prioritizing your own emotional and physical needs is not selfish.  In order to be of service to others, it’s critical that we keep our batteries charged first. Taking good care of ourselves is the fuel that will keep us going during this challenging time."
+      },
+      {
+        "type": "text",
+        "content": "Take a moment for yourself by setting aside time for exercise (take a walk outside or download a fitness app), mindfulness, or an activity you enjoy."
+      }
+    ]
+  },
+  {
+    "displayName": "What to Expect",
+    "id": 1001,
+    "related_tools": [
+      105,
+      33
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "We’re in unprecedented times.  There is no guidebook for how to do this.  During times of crisis - remember that it’s common to feel:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Tired",
+          "Foggy",
+          "Unproductive",
+          "Irritable",
+          "Triggered",
+          "Overwhelmed"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "This is hard.  This is a marathon.  Give yourself permission to lower your standards and productivity.  Be gentle with yourself as you adapt to this “new, temporary, normal.”"
+      },
+      {
+        "type": "text",
+        "content": "Try not to spend too much time worrying about the future.  Try a mindfulness exercise, which can help with situations in which we can’t predict the future, or schedule time and space for productive worry with “worry time.”"
+      }
+    ]
+  },
+  {
+    "displayName": "Managing Irritability",
+    "id": 1002,
+    "related_tools": [
+      29,
+      5,
+      104
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "The world has changed and we are swimming in uncertainty. It’s human to feel irritable right now, and to be easily frustrated by the world around us."
+      },
+      {
+        "type": "text",
+        "content": "When feeling anxious or irritable, take time to notice it and let it flow through. Take a time out from discussions that get heated. Try Deep Breathing to release some of your internal tension. Use Guided Imagery to take a mental break."
+      },
+      {
+        "type": "text",
+        "content": "Engage in a calming exercise like yoga, or stretching, to loosen tension in the body."
+      },
+      {
+        "type": "text",
+        "content": "Distract yourself with rewarding, engaging, or positive activities to give you a break from your worries or irritations."
+      }
+    ]
+  },
+  {
+    "displayName": "Managing Mask Anxiety",
+    "id": 100001,
+    "related_tools": [
+      5,
+      3,
+      20,
+      104,
+      105,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Seeing face masks or wearing a face mask may bring up strong negative emotions.  "
+      },
+      {
+        "type": "text",
+        "content": "A first step is knowing why you are experiencing negative emotions:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<i>Face masks may produce unpleasant physical sensations</i>. Feeling warm, lightheaded or noticing changes in your breathing can be interpreted as dangerous.  This may lead to anxiety, panic, or feelings of claustrophobia.",
+          "<i>Face masks may be physically uncomfortable</i>. Facial coverings can fog up eyeglasses, block your vision, irritate your skin, or result in “maskne”.",
+          "<i>Lack of social cues can be unsettling</i>. We need cues from facial expressions and tone of voice to appraise whether or not a person is safe.  If we don’t receive these signals because of face coverings, we may feel apprehensive or unsure.",
+          "<i>Wearing a mask may make it more difficult to communicate</i>. Masks may make it hard to hear other people and could lead to misunderstandings.",
+          "<i>Masks are reminders that we are in a pandemic</i>. Fears of illness and concerns about loved ones may be triggered by face coverings. ",
+          "<i>Traumatic memories may be connected to face masks</i>. Face masks may be associated with prior traumatic experiences, such as hospitalizations, combat missions, robberies or assaults, and natural disasters, like earthquakes or wildfires.",
+          "<i>Wearing a mask may generate negative feedback</i>. People may think you have bad intentions or are communicating a political position. "
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Once you understand why you are experiencing negative emotions, you can begin to manage them. Check out the suggested tools to help you."
+      },
+      {
+        "type": "list",
+        "content": [
+          "<i>Remind yourself that masks are safe</i>. There are no significant changes in oxygen or carbon dioxide levels when wearing a mask.",
+          "<i>Find or make the perfect mask</i>. Personalize your mask by finding the right design and fabric.  Lightly spritz your mask with a smell you like (e.g., lavender, wood).",
+          "<i>Make your mask as comfortable as possible</i>. See if you prefer head ties or ear loops. Make sure your mask is not too tight against your face.",
+          "<i>Practice wearing a mask</i>. Gradually increase the time, location, and activities you engage in while wearing a mask.",
+          "<i>Challenge your negative thoughts</i>. First notice your thoughts (e.g.,, “I hate wearing this mask”) and then add to it (e.g., “I hate wearing this mask AND… I’m still able to do what is needed to keep myself and others safe”).",
+          "<i>Focus on your breathing</i>. Avoid rapid, shallow breathing while wearing your mask.  Slow down your breathing, making sure your exhale lasts longer than your inhale.",
+          "<i>Use distraction and relaxation techniques</i>.",
+          "<i>Practice mindfulness techniques that keep you in the present</i>.",
+          "<i>Seek social support by sharing your experience</i>."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "To understand more about mask-wearing myths, visit the Physician-Patient Alliance for Health & Safety website:"
+      },
+      {
+        "content": "3 Myths About Wearing Masks",
+        "type": "link",
+        "link": "http://ppahs.org/2020/07/3-myths-about-wearing-masks/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "For more information about reducing mask-wearing anxiety, visit:"
+      },
+      {
+        "content": "Psychology Today - Mask Anxiety",
+        "type": "link",
+        "link": "https://www.psychologytoday.com/us/blog/erasing-stigma/202006/how-combat-mask-anxiety",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Finding Humor",
+    "id": 1003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“Like a welcome summer rain, humor may suddenly cleanse and cool the earth, the air and you.” -- Langston Hughes"
+      },
+      {
+        "type": "text",
+        "content": "While it might feel impossible to “be happy,” the world can still be a funny place."
+      },
+      {
+        "type": "text",
+        "content": "If you are solo, find some funny videos online, or watch your favorite funny movie."
+      },
+      {
+        "type": "text",
+        "content": "If you are with a partner, family, or roommates, watch a comedy that everyone enjoys. Spend time in the present moment, and be silly with your kids or your partner. Try a game like charades, start a dance party, share jokes, wear costumes, or speak in funny voices to bring some light and laughter back into your day."
+      }
+    ]
+  },
+  {
+    "displayName": "Finding Calm",
+    "id": 1004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "During chaotic times we crave the familiar and seek comfort."
+      },
+      {
+        "type": "text",
+        "content": "While those things that are familiar or comforting may not be accessible right now, you may need to be creative in coming up with other ways to calm yourself."
+      },
+      {
+        "type": "text",
+        "content": "Think about what calms you."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Sounds",
+          "Smells",
+          "Textures",
+          "Images",
+          "Activities",
+          "Certain people",
+          "Foods",
+          "Movies or TV shows"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Make a “comfort list” of things that can calm you right now, and keep it visible on your refrigerator, for when you need ideas."
+      },
+      {
+        "type": "text",
+        "content": "Make time to choose something from the list as often as you can. Even a few minutes can make a difference."
+      },
+      {
+        "type": "text",
+        "content": "You may typically use things like alcohol or other substances to calm down when you're stressed. However, your stress levels may be higher now, and last longer. So be aware of how much your intake of alcohol and other substances is increasing. Examine how your use might be affecting your relationships and ability to function. If you notice that substance use is affecting you, check out the Find Resources section of this app for help."
+      }
+    ]
+  },
+  {
+    "displayName": "Dealing with Loneliness",
+    "id": 1005,
+    "related_tools": [
+      4
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "“This, too, shall pass.”"
+      },
+      {
+        "type": "text",
+        "content": "These feelings are difficult and to be expected - but remember tha they are not permanent."
+      },
+      {
+        "type": "text",
+        "content": "Consider what options you have available to connect with those who matter to you. Try video chat, or join a virtual meet-up group around a topic you enjoy (book club, happy hours, crafting, video games, cooking).  Send a snail-mail letter or a handmade gift. Record a video for someone you love or miss."
+      },
+      {
+        "type": "link",
+        "full": true,
+        "link": "https://www.marcopolo.me/",
+        "content": "Marco Polo App"
+      },
+      {
+        "type": "text",
+        "content": "Find ways to connect with yourself if you can’t be with others.  It might be a good time to write in a journal, be creative, or just improve your relationship with your inner thoughts and dreams, in whatever way works the best for you."
+      },
+      {
+        "type": "text",
+        "content": "You may be surprised to find new aspects of yourself."
+      }
+    ]
+  },
+  {
+    "displayName": "Harnessing Frustration",
+    "id": 1006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "It’s okay to cry, cry out or feel panicked if you’re upset and overwhelmed."
+      },
+      {
+        "type": "text",
+        "content": "When you’re in that headspace try and think about how you could use your frustration to motivate a change that helps you and others"
+      },
+      {
+        "type": "text",
+        "content": "Think about what your specific needs and priorities are, and how they’re being frustrated."
+      },
+      {
+        "type": "text",
+        "content": "Find creative ways to move even a little closer to getting some of those needs met. Make a plan. Try to take small steps towards fulfilling that plan each day."
+      }
+    ]
+  },
+  {
+    "displayName": "Practicing Gratitude",
+    "id": 1007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Oftentimes when feeling down, it can be difficult to “change the energy.”  "
+      },
+      {
+        "type": "text",
+        "content": "Research demonstrates that the practice of gratitude can improve our mood and well-being - and even increase our longevity!"
+      },
+      {
+        "type": "text",
+        "content": "Consider making a mental note of the people and things in life that lift your spirits and spark joy, peace, and comfort."
+      }
+    ]
+  },
+  {
+    "displayName": "Tackling Worries",
+    "id": 1008,
+    "related_tools": [
+      3,
+      103,
+      4
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "The pandemic is affecting us on many levels."
+      },
+      {
+        "type": "text",
+        "content": "People are worried about more than one thing, including fears about exposure to the COVID-19 virus, concerns for the health and wellbeing of others, and anxiety about the ways the pandemic response has impacted their life in a multitude of ways (financially, socially, plans for the future, etc.). In the midst of complex, overlapping problems, it is easy to feel overwhelmed."
+      },
+      {
+        "type": "text",
+        "content": "When people are overwhelmed, they sometimes get stuck and feel like they can’t do anything."
+      },
+      {
+        "type": "text",
+        "content": "One way to deal with this is to use problem-solving steps:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Identify and list your main problems.",
+          "Break problems down into smaller chunks.",
+          "Brainstorm potential “next steps” for each chunk.",
+          "Pick some next steps and figure out what you need next:"
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Do you need help making a plan?",
+          "Do you need more information?",
+          "Do you need more resources?",
+          "Do you need a change in perspective?",
+          "Do you need to build some positive activities and habits into your schedule?",
+          "Do you need help from other people?"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Make a simple, feasible plan based on your answers to these questions and write it down."
+      },
+      {
+        "type": "text",
+        "content": "Once you have a plan:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Put your plan into your schedule in small, feasible steps.",
+          "Don’t get down on yourself if you don’t accomplish your steps perfectly.",
+          "Give yourself credit even for small actions you take.",
+          "Regroup if you have set your goals too high, and build in some calming or self-care strategies to build your strength.",
+          "Check out your resource options.",
+          "Find out who can help. There may be others in your life, or in your same situation, who can help guide you through your next steps."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Don’t forget to ask for help! Asking for help can make a big difference in helping you make it through difficult times. Check out your phone contacts right now to get ideas about who might be able to help. "
+      },
+      {
+        "type": "text",
+        "content": "You can also check out the Find Resources section of this app for more ideas:"
+      },
+      {
+        "type": "link_internal",
+        "link": "get_support",
+        "full": true,
+        "content": "Find Resources"
+      },
+      {
+        "type": "text",
+        "content": "In this process, you may learn something that can allow you to help others."
+      }
+    ]
+  },
+  {
+    "displayName": "Finding Meaning",
+    "id": 1009,
+    "related_tools": [
+      3
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Changing your perspective can increase your confidence to make it through tough times."
+      },
+      {
+        "type": "text",
+        "content": "You can ask yourself some questions to help with this process:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "What version of myself do I want to emerge from this?",
+          "What story can I create about this experience?",
+          "How do I want myself, as one of the central characters in the story, to act?",
+          "What role model do I want to be for my children, my relatives, my friends, or my coworkers?",
+          "What does this situation mean to me in terms of my beliefs, my faith, or my values?",
+          "What matters the most to me? What do I hold most dear?",
+          "How can this situation help me better define what I hold most dear?"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Create a few “guiding principles” for yourself based on what your answers to these questions are."
+      },
+      {
+        "type": "text",
+        "content": "Write them down. Put them somewhere where you can see them regularly. Make a plan to find ways to put them into practice in different ways."
+      }
+    ]
+  },
+  {
+    "displayName": "Managing Financial Stress",
+    "id": 1010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "This is an especially difficult time because many people have lost work and wages. Black Americans, LatinX Americans, and women have been experiencing even higher rates of unemployment than the national average. As hard as it is, focus on getting through each day. Check your state’s employment assistance programming to learn what you might qualify for in terms of aid. Reach out to your neighborhood, friends and family or spiritual community if you are in need."
+      },
+      {
+        "type": "text",
+        "content": "Remember that many people are needing assistance at this time. Asking for help is the most important step in making it through."
+      },
+      {
+        "type": "text",
+        "content": "For more information about resources to help your needs, check out:"
+      },
+      {
+        "type": "link_internal",
+        "content": "Finding Resources",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      }
+    ]
+  },
+  {
+    "displayName": "Staying Strong",
+    "id": 1011,
+    "related_tools": [
+      45
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "During  the stress of the pandemic you will encounter a number of resources, including this app."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Choose those strategies that work best for you.",
+          "Practice using those strategies regularly.",
+          "Remind yourself to keep using them, especially when you feel strong feelings.",
+          "Remember your core values, your top priorities, and what you can be grateful for.",
+          "Help others when they need it.",
+          "Remember that you are in this for the long run.",
+          "Pace yourself. Take each day as a new day.",
+          "Be patient with yourself and others.",
+          "Know that you will have setbacks and plan for them.",
+          "Be open to learning and growing from this experience."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "People who share stories of adversity and how they endure through difficult times often realize that there can be meaning in their crises by being able to help others get through tough times. They also go on to raise more resilient children."
+      },
+      {
+        "type": "text",
+        "content": "Consider what you will tell your friends and family about this time in the years and decades to come, and work towards getting to that point."
+      }
+    ]
+  },
+  {
+    "displayName": "Worries About Exposure",
+    "id": 1012,
+    "related_tools": [
+      102,
+      105,
+      24,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "There is a lot of information being shared about how to avoid getting COVID-19. Once you have read about the best practices for staying safe in the “Staying Healthy” section of this app, try to manage the additional anxiety you have about getting sick."
+      },
+      {
+        "type": "text",
+        "content": "If you find yourself worrying about it a lot, or if it’s interrupting your sleep, use the tools in this app to ground or distract yourself. "
+      }
+    ]
+  },
+  {
+    "displayName": "Reaching Out",
+    "id": 1013,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "It’s normal to have moments of feeling down, discouraged, or hopeless during times like these."
+      },
+      {
+        "type": "text",
+        "content": "However, if your distress feels unbearable or unending, or if you feel like life is not worth living, reach out to the 24/7 crisis resources. Trained counselors can help you manage your mood and refer you to local resources.  Help is available.."
+      },
+      {
+        "type": "link_internal",
+        "link": "link_learn",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "content": "Crisis Support",
+        "learn_id": 10000
+      }
+    ]
+  },
+  {
+    "displayName": "Coping with Disappointment",
+    "id": 1014,
+    "related_tools": [
+      31,
+      46
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Right now, most things in your life are likely on hold. Chances are you’ve had to delay life events that you had been looking forward to, or had planned for a long time."
+      },
+      {
+        "type": "text",
+        "content": "Job interviews, birthdays, graduations, weddings, trips, and other types of important and meaningful life events are postponed or cancelled completely.  It can feel especially hard when events cannot be rescheduled, or they simply won’t feel the same if they happen at a different time."
+      },
+      {
+        "type": "text",
+        "content": "You may feel sad, angry, or frustrated."
+      },
+      {
+        "type": "text",
+        "content": "Acknowledging and sitting with difficult feelings allows us to process and move through them. Such events make up the fabric of our lives and identities so  feeling a sense of loss and grief about them is to be expected."
+      },
+      {
+        "type": "text",
+        "content": "When you feel ready to work through these feelings consider trying the Mindfulness of Emotional Discomfort exercise. The My Feelings tool can also help you explore and describe your feelings."
+      }
+    ]
+  },
+  {
+    "displayName": "Grief and Loss",
+    "id": 1015,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Grief and loss are difficult emotions, even under the best of conditions."
+      },
+      {
+        "type": "text",
+        "content": "Experiencing the loss of someone you love or care for during a pandemic can be especially heart-breaking. You may not be able to grieve in your usual ways. Saying goodbyes will be different.  You may not be able to gather or perform cultural or religious ceremonies in your usual way. On top of that, you may not be able to give or seek comfort from friends and family as you typically would."
+      },
+      {
+        "type": "text",
+        "content": "Such situations are incredibly challenging.  Consider exploring how you can honor and remember those who have been lost."
+      }
+    ]
+  },
+  {
+    "displayName": "Uncertainty about the Future",
+    "id": 1016,
+    "related_tools": [
+      6,
+      5
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Many things are uncertain right now. There is no definitive answer about when things will return to exactly how they were before the COVID-19 pandemic - or if they ever will. "
+      },
+      {
+        "type": "text",
+        "content": "It can feel scary, frustrating, or exhausting to not know what might be coming.  Living in the unknown is hard and during such times it’s extra important to be gentle with ourselves. Try to remember FACE."
+      },
+      {
+        "type": "text",
+        "content": "F = Focus on what’s in your control<br>A = Acknowledge your thoughts & feelings<br>C = Come back into your body<br>E = Engage in what you’re doing"
+      },
+      {
+        "type": "text",
+        "content": "Consider trying Grounding or Deep Breathing as a way to come back into your body. Taking some time to recenter within yourself can help you find more clarity for what’s in front of you."
+      }
+    ]
+  }
+]

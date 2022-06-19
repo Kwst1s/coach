@@ -1,0 +1,13 @@
+{
+	"filename": "mindful_breathing.mp3",
+	"filename_es": "Mindful-Breathing.mp3",
+	"title": "Deep Breathing",
+	"display_title": "Deep Breathing",
+	"subtitle":"sub_mindful_breathing",
+	"intro_text": [{
+			"type": "text",
+			"content": "Slowing down and deepening your breathing can help you calm down when you feel distress. Put on your headphones or go somewhere private and quiet to be led through the exercise."
+		}
+	],
+	"image": "t5"
+}

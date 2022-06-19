@@ -1,0 +1,9 @@
+[{
+		"type": "text",
+		"content": "Elija un objetivo que sea SMART (inteligente):"
+	},
+	{
+		"type": "list",
+		"content": ["Específico","Medible","Alcanzable","Realista","Basado en el tiempo"]
+	}
+]

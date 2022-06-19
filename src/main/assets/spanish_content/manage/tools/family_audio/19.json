@@ -1,0 +1,21 @@
+{
+	"filename": "observe_emotions.mp3",
+	"filename_es": "Observe-Thoughts-Leaves-on-a-Stream.mp3",
+	"title": "Hojas en el arroyo",
+	"display_title": "Hojas en el arroyo",
+	"subtitle":"sub_observe_emotions",
+	"intro_text": [{
+			"type": "text",
+			"content": "Para este ejercicio, identifique un lugar cómodo y silencioso para sentarse, donde no haya muchas probabilidades de que le molesten."
+		},
+		{
+			"type": "text",
+			"content": "Esta grabación contiene pausas para que pueda practicar sin distraerse."
+		},
+		{
+			"type": "text",
+			"content": "Tiempo estimado: 12 minutos."
+		}
+	],
+	"image": "t19"
+}

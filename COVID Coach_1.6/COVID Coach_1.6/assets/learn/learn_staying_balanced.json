@@ -1,0 +1,664 @@
+[
+  {
+    "displayName": "Sleep",
+    "id": 2000,
+    "related_tools": [
+      102
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Aim to get plenty of sleep. Sleep will help you process what’s happening, improve your mood, and make better decisions."
+      },
+      {
+        "type": "text",
+        "content": "It’s perfectly normal if you find yourself sleeping differently than you usually do. To help yourself get back on track, try some of these tips:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Try to stop drinking caffeine after the middle of your day (by 4 pm). Caffeine takes time to work out of your system before bedtime.",
+          "Try to go to bed at the same time everyday.",
+          "Give yourself a wind-down time, an hour before bed, when you turn off your phone and TV.",
+          "If you can’t fall asleep, or wake up in the middle of the night for longer than 15 minutes, get out of bed and do something relaxing and not overly stimulating until you feel sleepy again."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Check out more information in Sleep Tools!  For even more tools and tips, download the Insomnia Coach app from the App or Play Stores."
+      },
+      {
+        "type": "link",
+        "content": "Insomnia Coach for Android",
+        "full": true,
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.insomniacoach&hl=en_US&gl=US"
+      }
+    ]
+  },
+  {
+    "displayName": "Talk to a Professional",
+    "id": 200002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Managing your mental health during a pandemic can be difficult. Finding therapy resources that are affordable can be even more challenging. Below is information to help you navigate the complex system."
+      },
+      {
+        "type": "title",
+        "content": "Finding a Low-Cost or Free Provider"
+      },
+      {
+        "type": "list",
+        "content": [
+          "211 is a national service available to people in all 50 states, the District of Columbia, and Puerto Rico. Referral specialists use their database of resources to match, link, or refer people to a local agency or organization that can help them."
+        ]
+      },
+      {
+        "type": "link_phone",
+        "content": "Call 211",
+        "full": true,
+        "imageButton": true,
+        "link": "211"
+      },
+      {
+        "type": "link",
+        "content": "Access Resources Online",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.211.org/"
+      },
+      {
+        "type": "list",
+        "content": [
+          "If you have a doctor, ask them for referrals within your insurance network.",
+          "Consider reaching out to a local community mental health center.",
+          "Many colleges and universities (but not all) offer low cost mental health services that are delivered by graduate students who need to gain clinical hours. Call your local psychology, psychiatry, social work, or other behavioral health departments to learn about what they offer and if their services are open to the public."
+        ]
+      },
+      {
+        "type": "title",
+        "content": "Directories and Additional Resources"
+      },
+      {
+        "type": "list",
+        "content": [
+          "At federally funded health centers, you pay based on your income and many of the centers include mental health services."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Find a health center near you",
+        "full": true,
+        "imageButton": true,
+        "link": "https://findahealthcenter.hrsa.gov/"
+      },
+      {
+        "type": "list",
+        "content": [
+          "The Substance Abuse and Mental Health Services Administration (SAMHSA) is a government organization with a database of low-cost treatment facilities across the United States."
+        ]
+      },
+      {
+        "type": "link_phone",
+        "content": "Call SAMHSA's National Helpline",
+        "full": true,
+        "imageButton": true,
+        "link": "1-800-662-4357"
+      },
+      {
+        "type": "link",
+        "content": "Search SAMHSA’s Database",
+        "full": true,
+        "imageButton": true,
+        "link": "https://findtreatment.samhsa.gov/locator"
+      },
+      {
+        "type": "list",
+        "content": [
+          "The National Alliance on Mental Illness (NAMI) offers free, virtual group resources."
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "NAMI Peer-to-Peer is a free, eight-session educational program for adults with mental health conditions who are looking to better understand themselves and their recovery."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Peer Support Group",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.nami.org/Support-Education/Mental-Health-Education/NAMI-Peer-to-Peer"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "NAMI Family-to-Family is a free, 8-session educational program for family, significant others and friends of people with mental health conditions."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Family Support Group",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.nami.org/Support-Education/Mental-Health-Education/NAMI-Family-to-Family"
+      },
+      {
+        "type": "list",
+        "content": [
+          "The National Association of Free & Charitable Clinics are healthcare organizations that provide a range of medical, dental, pharmacy, vision, and/or behavioral health services to low income individuals."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "National Association of Free & Charitable Clinics",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.nafcclinics.org/find-clinic"
+      }
+    ]
+  },
+  {
+    "displayName": "For Healthcare Workers",
+    "id": 2010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Healthcare workers have been asked to step up in an unprecedented way during this pandemic. Managing work strain, exposure risk, and home stress can be especially overwhelming for those on the front lines."
+      }
+    ]
+  },
+  {
+    "displayName": "Stuck at Home?",
+    "id": 2001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "When feeling trapped in the house with cabin-fever, it can be helpful to shift your mindset. Remember that “stuck at home” can also mean “safe at home.”  Creating structure can also help here.  Set a schedule for yourself, even if you’re not doing anything. Set alarms or appointments on your phone, if it helps you keep track."
+      },
+      {
+        "type": "text",
+        "content": "Start with some easy ways to keep a regular schedule, like these:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Wake up around the same time every day.",
+          "Get dressed every day. Any clothes that work for you are fine, as long as you’re changing out of your bed clothes. Put on jewelry or make up if that helps you feel ready for the day.",
+          "Have regular meal times, even if you don’t feel like eating much. If you live with other people, try to sit down and share a meal at least once a day.",
+          "Snack in moderation. You’ll feel better if you don’t over-use comfort food. Choose something delicious for the snacks you plan!",
+          "Do some exercise in a way that works for you. Every day do some light stretches, or calisthenics, or stroll around inside your home, yard or neighborhood (as long as you can maintain a safe physical distance).",
+          "Keep up with household chores and cleaning. Make it more fun by turning on music!",
+          "Stay aware of time. Keep a clock and a calendar handy or use the time and calendar functions on your phone.",
+          "Every day try to accomplish something, no matter how small.",
+          "Journal. This is an unprecedented time, and it can help to process it by writing about it."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Go Easy on Yourself",
+    "id": 2002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "You are living through a pandemic. It’s one of the biggest events the entire world has ever seen. So you will not get as much done as you would like to. That’s normal and totally OK."
+      },
+      {
+        "type": "text",
+        "content": "Your productivity will be a fraction of what it used to be. We all now have an extra part-time job just keeping up with what’s going on and coping with it.  If you’re a parent or caregiver - you’re suddenly a home-school teacher, cook, and cleaner.  We are not superheroes, and we simply can’t do it all.  Remember to give yourself a break!"
+      },
+      {
+        "type": "text",
+        "content": "We all have to take extra time to deal with what’s happening, and if we don’t, our bodies and minds will make that happen anyway. Let yourself be human. Zone out when needed. "
+      }
+    ]
+  },
+  {
+    "displayName": "Do What You Can",
+    "id": 2003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "For what you want to do, or have to do that isn’t already set by others, keep track in a way that makes allowances for all the distractions."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Write down tasks in an undated list as you think of them.",
+          "Don’t push deadlines on yourself. Instead, pull tasks from your list when you’re able to work on them.",
+          "Let yourself leave unimportant tasks for later. It’s good to lighten the load.",
+          "Or, let yourself be distracted by unimportant tasks! It’s good to keep busy.",
+          "If you’re finding it hard to focus, use procrastination to your advantage. Work on something else for a bit, and then switch back when you’re ready.",
+          "Don’t overdo it, either! If you’re working from home, start working no earlier than your shift start, and stop working when your shift ends. Keep taking all your breaks and lunches."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Stick Up for Yourself",
+    "id": 2004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "You are important. We all have to do our part, but you deserve to have your needs taken care of as much as anybody else."
+      },
+      {
+        "type": "text",
+        "content": "If you’re working outside the home, make your safety a priority. If you are in a job that may risk exposure, demand necessary protective gear, or make or improvise gear to protect yourself. Some community networks linked in the Finding Resources section of this app are working to sew masks and make face shields for people like you on the front lines."
+      },
+      {
+        "type": "link_internal",
+        "content": "Finding Resources",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      },
+      {
+        "type": "text",
+        "content": "Set realistic expectations and boundaries with people who want things from you. It’s okay to say, “No”, or “I can’t do that right now,” or to remind them that there are limits to what’s possible or reasonable."
+      },
+      {
+        "type": "text",
+        "content": "Make allies and stick up for yourselves together. Whatever pressure is on you, you’re not alone."
+      }
+    ]
+  },
+  {
+    "displayName": "Being a Small Business Owner",
+    "id": 2005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Entrepreneurs and small business owners have been hit hard by the COVID-19 pandemic.  Many have had to pivot quickly and change how they operate, make drastic cuts, and even lay off employees.  Others don’t know if their enterprises will even survive.  The only certain thing is more uncertainty for all in this community."
+      },
+      {
+        "type": "text",
+        "content": "There is tremendous pressure in living with economic insecurity for yourself and those who depend on you.  What can you do to cultivate a more mentally healthy workplace right now?"
+      },
+      {
+        "type": "text",
+        "content": "Consider the following as you learn to navigate this new territory for your business:"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 0,
+            "string": "Acknowledge the multitude of feelings you might be experiencing and make space to feel them.  Fear, anger, anxiety, sadness, despair - it’s all very human right now.  Check out tools in the Manage Stress section of this app and learn the 3x3 method, a quick and simple mindfulness tactic to use when feeling overwhelmed."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "TED Talk on Mindfulness",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.ted.com/talks/phil_boissiere_30_seconds_to_mindfulness"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Follow other entrepreneurs in their journey to manage emotional challenges."
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "Feld Thoughts Blog",
+        "full": true,
+        "imageButton": true,
+        "link": "https://feld.com/"
+      },
+      {
+        "type": "link_web",
+        "content": "Overcoming the Mind",
+        "full": true,
+        "imageButton": true,
+        "link": "https://overcomingthemind.com/entrepreneurship-mental-health/"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Identify one trustworthy person to share concerns and fears about your business outlook (e.g., fundraising)."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 1,
+            "string": "Take care of yourself and your business by taking care of others. Ask your employees, investors, board members, and clients what type of support they could use during this time and take small daily steps to address needs."
+          }
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Attempt to offer transparency, communicate clearly and frequently, and manage conflict as it emerges.",
+          "Check in regularly about how stakeholders in your business are doing.  Strong leadership also requires emotional awareness and acknowledgement."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 2,
+            "string": "Find and crowdsource creative ways to sustain motivation, instill confidence, and restore hope in the current economic climate."
+          }
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Entrepreneurs are talented at identifying opportunities. While much has been lost, is there something to be gained? Turn on your opportunity-recognition switch as we go through this together."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 3,
+            "string": "If you anticipate that your business will downsize or close during the pandemic, familiarize yourself with resources on how to best communicate about it."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "CB Insights",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cbinsights.com/research/startup-failure-post-mortem/"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 4,
+            "string": "Engage in and model self-care practices that help recharge your batteries."
+          }
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Prioritizing Yourself",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "learn_staying_sane.json",
+        "learn_id": 1000
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 5,
+            "string": "If you’re a sole proprietor or work on a small team, things can feel quite lonely.  Plugging into an online community of others in a similar boat can be restorative."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "Founders First",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.foundersfirstsystem.com"
+      },
+      {
+        "type": "link_web",
+        "content": "Fundera",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.fundera.com/blog/small-business-forums"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 6,
+            "string": "Create boundaries between home and work time.  Develop new systems for organizing unstructured time and managing projects remotely."
+          },
+          {
+            "number": 7,
+            "string": "Try to focus on what you can change and leave behind what you cannot. You do have control over how you respond."
+          },
+          {
+            "number": 8,
+            "string": "Remember that we are going through a transition right now. You have been through transitions before. Remember how you coped in the past, and call upon those skills. Transitions have a beginning, a middle and an end, and you will get through this."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "If you are considering a small business loan, you can visit the U.S. Small Business Administration’s website for more information:"
+      },
+      {
+        "type": "link_web",
+        "content": "U.S. Small Business Administration Loans",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources"
+      }
+    ]
+  },
+  {
+    "displayName": "For College Students",
+    "id": 200001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Attending college during the COVID era can be tough. Online learning can be convenient (and it will be harder for your professor to tell if you are sleeping during class), but what about everything else? College students may be particularly hard hit by the many losses during this difficult time.  Things like dorm life, finding friend groups and getting study support are all on pause, and for many, not being at school physically can impact basic needs such as access to housing, food and employment. As many schools get ready to return virtually or with a hybrid schedule, college students may find themselves a bit lost."
+      },
+      {
+        "type": "text",
+        "content": "During this time, it can be particularly essential to get back to the basics. The CDC’s message for students emphasizes the importance of washing hands and social distancing- but then what?"
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/College-Poster-COVID-Tips-for-Students.pdf",
+        "content": "CDC’s Student Message"
+      },
+      {
+        "type": "text",
+        "content": "At this moment it can be especially important to focus on the basics:"
+      },
+      {
+        "type": "text",
+        "content": "<b>What you need</b>: If schools being closed impacts your ability to find housing, food, work and other basic necessities, there is help. Check out the Meeting Your Needs section under Find Resources for links to support programming. For college-specific information, contact your student wellness center. Almost all of these services are likely to be available during the pandemic (though many have gone virtual), and may be able to point you to local organizations that can help."
+      },
+      {
+        "type": "text",
+        "content": "<b>Sleep</b>: Sleep gets its own category because it’s just so important. Lack of sleep is associated with low mood and heightened anxiety, and it can be a vicious cycle-it can be hard to sleep when anxiety is high. If you find yourself awake when you want to be sleeping, check out Sleep Tools, or download Insomnia Coach to create a personalized sleep plan."
+      },
+      {
+        "type": "text",
+        "content": "<b>How you Feel</b>: This time is incredibly heavy for many different reasons. Colleges are aware of the tremendous load their students are carrying, and many have ramped up free support resources. Call or go online to your wellness center or student health center and ask about individual counseling resources. Community colleges have resources as well, and many have group and peer support programs available too. "
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cccstudentmentalhealth.org/resource/emotional-wellness-covid-19-resources-for-students/",
+        "content": "Free Support Resources"
+      },
+      {
+        "type": "text",
+        "content": "<b>Who Can Help</b>: Social distancing does not mean the end of social contact. Being isolated can make everything feel worse. Even if you can’t live with roommates or meet new friends in person just yet, consider connecting with people in classes via video chat in order to get to know them. It’s tougher to participate in the swing dancing team online, but it’s not impossible to form new friendships. If it’s hard to find ways to connect, contact the Student Services center and ask for ideas-this is exactly why these types of organizations exist.\nIf at any point you are feeling very low, lonely, or sad, contact Crisis Text Line by texting HOME to 741741, or call the Crisis Line at 1-800-273-8255."
+      }
+    ]
+  },
+  {
+    "displayName": "Coping with Job Changes",
+    "id": 2006,
+    "related_tools": [
+      105,
+      56,
+      108
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Millions of people are having the experience of being laid off, furloughed or having their hours reduced due to the global COVID-19 pandemic. This can be stressful in many different ways - you may:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "feel like you are stuck financially,",
+          "Miss the social connections that work provides,",
+          "notice low mood or shifts in identity when not being able to work and provide."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "It can be helpful to think about your response to these stressors in two different ways: (1) how you are going to cope, and (2) how you are going to manage your emotional reaction."
+      },
+      {
+        "type": "text",
+        "content": "Obviously, not being able to work poses financial issues for most people. If you are losing money due to changes in your job, visit Meeting Your Needs to review resources related to staying afloat during tough times. Unemployment insurance has been expanded in many states to accommodate the unique circumstances that the pandemic has caused.  Even if you think you don’t qualify for assistance, review the links in Meeting Your Needs and learn more about your options. Reach out to family and friends with whom you feel comfortable and let them know about your situation. They may be able to help in small ways that reduce financial pressure."
+      },
+      {
+        "type": "link_internal",
+        "content": "Meeting Your Needs",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      },
+      {
+        "type": "text",
+        "content": "If you’ve lost your job, you already know this is a very stressful and miserable time. Being unemployed introduces all kinds of uncertainties and pressures into your life, and can affect your credit, your housing, your resources, your lifestyle, your friendships, and all sorts of other things. You may not be getting a paycheck, but you’re still working: you now have a full-time job dealing with being unemployed and trying to find your next paying work."
+      },
+      {
+        "type": "text",
+        "content": "If you are still working, try to maintain connections with your coworkers. Reserve time at the beginning or end of meetings to check in with each other, or schedule a short meet up once a week just to say hi, as a substitute for those water cooler conversations. If there are some people at work you feel more connected to, stay in touch via text or email on a regular basis. Coworkers are an important form of social support, which we need even more during these tough times."
+      },
+      {
+        "type": "text",
+        "content": "Work also tends to be a big part of us, even if we aren’t working at our dream job. If you’re noticing feeling a little lost when not working, try to stick to your regular schedule as much as possible. Research shows that we fare better when we wake up at the same time each week, so pick a time that works for you, and set your alarm. Try to match snack and meal times with your work breaks, as your body probably had adapted to the rhythm of your day. Use what might normally be your work time to tackle something that you’ve been wanting to do and makes you feel effective. It could be learning about a new subject, trying a new activity or household work."
+      },
+      {
+        "type": "text",
+        "content": "Most importantly, remind yourself that this is temporary. It’s hard to lose your job and not take it personally, but it’s essential to remember that this is a result of the circumstances, not a result of something you did."
+      },
+      {
+        "type": "text",
+        "content": "Being unemployed for long periods of time can be a risk factor for mental health struggles.  If you notice upsetting or difficult thoughts about your situation, try one of the stress management skills in Manage Stress, such as Mindfulness, Finding Meaning or Self-Compassion."
+      }
+    ]
+  },
+  {
+    "displayName": "Balancing Responsibilities",
+    "id": 2007,
+    "related_tools": [
+      108,
+      8
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Right now, it might feel like you are being pulled in many different directions, all at the same time. It is also likely that you are feeling worried and anxious about the health, safety, and financial well-being of you, your family, and friends. You are juggling a lot of responsibilities and roles!"
+      },
+      {
+        "type": "text",
+        "content": "If you are feeling overwhelmed by all the demands on your plate, it might be helpful to remember to be kind to yourself. Take care to recognize  that you are worried because you care. Caring about meeting your responsibilities is a positive attribute. Try not to judge yourself for being stressed. We are going through a very difficult and unusual time.Remind yourself you are dealing with unprecedented circumstances and all the feelings you have right now are normal."
+      },
+      {
+        "type": "text",
+        "content": "Next, you might want to consider taking some time to yourself to recharge your battery. Build \"Me Time\" into your schedule. Make space to do something you like doing. It could be a walk (if that’s possible), reading, or simply sitting down to \"check out.\"  It does not matter how long, even 10 - 15 minutes could be enough. Try your best to protect your \"Me Time\" so that you can focus on you and only you."
+      },
+      {
+        "type": "text",
+        "content": "It can also be helpful to build time in every week to create a \"to-do\" list. When making the list think about categorizing when items CAN be done as opposed to when they SHOULD be done. It helps you look at responsibilities differently and puts you in control."
+      },
+      {
+        "type": "text",
+        "content": "Do not pressure yourself. You're not dropping the ball. You are putting it down for now. Many other people are in similar situations and experiencing the same things. It is not just you. If you have someone who can help, ask them for help."
+      },
+      {
+        "type": "text",
+        "content": "If you are having trouble controlling anxious thoughts that is a sign that you need to take some time for yourself. If anxious thoughts continue to keep you from meeting responsibilities in a healthy way, you may want to reach out to a mental health professional."
+      },
+      {
+        "type": "link_internal",
+        "content": "Finding Online Help",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10001
+      }
+    ]
+  },
+  {
+    "displayName": "Working from Home",
+    "id": 2008,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Social distancing has forced more people into working remotely than ever before and the sudden shift has not been easy for most."
+      },
+      {
+        "type": "text",
+        "content": "Not only has the work you do likely changed in response to the pandemic, but you are also faced with the difficulty of completing tasks away from your regular work space and coworkers. There is also the difficulty of being productive from home with all of the distractions and competing demands that come along with it."
+      },
+      {
+        "type": "text",
+        "content": "The challenge of working from home can add an additional layer of stress to your workday and life. Consider the following tips for cultivating a healthy work-life flow that works for you:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "Acknowledge the stress of the situation and adjust your expectations of yourself. You are unlikely to be as productive as usual and that is okay.",
+          "Set a schedule and try to stick to your routine. Structure will help prevent the line between home and work from getting too blurred.You want to be productive during your regular work hours without having to forfeit your valuable downtime for relaxing.",
+          "Set a dedicated work space that is comfortable for you.This will help you reduce distractions and get into the mindspace for work.",
+          "Consider turning off your phone notifications or preventing yourself from checking news or reading emails that are not critical to whatever task you are doing. This will help prevent your brain from going into information overload!",
+          "Communicate your needs. Let coworkers and supervisors know what competing demands you have on your plate.",
+          "It’s easy to fall into the habit of communicating less with your coworkers when working from home, which can lead to feelings of isolation. Consider setting time aside regularly for checking in with each other, even if it's just to chat and share experiences about how your work is going.",
+          "Take breaks throughout the day to move your body and stimulate your mind. Yoga, stretching, or taking a walk around the block are great ways to get your blood flowing.",
+          "Focus on the most important work and the top-priority issues first.  Remote work may cause us to want to appear busy but with our time being more disrupted, being efficient is important."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Physical Activity",
+    "id": 2009,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Committing to physical activity can be a challenge. It can be difficult to get creative and find ways to work out at home. It can also be hard to find time to work out as we adjust to a new routine. Our relationship with exercise can be stressful as well. It may feel like another responsibility to juggle. We also may be out of practice and struggling to get back into a groove."
+      },
+      {
+        "type": "text",
+        "content": "What is helpful is to reframe what physical activity may mean to you. Think of it as a way for you to reduce stress and discomfort - something that will ultimately relax you. You can also think of it as a gift, or escape from responsibility, and make it \"Me time.\" This way it can become something you WANT to do; a way to take care of your mind and body."
+      },
+      {
+        "type": "text",
+        "content": "In the end, you will have more energy, sleep better, and reduce your stress. If you’re starting out, or getting back into it, start with a pace you can sustain every day. Try to find 10-15 minutes and focus on moving your body. As you get used to it, then you can work up to longer or more involved kinds of exercise. The success will come from daily activity: don’t feel bad if you can’t meet some generic health recommendation right away."
+      },
+      {
+        "type": "text",
+        "content": "Choose something you enjoy. It can be anything! Do housework or yard work to music, play with the kids, get family or roommates involved, go for a walk, dance. Be sure to warm up (move but take it slow at first) and cool down (slow down but keep moving, eventually stretching) to prevent injury and soreness."
+      },
+      {
+        "type": "text",
+        "content": "And progress tracking to build your activity habit! Take notes on your calendar or in a notebook, or make a chart. If you have friends who are also trying to be active, check in with each other regularly to compare notes, or share a spreadsheet to help keep each other moving."
+      },
+      {
+        "type": "text",
+        "content": "Physical activity is usually safe. However, if you are worried about a condition becoming aggravated by exercise, be sure to consult with a doctor before beginning a new exercise."
+      }
+    ]
+  }
+]

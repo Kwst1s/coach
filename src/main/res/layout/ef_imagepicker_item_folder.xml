@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.esafirm.imagepicker.view.SquareFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:layout_gravity="center" android:id="@+id/image" android:background="@drawable/ef_folder_placeholder" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/ef_content_desc_folder"/>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@color/ef_black_alpha_50" android:padding="@dimen/ef_padding_small" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/ef_font_small" android:textColor="@color/ef_white" android:ellipsize="end" android:id="@+id/tv_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="3" android:includeFontPadding="false"/>
+        <TextView android:textSize="@dimen/ef_font_small" android:textColor="@color/ef_grey" android:id="@+id/tv_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:includeFontPadding="false"/>
+    </LinearLayout>
+</com.esafirm.imagepicker.view.SquareFrameLayout>

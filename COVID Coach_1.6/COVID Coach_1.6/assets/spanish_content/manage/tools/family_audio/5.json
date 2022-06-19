@@ -1,0 +1,17 @@
+{
+	"filename": "mindful_breathing.mp3",
+	"filename_es": "Mindful-Breathing.mp3",
+	"title": "Deep Breathing",
+	"display_title": "Deep Breathing",
+	"subtitle":"sub_mindful_breathing",
+	"intro_text": [{
+			"type": "text",
+			"content": "Detenerse y respirar profundamente puede ayudarle a calmarse cuando sienta angustia. Utilice audífonos o vaya a un lugar privado para que pueda dejarse guiar por este ejercicio."
+		},
+		{
+			"type": "text",
+			"content": "Tiempo estimado: 5 minutos."
+		}
+	],
+	"image": "t5"
+}

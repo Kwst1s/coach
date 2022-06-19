@@ -1,0 +1,33 @@
+[{
+		"type": "text",
+		"content": "If you are experiencing an emergency right now:"
+	},
+	{
+		"type": "link_phone",
+		"content": "Call 911",
+		"full": true,
+		"link": "911"
+	},
+	{
+		"type": "text",
+		"content": "National Suicide Prevention Lifeline (press 1 for Veterans Crisis Line):"
+	},
+	{
+		"type": "link_phone",
+		"content": "Call 1-800-273-8255",
+		"full": true,
+		"link": "1-800-273-8255"
+	},
+	{
+		"type": "link_text",
+		"content": "Veterans Text 838255",
+		"full": true,
+		"link": "838255"
+	},
+	{
+		"type": "link_web",
+		"content": "Confidential Veterans Chat",
+		"full": true,
+		"link": "https://www.veteranscrisisline.net/chat"
+	}
+]

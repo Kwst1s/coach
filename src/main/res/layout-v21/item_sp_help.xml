@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/item_sp_help_layout" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/item_sp_help_layout_horizontal" android:background="@drawable/custom_btn_white_very_rounded" android:padding="@dimen/padding_medium" android:focusable="true" android:clickable="true" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:layout_marginStart="@dimen/padding_mlarge" android:layout_marginEnd="@dimen/padding_mlarge" android:elevation="2dp">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_mid_btn" android:textColor="@color/grey_4a" android:layout_gravity="center_vertical" android:id="@+id/item_sp_help_txt" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+    </LinearLayout>
+</LinearLayout>

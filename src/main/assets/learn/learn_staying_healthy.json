@@ -1,0 +1,639 @@
+[
+  {
+    "displayName": "COVID-19 Vaccines",
+    "id": 500002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "There are now approved vaccines for the coronavirus."
+      },
+      {
+        "type": "text",
+        "content": "The Centers for Disease Control has provided answers to many frequently asked questions about the vaccines, such as how they could be developed so quickly and if they are safe. For more information, please visit the CDC’s website:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html",
+        "imageButton":true,
+        "full": true,
+        "content": "CDC’s FAQs About Vaccination"
+      },
+      {
+        "type": "text",
+        "content": "In the U.S., vaccine distribution plans are typically handled at the state-level. For more information about your state’s plans for vaccine distribution, check out the Local COVID-19 Info in the Find Resources section of this app. Select your state, and then tap the “Find Resources” button below the picker."
+      },
+      {
+        "type": "link_internal",
+        "learn_title": "Local COVID-19 Info",
+        "learn_file": "find_resources.json",
+        "learn_id": 10009,
+        "learn_icon": "learn_icon_learn",
+        "link": "link_learn",
+        "imageButton":true,
+        "full": true,
+        "content": "Local COVID-19 Info"
+      },
+      {
+        "type": "text",
+        "content": "Because information about vaccine distribution is regularly being updated, make sure to check back for new information from your state, healthcare system, or healthcare provider."
+      },
+      {
+        "type": "text",
+        "content": "There are several benefits of getting a COVID-19 vaccine."
+      },
+      {
+        "type": "list",
+        "content": ["All COVID-19 vaccines currently available in the United States have been shown to be highly effective at preventing COVID-19.",
+        "All COVID-19 vaccines that are in development are being carefully evaluated in clinical trials and will be authorized or approved only if they make it substantially less likely you’ll get COVID-19.",
+        "Based on what we know about vaccines for other diseases and early data from clinical trials, experts believe that getting a COVID-19 vaccine may also help keep you from getting seriously ill even if you do get COVID-19.",
+        "Getting vaccinated yourself may also protect people around you, particularly people at increased risk for severe illness from COVID-19.",
+        "Scientists continue to conduct more studies about the effect of COVID-19 vaccination on severity of illness from COVID-19, as well as its ability to keep people from spreading the virus that causes COVID-19."]
+      },
+      {
+        "type": "text",
+        "content": "For more information, please visit the CDC website:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html",
+        "imageButton":true,
+        "full": true,
+        "content": "Benefits of Getting a COVID-19 Vaccine"
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness.html",
+        "imageButton":true,
+        "full": true,
+        "content": "Ensuring the Vaccine Works"
+      }
+    ]
+  },
+  {
+    "displayName": "How to Protect Yourself",
+    "id": 5000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_1"
+      },
+      {
+        "type": "title",
+        "content": "Know How It Spreads"
+      },
+      {
+        "type": "list",
+        "content": [
+          "There is currently no vaccine to prevent Coronavirus Disease 2019 (COVID-19).",
+          "The best way to prevent illness is to avoid being exposed to this virus.",
+          "The virus is thought to spread mainly from person-to-person."
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Between people who are in close contact with one another (within about 6 feet).",
+          "Through respiratory droplets produced when an infected person coughs or sneezes, or by touching surfaces contaminated by these droplets.",
+          "These droplets can land in the mouths or noses of people who are nearby or can be transferred from your hands to your mouth, nose, or eyes."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_2"
+      },
+      {
+        "type": "title",
+        "content": "Take Steps to Protect Yourself"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Clean your hands often.",
+          "Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.",
+          "If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.",
+          "Avoid touching your eyes, nose, and mouth with unwashed hands."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_3"
+      },
+      {
+        "type": "title",
+        "content": "Avoid Close Contact"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Avoid close contact with people who are sick",
+          "Put distance between yourself and other people if COVID-19 is spreading in your community. This is especially important for people who are at higher risk of getting very sick."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html",
+		"imageButton":true,
+        "full": true,
+        "content": "CDC-People At High Risk"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_4"
+      },
+      {
+        "type": "title",
+        "content": "Stay Home If You’re Sick"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Stay home if you are sick, except to get medical care.",
+          "You need to stay at home at least a few days after your symptoms resolve to avoid infecting others.",
+          "Talk to your doctor for more information about how long you should stay at home.",
+          "If you have any questions, contact your local public health department."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html",
+        "imageButton":true,
+        "full": true,
+        "content": "CDC-What to Do if You Are Sick"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_5"
+      },
+      {
+        "type": "title",
+        "content": "Cover Coughs and Sneezes"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cover your mouth and nose with a tissue when you cough or sneeze or use the inside of your elbow.",
+          "Throw used tissues in the trash.",
+          "Immediately wash your hands with soap and water for at least 20 seconds. If soap and water are not readily available, clean your hands with a hand sanitizer that contains at least 60% alcohol."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_6"
+      },
+      {
+        "type": "title",
+        "content": "Wear a Mask When Around Other People"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Anyone over the age of 2 should wear a mask in public settings and when around people who don’t live in your household, especially when it’s hard to stay more than 6 feet away from other people.",
+          "COVID-19 can be spread by people who do not have symptoms and do not know that they are infected. That’s why it’s important for everyone to wear masks in public settings and practice physical distancing (staying at least 6 feet away from other people).",
+          "While masks are strongly encouraged to reduce the spread of COVID-19, there are specific instances when wearing a mask may not be feasible."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html#feasibility-adaptations",
+		"imageButton":true,
+        "full": true,
+        "content": "CDC Mask Guidelines"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_7"
+      },
+      {
+        "type": "title",
+        "content": "Clean and Disinfect"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Clean AND disinfect frequently touched surfaces daily. This includes tables, doorknobs, light switches, countertops, remote controls, handles, desks, phones, keyboards, toilets, faucets, and sinks."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/prepare/cleaning-disinfection.html",
+		"imageButton":true,
+        "full": true,
+        "content": "CDC-Disinfection Guidance"
+      },
+      {
+        "type": "list",
+        "content": [
+          "If surfaces are dirty, clean them: Use detergent or soap and water prior to disinfection."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Wearing A Face Mask",
+    "id": 500001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "list",
+        "content": ["Research shows that wearing a face mask in public, even when you feel well, can help curb the spread of the coronavirus.",
+        "CDC recommends cloth face masks for most people when in public settings.",
+        "When choosing or making a mask, make sure to consider the fabric, fit and care."]
+      },
+      {
+        "type": "text",
+        "content": "<b>Fabric</b>: A mask made of two layers of a tight-weave, 100% cotton fiber, is best."
+      },
+      {
+        "type": "text",
+        "content": "<b>Fit</b>: Your mask should cover your face from the bridge of your nose to under your chin. Masks that cup your face are better than masks with a flat front.  Make sure you can talk comfortably with your mask on.  You want to avoid touching or adjusting your mask."
+      },
+      {
+        "type": "text",
+        "content": "<b>Care</b>: Wash your face mask daily with soap and hot water.  Make sure your mask is completely dry before wearing it again."
+      },
+      {
+        "type": "text",
+        "content": "For more information, visit the Centers for Disease Control and Prevention website:"
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html",
+        "content": "CDC - Face Coverings"
+      }
+    ]
+  },
+  {
+    "displayName": "Handwashing 101",
+    "id": 5001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "The Centers for Disease Control and Prevention recommends 5 Steps to Wash Your Hands the Right Way:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "Wet your hands with clean, running water (warm or cold), turn off the tap, and apply soap.",
+          "Lather your hands by rubbing them together with the soap. Lather the backs of your hands, between your fingers, and under your nails.",
+          "Scrub your hands for at least 20 seconds. Need a timer? Hum the “Happy Birthday” song from beginning to end twice.",
+          "Rinse your hands well under clean, running water.",
+          "Dry your hands using a clean towel or air dry them."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Try to avoid touching your eyes, nose, or mouth with unwashed hands."
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/handwashing/when-how-handwashing.html",
+		"imageButton":true,
+        "full": true,
+        "content": "CDC Handwashing Tips"
+      }
+    ]
+  },
+  {
+    "displayName": "Handwash Like A Pro",
+    "id": 5002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Illustrations and text by Ellen Forney"
+      },
+      {
+        "type": "text",
+        "content": "Regular handwashing is one of the best ways to remove germs, avoid getting sick, and prevent the spread of germs to others."
+      },
+      {
+        "type": "text",
+        "content": "It’s easy to remember the steps with these simple names for the positions and a story to string them together."
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 1: The Snickering Villain\nRub your palms together in a circular motion",
+        "content": "handwash_step1"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 2: Spiders on Piggyback\nSpread your fingers wide on both of your hands. Place one palm on the back of the other hand, interlace your fingers, and rub the back of your hand. Do this on both sides.",
+        "content": "handwash_step2"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 3: Spiders Kissing.\nSpread your fingers wide on both of your hands. Place your palms together, interlace your fingers, and rub palm to palm.",
+        "content": "handwash_step3"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 4: Kung Fu Grip\nWith your palms facing together, rotate one hand so that your fingers are pointing in opposite directions. Curl your fingers to clasp your hands together. Rub the backs of your fingers in the opposite palm.",
+        "content": "handwash_step4"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 5: Motorcycle Throttle\nGrip your left thumb with all the fingers of your right hand, and rub your thumb by rotating your grip, as if your left thumb is a motorcycle handle.  Do this on both sides.",
+        "content": "handwash_step5"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 6: Mortar and Pestle\nRub your right fingertips in the palm of your left hand. Do this on both sides.",
+        "content": "handwash_step6"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Then, use a single-use towel or air dry.",
+        "content": "handwash_step7"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Here’s a story that can help you remember all the steps:",
+        "content": "handwash_step8"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "The Villain gets angry because the spiders are all happy, piggy-backing and spider-kissing...",
+        "content": "handwash_step9"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "… so picks a Kung Fu fight, but loses and flees on a motorcyle, and the spiders celebrate with dinner at a nice restaurant that uses freshly-ground spices.",
+        "content": "handwash_step10"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 1: The Snickering Villain\nRub your palms together in a circular motion\nStep 2: Spiders on Piggyback\nSpread your fingers wide on both of your hands. Place one palm on the back of the other hand, interlace your fingers, and rub the back of your hand. Do this on both sides.\nStep 3: Spiders Kissing.\nSpread your fingers wide on both of your hands. Place your palms together, interlace your fingers, and rub palm to palm.\nStep 4: Kung Fu Grip\nWith your palms facing together, rotate one hand so that your fingers are pointing in opposite directions. Curl your fingers to clasp your hands together. Rub the backs of your fingers in the opposite palm.\nStep 5: Motorcycle Throttle\nGrip your left thumb with all the fingers of your right hand, and rub your thumb by rotating your grip, as if your left thumb is a motorcycle handle.  Do this on both sides.\nStep 6: Mortar and Pestle\nRub your right fingertips in the palm of your left hand. Do this on both sides.",
+        "content": "handwash_step11"
+      }
+    ]
+  },
+  {
+    "displayName": "Disinfecting",
+    "id": 5003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_7"
+      },
+      {
+        "type": "text",
+        "content": "<b>To properly disinfect items or surfaces in your home:</b>"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<b>Use diluted household bleach solutions if appropriate for the surface</b>. Check to ensure the product is not past its expiration date. Unexpired household bleach will be effective against coronaviruses when properly diluted.",
+          "<b>Follow manufacturer’s instructions for application and proper ventilation</b>. Never mix household bleach with ammonia or any other cleanser."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "<b>To make a bleach solution</b>, mix:"
+      },
+      {
+        "type": "text",
+        "content": "5 tablespoons (1/3rd cup) bleach per gallon of water"
+      },
+      {
+        "type": "text",
+        "content": "OR"
+      },
+      {
+        "type": "text",
+        "content": "4 teaspoons bleach per quart of water"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<b>Use alcohol solutions</b> with at least 70% alcohol.",
+          "<b>Try household cleaners and disinfectants</b>: Clean the area or item with soap and water or another detergent if it is dirty. Then, use a household disinfectant. "
+        ]
+      },
+      {
+        "type": "text",
+        "content": "<b>Follow the instructions on the label</b> to ensure safe and effective use of the product."
+      },
+      {
+        "type": "text",
+        "content": "Many products recommend:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Keeping the surface wet for several minutes to ensure germs are killed.",
+          "Precautions such as wearing gloves and making sure you have good ventilation during use of the product."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Most Environmental Protection Agency (EPA)-registered household disinfectants (for example, many Lysol or Clorox products) should be effective."
+      },
+      {
+        "type": "link",
+        "link": "https://www.epa.gov/coronavirus",
+		"imageButton":true,
+        "full": true,
+        "content": "EPA coronavirus advice"
+      }
+    ]
+  },
+  {
+    "displayName": "Physical Distancing",
+    "id": 5004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Local health authorities will at times suggest that we follow <b>Physical Distancing</b>. This helps to break the transmission of COVID-19."
+      },
+      {
+        "type": "text",
+        "content": "If you’ve been asked to practice Social or Physical Distancing or Shelter in Place, try not to leave your home- unless it absolutely necessary to do so. You can safely exercise in your neighborhood, as long as you can keep at least 6 feet away from others."
+      },
+      {
+        "type": "text",
+        "content": "When you go out, maintain 6 feet of distance between you and anyone outside your immediate household, particularly those who might be sneezing or coughing."
+      },
+      {
+        "type": "text",
+        "content": "Why? When someone coughs or sneezes, it releases droplets that might contain COVID-19 virus if they were infected. If you are too close, you could breathe in the droplets and expose yourself to an infection."
+      },
+      {
+        "type": "text",
+        "content": "Physical distancing is not just about protecting you- it’s about joining together and protecting everyone in our community."
+      },
+      {
+        "type": "text",
+        "content": "Physical or social distancing also does NOT mean social isolation!  Make sure to stay in regular touch with friends, family, or peers."
+      },
+      {
+        "type": "text",
+        "content": "Learn more here:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+		"imageButton":true,
+        "full": true,
+        "content": "World Health Organization"
+      }
+    ]
+  },
+  {
+    "displayName": "Not Touching Your Face",
+    "id": 5005,
+    "related_tools": [
+      51,
+      32,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "title",
+        "content": "Cognitive Strategies for Not Touching Your Face"
+      },
+      {
+        "type": "text",
+        "content": "Touching your face can bring COVID-19 virus particles closer to your eyes, nose, or mouth, which can lead to infection."
+      },
+      {
+        "type": "text",
+        "content": "If you tend to touch your face frequently as a habit, there are several strategies you can try to limit or avoid touching your face:"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 0,
+            "string": "Practice Mindfulness: Use a quick mindfulness exercise to notice the urge to touch your face, and then gently let go of those thoughts"
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 1,
+            "string": "Thought-Shifting: Use a quick thought-shifting exercise to occupy yourself with something else."
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 2,
+            "string": "Grounding: Ground yourself in another physical sensation"
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 3,
+            "string": "Carry something small in your hands that can distract you, like a stress ball or anything you can fidget with."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Above all, don’t worry if you fail.  It’s nearly impossible to entirely prevent touching your face- just do your best to minimize it.  Cutting back will reduce your risk of exposure."
+      }
+    ]
+  },
+  {
+    "displayName": "If You Get Sick",
+    "id": 5006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "list",
+        "content": [
+          "Call your healthcare provider!",
+          "Don’t come to an appointment with symptoms without first calling ahead to notify your provider or hospital.",
+          "This will help to protect our vital and valiant healthcare providers and others in the community.",
+          "If you can’t get in touch with your provider, or you don’t have one, and you’re experiencing severe symptoms, call 911."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Wear a Mask, Save Lives",
+    "id": 5007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "title",
+        "content": "Wear a Mask, Save Lives"
+      },
+      {
+        "type": "text",
+        "content": "Remember these 3 things to do your part to prevent the spread of COVID-19:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "<b>WEAR</b> a face cover",
+          "<b>WASH</b> your hands",
+          "<b>WATCH</b> your distance (keep a safe distance from others outside your household)"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "To learn more about the partnership between the U.S. Centers for Disease Control and Prevention, World Health Organization and Google to help provide accurate information about COVID-19, visit:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.google.com/covid19/",
+		"imageButton":true,
+        "full": true,
+        "content": "Website"
+      }
+    ]
+  }
+]

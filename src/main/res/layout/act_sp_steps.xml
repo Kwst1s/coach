@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flipboard.bottomsheet.BottomSheetLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/sp_steps_bs_layout" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/sp_steps_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@+id/sp_steps_toolbar_txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/safety_plan" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            <vainstrum.Components.ImageViewTracking android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="@+id/sp_steps_toolbar_img_help" android:padding="@dimen/padding_large" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_info" android:contentDescription="@string/help" android:importantForAccessibility="yes" app:tracking_id="47449"/>
+        </androidx.appcompat.widget.Toolbar>
+        <androidx.viewpager.widget.ViewPager android:id="@+id/sp_steps_pager" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </LinearLayout>
+</com.flipboard.bottomsheet.BottomSheetLayout>

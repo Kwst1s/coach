@@ -1,0 +1,17 @@
+{
+	"filename": "mindful_breathing.mp3",
+	"filename_es": "Mindful-Breathing.mp3",
+	"title": "Relajación muscular",
+	"display_title": "Relajación muscular",
+	"subtitle":"sub_mindful_breathing",
+	"intro_text": [{
+			"type": "text",
+			"content": "A continuación, le ofreceremos un ejercicio de relajación muscular progresiva. Trabajará con los principales grupos musculares del cuerpo, tensando y relajando cada músculo de manera progresiva. Este ejercicio tiene una duración de 12 minutos. La actividad está acompañada de una grabación, por lo que deberá encontrar un lugar tranquilo o utilizar audífonos."
+		},
+		{
+			"type": "text",
+			"content": "Siéntese o acuéstese en un lugar cómodo. No realice este ejercicio mientras conduce."
+		}
+	],
+	"image": "t20"
+}

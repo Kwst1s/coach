@@ -1,0 +1,13 @@
+{
+	"filename": "imagery_forest.mp3",
+	"filename_es": "Positive-Imagery-Forest.mp3",
+	"title": "Positive Imagery: Forest",
+	"display_title": "Positive Imagery",
+	"subtitle":"sub_imagery_forest",
+	"intro_text": [{
+			"type": "text",
+			"content": "You are about to be led through a relaxation exercise focused on visualizing something pleasant. This exercise takes about 4 minutes. It has accompanying audio, so you will have to find a quiet place or put on your headphones now."
+		}
+	],
+	"image": "t23"
+}

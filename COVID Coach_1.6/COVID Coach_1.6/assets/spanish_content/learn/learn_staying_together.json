@@ -1,0 +1,700 @@
+[
+  {
+    "displayName": "Notar Lo Positivo",
+    "id": 3000,
+    "related_tools": [
+      50,
+      103
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Cuando las cosas se ponen difíciles, puede ser importante tratar de pasar algún tiempo pensando en lo que va bien, especialmente en sus relaciones con los demás. Esto ayuda a su mente a notar las partes positivas de su experiencia, incluso cuando las cosas se sienten bastante negativas. Reenfocar nuestra atención de esta manera es especialmente importante para nuestras relaciones durante momentos de estrés."
+      },
+      {
+        "type": "text",
+        "content": "Practicando notar lo positivo:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Observe las cosas positivas a su alrededor, como la risa de un niño o una mascota feliz. Tome una foto de lo que nota.",
+          "Tómese el tiempo para ver a otros en un acto bueno o útil para usted. Esto podría ser preguntarle cómo se siente, darle espacio cuando lo necesite o un simple acto como ayudarle a llevar algo.",
+          "Busque ejemplos de cosas buenas en las noticias, como personas que ayudan a otros.",
+          "Pruebe una meditación que lo anime a notar el amor y la bondad.",
+          "Conéctese con los demás de una manera positiva.",
+          "Todos los días, antes de irse a dormir, tómese un momento para escribir tres cosas por las que agradece, incluido sobre las personas con las que vive."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Aunque es posible que estas observaciones no parezcan estar directamente relacionadas con sus relaciones, probablemente lo ayudarán a ser más positivo con las personas en su vida."
+      },
+      {
+        "type": "text",
+        "content": "Continuar enfocándose en los momentos positivos puede ayudarlo a reconocer el amor que lo rodea y a descubrir lo bueno en los demás, incluso en tiempos difíciles."
+      }
+    ]
+  },
+  {
+    "displayName": "Lucha Justamente",
+    "id": 3001,
+    "related_tools": [
+      44,
+      29
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Sentirse atrapado en el interior puede dificultar las relaciones con la familia y los compañeros de casa. Utilice estos consejos para \"luchar de forma justa\" cuando tenga un conflicto en el hogar:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cuando hable, use frases que comiencen con \"yo\", como \"yo pienso\" o \"yo siento\". Agregue una palabra de emoción como \"triste\", \"frustrado\" o \"preocupado\" para que la otra persona sepa cómo le afecta su comportamiento.",
+          "Concéntrese en un tema a la vez.",
+          "Durante una confrontación, permita que la otra persona tenga el mismo tiempo para decir lo que piensa. Dígale \"Bueno, déjame saber cómo te sientes\" para asegurarse de que tenga tiempo para hablar.",
+          "Cuando la otra persona esté hablando, escuche lo que tiene que decir sin interrumpir. Haga preguntas para asegurarse de que comprende. Repite lo que dijeron para asegurarse de que lo está entendiendo.",
+          "No golpee debajo del cinturón con comentarios sobre la apariencia de la persona o un tema delicado. Cíñete a los problemas en cuestión y céntrate en la persona que tienes delante.",
+          "Nunca discuta en la cama con su pareja. Use una habitación neutral.",
+          "No diga \"No te amo\" o \"No me amas\". Estas dagas verbales pueden generar resentimiento.",
+          "Trate de evitar el uso de términos definitivos para describir el comportamiento de una persona. Usar “nunca” o “siempre” durante una confrontación rara vez es útil.",
+          "Trabajar en equipo para resolver problemas. Pueden hacer mucho más de esta manera de lo que pueden hacer como rivales. Invente un nombre para su equipo y úselo entre ustedes.",
+          "Evite decir \"te lo dije\". Recuerde que un problema resuelto es una ganancia para ambos.",
+          "Si las cosas se están calentando demasiado, tómese un tiempo, pero acepta continuar la discusión cuando las cosas se calmen."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Tomar Un Tiempo Fuera",
+    "id": 3002,
+    "related_tools": [
+      29,
+      24,
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Conseguir algo de tiempo y espacio de los demás es especialmente importante cuando las personas se ven obligadas a estar en el mismo lugar durante un largo período de tiempo. Incluso las personas que realmente se preocupan por los demás tendrán dificultades para llevarse bien cada minuto."
+      },
+      {
+        "type": "text",
+        "content": "Una vez que ha comenzado una discusión, puede ser difícil escuchar y resolver las cosas."
+      },
+      {
+        "type": "text",
+        "content": "Esto es normal porque cuando estamos realmente enojados, nuestro cerebro no procesa la información de la misma manera que lo hace cuando estamos tranquilos. Cuando se siente frustrado, puede ser difícil ver algo que no sea lo peor en otra persona."
+      },
+      {
+        "type": "title",
+        "content": "Tomando un Tiempo Fuera"
+      },
+      {
+        "type": "title",
+        "content": "Paso 1: Cómo Se Ve Un Tiempo Fuera"
+      },
+      {
+        "type": "text",
+        "content": "Trabaje con la otra persona para comprender lo que significa para ambos estar a tiempo fuera. Podría ser no hablar entre ustedes, cambiar de tema o moverse a diferentes habitaciones. Lo importante es que ambos estén en la misma página."
+      },
+      {
+        "type": "title",
+        "content": "Paso 2: Establecer la Duración del Tiempo Fuera"
+      },
+      {
+        "type": "text",
+        "content": "Un tiempo de espera puede durar 15 minutos o 24 horas. Lo que importa es seleccionar una cantidad de tiempo en la que ambos estén de acuerdo."
+      },
+      {
+        "type": "title",
+        "content": "Paso 3: Pedir un Tiempo Fuera"
+      },
+      {
+        "type": "text",
+        "content": "Decide de antemano cómo se comunicará que necesita un descanso; es difícil comunicarse cuando está en medio de una discusión."
+      },
+      {
+        "type": "text",
+        "content": "Puede resultar útil tener una señal de tiempo fuera o una palabra clave. Por ejemplo, si uno de los dos dice \"piña\", podría significar que está pidiendo un descanso."
+      },
+      {
+        "type": "title",
+        "content": "Paso 4: Elegir Actividades Calmantes"
+      },
+      {
+        "type": "text",
+        "content": "Asegúrese de tener algunas actividades para hacer durante el tiempo fuera que sean relajantes. Esto podría ser algo como salir a caminar, escuchar música o sonidos relajantes, hacer un ejercicio de atención plena o jugar un juego en su teléfono. Es importante que haga cosas que disfrute en lugar de pasar el tiempo rehaciendo el argumento en tu mente."
+      },
+      {
+        "type": "title",
+        "content": "Paso 5: Volver a Estar Juntos Para Reconectarse"
+      },
+      {
+        "type": "text",
+        "content": "Una vez que haya finalizado el tiempo fuera, es importante poder trabajar para entenderse mutuamente. Elija un lugar que sea diferente de donde estaba discutiendo, si es posible."
+      }
+    ]
+  },
+  {
+    "displayName": "Encontrar Un Terapeuta (Virtual) De Parejas",
+    "id": 3003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Una de las mejores cosas que puede hacer por su relación es encontrar un terapeuta calificado de parejas. Aunque no pueda salir de casa, muchos terapeutas ahora trabajan virtualmente con individuos y parejas para ayudarlos a manejar el estrés y los conflictos durante estos tiempos difíciles."
+      },
+      {
+        "type": "text",
+        "content": "Para localizar un terapeuta cerca de usted, use uno de los localizadores a continuación:"
+      },
+      {
+        "type": "link",
+        "content": "Psychology Today (Psicología Hoy)",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.psychologytoday.com/us/therapists/spanish"
+      },
+      {
+        "type": "link",
+        "content": "Asociación Estadounidense de Terapeutas Matrimoniales y Familiares",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.therapistlocator.net/"
+      },
+      {
+        "type": "text",
+        "content": "Cosas que debe saber sobre la terapia de pareja:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Un buen terapeuta de parejas le ayudará a usted y a su pareja a sentirse mejor escuchados y comprendidos.",
+          "La terapia puede mejorar la comunicación y ayudarlo a comprender mejor a su ser querido.",
+          "El tratamiento puede reducir las conductas problemáticas y mejorar el trabajo en equipo.",
+          "La terapia resalta las fortalezas de su relación y las cosas que está haciendo bien.",
+          "La terapia puede estar cubierta por su seguro. Consulte con su plan y el terapeuta con el que se comunique para ver si el terapeuta está \"dentro de la red\" o \"fuera de la red\" y qué beneficios podrían aplicarse. Si no está cubierto por su seguro, pregúntele al terapeuta si ofrecen tarifas reducidas o espacios de escala móvil. La terapia puede ser económico, incluso tan solo unas pocas sesiones pueden ayudar a su relación."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Ayudar Niños Pequeños y Preescolares",
+    "id": 3004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los niños pequeños pueden tener dificultades para adaptarse a las rutinas cambiantes y las nuevas realidades."
+      },
+      {
+        "type": "text",
+        "content": "A continuación, algunos consejos para controlar a los niños pequeños en momentos de estrés:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Trate de usar una voz cálida y sin juzgar la mayor parte del tiempo que hable con su niño. Si es difícil de hacer, trate de imaginarse a alguien que conozca con una voz suave, como el Sr. Rogers, y cópielo.",
+          "Los niños de esta edad no necesitan realmente explicaciones: necesitan saber qué esperar y que los adultos estarán presentes pase lo que pase.",
+          "Modele para ellos cómo quiere que reaccionen a la situación. Cuando se sienta frustrado, diga \"Voy a tomar un gran respiro\" y luego hágalo de manera exagerada para que lo vean afrontar la situación.",
+          "Recuerde, los niños de esta edad son muy adaptables y, a medida que maduran, mejoran en el manejo de cosas que pueden ser difíciles para ellos en este momento.",
+          "Hable frecuentemente con cualquier otra persona que comparta la responsabilidad de su niño. Estar \"en la misma página\" ayuda a su niño a conocer las reglas. También vea si puede reunirse virtualmente con otros padres de niños pequeños o unirse a un grupo de apoyo en línea para padres. Esta edad puede ser difícil y el apoyo es clave.",
+          "Trate de no establecer expectativas para usted y su niño durante este tiempo. Es difícil lograr mucho cuando está estresado, recuerde que el objetivo es simplemente \"superarlo\".",
+          "Ayude a su niño a entender que las emociones son parte de la vida y no algo que deba mantenerse oculto o de lo que deba avergonzarse. Comparta sus propias emociones y hable con su niño pequeño y ayúdalo a comprender mejor y aprender de sus emociones.",
+          "Muestre a su niño pequeño amor y afecto lo más que pueda. Diles cuándo está feliz o divirtiéndose.",
+          "Si su hijo es agresivo, sea lo más firme posible. Establezca expectativas consistentes para su hijo y mantenga una línea clara en sus reglas.",
+          "El castigo físico, como azotar o abofetear, no es una forma eficaz de disciplinar a su hijo.",
+          "Establezca expectativas con un \"gráfico de estrellas o pegatinas\". Haga una lista de las cosas que quiere que su hijo haga cada día y dele una estrella o una pegatina cada día que tenga éxito.",
+          "La mejor manera de ayudar a su hijo a sentirse seguro es tener una rutina constante. Tenga rutinas a la hora de comer y de acostarse que sean predecibles para su hijo. Si han cambiado en las últimas semanas, elabore un nuevo horario con toda la familia para que todos estén en sintonía, incluso si cree que su hijo es demasiado pequeño para entender."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Ayudar Niños Pequeños",
+    "id": 3005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los niños pequeños pueden notar grandes cambios recientemente y tener muchas preguntas."
+      },
+      {
+        "type": "text",
+        "content": "Los niños de esta edad también pueden experimentar sus emociones físicamente: dolores de cabeza, dolores de estómago y cambios en el sueño o la dieta."
+      },
+      {
+        "type": "text",
+        "content": "Aquí hay algunos consejos para usar durante este tiempo:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "La mejor manera de ayudar a su hijo pequeño a sentirse seguro es tener una rutina constante. Tenga rutinas a la hora de comer y de acostarse que sean predecibles para su hijo. Si han cambiado en las últimas semanas, elabore un nuevo horario con toda la familia para que todos estén en sintonía, incluso si cree que su hijo es demasiado pequeño para entender.",
+          "Trate de mantener algunas de las relaciones de la escuela de su hijo o las actividades, ya sea a través del chat de video o cosas divertidas que pueda hacer \"con\" amigos, como juegos virtuales. Ver caras conocidas les ayudará a sentirse más seguros.",
+          "Hable con ellos tanto como pueda. Utilice temas de conversación: \"¿Qué es lo más divertido que pasó hoy?\" \"¿Cuál es tu personaje / libro / programa de televisión / película favoritos en este momento?\" \"¿Qué es lo más interesante que has visto últimamente?\"",
+          "Tómese un tiempo 100% ininterrumpido totalmente presente para pasarlo con su hijo. Bríndeles toda su atención, sin aparatos electrónicos, sin tareas domésticas. Haga algo que ellos quieran hacer y déjalos decidir cómo pasa su tiempo o de qué vas a hablar, aunque solo sea por unos minutos.",
+          "Dese cuenta cuando están siendo buenos y hágales saber que lo ha notado.",
+          "Realice reuniones familiares periódicas, en las que cualquier miembro de la familia, incluido su hijo, pueda agregar temas para discutir.",
+          "Anime a su hijo a hablar con usted. Ayude a su hijo a sentirse seguro al limitar la cantidad de detalles que comenta sobre cualquier problema grave.",
+          "Asegúrese de tener rutinas para la hora de dormir con su hijo. Siempre apapache a su hijo por la noche y hágale saber que está seguro y amado. Incluso si otras rutinas han cambiado, esto puede permanecer prácticamente igual y ser un buen punto de anclaje.",
+          "Abrace a su hijo y muéstrele afecto físico: déjelo sentarse en sus piernas, abrácelo y tómelo de la mano.",
+          "Si es posible, haga tiempo para las actividades familiares todos los días: leer libros, cocinar, caminar, hablar, trabajar juntos o jugar juegos.",
+          "Si su hijo es desobediente o agresivo, sea lo más firme posible. Establezca expectativas consistentes para su hijo y mantenga una línea clara en sus reglas.",
+          "El castigo físico, como azotar o abofetear, no es una forma eficaz de disciplinar a su hijo.",
+          "Anímelos a participar en el trabajo escolar si están en la escuela, pero gestione tanto sus expectativas como las suyas. Anímelos y celebre todo lo que logran, pero también reconozca que cada niño tendrá una experiencia diferente y un nivel de interés en la educación a distancia. Puede resultar difícil trabajar en estas condiciones.",
+          "Dele a su hijo las tareas del hogar y establezca expectativas para que su hijo pueda tener éxito.",
+          "Sea abierto con su hijo, pero evítele detalles innecesarios."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Ayudar Adolescentes",
+    "id": 3006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Es difícil ser un adolescente en este momento. La incertidumbre sobre la identidad y el futuro que los adolescentes frecuentemente experimentan se ve agravada por la incertidumbre global."
+      },
+      {
+        "type": "text",
+        "content": "Aquí hay algunas ideas sobre formas de apoyar a su adolescente:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Utilice temas de conversación: \"¿Qué tienes en mente en ... este ... segundo?\" \"¿Cuál ha sido la parte más difícil de esto para ti?\" \"¿Algo va mejor de lo que pensabas?\" \"¿De qué tienes curiosidad en este momento?\"",
+          "Los adolescentes son hábiles para hacer que reaccione de una manera que haga que su comportamiento sea el problema, en lugar de su propio comportamiento problemático. Evite esta trampa, no permita que su adolescente lo provoque.",
+          "Habla con su adolescente. Es importante evitar los \"secretos\" en la familia. Sea lo más abierto que pueda y hable tan a menudo como pueda. Siéntese con ellos, incluso en silencio, mientras procesan información.",
+          "Lo mejor que pueda, asegúrese de que su hijo tenga una dieta equilibrada y descanse lo suficiente. Los adolescentes tienden a acostarse más tarde y necesitan dormir más que cuando eran más jóvenes. Incluso en estos tiempos extraños, dormir es importante.",
+          "Haga un plan de tiempo de electrónicos con su adolescente; trabajen juntos para decidir cuál es la cantidad correcta y qué deben hacer cuando no utilicen electrónicos.",
+          "Anime a su hijo adolescente a que se conecte virtualmente con sus amigos. Deles un espacio y tiempo privados para hacerlo.",
+          "Dele a su adolescente muchas oportunidades para expresar sus sentimientos. Es más probable que algunos adolescentes hablen con sus padres en momentos extraños del día, como a altas horas de la noche.",
+          "Reconozca cuando su adolescente está expresando sus sentimientos de otra manera que no sea hablando, como música, arte u otras actividades.",
+          "Aprenda a leer las señales no verbales de su adolescente. Pregúnteles sin juzgar: \"¿Qué significa eso?\"",
+          "Si su adolescente está molesto, déjeles sentir sus sentimientos. Anímelos a posponer cualquier decisiones importantes hasta que se sientan más estables.",
+          "Asegúrese de que su adolescente tenga las tareas del hogar y establezca expectativas para que pueda tener éxito.",
+          "Si su adolescente es agresivo o autodestructivo, es importante que establezca sus límites. Tenga expectativas claras, firmes y consistentes de su adolescente.",
+          "Si el comportamiento de su adolescente es demasiado para que usted lo maneje, o si está preocupado por la depresión o el suicidio, es importante buscar ayuda profesional."
+        ]
+      },
+      {
+        "type": "title",
+        "content": "Línea Directa Nacional Para La Prevención Del Suicidio"
+      },
+      {
+        "type": "text",
+        "content": "Llame a la línea directa nacional de prevención del suicidio en caso de crisis para acceder a consejeros capacitados:"
+      },
+      {
+        "type": "link_phone",
+        "imageButton": true,
+        "content": "Llame a la línea directa nacional para la prevención del suicidio",
+        "link": "1-888-628-9454",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "Línea de Texto de Crisis"
+      },
+      {
+        "type": "text",
+        "content": "Comparta el recurso de Línea de Texto de Crisis con su hijo adolescente. Pueden acceder a consejeros capacitados enviando el mensaje de texto HOME al 741741:"
+      },
+      {
+        "type": "link_text",
+        "imageButton": true,
+        "fill": "HOME",
+        "content": "Envíe un mensaje de texto a la Línea Directa Nacional Para La Prevención Del Suicidio",
+        "link": "741741",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "Línea De Ayuda Nacional de SAMHSA"
+      },
+      {
+        "type": "text",
+        "content": "Pruebe la Línea De Ayuda Nacional de SAMHSA para obtener más información sobre cómo ayudar a su hijo adolescente:"
+      },
+      {
+        "type": "link_phone",
+        "imageButton": true,
+        "content": "Llame a la Línea De Ayuda Nacional de SAMHSA",
+        "link": "1-800-662-4357",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "Encuentra un Terapeuta"
+      },
+      {
+        "type": "text",
+        "content": "Para encontrar recursos de terapia virtual, visite el sitio web de Psychology Today:"
+      },
+      {
+        "type": "link",
+        "imageButton": true,
+        "content": "Sitio web de Psychology Today (Psicología Hoy)",
+        "link": "https://www.psychologytoday.com/us/therapists/spanish",
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Criar Los Hijos Durante Una Pandemia",
+    "id": 3007,
+    "related_tools": [
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Aquí hay algunos consejos para la crianza de los hijos durante este tiempo."
+      },
+      {
+        "type": "title",
+        "content": "Practique la Autocompasión Radical"
+      },
+      {
+        "type": "text",
+        "content": "Es difícil ser padre en este momento. Los padres están haciendo malabares con múltiples roles: maestro, empleado, padre, persona de apoyo, todo a la vez. Observe las expectativas que tiene para sí mismo en torno a la crianza de los hijos y trate de liberarlas suavemente. Recuerde que estos son tiempos con gran diferencia con respecto a los tiempos normales, y es posible que desee concentrarse solo en pasar el día, en lugar de lograr mucho. Utilice la atención plena para centrarse cuando las cosas se sientan fuera de control."
+      },
+      {
+        "type": "title",
+        "content": "Tomar Descansos"
+      },
+      {
+        "type": "text",
+        "content": "La crianza de los hijos suele ser un deporte de contacto y necesitará algo de tiempo y espacio para usted. Reserve un lugar en la casa o en el patio (¡o en el automóvil!) Donde pueda ir cuando necesite un minuto a solas. Hágale saber a su pareja y a su familia que tomará un descanso de 30 minutos a la misma hora todos los días y lo usará para hacer algo que lo relaje: caminar, meditar, videos divertidos de animales, conectarse con amigos, escribir un diario, disfrutar deliciosa comida. No se puede servir de una taza vacía; considere cómo repondrá el suyo."
+      },
+      {
+        "type": "title",
+        "content": "Manténgase Conectado con sus Personas Favoritas"
+      },
+      {
+        "type": "text",
+        "content": "Los padres necesitan apoyo al igual que los niños. Programe una reunión virtual regular con sus amigos o familiares como una forma de desahogarse al final del día. Hágalo divertido jugando un juego o disfrutando de un bocado juntos."
+      },
+      {
+        "type": "title",
+        "content": "Reserva Tiempo Para Su Pareja"
+      },
+      {
+        "type": "text",
+        "content": "Si está en una relación, dígales a los niños que usted y su pareja necesitan un tiempo a solas. Incluso más de lo habitual, una relación sólida será una parte fundamental para superar este momento difícil. Tenga una \"cita\" ordenando a casa (si se siente cómodo), eligiendo un programa o película que quiera ver o jugando un juego. Conviértalo en una \"zona prohibida para los niños\" para darse un respiro del papel de padre por un tiempo."
+      },
+      {
+        "type": "title",
+        "content": "Encuentra Apoyo"
+      },
+      {
+        "type": "text",
+        "content": "La mayoría de los terapeutas ahora ofrecen atención de manera virtual. Incluso si las cosas van relativamente bien, la carga adicional puede parecer pesada. Programe un asesoramiento a corto plazo con un terapeuta para que lo ayude a superar este momento. Encuentre terapeutas en su área usando los localizadores a continuación o comuníquese con su seguro para obtener una lista de proveedores cubiertos."
+      },
+      {
+        "type": "title",
+        "content": "Localizadores de Terapia:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.psychologytoday.com/us/therapists/spanish",
+        "content": "Localizador de Psychology Today"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://locator.apa.org",
+        "content": "Localizador de la Asociación Americana de Psicología"
+      }
+    ]
+  },
+  {
+    "displayName": "Lidiar Con El Aprendizaje a Distancia",
+    "id": 300001,
+    "related_tools": [
+      65,
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Así que se le han pedido que supervise el aprendizaje a distancia de su hijo. Lo más probable es que este no sea el único estrés en su plato y ahora se le pide que intervenga para desempeñar el papel de maestro junto con todo lo demás. Este es un momento realmente difícil para los padres con hijos en la escuela. Si el aprendizaje a distancia está en sus cartas, explore algunas de estas sugerencias sobre cómo manejar estos tiempos difíciles."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Establezca el tono que desee para el día. Es posible que no haya tenido elección sobre el aprendizaje a distancia, pero puede estar a cargo del ambiente. Decida qué es lo más importante para usted como padre y comience cada mañana con un momento que le recuerde a usted y a su hijo (o hijos) lo que es. Esto podría ser respirar profundamente juntos, compartir aquello por lo que se sienten agradecidos o una mini fiesta de baile.",
+          "Ten una rutina. Coloque un horario para que usted y su hijo sepan lo que sigue. La rutina también ayuda a los niños a sentirse independientes y seguros.",
+          "Trate de no molestar ni involucrarse demasiado en el trabajo escolar de su hijo. Cree una lista de verificación o algún otro tipo de gráfico que muestre lo que se ha hecho a lo largo del día.",
+          "Cuando sea posible, intente crear un espacio dedicado para que su hijo aprenda. Limpie el área del desorden o juguetes que puedan distraer a su hijo de prestar atención o hacer su trabajo. La creación de un espacio de trabajo para la escuela le indicará a su hijo que es el momento de aprender.",
+          "Reduce tus expectativas y celebra las pequeñas victorias. No eres profesor y tu hijo no se encuentra en su entorno de aprendizaje habitual. Está bien quitar el pie del acelerador. Todos están haciendo lo mejor que pueden.",
+          "Consulte con el maestro de su hijo. Si algunos aspectos del aprendizaje a distancia no funcionan para usted o su hijo, dígalo. Los profesores vuelan el avión mientras lo construyen. Necesitan sus comentarios para tener éxito. No dude en decirles lo que necesita.",
+          "Póngase de pie y muévase. El cerebro y el cuerpo de los niños no están hechos para sentarse frente a una computadora todo el día. Si es posible, intente salir a caminar o jugar un rato o busque formas de hacer que sus cuerpos se muevan en el interior mediante estiramientos, bailes o ejercicio. Programa tiempo para ser suave contigo mismo durante el día. El aprendizaje a distancia es difícil, ¡si no imposible! Muestre a sus hijos que es útil recargar las baterías cuando se siente bajo."
+        ]
+      },
+      {
+        "type": "list",
+        "content": [
+          "Siga la corriente y sea flexible: algunos días y actividades serán más fáciles que otros. Confíe en que sabe lo que funciona mejor para usted y su hijo. Recuerde, usted es el experto en su hijo."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Manejar La Ira De Padres",
+    "id": 300002,
+    "related_tools": [
+      5,
+      29,
+      65
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los padres están manejando mucho durante la pandemia. Están agotados, lidiando con un apoyo de cuidado infantil inadecuado, aislamiento social, inseguridad financiera, relaciones tensas y estrés y ansiedad. Para los padres que experimentan frustración, irritabilidad y rabia, no están solos. Muchos informan que sienten que van a explotar físicamente porque se les pide que sean todo para todos en este momento. ¡Es una situación imposible!"
+      },
+      {
+        "type": "text",
+        "content": "Frecuentemente, debajo de la superficie de la ira se encuentran el dolor, el miedo y la soledad Explore estos métodos para comprender y afrontar estos sentimientos:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Detengase. Haga pausa. Respire. Siéntase en el suelo y vaya despacio. Regístrese con usted mismo y recopile información. ¿Cuáles son sus emociones? ¿Qué tan intensos son? ¿Qué expectativas le están poniendo? ¿Son realistas o útiles?",
+          "Usa su empatía. Póngase físicamente al nivel de su hijo, cara a cara. Trate de adoptar su perspectiva cuando se sientan frustrados el uno con el otro. Imagine cómo es estar en su lugar en ese momento exacto",
+          "Si es posible, tómese un momento. Solicite un espacio temporal y comunique tranquilamente su plan a su hijo. Modele el afrontamiento que tal vez quiera que usen, como: \"Necesito unos minutos de privacidad porque me siento frustrado. Voy a tomarme un tiempo para respirar profundamente y calmarme \".",
+          "Cambie la temperatura. Coloque una bolsa de frutas o verduras congeladas en su cara, sostenga un cubito de hielo o tome una ducha fría.",
+          "Imagine a su familia como una isla que debe proteger. Otorgue acceso a personas y situaciones que aporten positividad. Niegue la entrada a cualquier cosa que le produzca estrés o miedo.",
+          "Reconozca aquello sobre lo que no tiene control (muchas cosas en este momento). Concéntrese en manejar su reacción.",
+          "Practique la autocompasión radical y ponga el amor por sí mismo en acción. Reconoce que el dolor, el sufrimiento y la rabia son parte de su humanidad. ¿Qué le diría a un amigo que se le acerca con estas luchas?"
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Para Futuros y Nuevos Padres",
+    "id": 3008,
+    "related_tools": [
+      105,
+      104
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Este puede ser un momento difícil para darle la bienvenida a un nuevo miembro de la familia. Con una mayor preocupación por la exposición a la salud, cambios en las políticas hospitalarias y más aislamiento, estar embarazada o tener un recién nacido puede sentirse especialmente vulnerable durante esta crisis."
+      },
+      {
+        "type": "text",
+        "content": "La buena noticia es que existe una sólida red de atención de apoyo para las familias en crecimiento y que muchos de estos servicios se han trasladado a la prestación virtual. El Apoyo Posparto Internacional ofrece grupos de apoyo gratuitos, un directorio de proveedores e información sobre cómo manejar el estrés, la ansiedad y el bajo estado de ánimo durante el embarazo o después del nacimiento de su bebé."
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.postpartum.net/en-espanol/",
+        "content": "Sitio web de Apoyo Posparto Internacional"
+      },
+      {
+        "type": "text",
+        "content": "Las clases para el parto y otra información sobre la preparación del bebé también están disponibles en línea, capacitando a los nuevos padres en la comodidad de sus propios hogares. Comuníquese con su hospital para obtener información sobre cómo están manejando el parto durante la crisis de COVID-19 y pregúntele a su proveedor de obstetricia y ginecología acerca de los recursos virtuales de apoyo al parto en su área."
+      },
+      {
+        "type": "text",
+        "content": "Si siente ansiedad acerca de cómo el COVID-19 podría afectar su embarazo o parto, puede ser útil tratar de concentrarse en el resultado. Hay muchas cosas que no sabemos relacionadas con el embarazo, un bebé creciendo en el vientre y dar a luz. La situación actual puede magnificarlos a medida que las cosas se vuelvan aún más inciertas. Cuando su mente comience a preocuparse naturalmente por cómo irán las cosas, trate de traer una imagen de usted sentada segura y pacíficamente con su bebé en casa. Cuando vuelva a surgir la ansiedad, intente enfocar esa imagen; practique esto hasta que se vuelva automático."
+      },
+      {
+        "type": "text",
+        "content": "Consulte también las herramientas de la sección Manejar El Estrés de esta aplicación, que pueden ayudar a controlar la ansiedad."
+      }
+    ]
+  },
+  {
+    "displayName": "Para Cuidadores",
+    "id": 3009,
+    "related_tools": [
+      105,
+      20
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Cuidar a los adultos mayores y a las personas con necesidades especiales durante momentos de estrés puede ser un gran desafío. Es posible que no pueda acceder a los recursos o apoyos que normalmente tiene, y puede que le resulte muy difícil tomar los descansos que tanto necesita."
+      },
+      {
+        "type": "text",
+        "content": "Es normal sentirse abrumado. Puede sentirse agotado, irritable o impaciente."
+      },
+      {
+        "type": "text",
+        "content": "Para ayudar a manejar el estrés de cuidador durante estos momentos, trate de programar descansos o momentos de respiro si es posible. Incluso cinco minutos de atención plena pueden ayudar a regular el estrés y la frustración. Consulte la sección Manejar El Estrés de esta aplicación para conocer las diferentes herramientas que pueden ayudar con los sentimientos  abrumadores."
+      },
+      {
+        "type": "text",
+        "content": "También es importante buscar ayuda cuando las cosas se sientan difíciles de manejar. Los recursos a continuación pueden brindar asistencia a los cuidadores:"
+      },
+      {
+        "type": "title",
+        "content": "Red De Acción De Cuidadores"
+      },
+      {
+        "type": "text",
+        "content": "a Red De Acción De Cuidadores tiene una línea directa gratuita para cuidadores. También tienen muchos recursos relacionados con los cuidados durante el COVID-19."
+      },
+      {
+        "type": "link_phone",
+        "content": "Llamar a la Red De Acción De Cuidadores",
+        "imageButton": true,
+        "full": true,
+        "link": "855-227-3640"
+      },
+      {
+        "type": "link",
+        "content": "Chatear con  la Red De Acción De Cuidadores",
+        "imageButton": true,
+        "full": true,
+        "link": "https://caregiveraction.org"
+      },
+      {
+        "type": "title",
+        "content": "Alianza De Cuidadores Familiares"
+      },
+      {
+        "type": "text",
+        "content": "La Alianza De Cuidadores Familiares también tiene recursos y programas de apoyo para cuidadores y ofrece una línea directa durante el horario comercial."
+      },
+      {
+        "type": "link_phone",
+        "content": "Llamar a la Alianza De Cuidadores Familiares",
+        "imageButton": true,
+        "full": true,
+        "link": "800-445-8106"
+      },
+      {
+        "type": "link",
+        "content": "Sitio web de Caregiver Alliance",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.caregiver.org/spanish"
+      },
+      {
+        "type": "title",
+        "content": "Asociación de Alzheimer"
+      },
+      {
+        "type": "text",
+        "content": "Si está cuidando a alguien con demencia, la Asociación de Alzheimer tiene una línea de ayuda 24/7. Su ser querido no tiene que tener la enfermedad de Alzheimer, puede tener cualquier tipo de demencia para que usted reciba apoyo allí."
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame a la Asociación de Alzheimer",
+        "imageButton": true,
+        "full": true,
+        "link": "1-800-272-3900"
+      },
+      {
+        "type": "link",
+        "content": "Sitio web de la Asociación de Alzheimer",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.alz.org/acerca-de-nosotros?lang=es-MX"
+      },
+      {
+        "type": "title",
+        "content": "Programa De Apoyo De VA Cuidadores"
+      },
+      {
+        "type": "text",
+        "content": "El Programa De Apoyo De VA Cuidadores brinda ayuda a las personas que trabajan con veteranos. Conéctese con otros cuidadores, proveedores de atención médica e información importante sobre cómo el VA puede ayudar a los cuidadores."
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame al Servicio De Apoyo Para Cuidadores De VA",
+        "imageButton": true,
+        "full": true,
+        "link": "1-855-260-3274"
+      },
+      {
+        "type": "link",
+        "content": "Sitio web de Apoyo Para Cuidadores De VA",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.caregiver.va.gov/Care_Caregivers.asp"
+      }
+    ]
+  },
+  {
+    "displayName": "Alianza Antirracista",
+    "id": 300003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los aliados blancos son individuos que se oponen a las muchas formas de opresión que experimentan las personas de color. Aprender lo que significa ser un aliado es un paso importante que la gente blanca puede dar para combatir el racismo."
+      },
+      {
+        "type": "text",
+        "content": "Para convertirse en un aliado solidario, es importante aprender que hay muchas formas en que las personas pueden contribuir al racismo en su vida cotidiana de las que es posible que no sean conscientes. Ser un aliado solidario significa intentar cambiar los comportamientos que contribuyen al racismo y concienciar a los demás sobre cómo estos comportamientos causan daño a las personas de color."
+      },
+      {
+        "type": "text",
+        "content": "Aquí hay algunos recursos sobre cómo apoyar a las personas de color, intervenir cuando ocurre el racismo y encontrar el apoyo de otras personas blancas que quieren estar junto a las personas de color en la lucha contra el racismo:"
+      },
+      {
+        "type": "text",
+        "content": "Lea sobre los tipos de apoyo que las personas de color necesitan de los aliados blancos y aprenda sobre tácticas para marcar la diferencia"
+      },
+      {
+        "type": "link",
+        "content": "Como Ser Un Aliado Eficaz En La Lucha Contra El Racismo",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.sandiegouniontribune.com/en-espanol/noticias/ut-espanol/artculo/2020-06-13/como-ser-un-aliado-eficaz-en-la-lucha-contra-el-racismo"
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información, visite el sitio web Liga de Ciudadanos Latinoamericanos Unidos, donde puede encontrar lecturas sugeridas, podcasts, folletos y otros recursos para combatir el racismo."
+      },
+      {
+        "type": "link",
+        "content": "Recursos Anitrracistas En Español",
+        "imageButton": true,
+        "full": true,
+        "link": "https://lulac.org/blacklivesmatter/BLM_Recursos_antirracistas_en_espanol.pdf"
+      },
+      {
+        "type": "text",
+        "content": "Aprenda a hablar e intervenir de manera segura si es testigo de instancias públicas de racismo."
+      },
+      {
+        "type": "link",
+        "content": "Intervención De Espectadores",
+        "imageButton": true,
+        "full": true,
+        "link": "https://cnnespanol.cnn.com/2018/05/18/ataque-racista-que-hacer-estados-unidos/"
+      },
+      {
+        "type": "text",
+        "content": "Considere iniciar o unirse a un grupo de afinidad antirracista como un espacio de reflexión y conversación constructiva sobre el privilegio blanco y el racismo estructural. Un grupo de afinidad es una asamblea de personas que comparten un elemento común de identidad y se reúnen para reflexionar sobre sus experiencias compartidas."
+      },
+      {
+        "type": "text",
+        "content": "Puede leer más sobre cómo los grupos de afinidad pueden ser un espacio productivo para que las personas blancos se desafíen a sí mismos en la lucha contra el racismo aquí:"
+      },
+      {
+        "type": "link",
+        "content": "Grupos Antirracismo Enlace",
+        "imageButton": true,
+        "full": true,
+        "link": "https://urbanedjournal.gse.upenn.edu/sites/default/files/pdf_archive/56-60--Michael_and_Conger.pdf"
+      }
+    ]
+  }
+]

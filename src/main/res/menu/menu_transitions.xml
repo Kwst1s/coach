@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/trans_slide" android:title="@string/slide"/>
+    <item android:id="@+id/trans_crossfade" android:title="@string/crossfade"/>
+    <item android:id="@+id/trans_fade_to_white" android:title="@string/fade_to_white"/>
+</menu>

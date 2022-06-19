@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/s_p_timer_layout" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_mlarge" android:textColor="@android:color/black" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/s_p_timer_txt_time_passed" android:background="@android:color/white" android:paddingLeft="@dimen/padding_mmlarge" android:paddingTop="@dimen/padding_large" android:paddingRight="@dimen/padding_mmlarge" android:paddingBottom="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="00:00" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextureView android:id="@+id/s_p_timer_video_sview" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <LinearLayout android:orientation="horizontal" android:paddingBottom="@dimen/padding_medium" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="31dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+            <vainstrum.Components.FABTracking android:id="@+id/s_p_timer_fab_play_pause" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_play" android:tint="@android:color/white" app:fabSize="0"/>
+            <View android:layout_width="@dimen/padding_mmlarge" android:layout_height="1dp"/>
+            <vainstrum.Components.FABTracking android:id="@+id/s_p_timer_fab_stop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_stop" android:tint="@color/colorAccent" android:contentDescription="@string/stop" app:fabSize="0" app:tracking_id="33496"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

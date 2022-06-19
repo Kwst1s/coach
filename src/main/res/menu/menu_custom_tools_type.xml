@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_c_t_text" android:title="@string/text" android:contentDescription="@string/text_button"/>
+    <item android:id="@+id/menu_c_t_memo" android:title="@string/memo" android:contentDescription="@string/memo_button"/>
+    <item android:id="@+id/menu_c_t_music" android:title="@string/music" android:contentDescription="@string/music_button"/>
+    <item android:id="@+id/menu_c_t_photo" android:title="@string/photo" android:contentDescription="@string/photo_button"/>
+    <item android:id="@+id/menu_c_t_video" android:title="@string/video" android:contentDescription="@string/video_button"/>
+</menu>

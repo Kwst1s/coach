@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:id="@+id/rid_history_layout_table" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TableLayout android:gravity="center_horizontal" android:id="@+id/rid_history_table" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large">
+                <TableRow android:gravity="center_horizontal" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_medium">
+                    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/date" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+                    <View android:layout_width="@dimen/padding_xlarge" android:layout_height="1px"/>
+                    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/trigger" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+                </TableRow>
+            </TableLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:id="@+id/rid_history_txt_empty" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_rid_data" android:layout_centerInParent="true" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+</RelativeLayout>

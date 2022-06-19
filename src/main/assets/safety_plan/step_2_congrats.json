@@ -1,0 +1,11 @@
+[{
+		"type": "title",
+		"gravity":0,
+		"content": "Well Done"
+	},
+	{
+		"type": "text",
+		"gravity":0,
+		"content": "Well done! Visit this step any time you need a distraction."
+	}
+]

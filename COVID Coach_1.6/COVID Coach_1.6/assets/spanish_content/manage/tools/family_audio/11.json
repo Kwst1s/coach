@@ -1,0 +1,21 @@
+{
+	"filename": "mindful_breathing.mp3",
+	"filename_es": "Mindful-Breathing.mp3",
+	"title": "Respiración consciente",
+	"display_title": "Respiración consciente",
+	"subtitle":"sub_mindful_breathing",
+	"intro_text": [{
+			"type": "text",
+			"content": "Para este ejercicio, busque un lugar cómodo y silencioso en el que se pueda sentar sin que se distraiga."
+		},
+		{
+			"type": "text",
+			"content": "Tenga en cuenta que habrá pausas durante la grabación para que pueda practicar sin distracción."
+		},
+		{
+			"type": "text",
+			"content": "Tiempo estimado: 9 minutos."
+		}
+	],
+	"image": "t11"
+}

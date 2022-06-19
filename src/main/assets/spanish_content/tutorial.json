@@ -1,0 +1,43 @@
+[{
+		"title": "Aprender",
+		"text": "Aprenda todo lo necesario sobre el PTSD- tanto para usted como para un ser querido.",
+		"image": "learn_tutorial_img"
+	},
+	{
+		"title": "Registro de síntomas",
+		"text": "Observe su progreso con el tiempo y reciba comentarios específicos para usted.",
+		"image": "track_tutorial_img"
+	},
+	{
+		"title": "Manejo de síntomas",
+		"text": "Añada sus herramientas o ejercicios favoritos para manejar el estrés.",
+		"image": "manage_tutorial_img"
+	},
+	{
+		"title": "Reciba apoyo",
+		"text": "Conéctese con la ayuda y los recursos que le puedan brindar verdadero apoyo cuando lo necesite.",
+		"image": "support_tutorial_img"
+	},
+	{
+		"title": "¡Bienvenidos a la versión en español de PTSD Coach!",
+		"text": [{
+			"type": "text",
+			"content": "¡Bienvenidos a PTSD Coach, la versión en español de una aplicación desarrollada por sobrevivientes de trastorno de estrés postraumático, comúnmente conocido por sus siglas en inglés, PTSD. Esta aplicación no le diagnosticará si padece de trastorno de estrés posttraumático, o TEPT como le llamaremos de aquí en adelante, ni le ofrecerá tratamiento, ya que sólo un profesional especializado puede hacerlo. Pero sí le dará más información sobre este trastorno y le proporcionará herramientas que le ayudarán a controlar las tensiones que pudiera sentir después de haber vivido un episodio traumático."
+		}],
+		"text2": [{
+				"type": "text",
+				"content": "Usted podrá personalizar la aplicación agregando:"
+			},
+
+			{
+				"type": "list",
+				"content": ["Información de contacto de amigos, seres queridos y/o profesionales que pueden ayudarle en momentos de estrés", "Imágenes a su celular que le resulten reconfortantes o divertidas", "Canciones relajantes a su celular o dispositivo electrónico que lo hagan sentir de buen humor"]
+			},
+			{
+				"type": "text",
+				"content": "Puede cambiar sus preferencias en cualquier momento visitando la sección de configuración en la pantalla inicial."
+			}
+		],
+		"image": ""
+	}
+]

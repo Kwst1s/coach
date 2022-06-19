@@ -1,0 +1,25 @@
+[{
+			"name": "Enfadado/a",
+			"children": ["Traicionado/a", "Amargado/a", "Crítico/a", "Desolado/a", "Disgustado/a", "Frustrado/a", "Furioso/a", "Odiando", "Hostil", "Herido/a", "Irritado/a", "Resentido/a"]
+		},
+		{
+			"name": "Alegre",
+			"children": ["Vivo/a", "Jovial", "Creativo/a", "Curioso/a", "Atrevido/a", "Esperanzado/a", "Imaginativo/a", "Desenfado/a", "Optimista", "Juguetón/a", "Sensual", "Estimulante"]
+		},
+		{
+			"name": "Poderoso/a",
+			"children": ["Apreciado/a", "Confiado/a", "Perspicaz", "Energético/a", "Nutrido/a", "Orgulloso/a", "Respetado/a", "Sensible", "Exitoso/a", "Agradecido/a", "Valorado/a", "Valioso/a"]
+		},
+		{
+			"name": "Triste",
+			"children": ["Avergonzado/a", "Aburrido/a", "Distante", "Deprimido/a", "Desesperado/a", "Desconectado/a", "Vacío/a", "Desesperanzado/a", "Humillado/a", "Solitario/a", "Cansado/a", "Sin valor"]
+		},
+		{
+			"name": "Seguro/a",
+			"children": ["Aceptado/a", "Calmado/a", "Querido/a", "Abierto/a", "En paz", "Protegido/a", "Tranquilo/a", "Relajado/a", "Seguro/a", "Pensativo", "Comprendido/a", "Calido/a"]
+		},
+		{
+			"name": "Asustado/a",
+			"children": ["Abandonado/a", "Ansioso/a", "Desconcertado/a", "Impotente", "Inadecuado/a", "Insignificante", "Entumecido/a", "Abrumado/a", "Paralizado/a", "Conmocionado/a", "Atrapado/a", "Vulnerable"]
+		}
+	]

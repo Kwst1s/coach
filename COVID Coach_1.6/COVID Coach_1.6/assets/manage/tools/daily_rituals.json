@@ -1,0 +1,102 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "Morning Rituals",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Are there morning routines you share with your loved one?  Coffee? A hug? A few words? A text?"
+			}
+		],
+		"image":"img_dr_1",
+		"message": "I like having a morning ritual with you. Can we..."
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Evening Conversation",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Try to have a conversation nearly every evening: just take turns sharing your experiences for the day, without interruption.  No phones, no distractions, just a short conversation."
+			}
+		],
+		"image": "img_dr_2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Talk Once a Day",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Talk at least once a day, and show your interest:"
+			},
+			{
+				"type": "list",
+				"content": ["Make good eye contact and","practicing really understanding what your loved one has to say"]
+			}
+		],
+		"image": "img_dr_3"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Let Them Complain",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Show your loved one that you’re on their side. If they’re upset or complaining:"
+			},
+			{
+				"type": "list",
+				"content": ["Don’t criticize","Find ways to take their side"]
+			}
+		],
+		"image": "img_dr_4"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Team Spirit",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Let your loved one know on a regular basis that you are on their team.  Let them know you can take things on together."
+			}
+		],
+		"image": "img_dr_5"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Showing Affection",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Find small ways to show affection with your loved one on a regular basis.  Could be a hand on the shoulder, a hug, a kiss, or anything the two of you feel comfortable sharing."
+			}
+		],
+		"image": "img_dr_6"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Send a Text",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Send your loved one a text, for no reason other than caring."
+			}
+		],
+		"image": "img_dr_7",
+		"message": "How’s your day going?"
+	}
+]

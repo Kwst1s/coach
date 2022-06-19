@@ -1,0 +1,5 @@
+You can rate your distress level on a scale of 0 to 10.<br>
+Distress can include anger, sadness, fear, pain, stress, worry or anything negative you are feeling.<br><br>
+0 means no distress at all.<br>
+10 means the worst distress you could imagine.<br><br>
+This will help you monitor your distress levels and figure out which tools in this app work best for you.

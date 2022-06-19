@@ -1,0 +1,236 @@
+[{
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you been bothered by having little interest or pleasure in doing things?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 0
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you been bothered by feeling down, depressed or hopeless"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 1
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often did you have trouble falling or staying asleep, or sleeping too much?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+
+	"number": 2
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you been feeling tired or having little energy?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 3
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often did you have a poor appetite or overeat?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 4
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you been feeling bad about yourself - or that you are a failure or have let yourself or your family down?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 5
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often did you have trouble concentrating on things, such as reading the newspaper or watching television?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 6
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you been moving or speaking so slowly that other people could have noticed. Or the opposite - been so fidgety or restless that you have been moving around a lot more than usual?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 7
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Over the last two weeks,"
+	}, {
+		"type": "text",
+		"content": "how often have you had thoughts that you would be better off dead, or of hurting yourself in some way?"
+	}],
+	"answers": [{
+			"answer": "Not at all",
+			"points": 0
+		},
+		{
+			"answer": "Several Days",
+			"points": 1
+		},
+		{
+			"answer": "More than half the days",
+			"points": 2
+		},
+		{
+			"answer": "Nearly every day",
+			"points": 3
+		}
+	],
+	"number": 8
+}]

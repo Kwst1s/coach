@@ -1,0 +1,2752 @@
+{
+	"10221": {
+		"name": "Tap To Accept",
+		"view": "License Agreement"
+	},
+
+	"10249": {
+		"name": "Get Started",
+		"view": "Tutorial"
+	},
+
+	"11192": {
+		"name": "Next",
+		"view": "Tutorial"
+	},
+
+	"11226": {
+		"name": "Previous",
+		"view": "Tutorial"
+	},
+
+	"11804": {
+		"name": "Personalize Now",
+		"view": "Tutorial"
+	},
+
+	"11855": {
+		"name": "Home",
+		"view": "Tutorial"
+	},
+
+	"11897": {
+		"name": "Choose Support Contacts",
+		"view": "Personalize"
+	},
+
+	"11916": {
+		"name": "Choose Soothing Pictures",
+		"view": "Personalize"
+	},
+
+	"11955": {
+		"name": "Choose Soothing Songs",
+		"view": "Personalize"
+	},
+
+	"11963": {
+		"name": "Inspiring quotes on home screen switch on",
+		"view": "Personalize"
+	},
+
+	"12258": {
+		"name": "Inspiring quotes on home screen switch off",
+		"view": "Personalize"
+	},
+
+	"12263": {
+		"name": "Distress Meter switch on",
+		"view": "Personalize"
+	},
+
+	"12480": {
+		"name": "Distress Meter switch off",
+		"view": "Personalize"
+	},
+
+	"12529": {
+		"name": "Language",
+		"view": "Personalize"
+	},
+
+	"12723": {
+		"name": "Reminders",
+		"view": "Home"
+	},
+	
+	"12724": {
+		"name": "Info",
+		"view": "Home"
+	},
+
+	"12766": {
+		"name": "Home",
+		"view": "Home"
+	},
+
+	"12782": {
+		"name": "How To Use This App",
+		"view": "Home"
+	},
+
+	"13163": {
+		"name": "Personalize",
+		"view": "Home"
+	},
+
+	"13183": {
+		"name": "Manage Data",
+		"view": "Home"
+	},
+
+	"13233": {
+		"name": "Privacy Policy",
+		"view": "Home"
+	},
+	
+	"13238": {
+		"name": "Safety Plan",
+		"view": "Home"
+	},
+	
+	"13538": {
+		"name": "About COVID Coach",
+		"view": "Home"
+	},
+
+	"13632": {
+		"name": "Send Us Feedback",
+		"view": "Home"
+	},
+
+	"14099": {
+		"name": "Share This App",
+		"view": "Home"
+	},
+
+	"14581": {
+		"name": "Open Menu",
+		"view": "Home"
+	},
+
+	"14584": {
+		"name": "Manage Stress",
+		"view": "Home"
+	},
+
+	"14920": {
+		"name": "Mood Check",
+		"view": "Home"
+	},
+
+	"15106": {
+		"name": "Learn",
+		"view": "Home"
+	},
+
+	"15215": {
+		"name": "Find Resources",
+		"view": "Home"
+	},
+	
+	
+	"15218": {
+		"name": "Previous Favorite Tool",
+		"view": "Home"
+	},
+
+	"15219": {
+		"name": "Next Favorite Tool",
+		"view": "Home"
+	},
+
+	"15289": {
+		"name": "Add a favorite",
+		"view": "Home"
+	},
+
+	"15744": {
+		"name": "Provide Anonymous Usage Data switch on",
+		"view": "Manage Data"
+	},
+
+	"15865": {
+		"name": "Provide Anonymous Usage Data switch off",
+		"view": "Manage Data"
+	},
+
+	"15898": {
+		"name": "Export Mood Check Data",
+		"view": "Manage Data"
+	},
+
+	"15973": {
+		"name": "Delete Mood Check Data",
+		"view": "Manage Data"
+	},
+
+	"16124": {
+		"name": "Reset Tool Preferences",
+		"view": "Manage Data"
+	},
+
+	"16490": {
+		"name": "Delete All Data",
+		"view": "Manage Data"
+	},
+
+	"16626": {
+		"name": "About COVID Coach",
+		"view": "About"
+	},
+
+	"16667": {
+		"name": "Project Team",
+		"view": "About"
+	},
+
+	"17064": {
+		"name": "Partners",
+		"view": "About"
+	},
+
+	"17192": {
+		"name": "Credits",
+		"view": "About"
+	},
+
+	"17637": {
+		"name": "Send Us Feedback",
+		"view": "Send Us Feedback"
+	},
+
+	"17969": {
+		"name": "Volunteer for user testing",
+		"view": "Send Us Feedback"
+	},
+	
+	"17973": {
+		"name": "Make Safety Plan Better",
+		"view": "Send Us Feedback"
+	},
+
+	"18148": {
+		"name": "Share This App",
+		"view": "Share This App"
+	},
+	
+	"18309": {
+		"name": "Close Menu",
+		"view": "Home"
+	},
+
+	"18319": {
+		"name": "Open Menu",
+		"view": "Home"
+	},
+
+	"18537": {
+		"name": "Cancel",
+		"view": "Add a favorite"
+	},
+
+	"18577": {
+		"name": "Save",
+		"view": "Add a favorite"
+	},
+
+	"18916": {
+		"name": "Home",
+		"view": "Manage"
+	},
+
+	"18932": {
+		"name": "Help",
+		"view": "Manage"
+	},
+
+	"19211": {
+		"name": "Symptoms",
+		"view": "Manage"
+	},
+
+	"19315": {
+		"name": "Tools",
+		"view": "Manage"
+	},
+
+	"19551": {
+		"name": "Favorites",
+		"view": "Manage"
+	},
+
+	"20637": {
+		"name": "Create Tool",
+		"view": "Manage"
+	},
+
+	"20654": {
+		"name": "Add a favorite",
+		"view": "Manage"
+	},
+
+	"20787": {
+		"name": "Set A Goal",
+		"view": "Track"
+	},
+
+	"20788": {
+		"name": "Track Well-Being",
+		"view": "Track"
+	},
+	
+	"20789": {
+		"name": "Track Anxiety",
+		"view": "Track"
+	},
+	
+	"20790": {
+		"name": "Track Mood",
+		"view": "Track"
+	},
+
+	"20790": {
+		"name": "Track Mood",
+		"view": "Track"
+	},
+	
+	"20791": {
+		"name": "Track PTSD Symptoms",
+		"view": "Track"
+	},
+	
+	"20867": {
+		"name": "Assessment History",
+		"view": "Track"
+	},
+
+	"20870": {
+		"name": "Schedule Assessment",
+		"view": "Track"
+	},
+
+	"20885": {
+		"name": "Staying Well",
+		"view": "Learn"
+	},
+	
+	"20886": {
+		"name": "Staying Balanced",
+		"view": "Learn"
+	},
+	
+	"20887": {
+		"name": "Staying Together",
+		"view": "Learn"
+	},
+	
+	"20888": {
+		"name": "Staying Safe",
+		"view": "Learn"
+	},
+	
+	"20889": {
+		"name": "Staying Healthy",
+		"view": "Learn"
+	},
+
+	"20892": {
+		"name": "Getting Professional Help",
+		"view": "Learn"
+	},
+
+	"20974": {
+		"name": "PTSD And Family",
+		"view": "Learn"
+	},
+
+	"21200": {
+		"name": "Crisis Resources",
+		"view": "Support"
+	},
+
+	"21421": {
+		"name": "Find Professional Care",
+		"view": "Support"
+	},
+
+	"22023": {
+		"name": "Grow Your Support",
+		"view": "Support"
+	},
+
+	"22418": {
+		"name": "Thumbs Up Selected",
+		"view": "Tool"
+	},
+
+	"22428": {
+		"name": "Thumbs Up Deselected",
+		"view": "Tool"
+	},
+
+	"22549": {
+		"name": "Add Contact",
+		"view": "Crisis Resources"
+	},
+
+	"22609": {
+		"name": "Someone You Trust",
+		"view": "Grow Your Support"
+	},
+
+	"22643": {
+		"name": "Feeling Alone",
+		"view": "Grow Your Support"
+	},
+
+	"22854": {
+		"name": "Growing Your Support",
+		"view": "Grow Your Support"
+	},
+
+	"22958": {
+		"name": "Do Not Show This Message Again On",
+		"view": "Assessment"
+	},
+
+	"23113": {
+		"name": "Do Not Show This Message Again Off",
+		"view": "Assessment"
+	},
+
+	"23352": {
+		"name": "Next",
+		"view": "Assessment"
+	},
+
+	"23353": {
+		"name": "Set a reminder",
+		"view": "Assessment in 7 days"
+	},
+
+	"23354": {
+		"name": "Take it now",
+		"view": "Assessment in 7 days"
+	},
+
+	"23472": {
+		"name": "Not At All",
+		"view": "Assessment"
+	},
+
+	"23558": {
+		"name": "A Little Bit",
+		"view": "Assessment"
+	},
+
+	"23938": {
+		"name": "Moderately",
+		"view": "Assessment"
+	},
+
+	"23968": {
+		"name": "Quite A Bit",
+		"view": "Assessment"
+	},
+
+	"24016": {
+		"name": "Extremely",
+		"view": "Assessment"
+	},
+
+	"24451": {
+		"name": "Done",
+		"view": "Assessment Results"
+	},
+
+	"24743": {
+		"name": "Graph",
+		"view": "Assessment History"
+	},
+
+	"24857": {
+		"name": "Details",
+		"view": "Assessment History"
+	},
+
+	"24923": {
+		"name": "Export",
+		"view": "Assessment History"
+	},
+
+	"25109": {
+		"name": "My Feedback",
+		"view": "Assessment Details"
+	},
+
+	"25356": {
+		"name": "Assessment Reminder On",
+		"view": "Reminders"
+	},
+
+	"26149": {
+		"name": "Assessment Reminder Off",
+		"view": "Reminders"
+	},
+
+	"26557": {
+		"name": "Assessment Reminder Frequency",
+		"view": "Reminders"
+	},
+
+	"27085": {
+		"name": "Assessment Reminder Day",
+		"view": "Reminders"
+	},
+
+	"27724": {
+		"name": "Assessment Reminder Time",
+		"view": "Reminders"
+	},
+	
+	"27725": {
+		"name": "Safety Plan Reminder On",
+		"view": "Reminders"
+	},
+
+	"27726": {
+		"name": "Safety Plan Reminder Off",
+		"view": "Reminders"
+	},
+
+	"27727": {
+		"name": "Safety Plan Reminder Frequency",
+		"view": "Reminders"
+	},
+
+	"27728": {
+		"name": "Safety Plan Reminder Day",
+		"view": "Reminders"
+	},
+
+	"27729": {
+		"name": "Safety Plan Reminder Time",
+		"view": "Reminders"
+	},
+
+	"27748": {
+		"name": "Daily Inspiring Quotes On",
+		"view": "Reminders"
+	},
+
+	"27767": {
+		"name": "Daily Inspiring Quotes Off",
+		"view": "Reminders"
+	},
+
+	"27977": {
+		"name": "Daily Inspiring Quotes Time",
+		"view": "Reminders"
+	},
+
+	"28049": {
+		"name": "Find VA Alcohol and Drug Programs Near You",
+		"view": "Finding Treatment For Veterans"
+	},
+
+	"28108": {
+		"name": "Find a VA Caregiver Support Program Near You",
+		"view": "Finding Treatment For Veterans"
+	},
+
+	"28157": {
+		"name": "Find a Vet Center Near You",
+		"view": "Finding Treatment For Veterans"
+	},
+
+	"28182": {
+		"name": "Close",
+		"view": "Fullscreen Images"
+	},
+
+	"28190": {
+		"name": "Distress Meter Up",
+		"view": "Distress Meter"
+	},
+
+	"28293": {
+		"name": "Distress Meter Down",
+		"view": "Distress Meter"
+	},
+
+	"28344": {
+		"name": "Next",
+		"view": "Distress Meter"
+	},
+
+	"28680": {
+		"name": "Skip",
+		"view": "Distress Meter"
+	},
+
+	"28772": {
+		"name": "Done",
+		"view": "Distress Changed"
+	},
+
+	"29065": {
+		"name": "Try Another Tool",
+		"view": "Distress Changed"
+	},
+
+	"29204": {
+		"name": "Use This Tool Again",
+		"view": "Distress Changed"
+	},
+
+	"29329": {
+		"name": "No, give me a tool",
+		"view": "High Distress"
+	},
+
+	"29410": {
+		"name": "Yes, talk to someone now",
+		"view": "High Distress"
+	},
+
+	"29521": {
+		"name": "Play",
+		"view": "Audio Tool"
+	},
+
+	"30017": {
+		"name": "Pause",
+		"view": "Audio Tool"
+	},
+
+	"30525": {
+		"name": "Continue",
+		"view": "Pre - AudioTool"
+	},
+	
+	"30600": {
+		"name": "New Tool",
+		"view": "Tool"
+	},
+	
+	"30601": {
+		"name": "Thumb Up Selected",
+		"view": "Tool"
+	},
+	
+	"30602": {
+		"name": "Thumb Up Deselected",
+		"view": "Tool"
+	},
+
+	"30603": {
+		"name": "Thumb Down Selected",
+		"view": "Tool"
+	},
+
+	"30604": {
+		"name": "Thumb Down Deselected",
+		"view": "Tool"
+	},
+		
+	"30606": {
+		"name": "Add Image",
+		"view": "Tool"
+	},
+	
+	"30607": {
+		"name": "Fullscreen",
+		"view": "Tool"
+	},
+	
+	"30608": {
+		"name": "Add",
+		"view": "Tool"
+	},
+	
+	"30609": {
+		"name": "Next Content",
+		"view": "Tool"
+	},
+	
+	"30610": {
+		"name": "Previous Content",
+		"view": "Tool"
+	},
+	
+	"30611": {
+		"name": "Closed Captions Enabled",
+		"view": "Tool"
+	},
+	
+	"30612": {
+		"name": "Closed Captions Disabled",
+		"view": "Tool"
+	},
+
+	"30613": {
+		"name": "Open link",
+		"view": "Tool"
+	},
+	
+	"30614": {
+		"name": "Share",
+		"view": "Tool"
+	},
+	
+	"30615": {
+		"name": "Add to calendar",
+		"view": "Tool"
+	},
+	
+	"30616": {
+		"name": "Send a message",
+		"view": "Tool"
+	},
+	
+	"30617": {
+		"name": "Delete custom tool",
+		"view": "Tool"
+	},
+	
+	"30620": {
+		"name": "Manage",
+		"view": "Tabs"
+	},
+	
+	"30621": {
+		"name": "Check",
+		"view": "Tool"
+	},
+	
+	"30622": {
+		"name": "Learn",
+		"view": "Tool"
+	},
+	
+	"30623": {
+		"name": "Resources",
+		"view": "Tool"
+	},
+		
+	"31330": {
+		"name": "Instructions Switch On",
+		"view": "Seated Practice"
+	},
+
+	"31348": {
+		"name": "Instructions Switch Off",
+		"view": "Seated Practice"
+	},
+	
+	"31349": {
+		"name": "Duration",
+		"view": "Seated Practice"
+	},
+	
+	"31350": {
+		"name": "Tone",
+		"view": "Seated Practice"
+	},
+	
+	"31463": {
+		"name": "Duration",
+		"view": "Seated Practice"
+	},
+
+	"31538": {
+		"name": "Tone",
+		"view": "Seated Practice"
+	},
+
+	"31599": {
+		"name": "Start Exercise",
+		"view": "Seated Practice"
+	},
+
+	"31808": {
+		"name": "Play",
+		"view": "Seated Practice Instructions"
+	},
+
+	"32225": {
+		"name": "Pause",
+		"view": "Seated Practice Instructions"
+	},
+
+	"32746": {
+		"name": "Next",
+		"view": "Seated Practice Instructions"
+	},
+
+	"33092": {
+		"name": "Play",
+		"view": "Seated Practice"
+	},
+
+	"33370": {
+		"name": "Pause",
+		"view": "Seated Practice"
+	},
+
+	"33496": {
+		"name": "Stop",
+		"view": "Seated Practice"
+	},
+
+	"33497": {
+		"name": "Done",
+		"view": "Seated Practice"
+	},
+
+	"33800": {
+		"name": "Add a feeling",
+		"view": "My Feelings"
+	},
+
+	"33801": {
+		"name": "Save",
+		"view": "My Feelings"
+	},
+
+	"33811": {
+		"name": "Delete feeling",
+		"view": "My Feelings"
+	},
+	
+	"34451": {
+		"name": "Next",
+		"view": "My Feelings"
+	},
+
+	"34725": {
+		"name": "Done",
+		"view": "My Feelings"
+	},
+
+	"35006": {
+		"name": "Delete \"I\" Message",
+		"view": "Using \"I\" Messages"
+	},
+
+	"35135": {
+		"name": "Help what bother loved one",
+		"view": "Using \"I\" Messages"
+	},
+
+	"35149": {
+		"name": "Help I feel",
+		"view": "Using \"I\" Messages"
+	},
+
+	"35183": {
+		"name": "Help because",
+		"view": "Using \"I\" Messages"
+	},
+
+	"35491": {
+		"name": "Save",
+		"view": "Using \"I\" Messages"
+	},
+
+	"35762": {
+		"name": "Begin",
+		"view": "RID"
+	},
+
+	"35763": {
+		"name": "View History",
+		"view": "RID"
+	},
+
+	"35785": {
+		"name": "Start 30 Seconds Of Relax",
+		"view": "RID"
+	},
+
+	"35807": {
+		"name": "Schedule Worry Time Reminder Switch On",
+		"view": "Schedule Worry Time"
+	},
+
+	"35902": {
+		"name": "Schedule Worry Time Reminder Switch Off",
+		"view": "Schedule Worry Time"
+	},
+
+	"35942": {
+		"name": "Schedule Worry Time Reminder Time",
+		"view": "Schedule Worry Time"
+	},
+
+	"36010": {
+		"name": "Add strenght",
+		"view": "Seeing My Strengths"
+	},
+
+	"36096": {
+		"name": "Save",
+		"view": "Seeing My Strengths"
+	},
+
+	"36173": {
+		"name": "Delete",
+		"view": "Seeing My Strengths"
+	},
+
+	"36189": {
+		"name": "Help one thing you like about yourself",
+		"view": "Seeing My Strengths"
+	},
+
+	"36302": {
+		"name": "Add Image",
+		"view": "Seeing My Strengths"
+	},
+
+	"36341": {
+		"name": "Activities For Winding Down",
+		"view": "Good Sleep Habits"
+	},
+
+	"36466": {
+		"name": "Activities To Keep Me Awake",
+		"view": "Good Sleep Habits"
+	},
+
+	"36704": {
+		"name": "Activities For When I Can't Sleep",
+		"view": "Good Sleep Habits"
+	},
+
+	"36860": {
+		"name": "Activities To Help Me Wake Up",
+		"view": "Good Sleep Habits"
+	},
+
+	"36916": {
+		"name": "Wind Down Reminder Switch On",
+		"view": "Wind Down"
+	},
+
+	"37052": {
+		"name": "Wind Down Reminder Switch Off",
+		"view": "Wind Down"
+	},
+
+	"37312": {
+		"name": "Wind Down Reminder Timer",
+		"view": "Wind Down"
+	},
+
+	"37343": {
+		"name": "Help",
+		"view": "Wind Down"
+	},
+
+	"37381": {
+		"name": "Help",
+		"view": "Stay Awake"
+	},
+
+	"37392": {
+		"name": "Help",
+		"view": "Can't Sleep"
+	},
+
+	"37653": {
+		"name": "Help",
+		"view": "Wake Up"
+	},
+	
+	"37698": {
+		"name": "Start",
+		"view": "Soothing Audio"
+	},
+
+	"37699": {
+		"name": "Edit Music List",
+		"view": "Soothing Audio"
+	},
+
+	"37825": {
+		"name": "Next Song",
+		"view": "Soothing Audio"
+	},
+
+	"38334": {
+		"name": "Play",
+		"view": "Soothing Audio"
+	},
+
+	"38503": {
+		"name": "Pause",
+		"view": "Soothing Audio"
+	},
+
+	"38656": {
+		"name": "Next Image",
+		"view": "Soothing Images"
+	},
+
+	"38683": {
+		"name": "Add image",
+		"view": "Soothing Images"
+	},
+
+	"39149": {
+		"name": "Fullscreen",
+		"view": "Soothing Images"
+	},
+
+	"39407": {
+		"name": "Add",
+		"view": "Add Photos"
+	},
+
+	"39508": {
+		"name": "Settings",
+		"view": "Add Photos"
+	},
+
+	"39861": {
+		"name": "Close Edit Mode",
+		"view": "Add Photos"
+	},
+
+	"39924": {
+		"name": "Delete Photos",
+		"view": "Add Photos"
+	},
+
+	"40089": {
+		"name": "Save",
+		"view": "Slideshow Settings"
+	},
+
+	"40431": {
+		"name": "Time",
+		"view": "Slideshow Settings"
+	},
+
+	"40508": {
+		"name": "Transition Effects",
+		"view": "Slideshow Settings"
+	},
+
+	"40547": {
+		"name": "Cancel",
+		"view": "Slideshow Settings"
+	},
+
+	"40618": {
+		"name": "Continue",
+		"view": "Thought Shifting"
+	},
+
+	"40686": {
+		"name": "Take a time out",
+		"view": "Time Out"
+	},
+
+	"40774": {
+		"name": "Talk With Someone",
+		"view": "Finding treatment"
+	},
+
+	"40912": {
+		"name": "Find Recovery Groups",
+		"view": "Finding treatment"
+	},
+
+	"41022": {
+		"name": "Resources For Veterans",
+		"view": "Finding treatment"
+	},
+
+	"41052": {
+		"name": "Mental helth Providers",
+		"view": "Treatment Locator"
+	},
+	
+	"41053": {
+		"name": "SAMSHA Behavioral Health Treatment Services",
+		"view": "Treatment Locator"
+	},
+	
+	"41054": {
+		"name": "Veterans Affairs Treatment Facilities",
+		"view": "Treatment Locator"
+	},
+
+	"41260": {
+		"name": "Add music",
+		"view": "Create custom tool audio"
+	},
+
+	"41380": {
+		"name": "Play",
+		"view": "Create custom tool audio"
+	},
+
+	"41504": {
+		"name": "Pause",
+		"view": "Create custom tool audio"
+	},
+
+	"41686": {
+		"name": "Change audio",
+		"view": "Create custom tool audio"
+	},
+
+	"41740": {
+		"name": "Save",
+		"view": "Create custom tool audio"
+	},
+	
+	"41823": {
+		"name": "Start recording",
+		"view": "Create custom tool memo"
+	},
+
+	"41825": {
+		"name": "Stop recording",
+		"view": "Create custom tool memo"
+	},
+
+	"42068": {
+		"name": "Redo recording",
+		"view": "Create custom tool memo"
+	},
+
+	"42074": {
+		"name": "Save recording",
+		"view": "Create custom tool memo"
+	},
+
+	"42178": {
+		"name": "Add",
+		"view": "Create custom tool photo"
+	},
+
+	"42259": {
+		"name": "Change photo",
+		"view": "Create custom tool photo"
+	},
+
+	"42453": {
+		"name": "Save",
+		"view": "Create custom tool photo"
+	},
+
+	"42672": {
+		"name": "Save",
+		"view": "Create custom tool text"
+	},
+
+	"42958": {
+		"name": "Add",
+		"view": "Create custom tool video"
+	},
+
+	"43202": {
+		"name": "Play",
+		"view": "Create custom tool video"
+	},
+
+	"43207": {
+		"name": "Pause",
+		"view": "Create custom tool video"
+	},
+
+	"43260": {
+		"name": "Change video",
+		"view": "Create custom tool video"
+	},
+
+	"43318": {
+		"name": "Save",
+		"view": "Create custom tool video"
+	},
+
+	"43638": {
+		"name": "Type",
+		"view": "Create custom tool"
+	},
+
+	"43948": {
+		"name": "Save",
+		"view": "Create custom tool"
+	},
+
+	"43980": {
+		"name": "Type text",
+		"view": "Create custom tool"
+	},
+
+	"43981": {
+		"name": "Record Memo",
+		"view": "Create custom tool"
+	},
+
+	"44731": {
+		"name": "Select Song",
+		"view": "Create custom tool"
+	},
+
+	"44770": {
+		"name": "Select photo",
+		"view": "Create custom tool"
+	},
+
+	"44781": {
+		"name": "Select Video",
+		"view": "Create custom tool"
+	},
+
+	"45034": {
+		"name": "View My Plan",
+		"view": "Safety Plan"
+	},
+
+	"45060": {
+		"name": "Get Support Now",
+		"view": "Safety Plan"
+	},
+
+	"45063": {
+		"name": "Set Reminders",
+		"view": "Safety Plan"
+	},
+
+	"45570": {
+		"name": "Step 1",
+		"view": "Safety Plan"
+	},
+
+	"45656": {
+		"name": "Step 2",
+		"view": "Safety Plan"
+	},
+
+	"45892": {
+		"name": "Step 3",
+		"view": "Safety Plan"
+	},
+
+	"46264": {
+		"name": "Step 4",
+		"view": "Safety Plan"
+	},
+
+	"46419": {
+		"name": "Step 5",
+		"view": "Safety Plan"
+	},
+
+	"47216": {
+		"name": "Step 6",
+		"view": "Safety Plan"
+	},
+
+	"47433": {
+		"name": "Export and share",
+		"view": "Safety Plan"
+	},
+	
+	"47449": {
+		"name": "Learn more",
+		"view": "Safety Plan"
+	},
+
+	"47598": {
+		"name": "Add warning sign",
+		"view": "Step 1"
+	},
+
+	"47781": {
+		"name": "Edit warning sign",
+		"view": "Step 1"
+	},
+
+	"47906": {
+		"name": "Cancel",
+		"view": "My Warning Signs"
+	},
+
+	"48279": {
+		"name": "Save",
+		"view": "My Warning Signs"
+	},
+
+	"48504": {
+		"name": "Add Coping Strategy",
+		"view": "Step 2"
+	},
+
+	"48809": {
+		"name": "Edit Coping Strategy",
+		"view": "Step 2"
+	},
+
+	"48885": {
+		"name": "Cancel",
+		"view": "My Coping Strategy"
+	},
+
+	"49034": {
+		"name": "Save",
+		"view": "My Coping Strategy"
+	},
+
+	"49139": {
+		"name": "Add a tool from COVID Coach",
+		"view": "My Coping Strategy"
+	},
+
+	"49373": {
+		"name": "Cancel",
+		"view": "My Places"
+	},
+
+	"49414": {
+		"name": "Save",
+		"view": "My Places"
+	},
+
+	"49415": {
+		"name": "Add Contacts",
+		"view": "Step 3"
+	},
+
+	"50066": {
+		"name": "Add Places",
+		"view": "Step 3"
+	},
+
+	"50092": {
+		"name": "Add Contacts",
+		"view": "Step 4"
+	},
+
+	"50341": {
+		"name": "Add Contacts",
+		"view": "Step 5"
+	},
+
+	"50494": {
+		"name": "Ways to keep my environment safe",
+		"view": "Step 6"
+	},
+
+	"50573": {
+		"name": "Add people who can help me",
+		"view": "Step 6"
+	},
+
+	"50668": {
+		"name": "Edit Safety Options",
+		"view": "Step 6"
+	},
+
+	"51387": {
+		"name": "Cancel",
+		"view": "Step 6"
+	},
+
+	"51395": {
+		"name": "Save",
+		"view": "Step 6"
+	},
+
+	"51547": {
+		"name": "Firearm safety ideas",
+		"view": "Step 6"
+	},
+
+	"51846": {
+		"name": "Medication safety ideas",
+		"view": "Step 6"
+	},
+
+	"51908": {
+		"name": "Cancel",
+		"view": "Firearm Safety"
+	},
+
+	"51996": {
+		"name": "Save",
+		"view": "Firearm Safety"
+	},
+
+	"52051": {
+		"name": "Done",
+		"view": "SP Congratulations"
+	},
+
+	"52087": {
+		"name": "Continue",
+		"view": "Completed"
+	},
+
+	"52106": {
+		"name": "Give us feedback",
+		"view": "Completed"
+	},
+
+	"52117": {
+		"name": "People that can provide a social distraction",
+		"view": "Learn More"
+	},
+
+	"52385": {
+		"name": "Places I can go for a social distraction",
+		"view": "Learn More"
+	},
+
+	"52507": {
+		"name": "Safety Help",
+		"view": "Learn More"
+	},
+
+	"52830": {
+		"name": "Enlisting The Help Of Others",
+		"view": "Learn More"
+	},
+
+	"53048": {
+		"name": "Get Started",
+		"view": "Goals"
+	},
+
+	"53127": {
+		"name": "Next",
+		"view": "Add Goal"
+	},
+
+	"53240": {
+		"name": "Help",
+		"view": "Add Goal"
+	},
+
+	"53339": {
+		"name": "Submit",
+		"view": "Add Goal"
+	},
+
+	"53651": {
+		"name": "Save",
+		"view": "Edit Goal"
+	},
+
+	"53722": {
+		"name": "Cancel",
+		"view": "Edit Goal"
+	},
+
+	"54006": {
+		"name": "Reminder",
+		"view": "Assessment"
+	},
+
+	"54270": {
+		"name": "Get Started",
+		"view": "Assessment"
+	},
+
+	"54430": {
+		"name": "Take Assessment Now",
+		"view": "Assessment"
+	},
+
+	"54442": {
+		"name": "Find Resources",
+		"view": "Local Resources"
+	},
+
+	"54492": {
+		"name": "Export Data",
+		"view": "Share"
+	},
+
+	"54523": {
+		"name": "Delete",
+		"view": "Delete"
+	},
+
+	"54592": {
+		"name": "",
+		"view": ""
+	},
+
+	"54830": {
+		"name": "",
+		"view": ""
+	},
+
+	"54931": {
+		"name": "",
+		"view": ""
+	},
+
+	"55018": {
+		"name": "",
+		"view": ""
+	},
+
+	"55354": {
+		"name": "",
+		"view": ""
+	},
+
+	"55654": {
+		"name": "",
+		"view": ""
+	},
+
+	"55774": {
+		"name": "",
+		"view": ""
+	},
+
+	"56103": {
+		"name": "",
+		"view": ""
+	},
+
+	"56306": {
+		"name": "",
+		"view": ""
+	},
+
+	"56745": {
+		"name": "",
+		"view": ""
+	},
+
+	"57207": {
+		"name": "",
+		"view": ""
+	},
+
+	"57281": {
+		"name": "",
+		"view": ""
+	},
+
+	"57326": {
+		"name": "",
+		"view": ""
+	},
+
+	"57356": {
+		"name": "",
+		"view": ""
+	},
+
+	"57379": {
+		"name": "",
+		"view": ""
+	},
+
+	"57738": {
+		"name": "",
+		"view": ""
+	},
+
+	"58961": {
+		"name": "",
+		"view": ""
+	},
+
+	"58995": {
+		"name": "",
+		"view": ""
+	},
+
+	"59065": {
+		"name": "",
+		"view": ""
+	},
+
+	"59167": {
+		"name": "",
+		"view": ""
+	},
+
+	"59492": {
+		"name": "",
+		"view": ""
+	},
+
+	"59804": {
+		"name": "",
+		"view": ""
+	},
+
+	"59914": {
+		"name": "",
+		"view": ""
+	},
+
+	"60277": {
+		"name": "",
+		"view": ""
+	},
+
+	"60855": {
+		"name": "",
+		"view": ""
+	},
+
+	"61045": {
+		"name": "",
+		"view": ""
+	},
+
+	"61207": {
+		"name": "",
+		"view": ""
+	},
+
+	"61318": {
+		"name": "",
+		"view": ""
+	},
+
+	"61440": {
+		"name": "",
+		"view": ""
+	},
+
+	"61664": {
+		"name": "",
+		"view": ""
+	},
+
+	"61723": {
+		"name": "",
+		"view": ""
+	},
+
+	"61751": {
+		"name": "",
+		"view": ""
+	},
+
+	"62389": {
+		"name": "",
+		"view": ""
+	},
+
+	"62609": {
+		"name": "",
+		"view": ""
+	},
+
+	"62615": {
+		"name": "",
+		"view": ""
+	},
+
+	"62642": {
+		"name": "",
+		"view": ""
+	},
+
+	"62850": {
+		"name": "",
+		"view": ""
+	},
+
+	"63000": {
+		"name": "",
+		"view": ""
+	},
+
+	"63213": {
+		"name": "",
+		"view": ""
+	},
+
+	"63358": {
+		"name": "",
+		"view": ""
+	},
+
+	"63497": {
+		"name": "",
+		"view": ""
+	},
+
+	"63538": {
+		"name": "",
+		"view": ""
+	},
+
+	"63690": {
+		"name": "",
+		"view": ""
+	},
+
+	"63807": {
+		"name": "",
+		"view": ""
+	},
+
+	"64410": {
+		"name": "",
+		"view": ""
+	},
+
+	"64994": {
+		"name": "",
+		"view": ""
+	},
+
+	"65152": {
+		"name": "",
+		"view": ""
+	},
+
+	"65361": {
+		"name": "",
+		"view": ""
+	},
+
+	"65547": {
+		"name": "",
+		"view": ""
+	},
+
+	"65619": {
+		"name": "",
+		"view": ""
+	},
+
+	"65806": {
+		"name": "",
+		"view": ""
+	},
+
+	"65981": {
+		"name": "",
+		"view": ""
+	},
+
+	"65995": {
+		"name": "",
+		"view": ""
+	},
+
+	"66297": {
+		"name": "",
+		"view": ""
+	},
+
+	"66507": {
+		"name": "",
+		"view": ""
+	},
+
+	"66765": {
+		"name": "",
+		"view": ""
+	},
+
+	"67063": {
+		"name": "",
+		"view": ""
+	},
+
+	"67380": {
+		"name": "",
+		"view": ""
+	},
+
+	"67412": {
+		"name": "",
+		"view": ""
+	},
+
+	"67441": {
+		"name": "",
+		"view": ""
+	},
+
+	"67471": {
+		"name": "",
+		"view": ""
+	},
+
+	"67472": {
+		"name": "",
+		"view": ""
+	},
+
+	"67598": {
+		"name": "",
+		"view": ""
+	},
+
+	"67682": {
+		"name": "",
+		"view": ""
+	},
+
+	"67918": {
+		"name": "",
+		"view": ""
+	},
+
+	"67935": {
+		"name": "",
+		"view": ""
+	},
+
+	"68003": {
+		"name": "",
+		"view": ""
+	},
+
+	"68609": {
+		"name": "",
+		"view": ""
+	},
+
+	"68986": {
+		"name": "",
+		"view": ""
+	},
+
+	"68997": {
+		"name": "",
+		"view": ""
+	},
+
+	"69072": {
+		"name": "",
+		"view": ""
+	},
+
+	"69562": {
+		"name": "",
+		"view": ""
+	},
+
+	"69644": {
+		"name": "",
+		"view": ""
+	},
+
+	"69770": {
+		"name": "",
+		"view": ""
+	},
+
+	"69880": {
+		"name": "",
+		"view": ""
+	},
+
+	"70067": {
+		"name": "",
+		"view": ""
+	},
+
+	"70129": {
+		"name": "",
+		"view": ""
+	},
+
+	"70145": {
+		"name": "",
+		"view": ""
+	},
+
+	"70331": {
+		"name": "",
+		"view": ""
+	},
+
+	"70335": {
+		"name": "",
+		"view": ""
+	},
+
+	"70590": {
+		"name": "",
+		"view": ""
+	},
+
+	"70729": {
+		"name": "",
+		"view": ""
+	},
+
+	"70760": {
+		"name": "",
+		"view": ""
+	},
+
+	"70820": {
+		"name": "",
+		"view": ""
+	},
+
+	"70924": {
+		"name": "",
+		"view": ""
+	},
+
+	"71619": {
+		"name": "",
+		"view": ""
+	},
+
+	"72004": {
+		"name": "",
+		"view": ""
+	},
+
+	"72061": {
+		"name": "",
+		"view": ""
+	},
+
+	"72145": {
+		"name": "",
+		"view": ""
+	},
+
+	"72471": {
+		"name": "",
+		"view": ""
+	},
+
+	"72568": {
+		"name": "",
+		"view": ""
+	},
+
+	"72882": {
+		"name": "",
+		"view": ""
+	},
+
+	"72978": {
+		"name": "",
+		"view": ""
+	},
+
+	"73076": {
+		"name": "",
+		"view": ""
+	},
+
+	"73110": {
+		"name": "",
+		"view": ""
+	},
+
+	"73226": {
+		"name": "",
+		"view": ""
+	},
+
+	"73413": {
+		"name": "",
+		"view": ""
+	},
+
+	"73989": {
+		"name": "",
+		"view": ""
+	},
+
+	"74271": {
+		"name": "",
+		"view": ""
+	},
+
+	"74666": {
+		"name": "",
+		"view": ""
+	},
+
+	"74728": {
+		"name": "",
+		"view": ""
+	},
+
+	"74782": {
+		"name": "",
+		"view": ""
+	},
+
+	"74859": {
+		"name": "",
+		"view": ""
+	},
+
+	"75049": {
+		"name": "",
+		"view": ""
+	},
+
+	"75082": {
+		"name": "",
+		"view": ""
+	},
+
+	"75084": {
+		"name": "",
+		"view": ""
+	},
+
+	"75087": {
+		"name": "",
+		"view": ""
+	},
+
+	"75192": {
+		"name": "",
+		"view": ""
+	},
+
+	"75235": {
+		"name": "",
+		"view": ""
+	},
+
+	"75561": {
+		"name": "",
+		"view": ""
+	},
+
+	"75594": {
+		"name": "",
+		"view": ""
+	},
+
+	"75748": {
+		"name": "",
+		"view": ""
+	},
+
+	"75812": {
+		"name": "",
+		"view": ""
+	},
+
+	"75864": {
+		"name": "",
+		"view": ""
+	},
+
+	"75865": {
+		"name": "",
+		"view": ""
+	},
+
+	"76183": {
+		"name": "",
+		"view": ""
+	},
+
+	"76239": {
+		"name": "",
+		"view": ""
+	},
+
+	"76662": {
+		"name": "",
+		"view": ""
+	},
+
+	"76866": {
+		"name": "",
+		"view": ""
+	},
+
+	"76868": {
+		"name": "",
+		"view": ""
+	},
+
+	"76869": {
+		"name": "",
+		"view": ""
+	},
+
+	"77338": {
+		"name": "",
+		"view": ""
+	},
+
+	"77452": {
+		"name": "",
+		"view": ""
+	},
+
+	"77579": {
+		"name": "",
+		"view": ""
+	},
+
+	"77797": {
+		"name": "",
+		"view": ""
+	},
+
+	"77897": {
+		"name": "",
+		"view": ""
+	},
+
+	"77938": {
+		"name": "",
+		"view": ""
+	},
+
+	"78292": {
+		"name": "",
+		"view": ""
+	},
+
+	"78352": {
+		"name": "",
+		"view": ""
+	},
+
+	"78592": {
+		"name": "",
+		"view": ""
+	},
+
+	"78731": {
+		"name": "",
+		"view": ""
+	},
+
+	"78811": {
+		"name": "",
+		"view": ""
+	},
+
+	"78965": {
+		"name": "",
+		"view": ""
+	},
+
+	"78998": {
+		"name": "",
+		"view": ""
+	},
+
+	"79373": {
+		"name": "",
+		"view": ""
+	},
+
+	"79733": {
+		"name": "",
+		"view": ""
+	},
+
+	"80130": {
+		"name": "",
+		"view": ""
+	},
+
+	"80280": {
+		"name": "",
+		"view": ""
+	},
+
+	"80327": {
+		"name": "",
+		"view": ""
+	},
+
+	"80594": {
+		"name": "",
+		"view": ""
+	},
+
+	"80615": {
+		"name": "",
+		"view": ""
+	},
+
+	"80737": {
+		"name": "",
+		"view": ""
+	},
+
+	"80842": {
+		"name": "",
+		"view": ""
+	},
+
+	"80937": {
+		"name": "",
+		"view": ""
+	},
+
+	"80961": {
+		"name": "",
+		"view": ""
+	},
+
+	"80975": {
+		"name": "",
+		"view": ""
+	},
+
+	"81081": {
+		"name": "",
+		"view": ""
+	},
+
+	"81579": {
+		"name": "",
+		"view": ""
+	},
+
+	"81715": {
+		"name": "",
+		"view": ""
+	},
+
+	"81796": {
+		"name": "",
+		"view": ""
+	},
+
+	"81902": {
+		"name": "",
+		"view": ""
+	},
+
+	"81995": {
+		"name": "",
+		"view": ""
+	},
+
+	"82244": {
+		"name": "",
+		"view": ""
+	},
+
+	"82315": {
+		"name": "",
+		"view": ""
+	},
+
+	"82372": {
+		"name": "",
+		"view": ""
+	},
+
+	"82486": {
+		"name": "",
+		"view": ""
+	},
+
+	"82716": {
+		"name": "",
+		"view": ""
+	},
+
+	"83071": {
+		"name": "",
+		"view": ""
+	},
+
+	"83450": {
+		"name": "",
+		"view": ""
+	},
+
+	"84449": {
+		"name": "",
+		"view": ""
+	},
+
+	"84660": {
+		"name": "",
+		"view": ""
+	},
+
+	"84862": {
+		"name": "",
+		"view": ""
+	},
+
+	"85205": {
+		"name": "",
+		"view": ""
+	},
+
+	"85460": {
+		"name": "",
+		"view": ""
+	},
+
+	"85614": {
+		"name": "",
+		"view": ""
+	},
+
+	"85645": {
+		"name": "",
+		"view": ""
+	},
+
+	"85739": {
+		"name": "",
+		"view": ""
+	},
+
+	"85824": {
+		"name": "",
+		"view": ""
+	},
+
+	"86615": {
+		"name": "",
+		"view": ""
+	},
+
+	"87028": {
+		"name": "",
+		"view": ""
+	},
+
+	"87108": {
+		"name": "",
+		"view": ""
+	},
+
+	"87132": {
+		"name": "",
+		"view": ""
+	},
+
+	"87195": {
+		"name": "",
+		"view": ""
+	},
+
+	"87210": {
+		"name": "",
+		"view": ""
+	},
+
+	"87248": {
+		"name": "",
+		"view": ""
+	},
+
+	"87359": {
+		"name": "",
+		"view": ""
+	},
+
+	"87720": {
+		"name": "",
+		"view": ""
+	},
+
+	"88126": {
+		"name": "",
+		"view": ""
+	},
+
+	"88158": {
+		"name": "",
+		"view": ""
+	},
+
+	"88247": {
+		"name": "",
+		"view": ""
+	},
+
+	"88649": {
+		"name": "",
+		"view": ""
+	},
+
+	"88652": {
+		"name": "",
+		"view": ""
+	},
+
+	"88690": {
+		"name": "",
+		"view": ""
+	},
+
+	"88710": {
+		"name": "",
+		"view": ""
+	},
+
+	"88735": {
+		"name": "",
+		"view": ""
+	},
+
+	"88828": {
+		"name": "",
+		"view": ""
+	},
+
+	"88841": {
+		"name": "",
+		"view": ""
+	},
+
+	"89092": {
+		"name": "",
+		"view": ""
+	},
+
+	"89277": {
+		"name": "",
+		"view": ""
+	},
+
+	"89464": {
+		"name": "",
+		"view": ""
+	},
+
+	"89539": {
+		"name": "",
+		"view": ""
+	},
+
+	"89631": {
+		"name": "",
+		"view": ""
+	},
+
+	"89992": {
+		"name": "",
+		"view": ""
+	},
+
+	"90010": {
+		"name": "",
+		"view": ""
+	},
+
+	"90119": {
+		"name": "",
+		"view": ""
+	},
+
+	"90137": {
+		"name": "",
+		"view": ""
+	},
+
+	"90305": {
+		"name": "",
+		"view": ""
+	},
+
+	"90509": {
+		"name": "",
+		"view": ""
+	},
+
+	"90671": {
+		"name": "",
+		"view": ""
+	},
+
+	"90687": {
+		"name": "",
+		"view": ""
+	},
+
+	"90877": {
+		"name": "",
+		"view": ""
+	},
+
+	"90947": {
+		"name": "",
+		"view": ""
+	},
+
+	"90969": {
+		"name": "",
+		"view": ""
+	},
+
+	"91009": {
+		"name": "",
+		"view": ""
+	},
+
+	"91378": {
+		"name": "",
+		"view": ""
+	},
+
+	"91484": {
+		"name": "",
+		"view": ""
+	},
+
+	"92325": {
+		"name": "",
+		"view": ""
+	},
+
+	"92392": {
+		"name": "",
+		"view": ""
+	},
+
+	"92397": {
+		"name": "",
+		"view": ""
+	},
+
+	"92483": {
+		"name": "",
+		"view": ""
+	},
+
+	"92492": {
+		"name": "",
+		"view": ""
+	},
+
+	"92843": {
+		"name": "",
+		"view": ""
+	},
+
+	"92971": {
+		"name": "",
+		"view": ""
+	},
+
+	"93051": {
+		"name": "",
+		"view": ""
+	},
+
+	"93413": {
+		"name": "",
+		"view": ""
+	},
+
+	"94055": {
+		"name": "",
+		"view": ""
+	},
+
+	"94135": {
+		"name": "",
+		"view": ""
+	},
+
+	"94369": {
+		"name": "",
+		"view": ""
+	},
+
+	"94504": {
+		"name": "",
+		"view": ""
+	},
+
+	"94631": {
+		"name": "",
+		"view": ""
+	},
+
+	"94690": {
+		"name": "",
+		"view": ""
+	},
+
+	"95083": {
+		"name": "",
+		"view": ""
+	},
+
+	"95456": {
+		"name": "",
+		"view": ""
+	},
+
+	"95549": {
+		"name": "",
+		"view": ""
+	},
+
+	"95632": {
+		"name": "",
+		"view": ""
+	},
+
+	"95701": {
+		"name": "",
+		"view": ""
+	},
+
+	"95915": {
+		"name": "",
+		"view": ""
+	},
+
+	"96000": {
+		"name": "",
+		"view": ""
+	},
+
+	"96181": {
+		"name": "",
+		"view": ""
+	},
+
+	"96253": {
+		"name": "",
+		"view": ""
+	},
+
+	"96302": {
+		"name": "",
+		"view": ""
+	},
+
+	"96396": {
+		"name": "",
+		"view": ""
+	},
+
+	"96661": {
+		"name": "",
+		"view": ""
+	},
+
+	"96711": {
+		"name": "",
+		"view": ""
+	},
+
+	"97033": {
+		"name": "",
+		"view": ""
+	},
+
+	"97179": {
+		"name": "",
+		"view": ""
+	},
+
+	"97364": {
+		"name": "",
+		"view": ""
+	},
+
+	"97487": {
+		"name": "",
+		"view": ""
+	},
+
+	"97521": {
+		"name": "",
+		"view": ""
+	},
+
+	"97590": {
+		"name": "",
+		"view": ""
+	},
+
+	"97596": {
+		"name": "",
+		"view": ""
+	},
+
+	"97643": {
+		"name": "",
+		"view": ""
+	},
+
+	"97875": {
+		"name": "",
+		"view": ""
+	},
+
+	"98002": {
+		"name": "",
+		"view": ""
+	},
+
+	"98272": {
+		"name": "",
+		"view": ""
+	},
+
+	"98368": {
+		"name": "",
+		"view": ""
+	},
+
+	"98473": {
+		"name": "",
+		"view": ""
+	},
+
+	"98522": {
+		"name": "",
+		"view": ""
+	},
+
+	"98644": {
+		"name": "",
+		"view": ""
+	},
+
+	"98655": {
+		"name": "",
+		"view": ""
+	},
+
+	"99156": {
+		"name": "",
+		"view": ""
+	},
+
+	"99335": {
+		"name": "",
+		"view": ""
+	},
+
+	"99395": {
+		"name": "",
+		"view": ""
+	},
+
+	"99709": {
+		"name": "",
+		"view": ""
+	}
+}

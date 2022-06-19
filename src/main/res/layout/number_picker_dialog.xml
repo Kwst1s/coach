@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <NumberPicker android:id="@+id/number_picker_dialog_picker" android:paddingTop="@dimen/padding_mlarge" android:paddingBottom="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatButton android:textSize="@dimen/txt_mid_btn" android:textColor="@android:color/black" android:id="@+id/number_picker_dialog_btn_cancel" android:background="@drawable/custom_btn_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="60dp" android:text="@string/cancel" android:layout_weight="1" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+        <androidx.appcompat.widget.AppCompatButton android:textSize="@dimen/txt_mid_btn" android:textColor="@android:color/white" android:id="@+id/number_picker_dialog_btn_confirm" android:background="@drawable/custom_btn_azure_stroke_blue" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="60dp" android:text="@string/confirm" android:layout_weight="1" android:contentDescription="@string/confirm" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+    </LinearLayout>
+</LinearLayout>

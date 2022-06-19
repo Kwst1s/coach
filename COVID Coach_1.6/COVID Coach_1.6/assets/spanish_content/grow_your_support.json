@@ -1,0 +1,143 @@
+[{
+	"title": "Alguien en quien confíe",
+	"content": [{
+			"type": "text",
+			"content": "Tener a alguien en quien confiar y con quien abrirse es un verdadero regalo. No significa que esa persona tiene que ser perfecta, sólo debe ser alguien con quien usted sienta la confianza suficiente como para compartirle su experiencia en el mundo y saber que está bien ser usted mismo."
+		},
+		{
+			"type": "text",
+			"content": "Tome un momento para apreciar que tiene a alguien en quien confía. Varios estudios confirman que el acto de expresar su apreciación o gratitud a alguien más puede ayudarle a levantar su ánimo.  ¿Hay alguien en su vida a quien pueda llamar o escribirle un mensaje de texto sin aviso previo?"
+		},
+		{
+			"type": "text",
+			"content": "El simple acto de entablar una conversación con alguien de confianza puede ser muy beneficioso. Haga una llamada breve o visite a un amigo o ser querido, y si se siente aventurero, ábrase con ellos un poco más de lo que acostumbra."
+		}
+	]
+}, {
+	"title": "Sentirse solo",
+	"content": [{
+			"type": "text",
+			"content": "Sentirse solo o aislado es una experiencia común. Todos nos sentimos así en ocasiones, en especial luego de experimentar un trauma. A veces puede ser difícil relacionarse con otras personas o sentirse comprendido por ellos. Inclusive, puede que se sienta molesto o irritado cuando esté cerca de otros."
+		},
+		{
+			"type": "text",
+			"content": "Primordialmente, es importante que reconozca que atravesar una experiencia traumática puede llevarle a evitar a otras personas; ya sea porque siente temor o no está seguro de cómo reaccionarán, no está seguro de cómo usted reaccionará alrededor de ellos o simplemente quiere estar solo."
+		},
+		{
+			"type": "text",
+			"content": "Si se siente solo o abandonado, es imperativo que trate de acercarse a los demás y que busque con quién relacionarse y pasar el tiempo."
+		},
+		{
+			"type": "text",
+			"content": "Para comenzar a relacionarse con otras personas, considere lo siguiente:"
+		},
+		{
+			"type": "list",
+			"content": ["Llame o envíe un mensaje de texto a un amigo de quien no sepa hace tiempo.",
+				"Únase a un grupo que se reúna para practicar algún pasatiempo o discutir un tema de interés para usted. ",
+				"Si practica alguna religión, vaya a un servicio o reunión relacionada con su práctica espiritual.",
+				"Sin importar cuán pequeño sea el gesto, trate de hacer algo amable por otra persona en el día de hoy.",
+				"Sea el primero en entablar una pequeña conversación la próxima vez que esté cerca de alguien con quien normalmente no habla.",
+				"Sonría y salude a alguien cuando se encuentre en una situación en la que normalmente no lo haría.",
+				"Escríbale una carta o un correo electrónico a alguien que aprecie.",
+				"Sea voluntario de una entidad benéfica local.",
+				"Sorprenda a alguien con un detalle o ayude con algo."
+			]
+		}
+	]
+}, {
+	"title": "Expanda su red de apoyo",
+	"content": [{
+			"type": "text",
+			"content": "Contar con el apoyo de otras personas es saludable, satisfactorio e importante para tener una mejor calidad de vida. Si al menos ya cuenta con algún apoyo, las cosas le irán bien."
+		},
+		{
+			"type": "text",
+			"content": "Tener amistades y relaciones gratificantes con otras personas requiere de esfuerzo; debe demostrarle a sus seres queridos que tiene tiempo para ellos y que está interesado en ellos."
+		},
+		{
+			"type": "text",
+			"content": "Tomarse el tiempo de invertir en sus relaciones existentes puede rendirle dividendos; probablemente se sienta mejor y fortalecerá sus relaciones con la gente que ya son parte importante de su vida."
+		},
+		{
+			"type": "text",
+			"content": "Para fortalecer sus redes de apoyo existentes, intente uno de los siguientes: "
+		},
+		{
+			"type": "list",
+			"content": ["Llame a un amigo e invítelo a hacer algo con usted esta semana.",
+				"Pídale a un miembro de su familia que comparta un rato con usted haciendo algo que ambos disfruten.",
+				"Tómese un momento para realizar alguna actividad con un amigo o familiar que sepa que ambos pueden disfrutar, aunque sea algo de lo que usted no disfrute tanto.",
+				"Tenga una conversación con alguien que estime y préstele toda su atención; mientras la otra persona hable, asegúrese de entender a la persona y lo que le dice.",
+				"Relaciónese con otras personas veteranos que hayan tenidos experiencias similares a las suyas, como grupos de veteranos, por ejemplo."
+			]
+		},
+
+
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Facebook tiene varios grupos para veteranos"
+				}]
+			]
+		},
+
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.facebook.com/",
+			"content": "Facebook Groups"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Meetup tiene varios grupos de actividades enfocados en veteranos."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.meetup.com/",
+			"content": "Meetup Grupos"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Iraq and Afghanistan Veterans of America ofrece varias maneras de relacionarse con otros veteranos."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://iava.org/programs/",
+			"content": "Iraq and Afghanistan Veterans of America"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "También puede practicar actividades físicas con su grupo Team Red White & Blue más cercano."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.teamrwb.org",
+			"content": "Team Red White &amp; Blue group"
+		}
+	]
+}]

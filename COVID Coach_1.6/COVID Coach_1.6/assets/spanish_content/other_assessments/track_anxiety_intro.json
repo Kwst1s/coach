@@ -1,0 +1,13 @@
+[
+  {
+    "type": "text",
+    "content": "Conteste 7 preguntas diseñadas para medir sus niveles generales de ansiedad y ayudarle a seguir su progreso a traves del tiempo. Siguiendo los cambios a traves del tiempo le ayudará:"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Aprender a <b>reconocer patrones</b>",
+      "Descubrir <b>lo que funciona</b> para ayudarle a manejar sus sentimientos de ansiedad, preocupación, o tensión."
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/bg_color_app" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/o_assessment_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@+id/o_assessment_txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/assessment" android:layout_weight="1" android:fontFamily="@font/font_regular" android:accessibilityHeading="true" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <FrameLayout android:id="@+id/o_assessment_container" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

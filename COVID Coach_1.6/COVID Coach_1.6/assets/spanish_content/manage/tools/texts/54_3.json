@@ -1,0 +1,21 @@
+[{
+		"type": "text",
+		"content": "¿Qué puede hacer para recompensarlos por hacer un cambio en la dirección correcta?"
+	},
+	{
+		"type": "text",
+		"content": "Las recompensas pueden ser pequeñas cosas en el momento como:"
+	},
+	{
+		"type": "list",
+		"content": ["Agradecer a mi ser amado", "Hacerle saber a mi ser amado que me di cuenta", 
+		"Sonríele a mi ser amado", "Hacer algo bueno a cambio", "Pagarles un cumplido"]
+	},
+	{
+		"type": "text",
+		"content": "Ejemplos de recompensas por cambios más importantes que está haciendo su ser amado:"
+	}, {
+		"type": "list",
+		"content": ["Haciendo su cena favorita.", "Haciendo una tarea más grande para ellos.", "Hacer algo que sé que esta persona realmente apreciará."]
+	}
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido optimista respecto al futuro."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 0
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido útil."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 1
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido aliviado (relajado)."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 2
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido interesado por las demás personas."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 3
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "He tenido suficiente energía de reserva."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 4
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "He resuelto bien los problemas."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 5
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "He estado pensando con claridad."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 6
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he senteido bien conmigo mismo."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 7
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido cercano a las demás personas."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 8
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido con confianza en mí mismo."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 9
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "He sido capaz de tomar mis propias decisiones con respecto a las cosas que me suceden."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 10
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido querido."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 11
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "He estado interesado en cosas nuevas."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 12
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "Durante las últimas 2 semanas:"
+      },
+      {
+        "type": "text",
+        "content": "Me he sentido alegre."
+      }
+    ],
+    "answers": [
+      {
+        "answer": "En ningún momento",
+        "points": 1
+      },
+      {
+        "answer": "Raramente",
+        "points": 2
+      },
+      {
+        "answer": "Algunas veces",
+        "points": 3
+      },
+      {
+        "answer": "Con frecuencia",
+        "points": 4
+      },
+      {
+        "answer": "Todo el tiempo",
+        "points": 5
+      }
+    ],
+    "number": 13
+  }
+]

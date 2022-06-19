@@ -1,0 +1,64 @@
+{
+	"welcome_text": ["Levantarse de la cama para hacer algunas actividades relajantes cuando no puedes dormir puede ayudar a tu cuerpo a asociar tu cama con el sueño. Consulta las Actividades para la Mitad de la Noche a continuación para obtener ideas sobre cosas que hacer cuando tienes problemas para dormir. Si una actividad continúa funcionando para usted toque la estrella junto a ella para marcarla como favorita."],
+	"stars": [{
+		"id": 1,
+		"text": "Mira a través de catálogos"
+	}, {
+		"id": 2,
+		"text": "Actualizar sus libretas de direcciones o iniciar uno electrónico o en papel"
+	}, {
+		"id": 3,
+		"text": "Ordenar su correo electrónico y cuentas (pero no pagar cuentas)"
+	}, {
+		"id": 4,
+		"text": "Jugar solitario en línea o con tarjetas en casa, siempre y cuando usted no es demasiado competitivo al respecto"
+	}, {
+		"id": 5,
+		"text": "Ponerse al correinte con su lectura"
+	}, {
+		"id": 6,
+		"text": "Hacer una lista de compras de comida para la semana"
+	}, {
+		"id": 7,
+		"text": "Crear un menu detallado para las cenas"
+	}, {
+		"id": 8,
+		"text": "Organisar su mesa de centro, mesa de comedor, gabinetes de cocina o escritorio"
+	}, {
+		"id": 9,
+		"text": "Crear una lista de actividades que le gustaría hacer los fines de semana y vacaciones"
+	}, {
+		"id": 10,
+		"text": "Trabajar en álbumes de fotos o álbumes de recortes"
+	}, {
+		"id": 11,
+		"text": "Doblar ropa, guardar ropa"
+	}, {
+		"id": 12,
+		"text": "Comprar regalos para días festivos, boda o cumpleaños en línea"
+	}, {
+		"id": 13,
+		"text": "Leer revistas u otro material ligero"
+	}, {
+		"id": 14,
+		"text": "Haga una lista de materiales para un proyecto de casa"
+	}, {
+		"id": 15,
+		"text": "Elija uno o dos cajones para limpiar (en su escritorio, cocina o baño)"
+	}, {
+		"id": 16,
+		"text": "Ver infomerciales, el canal de clima u otros programas de televisión repetitivos"
+	}, {
+		"id": 17,
+		"text": "Organizar colecciones de CDs o DVDs y elegir algunos para donar o vender si ya no los disfrutas"
+	}, {
+		"id": 18,
+		"text": "Anote sus pensamientos en un cuaderno durante un período de tiempo asignado. Utilice este ejercicio para ayudar a disminuir supensamiento nocturno y preocupaciones."
+	}, {
+		"id": 19,
+		"text": "Tejer o hacer otras manualidades en las que puede dejar de trabajar cuando se sienta con sueño"
+	}, {
+		"id": 20,
+		"text": "Leer los libros de sus hijos- estos son muy consoladores, fáciles de leer y divertidos"
+	}]
+}

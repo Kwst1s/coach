@@ -1,0 +1,70 @@
+{
+	"welcome_text": ["Tener un tiempo de acortamiento antes de irte a dormir puede ayudar a relajar tu mente y tu cuerpo. Proporciona una transición entre las actividades del día y el tiempo silencioso y más tranquilo de sueño. Consulte las Actividades Nocturnas a continuación para explorar algunas ideas para las cosas que puede hacer durante su tiempo antes de dormir. Si una actividad sigue funcionando para usted, es posible que desee tocar la estrella junto a ella para marcarla como favorita.También puede utilizar las herramientas de Relajar Su Cuerpo y Calmar Su Mente para ayudarle a relajarse"],
+	"stars": [{
+		"id": 1,
+		"text": "Elija la ropa para usar al día siguiente"
+	}, {
+		"id": 2,
+		"text": "Haga su almuerzo para el día siguiente"
+	}, {
+		"id": 3,
+		"text": "Prepare la cena para el día siguiente y guárdela en el refrigerador"
+	}, {
+		"id": 4,
+		"text": "Tome un baño o una ducha larga"
+	}, {
+		"id": 5,
+		"text": "Escriba notas de agradecimiento o correos electrónicos cortos a amigos"
+	}, {
+		"id": 6,
+		"text": "Navega por Internet (solo temas no estresantes) o investiga compras importantes (coches, electrodomésticos, vacaciones)"
+	}, {
+		"id": 7,
+		"text": "Mira películas o episodios de programas de televisión que no has visto en mucho tiempo (ningunas películas de acción o películas de suspenso)"
+	}, {
+		"id": 8,
+		"text": "Lleve al perro a dar un largo paseo"
+	}, {
+		"id": 9,
+		"text": "Acicale a sus mascotas"
+	}, {
+		"id": 10,
+		"text": "Escuche música lenta, relajante o instrumental"
+	}, {
+		"id": 11,
+		"text": "Junte viejas cuentas y declaraciones y rompelas"
+	}, {
+		"id": 12,
+		"text": "Organice colecciones-fotos, cartas antiguas, libros u otros artículos"
+	}, {
+		"id": 13,
+		"text": "Póngase al corriente de la ropa para lavar or doblar"
+	}, {
+		"id": 14,
+		"text": "Lustra tus zapatos"
+	}, {
+		"id": 15,
+		"text": "Plancha tu ropa"
+	}, {
+		"id": 16,
+		"text": "Escribe en tu diario"
+	}, {
+		"id": 17,
+		"text": "Hacer algunos estiramientos para relajar tus músculos"
+	}, {
+		"id": 18,
+		"text": "Darse una pedicura, manicura, o facial"
+	}, {
+		"id": 19,
+		"text": "Barrer o fregar el piso de la cocina mientras que nadie más está allí para caminar sobre él"
+	}, {
+		"id": 20,
+		"text": "Usa hilo dental"
+	}, {
+		"id": 21,
+		"text": "Teje algo"
+	}, {
+		"id": 22,
+		"text": "Acolchar algo"
+	}]
+}

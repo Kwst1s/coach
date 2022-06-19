@@ -1,0 +1,16 @@
+[{
+		"type": "title",
+		"content": "Use a gun safe"
+	},
+	{
+		"type": "list",
+		"content": ["Get a locking gun cabinet/safe.",
+			"Put all your guns in your gun cabinet.",
+			"Give the keys to a buddy OR have your buddy set the combination to something you don't know."
+		]
+	},
+	{
+		"type": "text",
+		"content": "Note: Don't use a fingerprint lock: get a key or combination lock so your buddy can hold onto it."
+	}
+]

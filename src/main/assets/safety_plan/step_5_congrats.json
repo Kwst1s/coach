@@ -1,0 +1,16 @@
+[{
+		"type": "title",
+		"gravity":0,
+		"content": "Well Done!"
+	},
+	{
+		"type": "text",
+		"gravity":0,
+		"content": "You have added one professional contact. You may add more now or later."
+	},
+	{
+		"type": "text",
+		"gravity":0,
+		"content": "If you are in crisis, you can always call 911 or the National Suicide Prevention Lifeline (1-800-273-8255, Veterans press 1)."
+	}
+]

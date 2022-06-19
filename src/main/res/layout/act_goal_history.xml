@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/goal_history_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/goal_history_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/goals_history" android:importantForAccessibility="no" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/goal_history_pager_indicator_layout" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.rd.PageIndicatorView android:layout_gravity="center_horizontal" android:id="@+id/goal_history_pager_indicator" android:padding="@dimen/padding_mlarge" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="yes" app:piv_animationType="6" app:piv_padding="@dimen/padding_large" app:piv_radius="5dp" app:piv_selectedColor="@android:color/white" app:piv_unselectedColor="@android:color/darker_gray" app:piv_viewPager="@+id/goal_history_container"/>
+        </LinearLayout>
+        <androidx.viewpager.widget.ViewPager android:id="@+id/goal_history_container" android:background="@drawable/app_bg" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="@string/pager" android:importantForAccessibility="yes"/>
+    </LinearLayout>
+</LinearLayout>

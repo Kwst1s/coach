@@ -1,0 +1,58 @@
+{
+	"welcome_text": ["Si tienes problemas para mantenerte despierto hasta la hora de acostarte recomendada, consulta las Actividades Para Mantenerte Despierto, a continuación, para obtener ideas sobre cómo mantenerte despierto hasta que llegue el momento de acostarte. Si una actividad sigue funcionando toque la estrella junto a ella para marcarla como favorita."],
+	"stars": [{
+		"id": 1,
+		"text": "Trabajar en un proyecto o hobby que te parezca interesante"
+	}, {
+		"id": 2,
+		"text": "Leer un libro que es difícil de dejar"
+	}, {
+		"id": 3,
+		"text": "Ver un programa de misterio"
+	}, {
+		"id": 4,
+		"text": "Escribir una carta larga"
+	}, {
+		"id": 5,
+		"text": "Llamar a un amigo"
+	}, {
+		"id": 6,
+		"text": "Hacer ejercicios de estiramiento"
+	}, {
+		"id": 7,
+		"text": "Levántate y camina"
+	}, {
+		"id": 8,
+		"text": "Hacer quehaceres de la casa"
+	}, {
+		"id": 9,
+		"text": "Escuchar música alegre (cantar o tararear a lo largo de la canción)"
+	}, {
+		"id": 10,
+		"text": "Bailar a la música alegre"
+	}, {
+		"id": 11,
+		"text": "Ver un programa de comedia"
+	}, {
+		"id": 12,
+		"text": "Encienda todas las luces"
+	}, {
+		"id": 13,
+		"text": "Salir al aire libre (si está en un área segura)"
+	}, {
+		"id": 14,
+		"text": "Empacar el almuerzo de mañana"
+	}, {
+		"id": 15,
+		"text": "Preparar comidas para el resto de la semana"
+	}, {
+		"id": 16,
+		"text": "Ordenar la ropa lavada"
+	}, {
+		"id": 17,
+		"text": "Organizar archivos de computadora"
+	}, {
+		"id": 18,
+		"text": "Organizar cajones/estantes"
+	}]
+}

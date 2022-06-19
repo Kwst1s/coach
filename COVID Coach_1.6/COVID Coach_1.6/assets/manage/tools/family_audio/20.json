@@ -1,0 +1,17 @@
+{
+	"filename": "mindful_breathing.mp3",
+	"filename_es": "Mindful-Breathing.mp3",
+	"title": "Muscle Relaxation",
+	"display_title": "Muscle Relaxation",
+	"subtitle":"sub_mindful_breathing",
+	"intro_text": [{
+			"type": "text",
+			"content": "You are about to be led through a progressive muscle relaxation exercise. You will progress through each of your major muscle groups, tensing and relaxing as you go. This exercise takes about 9 minutes. It has accompanying audio, so you will need to find a quiet place or put on your headphones now."
+		},
+		{
+			"type": "text",
+			"content": "Sit down in a comfortable chair or lay down. Do not do this exercise while driving."
+		}
+	],
+	"image": "t20"
+}

@@ -1,0 +1,1634 @@
+{
+	"Content": [{
+			"Content": [{
+					"displayName": "¿Qué es el TEPT?",
+					"id": 1,
+					"audio": "PE What is PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "El trastorno por estres postraumatico puede ocurrir despues de sufrir directamente un evento traumatico, haber estado expuesto a ese evento o tener conocimiento de que el evento traumatico le ha sucedido a un amigo o familiar cercano (por ejemplo, una muerte, estar en peligro de muerte, sufrir una herida grave o agresión sexual)."
+						},
+						{
+							"type": "text",
+							"content": "Lo bueno: El TEPT se puede tratar."
+						},
+						{
+							"type": "text",
+							"content": "Existen 4 clases de síntomas de TEPT:"
+						},
+						{
+							"type": "text",
+							"content": "1. Revivir el evento (también llamado síntomas de reexperimentación):"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Recuerdos inquietantes o pesadillas",
+								"Sensación de que el acontecimiento traumático está volviendo a ocurrir (reviviscencia)",
+								"Enojarse cuando se recuerda el trauma"
+							]
+						},
+						{
+							"type": "text",
+							"content": "2. Evitar situaciones que le recuerden el evento:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Evitar recordar o pensar en lo sucedido.",
+								"Evitar pensamientos, sentimientos o recuerdos asociados con eventos traumáticos."
+							]
+						},
+						{
+							"type": "text",
+							"content": "3. Pensamientos y estado de ánimo negativo:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Sentir distanciamiento emocional o aislarse de los demás",
+								"Tener pensamientos negativos o pesimistas: “soy una mala persona”, “no puedo confiar en nadie” o “el mundo es peligroso”",
+								"Sentirse constantemente culpable o responsable por el hecho traumático",
+								"Sentir constantemente sensaciones o emociones negativas - como el miedo, la ira, la culpa o la vergüenza",
+								"Tener dificultad para sentir sensaciones o emociones positivas - como la alegría y el amor",
+								"Pérdida de interés en participar en actividades placenteras o significativas"
+							]
+						},
+						{
+							"type": "text",
+							"content": "4. Sentirse siempre alerta, nervioso o a la defensiva, como:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Estar siempre a la defensiva y en estado de alerta ante el peligro",
+								"Comportamiento irritable o arrebatos de furia",
+								"Cambios en los patrones de sueño",
+								"Sobresaltarse desmesuradamente ante un sonido fuerte o una sorpresa",
+								"Problemas de concentración",
+								"Comportamiento temerario o autodestructivo"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Estos síntomas pueden prolongarse por un mes o más, son incómodos y/o pueden causar problemas en el ámbito social, familiar, laboral y escolar."
+						},
+						{
+							"type": "text",
+							"content": "Entre los sintomas del TEPT tambien se encuentra la disociacion que se caracteriza por sentir cierta desconexion con sigo mismo o con el mundo, como si el mundo alrededor fuera irreal, distante o distorsionado."
+						}
+					]
+				},
+				{
+					"displayName": "¿Cómo se desarrolla el TEPT?",
+					"id": 2,
+					"audio": "How PTSD Develops.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Luego de haber vivido un suceso traumático, es natural sentirse conmocionado, tener recuerdos dolorosos y afectarse por esos recuerdos. El trauma también puede cambiar la manera en que las personas piensan acerca de sí mismas, los demás y el mundo que les rodea.  Además puede dar lugar a que una persona tenga  sentimientos de extrema inseguridad con respecto al entorno y/o desconfiar de los que le rodean."
+						},
+						{
+							"type": "text",
+							"content": "En la mayoría de los casos, estas reacciones disminuirán con el tiempo. Pero para algunos, estas reacciones pueden persistir y volverse tan intensas que alteran la vida diaria."
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuán común es el TEPT?",
+					"id": 3,
+					"audio": "How Common.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "A pesar de que la mayoría de las personas sienten mejoría luego de un mes o dos de haber vivido un suceso traumático, otras desarrollan TEPT u otros problemas como depresión o abuso de sustancias."
+						},
+						{
+							"type": "text",
+							"content": "¿Sabía usted que..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"El 7% de la población estadounidense padecerá TEPT durante su vida?",
+								"Algunos tipos de trauma, como en los casos de violación sexual y el combate, pueden ocasionar tasas aún más elevadas de TEPT?"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Quiénes desarrollan TEPT?",
+					"id": 4,
+					"audio": "Who Develops.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Prácticamente cualquiera puede desarrollar TEPT y esto no es una señal de debilidad en particular. Ahora bien, algunos factores aumentan su probabilidad."
+						},
+						{
+							"type": "text",
+							"content": "Factores de riesgo previos al trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Ser mujer",
+								"Haber sufrido un trauma anterior.",
+								"Haber sido abusado en la niñez.",
+								"Tener un problema de salud mental preexistente.",
+								"Tener un historial de enfermedad mental en la familia."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Factores de riesgo durante un trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Creer que va a morir.",
+								"Sentirse desvinculado consigo mismo y con su entorno.",
+								"Sentirse completamente indefenso.",
+								"Tener un ataque de pánico.",
+								"Estar gravemente herido."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Factores de riesgo después de un trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Falta de apoyo social.",
+								"Otras preocupaciones cotidianas (como la pérdida del empleo, el divorcio, etc.)."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuánto tiempo dura el TEPT?",
+					"id": 5,
+					"audio": "How Long Last.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Los síntomas del TEPT se presentan generalmente poco después del trauma. Para la mayoría de las personas, estos síntomas desaparecen por sí solos durante las primeras semanas o en los meses siguientes. Para algunas personas, los síntomas pueden durar años, particularmente si no buscan ayuda."
+						},
+						{
+							"type": "text",
+							"content": "Los síntomas de TEPT pueden empeorar en momentos de estrés o cuando las personas recuerdan el suceso y reactivan el trauma (como un recuerdo, aniversario del suceso traumático, entre otros). La duración de los síntomas del TEPT depende de si se ha recibido un tratamiento eficaz."
+						}
+					]
+				},
+				{
+					"displayName": "Problemas asociados al TEPT",
+					"id": 6,
+					"audio": "Related Problems.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Algunos problemas son más frecuentes entre las personas que padecen TEPT. Estos incluyen:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"depresión",
+								"ataques de pánico",
+								"problemas con el alcohol y uso de sustancias",
+								"problemas en las relaciones, el trabajo, la escuela u otras actividades importantes",
+								"síntomas físicos (dolor, dolor de cabeza, trastornos digestivos)",
+								"un mayor riesgo de padecer problemas de salud"
+							]
+						},
+						{
+							"type": "text",
+							"content": "¿Sabía usted que..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"más de la mitad de la población masculina que padece TEPT tiene problemas con el alcohol?",
+								"casi la mitad de las mujeres que padecen TEPT sufren depresión?."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Tratamiento para el TEPT",
+					"id": 7,
+					"audio": "PTSD Treatment.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "El TEPT se puede tratar con psicoterapia o  con medicamentos, o mediante la combinación de ambas. El tratamiento más eficaz para el TEPT es la terapia cognitivo-conductual o de exposición. Este tratamiento consiste en la exploración de los pensamientos afectados por el trauma para ayudar al sobreviviente a controlar sus recuerdos de modo que le permita pensar en lo que sucedió de forma equilibrada y darle un sentido."
+						},
+						{
+							"type": "text",
+							"content": "El tratamiento puede incluirque el sobreviviente enfrente los recuerdos traumáticos de forma segura, y con el apoyo adecuado, para que pueda sentirse en control. A las personas también se les enseña a lidiar de manera eficaz con el estrés y a enfrentar los síntomas del TEPT, con técnicas similares a las disponibles en esta aplicación."
+						},
+						{
+							"type": "text",
+							"content": "Si desea más información acerca de tratamiento y dónde encontrarlo, lea la sección “Reciba ayuda profesional” en esta aplicación o visite la página web del"
+						},
+						{
+							"type": "link_web",
+							"content": "Centro Nacional de Estudios sobre el Estrés Postraumático",
+							"link": "https://www.ptsd.va.gov/public/"
+						}
+					]
+				},
+				{
+					"displayName": "Comprender el Tratamiento para el TEPT",
+					"audio": "",
+					"id": -41,
+					"image": "t41",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "¿Tengo TEPT?",
+					"id": 8,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Sólo un profesional especializado en salud mental puede determinar si usted padece TEPT. No obstante, los test de autoevaluación, como el de esta aplicación, podrán ayudarle a decidir si debe buscar la evaluación de un profesional. Si usted considera que padece TEPT, hable con su doctor o haga una cita para recibir la evaluación de un profesional especializado en salud mental. Asimismo, recuerde que algunas personas pueden manifestar otros problemas como depresión o abuso de sustancias después de un trauma."
+						},
+						{
+							"type": "text",
+							"content": "Si la situación traumática ocurrió hace menos de dos meses y no se siente muy afligido ni tiene problemas realizando sus actividades normales de día a día, probablemente quiera observar si los síntomas mejoran por su cuenta. Las herramientas provistas en esta aplicación pueden ayudarle a sobrellevar sus sentimientos de angustia."
+						},
+						{
+							"type": "text",
+							"content": "Si en uno o dos meses no siente mejoría, busque ayuda profesional."
+						}
+					]
+				},
+				{
+					"displayName": "Tengo TEPT...",
+					"id": 9,
+					"audio": "I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Si ha sido diagnosticado con TEPT, las herramientas de esta aplicación podrán ayudarle a controlar sus síntomas. Sin embargo, esta aplicación no pretende sustituir la atención de un profesional. Si actualmente recibe tratamiento para mejorar los síntomas de este trastorno, deberá consultar con su proveedor de salud sobre cómo utilizar esta aplicación en conjunto."
+						},
+						{
+							"type": "text",
+							"content": "Recuerde: ¡Hay tratamientos eficaces para el TEPT! No tiene que vivir con sus síntomas para siempre."
+						}
+					]
+				},
+				{
+					"displayName": "Me avergüenza tener TEPT",
+					"id": 10,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Cuando las personas que padecen TEPT interpretan este trastorno como una señal de debilidad, pueden sentirse avergonzadas o no estar dispuestas a hablar abiertamente sobre sus síntomas. Esto es particularmente cierto cuando la persona experimenta en público arrebatos de furia, tiene recuerdos desagradables recurrentes o retrospectivos u otros síntomas de este trastorno."
+						},
+						{
+							"type": "text",
+							"content": "La vergüenza puede llevar a los sobrevivientes de un trauma a retraerse y no hablar de sus problemas; sin embargo, esto puede ser contraproducente, aislarlos, o hacer que se sientan sin apoyo."
+						},
+						{
+							"type": "text",
+							"content": "Recuerde: El TEPT es una respuesta normal ante circunstancias excepcionales."
+						}
+					]
+				},
+				{
+					"displayName": "Aislamiento social",
+					"id": 11,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Las personas que padecen TEPT, comúnmente, tienden a aislarse. Es posible que se sienta abrumado o inseguro en grupos, incomprendido, propenso a la ira o, sencillamente, no tenga interés en estar rodeado de gente. No obstante, el aislamiento puede llevarlo a la soledad, la depresión y la ansiedad."
+						},
+						{
+							"type": "text",
+							"content": "Esta aplicación aporta algunas sugerencias y estrategias para ayudarlo a sobrellevar la sensación de aislamiento y comenzar a reconectar con sus seres queridos y amigos."
+						}
+					]
+				},
+				{
+					"displayName": "Problemas para dormir: Pesadillas",
+					"id": 12,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Si experimenta pesadillas perturbadoras que interrumpen su sueno, le sugerimos, a continuación, algunos consejos:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Encienda la luz al despertar, respire profundamente y observe las imágenes, los sonidos y los olores a su alrededor.",
+								"Preste atención a la diferencia entre la pesadilla y el momento actual, y permita que esas diferencias le ayuden a sentir calma y tranquilidad.",
+								"Distráigase durante 5 o 10 minutos después de despertar con un libro o con música; intente levantarse y pasar tiempo en otra habitación.",
+								"Cuando intente quedarse dormido nuevamente, piense en cosas agradables y evite pensar en la pesadilla.",
+								"Evite privarse del sueño. Mantenga un horario constante y haga ejercicio regularmente para ayudar a reducir la frecuencia de las pesadillas.",
+								"Sea prudente con el consumo de alcohol, cafeína y nicotina, ya que pueden interrumpir el sueño."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Problemas para dormir: Insomnio",
+					"id": 13,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Si permanece despierto en la cama por más de 15 o 20 minutos, intente lo siguiente:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Levántese y haga algo aburrido, como leer un manual de instrucciones.",
+								"Sólo regrese a la cama cuando tenga sueño.",
+								"Mantenga la iluminación a una intensidad baja y no utilice la computadora ni vea televisión.",
+								"Beba un poco de agua, leche tibia o té descafeinado.",
+								"Si tiene hambre, coma un bocadillo ligero, bajo en azúcar.",
+								"Lea algo relajante o escuche música agradable.",
+								"Cuando regrese a la cama, respire lenta y profundamente durante unos 10 minutos.",
+								"Calme sus pensamientos con una oración, meditación o “contando ovejas”.",
+								"Si en algunas ocasiones le es difícil compartir la cama con su pareja, considere dormir por separado."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Que hacer si se desencadenan recuerdos",
+					"id": 14,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "link_internal",
+							"content": "Pruebe la herramienta RID",
+							"gravity": 0,
+							"full": true,
+							"link": "t26"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Relajarse",
+								"Identificar",
+								"Decidir"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Primero, haga algo que lo ayude a relajarse (como respirar profundamente, beber agua o recordar que usted es capaz de manejarlo)"
+						},
+						{
+							"type": "text",
+							"content": "Segundo, luego identifique que distinto es el presente del momento traumático (el sonido de un auto arrancando, estar en medio de una multitud, etc.). Luego identifique cuán distinto es el ahora del momento traumático (por ejemplo, ya no se encuentra en una zona de guerra y ahora tiene más control)."
+						},
+						{
+							"type": "text",
+							"content": "Tercero, decida qué hacer. Por ejemplo, si le molesta estar en medio de una multitud, reconozca que la multitud no le es hostil y tal vez se encuentren celebrando. Puede decidir permanecer en la multitud y comprobar que ahorra esta a salvo ahora."
+						}
+					]
+				},
+				{
+					"displayName": "¿Qué es la disociación?",
+					"id": 15,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "La disociación es la sensación de distanciamiento emocional y físico ante experiencias, sensaciones, recuerdos o entorno inmediato. La intensidad de la disociación puede variar de moderada a intensa. Suele producirse involuntariamente, por lo que el episodio puede resultar confuso y desconcertante."
+						},
+						{
+							"type": "text",
+							"content": "Ejemplos: Observarse a sí mismo u observar su cuerpo como si lo estuviera viendo desde afuera (desde arriba o desde el otro lado de la habitación), los sonidos o las imágenes parecen lejanas o distorsionadas, perder tiempo, entumecimiento fisico o emocional."
+						}
+					]
+				},
+				{
+					"displayName": "Estoy evitando enfrentarme a las cosas",
+					"id": 16,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Las personas que padecen TEPT suelen evitar enfrentarse a todo aquello que les recuerde la situación traumática que vivieron. Si bien evadir el recuerdo doloroso puede hacerlo sentir aliviado en el corto plazo, evitar pensar en lo sucedido no resuelve la situación, particularmente, cuando nota que el propio aislamiento le lleva a reducir su vida de manera significativa."
+						},
+						{
+							"type": "text",
+							"content": "En la sección <b>Manejo de síntomas</b> que hay en esta aplicación encontrará herramientas y estrategias para relajarse ante los recuerdos desagradables y para sobrellevar e, incluso, mejorar cuando enfrente aquello que ha estado evitando."
+						}
+					]
+				},
+				{
+					"displayName": "No confío en la gente",
+					"id": 17,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Muchas personas que han pasado por un trauma sienten desconfianza ante los demás, pero hacer suposiciones continuamente no es beneficioso."
+						},
+						{
+							"type": "text",
+							"content": "Practique hacerse preguntas como:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"¿Será siempre así? ¿Qué porcentaje de personas son dignas de confianza?",
+								"¿En algún momento hubo alguien que estuvo o se puso de mi parte?",
+								"¿Conozco 3 personas en las que puedo confiar al menos un poco?",
+								"¿Qué podría confiarles?"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "No puedo controlar mi carácter",
+					"id": 18,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+						"type": "text",
+						"content": "Esto puede ser frustrante y aterrador para los sobrevivientes de un trauma, particularmente para los veteranos y el personal militar en servicio activo que han estado en lugares en los que el enojo y la agresividad se consideran útiles. Podrá aprender a controlar su comportamiento cuando sienta enojo con la ayuda de esta aplicación y/o con su terapeuta. Eche un vistazo a algunas herramientas para abordar la rabia en la sección <b>Manejo de síntomas</b> de esta aplicación."
+					}]
+				},
+				{
+					"displayName": "Siempre estoy tenso",
+					"id": 19,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+						"type": "text",
+						"content": "Sentir nerviosismo, hipervigilancia o sentirse continuamente en alerta al peligro es una experiencia común entre las personas que padecen TEPT. Las técnicas de relajación y la práctica de prestar atención al momento presente con una disposición abierta y sin juicios, pueden ayudar a calmar su sistema nervioso. Estos ejercicios están disponibles en la sección <b>Manejo de síntomas</b> de esta aplicación."
+					}]
+				},
+				{
+					"displayName": "Me siento triste continuamente",
+					"id": 20,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Sentir tristeza, decaimiento, pesadumbre o melancolía la mayor parte del tiempo por más de dos semanas puede ser síntoma de depresión. Si sospecha que está experimentando depresión, consulte con su proveedor de salud o busque el apoyo de un consejero. También puede llamar a la Línea de Veteranos en Crisis/Veterans Crisis Line al"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-888-628-9454",
+							"link": "1-888-628-9454"
+						}
+					]
+				}
+			],
+			"displayName": "Learn about PTSD",
+			"icon": "learn_PTSD.png"
+		},
+		{
+			"Content": [{
+					"displayName": "Estoy en crisis",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 21,
+					"cdata": [{
+							"type": "text",
+							"content": "Ante cualquier crisis, y esto incluye las urgencias y emergencias médicas, acuda de inmediato a la sala de emergencias del hospital más cercano o:"
+						},
+						{
+							"type": "link_phone",
+							"content": "Llame al 911",
+							"link": "911"
+						},
+						{
+							"type": "text",
+							"content": "La Línea Nacional de Prevención del Suicidio:"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-888-628-9454",
+							"link": "1-888-628-9454"
+						},
+						{
+							"type": "text",
+							"content": "(presione 1 para la Línea de Veteranos en Crisis)"
+						},
+						{
+							"type": "text",
+							"content": "Envío de mensaje de texto para veteranos al 838255"
+						},
+						{
+							"type": "link_phone",
+							"content": "838255",
+							"link": "838255"
+						},
+						{
+							"type": "text",
+							"content": "Chat confidencial en línea para veteranos"
+						},
+						{
+							"type": "link_web",
+							"link": "https://www.veteranscrisisline.net",
+							"content": "Chat confidencial en línea para veteranos"
+						},
+						{
+							"type": "text",
+							"content": "La Línea Nacional Contra la Violencia Doméstica:"
+						},
+						{
+							"type": "link_phone",
+							"content": "9111-800-799-7233",
+							"link": "9111-800-799-7233"
+						},
+						{
+							"type": "text",
+							"content": "La Línea Nacional de Ayuda Nacional Online de Asalto Sexual:"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-800-656-4673",
+							"link": "1-800-656-4673"
+						}
+					]
+				},
+				{
+					"displayName": "Localizador de tratamiento",
+					"audio": "",
+					"id": -42,
+					"image": "t42",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "Buscando Tratamiento para Alcohol U Otras Drogas",
+					"audio": "",
+					"id": -43,
+					"image": "t43",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "¿Qué es el Counseling (Terapia)?",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 22,
+					"cdata": [{
+							"type": "text",
+							"content": "Counseling o terapia (también llamada psicoterapia o terapia verbal), implica encuentros con un profesional formado para trabajar sobre diferentes tipos de problemas, incluyendo pero no limitados a:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Cambios en el humor, como depresión o ansiedad",
+								"Creencias distorsionadas o maneras de pensar irracionales",
+								"Conductas como el fumar, consumir alcohol, o no realizar suficientes ejercicio físico",
+								"Problemas con el dolor o con el dormir",
+								"Sentimientos o emociones difíciles",
+								"Mejorar los problemas en las relaciones sociales"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Encuentra Otras Apps",
+					"audio": "",
+					"id": -36,
+					"image": "t36",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "¿Necesito ayuda profesional?",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 23,
+					"cdata": [{
+							"type": "text",
+							"content": "Es normal que una persona que haya sufrido un trauma enfrente algunos problemas para adaptarse después y esto no debe ser motivo de vergüenza. A veces, estos problemas son graves y duran meses."
+						},
+						{
+							"type": "text",
+							"content": "Si usted necesita ayuda sólo podrá determinarlo usted y un profesional de salud capacitado. No obstante, puede tomar el test de autoevaluación del TEPT que ofrece esta aplicación para tener una idea del estado de su salud emocional."
+						},
+						{
+							"type": "text",
+							"content": "Si piensa en hacerse daño, terminar con su vida o con la de alguien más, por favor llame al"
+						},
+						{
+							"type": "link_phone",
+							"content": "911",
+							"link": "911"
+						},
+						{
+							"type": "text",
+							"content": "o diríjase inmediatamente a la sala de emergencias más cercana. También puede llamar a la Línea de Veteranos en Crisis al"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-888-628-9454",
+							"link": "1-888-628-9454"
+						},
+						{
+							"type": "text",
+							"content": "Recuerde, no tiene que esperar una emergencia para hablar con alguien."
+						},
+						{
+							"type": "text",
+							"content": "Además, estos problemas son frecuentes después de un trauma y pueden ser la señal de que necesita apoyo adicional:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Depresión - sentir tristeza, decaimiento o melancolía la mayor parte del tiempo",
+								"Ansiedad - nerviosismo, preocupación, tensión, estar hiperalerta ante un posible peligro casi todo el tiempo",
+								"Demasiado vigilante o se sobresalta con facilidad como reacción a ruidos fuertes",
+								"Pensamientos intrusivos y recuerdos de experiencias traumáticas que son perturbadores",
+								"Aumento del consumo del alcohol, drogas ilícitas o medicamentos recetados, o usarlos para enfrentar problemas",
+								"Comportamiento violento, agresivo o se enoja fácilmente",
+								"Imprudencia y agresividad al conducir",
+								"Problemas para dormir como insomnio o pesadillas",
+								"Alejarse, apartarse de la familia y amigos",
+								"Cambios en el apetito, subir o perder mucho peso sin proponérselo",
+								"Tener dificultades en el trabajo o al cumplir las responsabilidades diarias",
+								"Tener problemas en las relaciones o al ocuparse de la familia",
+								"Tener pensamientos suicidas, temor de herir o terminar con la vida de alguien más"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si presenta alguno de estos problemas, puede ser beneficioso que hable con un asesor psicológico."
+						}
+					]
+				},
+				{
+					"displayName": "¿Por qué la gente busca ayuda psicológica?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 24,
+					"cdata": [{
+							"type": "text",
+							"content": "Algunos sobrevivientes de situaciones traumáticas buscan asesoría psicológica porque..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"tienen dificultades en el trabajo y en sus relaciones.",
+								"evitan actividades y situaciones porque le recuerdan la experiencia traumática.",
+								"se sienten muy nerviosos o furiosos.",
+								"tienen problemas con el sueño."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si bien estos síntomas son comunes durante los primeros dos meses después de un trauma, si no siente mejoría pronto, entonces debería considerar hablar con un asesor psicológico."
+						},
+						{
+							"type": "text",
+							"content": "Además, algunas personas descubren que..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"los seres queridos tienen la mejor intención, pero no pueden ayudar cómo hace falta realmente.",
+								"los seres queridos están lejos o no están disponibles.",
+								"las cosas de las que quisiera hablar son muy delicadas y privadas."
+							]
+						},
+						{
+							"type": "text",
+							"content": "En estas circunstancias, hablar con un experto puede ayudarle."
+						}
+					]
+				},
+				{
+					"displayName": "¿Cómo podría ayudarme un terapeuta?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 25,
+					"cdata": [{
+							"type": "text",
+							"content": "Los profesionales especializados en trabajar con el TEPT pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"enseñarle técnicas para hacerle frente a la situación.",
+								"ofrecer nuevas perspectivas.",
+								"ayudarle a sentirse más relajado al hablar diariamente con las personas, alcanzar sus metas y enfocarse en su futuro."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Recuerde: buscar asesoría es un signo de fortaleza, no de debilidad. Hablar con un asesor psicológico es un paso muy valiente hacia su recuperación y puede fortalecer su capacidad de ayudarse a sí mismo."
+						}
+					]
+				},
+				{
+					"displayName": "¿Es el consejo profesional confidencial?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 26,
+					"cdata": [{
+						"type": "text",
+						"content": "Su proveedor puede escribir una nota en su expediente médico que puede ser vista por otros proveedores involucrados en su cuidado médico."
+					}]
+				},
+				{
+					"displayName": "¿La terapia realmente funciona?",
+					"audio": "Will it Really Work.mp3",
+					"id": 27,
+					"cdata": [{
+							"type": "text",
+							"content": "Las investigaciones realizadas sobre los diferentes métodos de intervención demuestran que la asesoría psicológica y los medicamentos sí funcionan. Además, algunos tratamientos terapéuticos concluyen en tan sólo unos meses."
+						},
+						{
+							"type": "text",
+							"content": "Muchos miembros del servicio militar y veteranos descubren que se acostumbran con rapidez a hablar con un asesor psicológico y llegan a confiar en ellos. Los asesores psicológicos son profesionales capacitados y muchos son especialistas que han ayudado a un gran número de sobrevivientes de trauma."
+						},
+						{
+							"type": "text",
+							"content": "Recuerde: siempre puede ver qué tal le resulta, no tiene que sentir ningún compromiso hacia nada de inmediato. Y si tiene algunas sesiones y cree que no funciona, siempre podrá hablar con el asesor psicológico acerca de lo que quiere cambiar o solicitar un asesor diferente. El interés de los asesores psicológicos es que usted se recupere y le ayudarán a obtener el apoyo que necesita."
+						}
+					]
+				},
+				{
+					"displayName": "Tratamientos para el TEPT que funcionan",
+					"audio": "PTSD TX.mp3",
+					"id": 28,
+					"cdata": [{
+							"type": "text",
+							"content": "La buena noticia es que hay varios tratamientos eficaces para el TEPT, incluyendo:"
+						},
+						{
+							"type": "text",
+							"content": "Psicoterapias a corto plazo (varios meses) con la evidencia científica más fuerte:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Terapia de Exposición Prolongada (PE) y otras terapias de exposición que se centran en el procesamiento emocional de recuerdos de trauma y recordatorios de trauma",
+								"Terapia de Procesamiento Cognitivo (CPT) y otras terapias cognitivas que abordan creencias negativas relacionadas con el trauma",
+								"Desensibilización y reprocesamiento por medio de movimiento ocular (EMDR), que se centra en reducir la intensidad de los pensamientos y sentimientos sobre el trauma, permitiendo de afrontamiento más eficaces"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Otras psicoterapias a corto plazo (varios meses) que pueden ayudar:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Terapia Cognitiva Conductual (CBT)",
+								"Psicoterapia Ecléctica Breve (BEP)",
+								"Terapia de Exposición Narrativa",
+								"Exposición Narrativa Escrita"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Psicoterapias que no se centran en el trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Entrenamiento de inoculación para el estrés (SIT)",
+								"Terapia centrada en el presente (PCT)",
+								"Psicoterapia interpersonal (IPT)"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Medicamentos (si la psicoterapia no es una opción para usted):"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Zoloft (Sertralina)",
+								"Paxil (Paroxetina)",
+								"Prozac (Fluoxetina)",
+								"Effexor (Venlafaxina)"
+							]
+						},
+						{
+							"type": "text",
+							"content": "El mejor tratamiento es la psicoterapia, pero los medicamentos pueden ser útiles si la psicoterapia no está disponible o accesible para usted."
+						},
+						{
+							"type": "text",
+							"content": "Su proveedor debe trabajar con usted para personalizar su tratamiento basado en:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Sus necesidades",
+								"Sus metas de tratamiento",
+								"Sus experiencias de tratamiento anteriores",
+								"Sus preferencias"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cómo encontrar un asesor psicológico o terapeuta?",
+					"audio": "PTSD TX.mp3",
+					"id": 29,
+					"cdata": [{
+							"type": "text",
+							"content": "Para encontrar un terapeuta o asesor psicológico, puede..."
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+									"type": "text",
+									"content": "Pedir a un médico, asistente médico o enfermera que le refiera a un terapeuta o asesor psicológico."
+								}],
+								[{
+									"type": "text",
+									"content": "Llamar a su compañía de seguros para obtener referidos."
+								}],
+								[{
+									"type": "text",
+									"content": "Preguntar a su familia y amigos de confianza si conocen un buen terapeuta o asesor psicológico."
+								}],
+								[{
+										"type": "text",
+										"content": "Visitar la página web del:"
+									},
+									{
+										"type": "link_web",
+										"content": "Centro Nacional de Estudios sobre el Estrés Postraumático",
+										"link": "https://www.ptsd.va.gov/"
+									}
+								]
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si usted es miembro del servicio militar o veterano, también podrá..."
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+										"type": "text",
+										"content": "Comunicarse con Military OneSource: llame al"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-800-342-9647",
+										"link": "1-800-342-9647"
+									},
+									{
+										"type": "text",
+										"content": "o visite su página"
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.militaryonesource.mil/",
+										"content": "web"
+									}
+								],
+								[{
+										"type": "text",
+										"content": "Comunicarse con el sistema de Salud de Veteranos: llame al"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-877-222-8387",
+										"link": "1-877-222-8387"
+									},
+									{
+										"type": "text",
+										"content": "o visite la página web de los"
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.oefoif.va.gov/",
+										"content": "Miembros que Regeresan del Servicio Militar"
+									},
+									{
+										"type": "text",
+										"content": "para pedir un referido."
+									}
+								],
+								[{
+										"type": "text",
+										"content": "Si es mujer veterana, llamar al Centro de Atención Telefónica para Mujeres Veteranas, marcando el"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-855-829-6636",
+										"link": "1-855-829-6636"
+									}
+								],
+								[{
+									"type": "text",
+									"content": "Visitar o hacer una cita con su comandante o capellán para comenzar su búsqueda."
+								}],
+								[{
+										"type": "text",
+										"content": "Si es empleado elegible, recibir servicios en los Centros de Veteranos locales."
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.vetcenter.va.gov/",
+										"content": "Vet Centros"
+									}
+								]
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuánto cuesta la asesoría psicológica?",
+					"audio": "Practical Things.mp3",
+					"id": 30,
+					"cdata": [{
+							"type": "text",
+							"content": "No permita que sus preocupaciones en torno al costo de la asesoría psicológica interfieran con buscar y ver las opciones que hay a su disposición. La asesoría podría ser gratuita o de bajo costo, según el seguro médico que tenga o de sus beneficios como veterano."
+						},
+						{
+							"type": "text",
+							"content": "Para saber más:"
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+									"type": "text",
+									"content": "Llame a su compañía de seguros e infórmese sobre sus beneficios."
+								}],
+								[{
+										"type": "text",
+										"content": "Los veteranos pueden llamar a la Administración de Veteranos para determinar sus beneficios, al"
+									},
+									{
+										"type": "link_phone",
+										"content": "800-827-1000",
+										"link": "800-827-1000"
+									}
+								],
+								[{
+										"type": "text",
+										"content": "Los miembros del servicio militar pueden llamar al Military OneSource para obtener más información, marcando el"
+									},
+									{
+										"type": "link_phone",
+										"content": "800-342-9647",
+										"link": "800-342-9647"
+									}
+								]
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Me gustaría ir a terapia, pero trabajo todo el día",
+					"audio": "Practical Things.mp3",
+					"id": 31,
+					"cdata": [{
+							"type": "text",
+							"content": "Si necesita citas flexibles para no faltar al trabajo, busque un asesor psicológico que pueda trabajar con su horario. Además, la mayoría de los empleadores lo entenderán y le ayudarán a cuidar de su salud física o emocional."
+						},
+						{
+							"type": "text",
+							"content": "A veces, las personas pueden establecer con su jefe un horario flexible que les permita asistir a sus citas durante el día."
+						}
+					]
+				},
+				{
+					"displayName": "Transporte a las citas",
+					"audio": "Mean About Me.mp3",
+					"id": 32,
+					"cdata": [{
+							"type": "text",
+							"content": "Algunas personas tienen dificultades para llegar y regresar de sus citas. Si esto representa un problema para usted, considere las siguientes opciones:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Transporte público",
+								"Pedirle a un amigo, familiar o vecino que lo lleve",
+								"Pedirle el auto prestado a un amigo, familiar o vecino",
+								"Algunos centros de asesoría ofrecen servicios de transporte para veteranos. Pregunte si su centro cuenta con este servicio."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Me da vergüenza ir a terapia",
+					"audio": "Embarassed.mp3",
+					"id": 33,
+					"cdata": [{
+							"type": "text",
+							"content": "Algunas personas sienten vergüenza de pedir ayuda o necesitarla, pero considere lo siguiente:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"No estamos solos en el mundo. La gente está aquí para ayudarle, así como usted ayudó a otros en el pasado.",
+								"¿Sabía usted que a las personas que aceptan ayuda durante un periodo muy difícil, les va mejor que a aquellas que no reciben apoyo?",
+								"Tal vez piense que pedir ayuda significa que usted no es normal, pero es normal y común tener problemas después de un trauma, como dificultades para dormir, rabia exacerbada, depresión, ansiedad y abuso de sustancias."
+							]
+						},
+						{
+							"type": "list",
+							"content": [
+								"Buscar asesoría no significa que usted no sea funcional. De hecho, la mayoría de las personas que experimentan síntomas de TEPT pueden continuar con su rutina de siempre mientras se recuperan.",
+								"Si se siente culpable por tomarse el tiempo y gastar dinero en la asesoría, recuerde que una vez se sienta mejor, estará en mejores condiciones para estar ahí para su familia y en su trabajo.",
+								"Si han pasado meses o años desde que experimentó una situación traumática y no se siente mejor, hablar con un consejero puede ayudar a que los problemas no se vuelvan crónicos o más graves.",
+								"La asesoría no es para personas débiles ni derrotadas. Se necesita valor para pedir ayuda. Usted se está haciendo cargo de su vida y está mejorando su capacidad para ayudarse a sí mismo."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Quién puede ayudarme?",
+					"audio": "Who Can Help.mp3",
+					"id": 34,
+					"cdata": [{
+							"type": "text",
+							"content": "Hay muchos expertos que podrían ayudarle si busca asistencia."
+						},
+						{
+							"type": "text",
+							"content": "Puede encontrar más información aquí sobre las funciones y obligaciones de los médicos de cabecera, trabajadores sociales, psicólogos, psiquiatras y consejeros pastorales o capellanes."
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuál es la tarea del médico de cabecera?",
+					"audio": "Primary Care Physician.mp3",
+					"id": 35,
+					"cdata": [{
+							"type": "text",
+							"content": "Un proveedor de cuidado primario (PCP) suele ser un médico (MD o DO) o enfermero calificado para ejercer la medicina. Trata problemas médicos comunes y, también, puede estar capacitado para reconocer y atender problemas psicológicos comunes, como la depresión y la ansiedad."
+						},
+						{
+							"type": "text",
+							"content": "Un proveedor de cuidado primario puede ayudarle con:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Atención médica",
+								"Una receta para tratar la depresión o los problemas para dormir",
+								"Un referido a un psicólogo, trabajador social o psiquiatra"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Puede encontrar un médico de cabecera..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"A través del referido de un doctor, enfermera o compañía de seguro.",
+								"A través de personas que conoce.",
+								"En el sistema militar de salud y de veteranos."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuál es la tarea del trabajador social?",
+					"audio": "Social Worker.mp3",
+					"id": 36,
+					"cdata": [{
+							"type": "text",
+							"content": "Los trabajadores sociales suelen tener una maestría en trabajo social o, en algunos casos, un doctorado; y generalmente trabajan como consejeros. Trabajan con individuos, parejas, familias y grupos."
+						},
+						{
+							"type": "text",
+							"content": "Un trabajador social puede proporcionarle ayuda con..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Los desafíos prácticos, como encontrar un empleo, vivienda y beneficios del gobierno.",
+								"Los problemas como depresión, ansiedad, TEPT y consumo indebido de sustancias.",
+								"Las dificultades familiares y de pareja"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Los trabajadores sociales no pueden recetar medicamentos."
+						},
+						{
+							"type": "text",
+							"content": "Puede encontrar un trabajador social..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"A través del referido de un doctor, profesional de enfermería o compañía de seguro.",
+								"A través de personas que conoce.",
+								"En el sistema militar de salud y de veteranos."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuál es la tarea del psicólogo?",
+					"audio": "Psychologist.mp3",
+					"id": 37,
+					"cdata": [{
+							"type": "text",
+							"content": "Los psicólogos tienen un doctorado o un doctorado en psicología. Proporcionan evaluación y terapia, pero sólo unos pocos tienen licencia para recetar medicamentos. Trabajan con individuos, parejas, familias y grupos."
+						},
+						{
+							"type": "text",
+							"content": "Un psicólogo puede ayudarle con..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Los problemas como depresión, ansiedad, TEPT y consumo indebido de sustancias.",
+								"Las dificultades familiares y de pareja.",
+								"Asesoría psicológica.",
+								"En algunos casos, una receta de medicamentos para un problema de salud mental."
+							]
+						},
+						{
+							"type": "text",
+							"content": "La mayoría de los psicólogos no pueden recetar medicamentos."
+						},
+						{
+							"type": "text",
+							"content": "Puede encontrar un psicólogo..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"A través del referido de un doctor, profesional de enfermería o compañía de seguro.",
+								"A través de personas que conoce.",
+								"En el sistema militar de salud y de veteranos."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuál es la tarea del psiquiatra?",
+					"audio": "Psychiatrist.mp3",
+					"id": 38,
+					"cdata": [{
+							"type": "text",
+							"content": "Un psiquiatra es un médico con formación especializada en psiquiatría. Mayormente tratan pacientes con medicamentos que pueden aliviar los síntomas de la depresión, ansiedad, TEPT o ayuda con los problemas del sueño u otras dificultades asociadas con problemas de salud mental."
+						},
+						{
+							"type": "text",
+							"content": "Un psiquiatra puede ayudarle con..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Medicamentos para tratar problemas de salud mental como depresión, ansiedad, TEPT y enfermedades mentales graves.",
+								"En algunos casos proveen asesoría."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Puede encontrar un psiquiatra..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"A través del referido de un doctor, profesional de enfermería o compañía de seguro.",
+								"A través de personas que conoce.",
+								"En el sistema militar de salud y de veteranos."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Cuál es la tarea del consejero pastoral o capellán?",
+					"audio": "Pastoral Counselor.mp3",
+					"id": 39,
+					"cdata": [{
+							"type": "text",
+							"content": "El consejero pastoral o capellán es un miembro del clero que..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Brinda apoyo espiritual y orientación.",
+								"Celebra servicios religiosos más allá de las paredes de una iglesia o templo.",
+								"Ofrece apoyo en situaciones de emergencia."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Los capellanes ayudan a las personas independientemente de su fe y creencias religiosas y ofrecen asesoría y apoyo espiritual. Aunque los capellanes generalmente no están entrenados para proporcionar consejería de salud mental, algunos consejeros pastorales también tienen licencia como proveedores de salud mental. Los capellanes o consejeros pastorales también pueden referirle a un especialista como un psicólogo, psiquiatra o trabajador social."
+						},
+						{
+							"type": "text",
+							"content": "Si busca orientación espiritual, un consejero pastoral o capellán es un buen punto de partida."
+						}
+					]
+				}
+			],
+			"displayName": "Getting professional help",
+			"icon": "prof_care.png"
+		},
+		{
+			"Content": [{
+					"displayName": "¿En qué consiste la asesoría de parejas?",
+					"id": 40,
+					"audio": "Whatiscouplescounseling.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "La terapia de parejas puede resultarle útil a las parejas que tienen problemas de convivencia o dificultades para sentirse cerca."
+						},
+						{
+							"type": "text",
+							"content": "Este tipo de asesoría puede ayudarlos a usted y a su pareja a..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Entender de dónde provienen sus dificultades.",
+								"Aprender maneras de enfrentar el estrés de la relación.",
+								"Desarrollar destrezas de comunicación y solución de problemas.",
+								"Crear confianza y sentirse más cerca el uno del otro."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Un profesional de la salud, un capellán o una organización de servicios sociales puede ayudarles a encontrar un terapeuta de pareja."
+						}
+					]
+				},
+				{
+					"displayName": "¿En qué consiste la terapia familiar?",
+					"id": 41,
+					"audio": "Whatisfamilytherapy.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Considere la terapia familiar si su familia experimenta problemas de comunicación o de convivencia."
+						},
+						{
+							"type": "text",
+							"content": "En este tipo de asesoría, un terapeuta le ayudará a usted y a su familia a..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Comunicarse mejor.",
+								"Desarrollar y mantener buenas relaciones.",
+								"Hacerle frente a las emociones perturbadoras.",
+								"Entender y a enfrentar los síntomas del TEPT."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Un profesional de la salud, un capellán o una organización de servicios sociales puede ayudarles a encontrar un terapeuta familiar."
+						}
+					]
+				},
+				{
+					"displayName": "Cómo reconectar con su pareja",
+					"id": 42,
+					"audio": "Reconnectingwithyourpartner.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Las relaciones pueden sentirse tensas si uno de los dos está lidiando con los síntomas del TEPT. A continuación, se ofrecen algunos consejos que le ayudarán a usted y a su pareja a acercarse nuevamente."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Cuando se siente parálisis emocional se hace difícil expresar amor y cariño. Puede comenzar por apreciar las cosas concretas que hace su pareja (como expresar agradecimiento, por ejemplo: “gracias por lavar los platos” o “agradezco que hayas cambiado el aceite del auto”).",
+								"Hable con su pareja sobre cómo el TEPT le afecta y lo que necesita. Su pareja puede ayudarle mejor si está al tanto de lo que está pasando.",
+								"Haga preguntas y preste atención a los sentimientos y necesidades de su pareja. Haga lo posible por abrirse y ponerse en su lugar cuando conversen.",
+								"Si tiende a retirarse cuando atraviesa una situación tensa, haga su mejor esfuerzo por acercarse a su pareja con pequeños detalles, favores y palabras amables.",
+								"Evite decir palabras hirientes o ejercer violencia física. En cambio, tómese unos momentos para calmarse. Podrá encontrar herramientas en la sección <b>Manejo de síntomas</b> de esta aplicación.",
+								"La tensión ocasionada por el TEPT puede alterar las relaciones íntimas con su pareja por un tiempo. De ser así, enfóquese en otras formas de estar cerca, como divertirse juntos, tomarse de las manos, abrazarse y besarse.",
+								"Entienda que el TEPT puede hacer que se sienta distante o irritable. Intente mantener sus expectativas y autocrítica bajo control: usted sólo es un ser humano, ¡y sanar toma tiempo!",
+								"Si es necesario, busque la ayuda de un terapeuta de pareja."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "El juego limpio",
+					"id": 43,
+					"audio": "Fightingfair.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Siempre habrá conflictos en las relaciones. Si se siente irritable o tiene “mal genio”, puede tornarse todavía más difícil. A continuación, se ofrecen algunos consejos sobre cómo “jugar limpio”:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Piense antes de hablar. Mantener la calma y la objetividad ayuda mucho a resolver problemas.",
+								"Cuando hable, use afirmaciones que comiencen con “yo”, “Yo creo” o “Yo siento”. Emplear afirmaciones usando “tú” puede sonar acusador.",
+								"Vaya poco a poco. Enfóquese en un problema a la vez.",
+								"Sea positivo: exprese claramente lo que desea y necesita. La culpa y la negatividad no le ayudarán a resolver los problemas.",
+								"Exprese cómo se siente con palabras. Sus seres amados no sabrán que siente tristeza o frustración a menos que lo comunique.",
+								"En una discusión, permita que la otra persona tenga la misma oportunidad  para decir lo que piensa.",
+								"Cuando la otra persona esté hablando, escuche lo que tiene que decir sin interrumpir. Haga preguntas y parafrasee lo que le han dicho para asegurarse de que entendió.",
+								"No dé consejos a menos que se los pidan.",
+								"No dé “golpes bajos” con comentarios y opiniones sobre temas delicados. Aténgase a los temas en cuestión.",
+								"Nunca discuta en la cama. Use una habitación neutral y afirme su amor a menudo.",
+								"Trabaje en equipo para resolver problemas. Pueden lograr mucho más de esta manera que como rivales.",
+								"Evite decir “te lo dije”. Recuerde que un problema resuelto es una victoria para ambos.",
+								"Si se calientan demasiado los ánimos, tomen un respiro y acuerden continuar la discusión cuando estén más tranquilos."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Explicando el TEPT a los Niños",
+					"audio": "",
+					"id": -39,
+					"image": "t39",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "El impacto del TEPT en los niños",
+					"id": 44,
+					"audio": "ImpactofPTSDonchildren.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Vivir con un padre o una madre que sufre de TEPT puede ser difícil para los hijos. Muchos niños se adaptan bien pero otros pueden responder de manera problemática, incluyendo:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Actuar como el padre o la madre, quizás como una forma de tratar de establecer una conexión más cercana con ellos. Los hijos pueden mostrar algunos de los mismos síntomas que el padre o la madre que padece trastorno de estrés postraumático, como estar irritable o quejarse por tener problemas para dormir.",
+								"Asumir roles o responsabilidades para “reemplazar” al padre o la madre que sufre de TEPT. Puede actuar como un niño muy adulto para su edad. Esto puede ser abrumador para el menor y puede impedir que viva plenamente su niñez.",
+								"Mostrar conductas de niños más pequeños (como orinarse en la cama y rabietas).",
+								"Pensar que son ellos el problema o que son responsables por el comportamiento del padre o la madre con TEPT (como pensar, por ejemplo: “si pudiera estar más callado, no se enojaría”).",
+								"Necesitar ayuda emocional para manejar sus preocupaciones, miedos o depresión.",
+								"Presentar problemas en la escuela o en sus relaciones de amistad."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Las investigaciones muestran que los hijos de veteranos con TEPT pueden tener..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Conductas más violentas o agresivas.",
+								"Problemas de comportamiento, como hiperactividad y/o problemas de atención.",
+								"Más problemas escolares. ",
+								"Relaciones problemáticas con la familia y los amigos.",
+								"Mayor riesgo de sufrir depresión y ansiedad.",
+								"“Traumatización secundaria”, es decir, síntomas similares a los de su padre/madre o alteración emocional por el trauma de sus padres o el TEPT."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "La respuesta de los niños a los síntomas del TEPT",
+					"id": 45,
+					"audio": "ChildrensresponsestoPTSDsymptoms.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Las reacciones de un padre o una madre a un trauma pasado pueden afectar a los hijos de diferentes maneras:"
+						},
+						{
+							"type": "text",
+							"content": "Si los padres sufren de pesadillas o escena retrospectiva:"
+						},
+						{
+							"type": "text",
+							"content": "Los hijos pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Sentirse confundidos acerca de lo que está ocurriendo y por qué.",
+								"Sentirse asustados si ven o escuchan a los padres alterados o atemorizados.",
+								"Preocuparse por el bienestar de sus padres.",
+								"Preocuparse de que sus padres no puedan cuidarlos adecuadamente."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si el padre o la madre que padece TEPT evita salir o se aísla:"
+						},
+						{
+							"type": "text",
+							"content": "Los hijos pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Tomárselo personal y temer que sus padres no se preocupen por ellos, no quieran pasar tiempo con ellos ni participar en sus vidas (como ir a juegos deportivos o hacer salidas familiares).",
+								"Sentirse abandonados.",
+								"Sertirse heridos o sentir frustración."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si el padre o la madre que padece TEPT se aparta, se entumece emocionalmente o es indiferente:"
+						},
+						{
+							"type": "text",
+							"content": "Los hijos pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Pensar que no se interesa en ellos o no los ama, aunque exprese lo contrario.",
+								"Sentirse preocupados ante la posibilidad de que los abandonen o que abandonen a la familia."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si el padre o la madre que padece TEPT está irritable, furioso o se frustra fácilmente:"
+						},
+						{
+							"type": "text",
+							"content": "Los hijos pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Cuestionar el amor de su padre o madre.",
+								"Sentir miedo, tensión o ansiedad alrededor del padre o la madre.",
+								"Perder respeto por su padre o madre."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Si el padre o la madre que padece TEPT está siempre en estado de alerta al peligro o se sobresalta con facilidad:"
+						},
+						{
+							"type": "text",
+							"content": "Los hijos pueden..."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Desarrollar los mismos niveles de alerta constantes que su padre o madre y sentir mucho estrés.",
+								"Sentir nerviosismo y actuar con cautela ante el peligro."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Los hijos pueden contraer el TEPT de sus padres?",
+					"id": 46,
+					"audio": "CanchildrengetPTSDfromtheirparents.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Si bien no es común que esto ocurra, los hijos de las personas que padecen TEPT pueden presentar signos de este trastorno también. Esto se conoce como “traumatización secundaria”."
+						},
+						{
+							"type": "text",
+							"content": "Puede ocurrir de la siguiente manera:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Cuando la familia le enseña al menor a nunca hablar sobre sucesos, pensamientos o emociones inquietantes, la ansiedad de éste se acrecienta. El menor puede sentirse responsable por ocasionar los síntomas del padre o la madre e inventar su propia historia acerca de lo que sucedió.",
+								"A veces los adultos comparten demasiados detalles sobre los eventos. Los hijos pueden comenzar a sentir tensión y mostrar síntomas de TEPT como respuesta.",
+								"Un menor puede comenzar a compartir los síntomas de su padre o madre como una manera de conectarse con él o ella.",
+								"Los menores también pueden recrear o representar algún aspecto del trauma que experimentaron sus padres. A los menores a veces se les dificulta separar el trauma pasado del momento presente."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Cómo ayudar a los hijos a sobrellevar la situación",
+					"id": 47,
+					"audio": "Helpingchildrencope.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Cuando el TEPT impacta la familia:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Explíqueles cuáles son los motivos de las dificultades. Saber lo que ocurre y por qué está ocurriendo los ayuda a sentirse más seguros.",
+								"No obstante, procure no compartir con el menor demasiados detalles del evento. Ajuste la información que comparta según la edad y madurez del menor.",
+								"Ayúdelos a entender que los síntomas del TEPT y las reacciones del trauma no son r su culpa.",
+								"Conversen sobre las experiencias y las situaciones relacionadas. Escuche sus preocupaciones y acepte sus sentimientos.",
+								"Reconozca que el cambio es tan estresante para los menores como lo es para los adultos, y sea paciente.",
+								"Recuerde que los menores pueden tener sentimientos encontrados sobre usted y su trastorno. Pueden sentirse cariñosos, preocupados,  protectores y, también sentirse resentidos, ansiosos o enojados a veces.",
+								"Ayúdelos a aprender a manejar el estrés de una manera más adecuada. Por ejemplo:"
+							]
+						},
+						{
+							"type": "list_l2",
+							"content": [
+								"Correr o hacer ejercicio para liberarse de tensiones",
+								"Dibujar o escribir para expresarse",
+								"Respirar profundamente para relajarse"
+							]
+						},
+						{
+							"type": "list",
+							"content": [
+								"Deles a escribir un diario personal para mantener un registro sobre estos eventos, y sus sentimientos y experiencias.",
+								"Involúcrelos en las decisiones que los afectan, siempre que sea posible."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Consejos para los padres",
+					"id": 48,
+					"audio": "Parentingtips.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "A continuación, presentamos algunos consejos para criarhijos que están adaptándose a vivir con alguien que padece TEPT."
+						},
+						{
+							"type": "text",
+							"content": "Edúquense"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Ambos padres deben aprender cómo el TEPT puede afectar a sus hijos, y cuáles son las  reacciones más comunes de éstos ante el hecho de tener a un padre o una madre con este trastorno.",
+								"Tenga en cuenta que los hijos podrían necesitar cuidados especiales, atención y cercanía adicionales durante este periodo."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Brinde apoyo"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Asegúrese de tener tiempo para conversar y participar en actividades juntos. Ambos padres deben prestar atención a los sentimientos e inquietudes de sus hijos y tomarlos en serio.",
+								"Brinde consuelo y apoyo a sus preguntas y preocupaciones.",
+								"Proporcione a sus hijos información sobre el TEPT y los cambios experimentados por la madre o el padre afectado, a un nivel que puedan entenderlo para aliviar la confusión y el miedo a lo desconocido.",
+								"Anime y organice actividades (moverse para liberar tensiones, dibujar y escribir para expresarse, etc.) que ayuden a sus hijos a expresarse y a controlar el estrés."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Exprese cariño y tenga claros los límites"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Exprese cariño; sea paciente y atento mientras sea consistente y mantenga claros los límites...",
+								"Entienda que los niños pueden dar rienda suelta a sus impulsos y portarse mal a veces, deles un poco de espacio para ésto. Este comportamiento es una respuesta normal a la tensión, siempre y cuando no sea frecuente ni cause problemas más graves.",
+								"Elogie el buen comportamiento de sus hijos y las formas saludables en que enfrentan la situación. Enfóquese siempre en lo que aprecia de ellos.",
+								"Si usted es el padre o la madre que sufre TEPT, concéntrese en la calidad y el disfrute del tiempo compartido con sus hijos; sea laxo con la disciplina, particularmente, si ha estado irritable o de mal humor."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Mantenga el ritmo habitual"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Mantenga la rutina familiar básica, como los rituales a la hora de cenar y de acostarse.",
+								"Asegúrese de que sus hijos sigan asistiendo a la escuela y a otras actividades regulares."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Inclúyalos"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Involucre a sus hijos en actividades familiares. Diviértanse los fines de semana en actividades para niños.",
+								"Siga participando en las actividades escolares y sociales de sus hijos.",
+								"Pregunte por sus intereses y escuche sin juzgar ni burlarse."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "¿Mis hijos están bien? Cuándo debo buscarles ayuda",
+					"id": 49,
+					"audio": "AremykidsokWhentoseekoutsidehelp.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Si su hijo experimenta problemas de adaptación con respecto a sus síntomas de TEPT, no dude ponerse en contacto con su médico o un profesional de la salud mental para obtener apoyo. A continuación, presentamos algunos comportamientos que debe mantener en cuenta:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Problemas para concentrarse, realizar tareas o actividades",
+								"Respuestas emocionales intensas, como llanto continuo, tristeza profunda o cambios de humor",
+								"Depresión, mostrarse retraído o poco comunicativo",
+								"Expresar sentimientos violentos o de tristeza al escribir o a través de dibujos “oscuros”",
+								"Pérdida o aumento significativo de peso, o falta de atención a la higiene personal",
+								"Cambios notables en la actividad social o amistades",
+								"Uso de drogas o alcohol"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Busque ayuda de inmediato si su hijo se hace daño físico intencionalmente, parece estar a riesgo de lastimar a otros o expresa pensamientos suicidas."
+						}
+					]
+				},
+				{
+					"displayName": "¿Mi hijo debe ir a asesoría individual?",
+					"id": 50,
+					"audio": "Shouldmychildhaveindividualcounseling.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Los hijos pueden beneficiarse de tener terapia individual o terapia familiar."
+						},
+						{
+							"type": "text",
+							"content": "La terapia familiar ayuda a que los miembros de la familia aprendan a sobrellevar la situación, comunicarse y llevarse bien cuando están bajo estrés."
+						},
+						{
+							"type": "text",
+							"content": "La terapia individual proporciona un lugar privado para que los niños hablen y aprendan a lidiar con sus experiencias."
+						}
+					]
+				}
+			],
+			"displayName": "PTSD and the family",
+			"icon": "PTSD_and_the_family.jpg"
+		}
+	]
+}

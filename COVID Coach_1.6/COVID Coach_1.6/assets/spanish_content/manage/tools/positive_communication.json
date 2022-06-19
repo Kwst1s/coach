@@ -1,0 +1,246 @@
+[{
+			"text": [{
+					"type": "title",
+					"content": "Expresa Afecto",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Dile a tu ser querido 1 cosa que amas o aprecias de él/ella. Envíale un mensaje de texto o déjale una nota donde sepas que la va a encontrar."
+				},
+				{
+					"type": "text",
+					"content": "¡Hazlo ahora mismo, si puedes!"
+				}
+			],
+			"message": "Sólo quería que supieras algo que me encanta de ti..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Muestra admiración",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Dile a tu ser querido 1 cosa que admiras de él o ella."
+				}
+			],
+			"message": "Sabes que yo te admiro por..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Inicia una conversación",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Planea e inicia una conversación con tu ser querido sobre un tema que sepas que os interesa a los dos."
+				}
+			],
+			"calendar": "Inicia una conversación con mi ser querido"
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Primeras impresiones",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "¿Puedes recordar las primeras impresiones que tuviste acerca de tu ser querido? Sin hacer comparaciones con el presente, comparte con tu ser querido lo que más te gustó de él/ella esa primera vez."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Valores Compartidos",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "¿Cuál es al menos un <b>objetivo o valor compartido</b> que tienen en común? Pregunta a tu ser querido sobre sus objetivos para el próximo mes y cómo le puedes ayudar a alcanzar dicho objetivo."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Contribuciones",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Pasa 2 minutos pensando sobre esto: al menos una cosa que hace tu ser querido para contribuir a la relación que tienen. Intenta identificar al menos una cosa, aunque sea pequeña."
+				}
+			],
+			"message": "Gracias por..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Sólo Escucha",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Pídele a tu ser querido que te explique cuál ha sido la mejor parte del día y cuál ha sido la peor. Focaliza en escuchar."
+				},
+				{
+					"type": "text",
+					"content": "Reconoce lo que te explica tu ser querido, sin tratar de resolver nada."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Superando Desafíos",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Piensa en algún momento de tu relación con tu ser querido, en el que superasteis algo difícil juntos."
+				}
+			],
+			"message": "Te acuerdas cuando..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "La Próxima Vez, Hablas Tú",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Intenta convertir unos minutos con tu ser querido en una conversación positiva; comunicate más de lo habitual, sobre algo que tengan en común."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Escucha Abiertamente",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Encuentra oportunidades para conversar con tu ser querido sobre tema/s que le interesan a él/ella. Escúchale de forma abierta. ¡No cambies el tema!"
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Comparte sus Intereses",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Planea e inicia una conversación con tu ser querido sobre algo que sepas que es interesante para él/ella, pero que normalmente no lo es para ti."
+				}
+			],
+			"calendar": "Habla con mi ser querido sobre algo que le interesa"
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Observando la Amabilidad",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Encuentra algo bueno, ya sea grande o pequeño, que tu ser querido haya hecho recientemente. Compártelo con tu ser querido y dile cómo te hizo sentir."
+				}
+			],
+			"message": "Noté que hiciste algo amable y quería darte las gracias..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Creando Rituales",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Pide a tu ser querido que inicie y cuide, una rutina diaria o semanal contigo. Esta rutina puede ser cualquier actividad - una llamada, una comida, un abrazo, o cualquier cosa que podran compartir juntos."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Compartiendo Problemas",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Pide a tu ser querido qué quiere que hagas la próxima vez que comparta un problema contigo."
+				},
+				{
+					"type": "text",
+					"content": "Prueba de decir esto: “¿Prefieres que te escuche o quieres que te de un consejo?” No ofrezcas consejos si tu ser querido no los pide."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Experiencias Divertidas",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Intenta recordar una experiencia divertida que compartiste con tu ser querido."
+				},
+				{
+					"type": "text",
+					"content": "Planea una actividad divertida e intenta recrear esa experiencia."
+				}
+			],
+			"message": "Te acuerdas cuando nosotros..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Experiencias Favoritas",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Pasa algún tiempo recordándole a tu ser querido algunas de sus experiencias favoritas juntos."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Escribe una Carta",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Escríbele una carta a tu ser querido explicándole lo que significa para ti, el porqué le/la quieres, o tus deseos de futuro con él/ella."
+				},
+				{
+					"type": "text",
+					"content": "¡Asegúrate de entregar la carta a tu ser querido!"
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Deja una Nota",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Deja una nota donde la puede encontrar tu ser querido, que diga “Te quiero cuando…” ¡y ahora, rellena el espacio en blanco!"
+				}
+			],
+			"message": "Te quiero cuando..."
+		}
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/sp_congrats_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@+id/sp_congrats_txt_toolbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/safety_plan_help" android:fontFamily="@font/font_regular" android:accessibilityHeading="true" app:fontFamily="@font/font_regular"/>
+        <vainstrum.Components.TextViewTracking android:textSize="@dimen/txt_normal" android:textColor="@android:color/white" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="@+id/sp_congrats_txt_done" android:paddingTop="@dimen/padding_x_small" android:paddingBottom="@dimen/padding_x_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/done" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:contentDescription="@string/done_button" android:textAllCaps="true" android:paddingEnd="@dimen/padding_medium" app:tracking_id="52051"/>
+    </androidx.appcompat.widget.Toolbar>
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/sp_congrats_img" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="centerCrop"/>
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/sp_congrats_layout_content" android:paddingTop="@dimen/padding_mmlarge" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

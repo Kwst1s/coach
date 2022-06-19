@@ -1,0 +1,38 @@
+[
+{
+		"type": "text",
+		"content": "Vertical"
+	},
+	{
+		"type": "image",
+		"gravity": 0,
+		"contentDescription": "Vertical Logo",
+		"content": "vertical_logo"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://vertical.is/",
+		"content": "Vertical sitio"
+	},
+	{
+		"type": "title",
+		"content": "Additional Resources"
+	},
+	{
+		"type": "text",
+		"content": "Obtenga más información sobre las aplicaciones desarrolladas por el Centro Nacional para el TEPT y accese recursos."
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://myvaapps.com",
+		"content": "Aplicaciones de CNTEPT"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://mentalhealthapps.org",
+		"content": "Mentalhealthapps.org"
+	}
+]

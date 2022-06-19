@@ -1,0 +1,383 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un niño de entre 2-4 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Establece reglas breves y claras con tu hijo/a. En relación a situaciones como no invadir el espacio, levantar la voz, u otras circunstancias que puedan potencialmente activar los síntomas de tu pareja.  Encuentra 1 o 2 palabras para recordar a tu hijo suavemente, pero con frecuencia, las normas que has establecido para relacionarse con tu pareja."
+			}
+		],
+		"image": "dotodler1"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Podría tu pareja hacer más?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Recuerda que tu pareja puede necesitar ayuda para relacionarse con los niños.  Sé considerado, pero recuérdale cada día lo importante que es, aunque parezca algo sin importancia."
+			}
+		],
+		"image": "couldlovedmore"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Está tu hijo perdiéndose momentos importantes con tu pareja?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Anima a tu pareja y a tu hijo a pasar tiempo juntos.  Encuentra al menos 1 actividad que puedan compartir unos minutos al día.  Estos momentos serán buenos para ambos.  Cuando esto no sea posible, asegúrate de dedicarle ese tiempo tú en exclusiva (sin estar en ese momento pendiente de otros compromisos)."
+			}
+		],
+		"image": "childmissqtime"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un hijo entre 2 y 12 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Utiliza normas breves y claras. Mantén estas normas y tus promesas.  Establece expectativas que estés seguro de que tu hijo puede cumplir."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un hijo entre 2 y 12 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Celebra los éxitos de tu hijo."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un hijo entre 2 y 12 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Confía en lo que tu instinto te dice que es ser un buen padre."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un hijo entre 2 y 12 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Establece una rutina y mantenla si aún no la tienes. Los niños necesitan la seguridad de las rutinas para crecer bien."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Les resulta difícil conectar a tu hijo y a tu pareja?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Asegúrate de que tu pareja encuentre la manera de expresar su amor hacia sus hijos; a través de la palabra, de gestos o cualquier otra manera en la que tus hijos perciban que son queridos."
+			}
+		],
+		"image": "lovedchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Encuentras a tu pareja y a tus hijos distanciados?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Anima a tu pareja a que se reencuentre con tus hijos haciendo cosas juntos que disfruten ambos. Intenta que progresivamente, muy poco a poco, vayan pasando cada vez más tiempo juntos."
+			}
+		],
+		"image": "childdistant"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Sientes que no estás siendo un buen padre?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Has de saber que no eres el único.  Es realmente difícil para un padre con TEPT, solo puedes hacer lo mejor que esté en tu mano.  Los niños tienen mucha capacidad de adaptación, saben percibir cuando se les quiere.  Quiere a tus hijos, acepta que cometerás errores, no te castigues y sigue adelante.  Solo intenta hacerlo lo mejor que puedas."
+			}
+		],
+		"image": "feelbad"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un niño entre 2 y 4 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pregunta a tus hijos que puedes hacer para ayudarles.  Tómate tu tiempo para escuchar con atención lo que tienen que decirte y encuentra algo cada día en lo que puedas echarles una mano, por pequeño que sea."
+			}
+		],
+		"image": "dotodler2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un hijo entre 5 y 12 años?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Ayuda a tu hijo a manejar su rabia. Dale herramientas con las que pueda gestionarla: contar hasta 10, encontrar una manera creativa de desahogarse, hacer algunas respiraciones profundas, encuentra una persona de confianza con la que puedan hablar."
+			}
+		],
+		"image": "ychild2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un adolescente?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "No temas hablar con tu hijo adolescente sobre el TEPT.  Pregúntale sobre ello y escucha sus opiniones.  Anímale a expresar sus sentimientos, hablando o a través de su manera habitual de comunicarse."
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un adolescente?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Los adolescentes pueden necesitar su propio espacio para afrontar la situación de TEPT de tu pareja. Respeta su privacidad siempre que eso no afecte a su seguridad.  No te adelantes a resolver sus problemas ni decidas por ellos."
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un adolescente?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Escoge los momentos para estar con tu hijo, cuando tenga la necesidad de hablar sólo tienes que escucharle. Muéstrales tu cariño, aunque parezca que les incomoda!"
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tú pareja te ayuda con tus hijos?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Incluye siempre que puedas a tu pareja en lo relativo a la toma de decisiones respecto a la educación que quieres para tus hijos."
+			}
+		],
+		"image": "parthelpchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Apoya a tu pareja en la crianza",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Refuerza positivamente a tu pareja cuando percibas que lo está haciendo bien."
+			}
+		],
+		"image": "suppparenting"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a partner who helps with your child?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Try to make sure your children are getting a consistent message when they talk to you and when they talk to your partner. Even if you have very different parenting strategies, try to find common ground where you can. "
+			}
+		],
+		"image": "parthelpchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tu pareja te ayuda con tu hijo?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Intenta asegurarte de que los mensajes que recibe tu hijo no sean contradictorios entre tú y tu pareja. Aunque tengáis puntos de vista diferentes respecto a su educación intentad encontrar un término medio en lo que sea posible."
+			}
+		],
+		"image": "ocontrol"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Reuniones familiares",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Cread una agenda juntos. Trabajad  para intentar llegar a soluciones conjuntas de cada problema planteado."
+			}
+		],
+		"image": "fmeetings"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Le cuesta a tu hija/a hablar sobre sus sentimientos?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Busca momentos que puedas dedicar por completo a tu hijo/a. Escúchale con interés y respeto, evitando comentar o juzgar – deja que tu hijo/a sea el que hable."
+			}
+		],
+		"image": "htimediscuss"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Le cuesta a tu hijo/a hablar sobre sus sentimientos?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Ayuda a que tu hijo/a a identificar los sentimientos de los que habla por su nombre- como felicidad, tristeza, miedo, interés."
+			}
+		],
+		"image": "hardtimechild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Le cuesta a tu hijo/a hablar sobre sus sentimientos?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "No siempre es necesario hablar, a veces es suficiente con estar juntos."
+			}
+		],
+		"image": "hardtimechild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "¿Tienes un/a hijo/a pequeño/a?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Barrio Sésamo tiene recursos interesantes para ayudar a los niños a afrontar experiencias de trauma en la familia:"
+			},
+			{
+				"type": "link_web",
+				"link": "https://sesamestreetincommunities.org/topics/traumatic-experiences/",
+				"content": "Sesame Street Comunidades"
+			}
+		],
+		"image": "ustudios"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Trata de iniciar una conversación acerca de lo que piensan.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Con niños con capacidad de comprensión puedes probar algo como: “Estamos pasando por cosas difíciles últimamente y me gustaría hablarlo contigo. ¿Cómo te sientes con ello?”."
+			}
+		],
+		"image": "openup"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Trata de iniciar una conversación, comparte cómo te sientes.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Si estás quieres hablar sobre cómo te sientes puedes empezar con algo como: “He estado de malhumor últimamente. Me gustaría explicarte un poco qué es lo que me pasa”."
+			}
+		],
+		"image": "askthink"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Trata de iniciar una conversación, sincerándote.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Con niños más mayores, puedes compartir tus sentimientos como ejemplos: “Me gustaría hablar contigo sobre algunas cosas...”."
+			}
+		],
+		"image": "focusstrenghts"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Potencia sus puntos fuertes.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Presta atención a los puntos fuertes de tu hijo/a – hazles saber lo mucho que los valoras. Reconoce y refuerza las cosas que hacen bien."
+			}
+		],
+		"image": "sharefeeling"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Dales tiempo a los niños para que puedan hablar.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pregunta a tu hijo/a por sus preocupaciones y deja que se tomen su tiempo para contestar, así percibirán que para ti es importante su punto de vista."
+			}
+		],
+		"image": "timetospeak"
+	}
+]

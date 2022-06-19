@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_x_small" android:text="@string/total_score" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:contentDescription="@string/total_score_heading" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+            <RelativeLayout android:layout_gravity="center_horizontal" android:background="@drawable/green_round" android:layout_width="70dp" android:layout_height="70dp" android:layout_marginBottom="@dimen/padding_x_small">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_large" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@+id/assessment_results_txt_score" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@+id/assessment_results_content" android:paddingTop="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+    <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@color/grey_4a" android:id="@+id/assessment_results_btn_done" android:background="@drawable/custom_btn_white_very_rounded" android:padding="@dimen/padding_medium" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_mlarge" android:minHeight="60dp" android:text="@string/done2" android:contentDescription="@string/done2" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold" app:tracking_id="24451"/>
+</LinearLayout>

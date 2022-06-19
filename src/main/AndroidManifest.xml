@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="70" android:versionName="1.6" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="gov.va.mobilehealth.ncptsd.covid" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="29"/>
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@mipmap/covid_launcher" android:name="gov.va.mobilehealth.ncptsd.covid.CComp.App" android:allowBackup="false" android:supportsRtl="true" android:roundIcon="@mipmap/covid_launcher_circular" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:requestLegacyExternalStorage="true">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <provider android:name="gov.va.mobilehealth.ncptsd.covid.CComp.GenericFileProvider" android:exported="false" android:authorities="gov.va.mobilehealth.ncptsd.covid.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+        <service android:name="gov.va.mobilehealth.ncptsd.covid.ExpansionUtils.DownloaderExpService"/>
+        <service android:name="gov.va.mobilehealth.ncptsd.covid.Services.AudioService" android:enabled="true" android:exported="true"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ExpansionUtils.ExpAlarmReceiver"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverQuotes"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverPTSDSymptoms"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverWorryTime"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverWindingDown"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverGoal"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverAnxiety"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverTrackMood"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverTool"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.AlarmReceiverWellBeing"/>
+        <receiver android:name="gov.va.mobilehealth.ncptsd.covid.ReceiversBroad.UpdateReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package" android:path="gov.va.mobilehealth.ncptsd.covid"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:label="@string/app_name" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_splash" android:screenOrientation="sensorPortrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/license_agreement_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_license_agreement" android:launchMode="singleTop" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeTraslucent" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_home" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/personalize_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_setup" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/support_contacts_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_contacts" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_pictures" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_music" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_show_image" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeTraslucent" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_tabs" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:label="@string/assessment_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_AssessmentPTSDSymp.Act_assessment" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/manage_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_manage" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_show_text" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/help_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_manage_help" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/track_progress_help_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_track_help" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/create_tool_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_create_tool" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_text_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_c_c_t_text" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_music_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_c_c_t_audio" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_photo_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_c_c_t_photo" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_video_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_c_c_t_video" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_memo_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_c_c_t_memo" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/pick_video_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_custom_tools.Act_get_video" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/reminders_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_new_reminders" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/resources_for_veterans_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_finding_treatment_for_veterans" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/new_i_message_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Act_new_i_message" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Act_subhelp_tool" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/add_strenght_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Act_new_strenght" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/my_feelings_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_my_feelings_recap" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Act_new_my_feeling" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/add_favorite_tools_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_add_favorite" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_webview" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/welcome_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_tutorial" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Act_assessment_detail" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_tool_star" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeBlack" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_video_player" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/send_us_feedback_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_feedback_disclaimer" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeBlack" android:label="@string/manage_data_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_manage_data" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/results_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_AssessmentPTSDSymp.Act_assessment_feedback" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeTraslucent" android:label="@string/fullscreen_slideshow_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_fullscreen_slideshow"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_jtext" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/slideshow_settings_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_slideshow_settings" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/AppThemeTraslucent" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_tool_sublist" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_crisis_resources" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/find_support_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_support" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/find_professional_care_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_find_professional_care" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/grow_your_support_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_grow_support" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_jtext_content" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_steps" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/sp_help_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_help" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/choose_tool_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_choose_tool" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/my_safety_plan_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_view_plan" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/my_warning_signs_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_step1_my_ws" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:label="@string/my_coping_strategies_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_step2_coping_strategies" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:label="@string/my_places_heading" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_step3_places" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_congrats" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/learn_more_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_learn_more_step_3" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:label="@string/step_6_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_step6_env_safe" android:screenOrientation="sensorPortrait" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan"/>
+        <activity android:label="@string/firearm_safety_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_step6_firearm_safety" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/completed_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_sp_done_all_congrats" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/learn_more_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_sp.Act_learn_more_step_6" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/goals_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Activities_goals.Act_goals" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Activities_goals.Act_new_goal" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Activities_goals.Act_edit_goal" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/edit_goal_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Activities_goals.Act_edit_goal_txt" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/goals_history_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Activities_goals.Act_goal_history" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Act_assessment_start" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Act_other_assessment" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/manage_stress_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_manage_stress" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/results_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Acts_track_mood.Act_other_assessment_result" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_single_covid_learn" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_find_resources" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Acts_tool_rew_good_behav.Act_rewarding_good_behavior_add_reward" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/rewarding_good_behavior_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Acts_tool_rew_good_behav.Act_rewarding_good_behavior_reward" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/new_appreciation_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities_tools_insert.Act_new_appreciation" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_single_covid_learn_category" android:screenOrientation="sensorPortrait"/>
+        <activity android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_cluster_tool_intro" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/delete_mood_check_data_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_delete_mood_check" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/export_mood_check_data_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_export_mood_check" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/mood_check_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_mood_check" android:screenOrientation="sensorPortrait"/>
+        <activity android:label="@string/search_h" android:name="gov.va.mobilehealth.ncptsd.covid.Activities.Act_search" android:screenOrientation="sensorPortrait"/>
+        <activity android:theme="@style/MultipleImageSelectTheme" android:label="@string/app_name_select" android:name="com.darsh.multipleimageselect.activities.AlbumSelectActivity" android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/MultipleImageSelectTheme" android:label="@string/app_name_select" android:name="com.darsh.multipleimageselect.activities.ImageSelectActivity" android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/ef_AppTheme" android:name="com.esafirm.imagepicker.features.ImagePickerActivity" android:configChanges="orientation|screenSize"/>
+        <provider android:name="com.esafirm.imagepicker.helper.ImagePickerFileProvider" android:exported="false" android:authorities="gov.va.mobilehealth.ncptsd.covid.imagepicker.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/image_picker_provider_paths"/>
+        </provider>
+        <activity android:theme="@style/Theme.Translucent.NoTitleBar" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:exported="false"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <service android:name="com.firebase.jobdispatcher.GooglePlayReceiver" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
+            </intent-filter>
+        </service>
+        <provider android:name="com.squareup.picasso.PicassoProvider" android:exported="false" android:authorities="gov.va.mobilehealth.ncptsd.covid.com.squareup.picasso"/>
+        <provider android:name="pl.aprilapps.easyphotopicker.EasyImageFileProvider" android:exported="false" android:authorities="gov.va.mobilehealth.ncptsd.covid.easyphotopicker.fileprovider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/easyimage_filepaths"/>
+        </provider>
+        <provider android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer" android:exported="false" android:multiprocess="true" android:authorities="gov.va.mobilehealth.ncptsd.covid.lifecycle-process"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

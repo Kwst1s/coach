@@ -1,0 +1,15 @@
+[{
+		"type": "text",
+		"content": "If you are having a hard time securing your environment on your own, you might ask a friend or family member for assistance. They can help you check your environment and provide storage for objects that put you at risk.  It’s important to select people for this task who are reliable and trustworthy."
+	},
+	{
+		"type": "text",
+		"content": "It’s ok if you do not have any trusted social supports to help you with this task. Consider contacting local law enforcement or gun clubs to ask about gun storage. You can also talk to your doctor about safe medication practices that you can carry out on your own. The section below will give you more ideas for how to keep your environment safe."
+	},
+	{
+		"type": "link_internal",
+		"link": "env_safe",
+		"full": true,
+		"content": "Ways to keep my environment safe"
+	}
+]

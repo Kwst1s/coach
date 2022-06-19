@@ -1,0 +1,13 @@
+[{
+		"type": "text",
+		"content": "Conteste 14 preguntas diseñadas para medir su bienestar personal y ayudarle a seguir su progreso a traves del tiempo. Siguiendo los cambios a traves del tiempo le ayudará:"
+	},
+	{
+		"type": "list",
+		"content": ["Aprender a <b>reconocer patrones.</b>", "Descubrir <b>lo que funciona</b> para ayudarle a mojorar su propio bienestar."]
+	},
+	{
+		"type": "text",
+		"content": "Esta evaluación contiene 14 preguntas y durará apróximadamente 10 minutos."
+	}
+]

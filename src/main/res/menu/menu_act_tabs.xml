@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/icon_search" android:id="@+id/action_tabs_search" android:title="@string/search" app:showAsAction="always"/>
+    <item android:icon="@drawable/icon_alarm_white" android:id="@+id/action_tabs_reminders" android:title="@string/reminders" app:showAsAction="always"/>
+    <item android:icon="@drawable/icon_info" android:id="@+id/action_tabs_help" android:title="@string/help" app:showAsAction="always"/>
+    <item android:icon="@drawable/icon_share_white" android:id="@+id/action_tabs_export" android:visible="false" android:title="@string/export_mood_check_data" app:showAsAction="always"/>
+</menu>

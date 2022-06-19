@@ -1,0 +1,55 @@
+{
+	"low": [{
+			"type": "text",
+			"content": "Activity complete. Keep checking in!"
+		},
+		{
+			"type": "text",
+			"content": "It seems like you are managing your anxiety pretty well right now! If you are feeling anxious at times, check out the Managing Stress section of the app to explore some tools that might help."
+		}
+	],
+	"high": [{
+			"type": "text",
+			"content": "Based on your responses you might be struggling to manage anxiety during this challenging time."
+		},
+		{
+			"type": "text",
+			"content": "Check out some ideas to manage anxiety in Staying Well"
+		},
+		{
+			"type": "link_internal",
+			"learn_file": "learn_staying_sane.json",
+			"learn_title": "Staying Well",
+			"learn_icon": "learn_icon_learn",
+			"link": "link_learn_category",
+			"full": true,
+			"content": "Staying Well"
+		},
+		{
+			"type": "text",
+			"content": "Also learn more about how to get support in Find Resources"
+		},
+		{
+			"type": "link_internal",
+			"full": true,
+			"link": "find_resources",
+			"content": "Find Resources"
+		},
+		{
+			"type": "text",
+			"content": "Learn more about anxiety:"
+		},
+		{
+			"type": "link",
+			"full": true,
+			"link": "https://www.nami.org/Learn-More/Mental-Health-Conditions/Anxiety-Disorders",
+			"content": "Anxiety Information"
+		},
+		{
+			"type": "link",
+			"full": true,
+			"link": "https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fmanaging-stress-anxiety.html",
+			"content": "CDC’s Advice on Coping"
+		}
+	]
+}

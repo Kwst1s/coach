@@ -1,0 +1,21 @@
+{
+	"filename": "mindful_walking.mp3",
+	"filename_es": "Mindful-Walking.mp3",
+	"title": "Caminata consciente",
+	"display_title": "Caminata consciente",
+	"subtitle":"sub_mindful_walking",
+	"intro_text": [{
+			"type": "text",
+			"content": "Para este ejercicio, puede caminar por su casa, jardín, vecindario, parque o donde más cómodo y seguro se sienta. Trate de mantenerse en silencio durante su caminata para que pueda prestarle plena atención a sus sensaciones y a su mente."
+		},
+		{
+			"type": "text",
+			"content": "Esta grabación contiene pausas para que pueda practicar sin distracciones."
+		},
+		{
+			"type": "text",
+			"content": "Tiempo estimado: 10 minutos."
+		}
+	],
+	"image": "t15"
+}

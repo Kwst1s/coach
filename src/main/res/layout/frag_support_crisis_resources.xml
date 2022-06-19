@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flipboard.bottomsheet.BottomSheetLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/support_crisis_resources_bs_layout" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/support_crisis_resources_rview" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <RelativeLayout android:background="@color/grey_hh_light" android:padding="@dimen/padding_large" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <vainstrum.Components.FABTracking android:layout_gravity="center_vertical" android:id="@+id/support_crisis_resources_fab_thumb_up" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/thumbs_up_off" android:layout_centerVertical="true" android:contentDescription="@string/thumb_up_this_tool" android:layout_alignParentStart="true" app:backgroundTint="@android:color/white" app:tracking_id="22418"/>
+            <vainstrum.Components.FABTracking android:id="@+id/support_crisis_resources_fab_add" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_plus_white" android:layout_centerVertical="true" android:contentDescription="@string/add_contacts_button" android:layout_alignParentEnd="true" app:tracking_id="22549"/>
+        </RelativeLayout>
+    </LinearLayout>
+</com.flipboard.bottomsheet.BottomSheetLayout>

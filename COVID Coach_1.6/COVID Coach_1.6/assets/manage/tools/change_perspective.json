@@ -1,0 +1,98 @@
+[
+  {
+  "symptoms_ids":[1,2,3,5,6,7,8],
+  "content":"I have been through many hard things in my life and I am strong because of it."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7,8],
+  "content":"I can tolerate this."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"I’ve been through worse before and made it through."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"I don't have to feel comfortable all the time. That just proves I am human."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"This emotion will come and go. I will feel differently in twenty minutes."
+  },
+  {
+  "symptoms_ids":[4,5,6,7],
+  "content":"I am able to respond effectively. I have skills to handle this situation."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"This is another challenge that I will figure out and face."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"These emotions are telling me something. They won't hurt me."
+  },
+  {
+  "symptoms_ids":[2,3,5,6,7],
+  "content":"I am human. I can make mistakes. No one is perfect."
+  },
+  {
+  "symptoms_ids":[1,2,3,6,7],
+  "content":"I am able to protect myself."
+  },
+  {
+  "symptoms_ids":[1,2,6],
+  "content":"Slow down. I know there is more than one choice I can make."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6],
+  "content":"I can ask others for help."
+  },
+  {
+  "symptoms_ids":[1,2,6],
+  "content":"I have made the right decision before."
+  },
+  {
+  "symptoms_ids":[1,2,3,4,5,6,7],
+  "content":"My thoughts are just thoughts; they’re not always right. Don’t believe everything you think."
+  },
+  {
+  "symptoms_ids":[1,2,3,4,6,7],
+  "content":"I am strong."
+  },
+  {
+  "symptoms_ids":[1,2,4,5,6,7],
+  "content":"This too shall pass."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"The emotions I feel right now are giving me information about how I feel but they’re not necessarily based on facts."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"If I don't fight my emotions, they will go down on their own."
+  },
+  {
+  "symptoms_ids":[3,5,6],
+  "content":"I am a decent person."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"It is okay if it takes me time to figure this out."
+  },
+  {
+  "symptoms_ids":[2,3,6],
+  "content":"Learning will give me more options in the future."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"There are times when I will fall back into old patterns. I just need to catch myself and get back on track with what's effective."
+  },
+  {
+  "symptoms_ids":[5,6],
+  "content":"I know that I deserve love."
+  },
+  {
+  "symptoms_ids":[2,5,6],
+  "content":"I am my own unique person: special, talented, and worthwhile."
+  }
+]

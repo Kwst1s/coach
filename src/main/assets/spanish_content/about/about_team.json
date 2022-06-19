@@ -1,0 +1,58 @@
+[
+  {
+    "type": "text",
+    "content": "<b>Equipo de proyecto</b>"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Beth Jaworski, PhD",
+      "Kelly M. Ramsey",
+      "Katherine Taylor, PsyD, MPH",
+      "Sarah Steinmetz, PhD",
+      "Adrienne Heinz, PhD",
+      "Jason Owen, PhD, MPH"
+    ]
+  },
+  {
+    "type": "text",
+    "content": "<b>Subject Matter Experts</b>"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Jessica Hamblen, PhD",
+      "Patricia Watson, PhD",
+      "Pearl McGee-Vincent, PsyD",
+      "Katherine Juhasz, MA",
+      "Tanisha Thelemaque, PhD"
+    ]
+  },
+  {
+    "type": "text",
+    "content": "<b>Spanish Translation</b>"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Daniela Anaya, MS",
+      "Carlos Y. Konishi, PhD"
+    ]
+  },
+  {
+    "type": "text",
+    "content": "<b>Artes gráficas</b>"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Ellen Forney"
+    ]
+  },
+  {
+    "type": "link_web",
+    "full": true,
+    "link": "https://ellenforney.com",
+    "content": "El sitio web de Ellen Forney"
+  }
+]

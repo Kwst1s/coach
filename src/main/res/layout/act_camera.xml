@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <io.fotoapparat.view.CameraView android:id="@+id/camera_cameraview" android:layout_width="match_parent" android:layout_height="match_parent">
+        <io.fotoapparat.view.FocusView android:id="@+id/camera_focusview" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </io.fotoapparat.view.CameraView>
+    <RelativeLayout android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@+id/camera_btn_capture" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_mmlarge" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:contentDescription="@string/take_a_picture" app:fabSize="0" app:srcCompat="@drawable/icon_take_picture"/>
+    </RelativeLayout>
+</androidx.appcompat.widget.FitWindowsFrameLayout>

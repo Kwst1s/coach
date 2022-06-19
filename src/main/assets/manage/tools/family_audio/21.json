@@ -1,0 +1,13 @@
+{
+	"filename": "imagery_beach.mp3",
+	"filename_es": "Positive-Imagery-Beach.mp3",
+	"title": "Positive Imagery: Beach",
+	"display_title": "Positive Imagery",
+	"subtitle":"sub_imagery_beach",
+	"intro_text": [{
+			"type": "text",
+			"content": "You are about to be led through a relaxation exercise focused on visualizing something pleasant. This exercise takes about 4 minutes. It has accompanying audio, so you will have to find a quiet place or put on your headphones now."
+		}
+	],
+	"image": "t21"
+}

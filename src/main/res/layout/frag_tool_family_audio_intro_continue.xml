@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/audio_family_tool_intro_img" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:scaleType="centerCrop" android:importantForAccessibility="no"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/audio_family_tool_intro_layout_content" android:paddingTop="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_standard_continue"/>
+</LinearLayout>

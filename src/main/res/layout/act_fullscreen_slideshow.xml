@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewSwitcher android:id="@+id/fullscreen_viewswitcher" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:contentDescription="Image 1" android:importantForAccessibility="yes">
+        <ImageView android:id="@+id/fullscreen_img_slideshow_1" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:importantForAccessibility="no"/>
+        <ImageView android:id="@+id/fullscreen_img_slideshow_2" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:importantForAccessibility="no"/>
+    </ViewSwitcher>
+    <vainstrum.Components.FABTracking android:id="@+id/fullscreen_btn_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding_xmlarge" android:src="@drawable/icon_close_white" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="@string/close" android:layout_marginEnd="@dimen/padding_mmlarge" app:fabSize="0" app:tracking_id="28182"/>
+</RelativeLayout>

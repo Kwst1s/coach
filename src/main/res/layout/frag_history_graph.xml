@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:background="@drawable/bg_white_rounded" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_mlarge">
+                    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <RelativeLayout android:layout_gravity="center_horizontal" android:id="@+id/history_graph_chart_layout" android:layout_width="0dp" android:layout_height="250dp" android:layout_marginTop="@dimen/padding_mlarge" android:layout_marginBottom="@dimen/padding_large" android:layout_weight="1" android:contentDescription="@string/graph" android:layout_marginStart="@dimen/padding_large" android:layout_marginEnd="@dimen/padding_large">
+                            <com.github.mikephil.charting.charts.LineChart android:id="@+id/history_graph_chart" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/padding_large"/>
+                        </RelativeLayout>
+                        <gov.va.mobilehealth.ncptsd.covid.CComp.VerticalTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/score" android:fontFamily="@font/font_regular" android:layout_marginEnd="@dimen/padding_small" app:fontFamily="@font/font_regular"/>
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:clipChildren="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large">
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@+id/history_graph_btn_previous" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/arrow_previous_blue" android:contentDescription="@string/previous_period" app:backgroundTint="@android:color/white" app:fabCustomSize="56dp"/>
+                        <Space android:layout_width="@dimen/padding_mmlarge" android:layout_height="1dp"/>
+                        <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@+id/history_graph_btn_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/arrow_next_blue" android:contentDescription="@string/next_period" app:backgroundTint="@android:color/white" app:fabCustomSize="56dp"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <androidx.recyclerview.widget.RecyclerView android:id="@+id/history_graph_rview_details" android:paddingBottom="@dimen/padding_mlarge" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+        <View android:background="@drawable/grey_gradient_light_bottom" android:layout_width="match_parent" android:layout_height="@dimen/padding_mlarge" android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/history_graph_layout_btn_take_assessment" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@android:color/white" android:layout_gravity="center_horizontal" android:id="@+id/history_graph_btn_take_assessment" android:background="@drawable/custom_btn_green_very_rounded" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large" android:minHeight="60dp" android:text="@string/take_assessment_now" android:contentDescription="@string/take_assessment_now" android:textAllCaps="true" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold" app:tracking_id="54430"/>
+    </LinearLayout>
+</LinearLayout>

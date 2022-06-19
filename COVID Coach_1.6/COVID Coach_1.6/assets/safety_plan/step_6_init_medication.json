@@ -1,0 +1,20 @@
+[{
+		"text": "Safely dispose of medication I no longer need",
+		"help_id": 15
+	},{
+		"text": "Ask my doctor or pharmacist for naloxone",
+		"help_id": 14
+	},{
+		"text": "Ask my pharmacist for individual, daily dose packages or blister packages",
+		"help_id": 13
+	},{
+		"text": "Ask my doctor or pharmacist to only give me small amounts of medication at a time",
+		"help_id": 12
+	},{
+		"text": "Ask a family member or friend to hold onto my medication",
+		"help_id": 11
+	},{
+		"text": "Store medication in a lock box",
+		"help_id": 10
+	}
+]

@@ -1,0 +1,1625 @@
+{
+	"Content": [{
+			"Content": [{
+					"displayName": "What is PTSD?",
+					"id": 1,
+					"audio": "PE What is PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Post traumatic Stress Disorder (PTSD) is caused by witnessing, experiencing, or learning about someone close to you who experienced traumatic events (such as actual or threatened death, serious injury, or sexual violence)."
+						},
+						{
+							"type": "text",
+							"content": "The good news: PTSD is treatable"
+						},
+						{
+							"type": "text",
+							"content": "PTSD includes 4 types of symptoms:"
+						},
+						{
+							"type": "text",
+							"content": "1. Re-experiencing or reliving the trauma, such as:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Disturbing memories or nightmares",
+								"Feeling or acting like the trauma is happening again (flashbacks)",
+								"Becoming very upset when reminded of the trauma"
+							]
+						},
+						{
+							"type": "text",
+							"content": "2. Persistent avoidance such as:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Avoiding memories or thoughts about the trauma",
+								"Avoiding thoughts, feelings, or memories closely associated with traumatic events."
+							]
+						},
+						{
+							"type": "text",
+							"content": "3. Negative thoughts and moods"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Feeling detached or isolating from others",
+								"Negative beliefs (such as “I’m a bad person”, “I can’t trust anyone”, “The world is dangerous”)",
+								"Self-blame for the trauma",
+								"Persistent negative emotions such as fear, anger, guilt, or shame",
+								"Trouble feeling positive emotions like happiness and love",
+								"Lack of interest or participation in pleasurable/important activities"
+							]
+						},
+						{
+							"type": "text",
+							"content": "4. More on-edge and reactive, such as:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Feeling on guard",
+								"Being irritable or angry",
+								"Trouble sleeping",
+								"Startling easily",
+								"Problems concentrating",
+								"Being reckless or self-destructive"
+							]
+						},
+						{
+							"type": "text",
+							"content": "These symptoms last for a month or more and are bothersome, and/or lead to problems in social or family life, work, and school."
+						},
+						{
+							"type": "text",
+							"content": "PTSD can also include \"dissociation,\" in which people feel like they are detached from themselves or as if the world around seems unreal, distant, or distorted."
+						}
+					]
+				},
+				{
+					"displayName": "PTSD Facts",
+					"audio": "",
+					"id": -37,
+					"image": "t37",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "How does PTSD develop?",
+					"id": 2,
+					"audio": "How PTSD Develops.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "After trauma, it’s normal to be in shock, have painful memories, and be upset by reminders. Trauma can also change how people think about themselves, others, and the world to more extreme ideas like \"nowhere is safe,\" or \"no one can be trusted.\" "
+						},
+						{
+							"type": "text",
+							"content": "For most, these reactions will lessen over time. But for some, these reactions continue and can be severe enough to disturb everyday life."
+						}
+					]
+				},
+				{
+					"displayName": "How common is PTSD?",
+					"id": 3,
+					"audio": "How Common.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Although most people feel much better within a month or two after a trauma, some people develop PTSD or other problems like depression or substance use problems."
+						},
+						{
+							"type": "text",
+							"content": "Did you know?"
+						},
+						{
+							"type": "list",
+							"content": [
+								"About 7% of the US population will have PTSD in their lifetime.",
+								"Certain types of trauma, such as rape and combat, can cause even higher rates of PTSD."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Who develops PTSD?",
+					"id": 4,
+					"audio": "Who Develops.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Virtually anyone can develop PTSD. However, there are some factors that make it more likely."
+						},
+						{
+							"type": "text",
+							"content": "Risk factors before a trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"being female",
+								"having experienced a prior trauma",
+								"having been abused as a child",
+								"having a pre-existing mental health problem",
+								"having a family history of mental illness"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Risk factors during a trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"believing you will die",
+								"feeling detached from yourself or your surroundings",
+								"feeling completely helpless",
+								"having a panic attack",
+								"being seriously injured"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Risk factors after a trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"lack of social support",
+								"additional life stresses (such as job loss, divorce)"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "How long does PTSD last?",
+					"id": 5,
+					"audio": "How Long Last.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "PTSD symptoms usually appear soon after a traumatic experience, however, in some cases symptoms do not appear for months or even years after the trauma. For some people who experience symptoms early, these symptoms go away on their own. For others, these symptoms can last for many years, especially if they do not seek help."
+						},
+						{
+							"type": "text",
+							"content": "PTSD symptoms can worsen during times of stress or when people are reminded of what happened by trauma triggers (such as anniversaries of trauma). How long PTSD lasts also depends on whether effective treatment is received."
+						}
+					]
+				},
+				{
+					"displayName": "Problems related to PTSD",
+					"id": 6,
+					"audio": "Related Problems.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Some other problems are more common for people with PTSD. These include:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"depression",
+								"panic attacks",
+								"alcohol and substance use problems",
+								"problems in relationships, work, school, or other important activities",
+								"physical symptoms (pain, headaches, digestive problems)",
+								"increased risk of medical problems"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Did you know?:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"More than half of men with PTSD have alcohol problems.",
+								"Nearly half of women with PTSD have depression."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Understanding PTSD Treatment",
+					"audio": "",
+					"id": -41,
+					"image": "t41",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "Do I have PTSD?",
+					"id": 8,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Only a trained mental health professional can determine if you have PTSD. However, self-tests like the one in this app can help you decide if you should seek more evaluation. If you think you have PTSD, talk with your doctor or schedule an evaluation with a mental health professional. Also, remember that some people may develop other problems like depression or substance abuse after a trauma."
+						},
+						{
+							"type": "text",
+							"content": "If your trauma was less than a month or two ago and you are not in too much distress or having problems functioning in everyday life, then you may want to see if your symptoms get better on their own. Using tools in this app can help you cope when you feel distressed."
+						},
+						{
+							"type": "text",
+							"content": "If you still don’t feel well after one or two months, seek professional help."
+						}
+					]
+				},
+				{
+					"displayName": "I have PTSD...",
+					"id": 9,
+					"audio": "I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If you’ve been diagnosed with PTSD, the tools in this app may help you manage your symptoms. However, this app is not meant to be a replacement for professional care. If you are currently in treatment for PTSD, you should talk with your provider about using this app as part of your work together."
+						},
+						{
+							"type": "text",
+							"content": "Remember: effective treatment for PTSD is available! You don’t have to live with your symptoms forever."
+						}
+					]
+				},
+				{
+					"displayName": "I'm embarrassed to have PTSD",
+					"id": 10,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If people with PTSD see it as a sign of weakness or damage, they may feel ashamed or secretive about it. This may be especially true if the person has angry outbursts, flashbacks or other symptoms of PTSD when in public. "
+						},
+						{
+							"type": "text",
+							"content": "Embarrassment and shame can lead trauma survivors to withdraw or keep quiet about their problems. But this can backfire and leave them isolated and unsupported. "
+						},
+						{
+							"type": "text",
+							"content": "Remember: PTSD is a normal response to abnormal circumstances."
+						}
+					]
+				},
+				{
+					"displayName": "Social isolation",
+					"id": 11,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "It’s common for people with PTSD to isolate themselves. You may feel overwhelmed or unsafe in groups, quick to anger, misunderstood, or just uninterested in being around people. However, isolation can lead to loneliness, depression, and anxiety."
+						},
+						{
+							"type": "text",
+							"content": "This app offers some suggestions and strategies to help you cope with feeling disconnected from people, and start to reconnect with loved ones and friends."
+						}
+					]
+				},
+				{
+					"displayName": "Sleep problems: Nightmares",
+					"id": 12,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If you have upsetting nightmares that interrupt your sleep, here are some tips:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"On waking up, turn the light on, take a few deep breaths, and notice the sights, sounds and smells around you.",
+								"Pay attention to the differences between the nightmare and the current moment, and let those differences calm and reassure you.",
+								"Distract yourself for 5 to 10 minutes after you wake up with a book or some music; try getting up and spending time in a different room.",
+								"When you try falling asleep again, think about pleasant things and avoid thoughts of the nightmare.",
+								"Avoid sleep deprivation. Keep a consistent sleep schedule and exercise regularly to help reduce your nightmare frequency.",
+								"Be cautious about your use of alcohol, caffeine, and nicotine, which can disrupt sleep."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Sleep problems: Insomnia",
+					"id": 13,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If you lie awake in bed for more than 15-20 minutes without falling asleep, try the following:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Get up and do something boring, like reading an instruction manual.",
+								"Only return to bed when you become sleepy.",
+								"Keep the lights low and do not use your computer or watch TV.",
+								"Have some water, warm milk, or decaf tea.",
+								"Have a light, low-sugar snack if you are hungry.",
+								"Read something soothing or listen to relaxing music.",
+								"When you return to bed, take slow, deep breaths for about 10 minutes.",
+								"Calm your thoughts with prayer, meditation, or \"counting sheep\".",
+								"If it’s hard to share a bed with your partner, consider sleeping separately sometimes."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "What do I do if I get triggered?",
+					"id": 14,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Try the RID tool"
+						}, {
+							"type": "link_internal",
+							"content": "Try the RID Tool Now",
+							"gravity": 0,
+							"full": true,
+							"link": "t26"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Relax",
+								"Identify",
+								"Decide"
+							]
+						},
+						{
+							"type": "text",
+							"content": "First, do something to help yourself relax (such as take some deep breaths, get a drink of water, or remind yourself \"I can handle this.\")"
+						},
+						{
+							"type": "text",
+							"content": "Second, identify what the trigger is (such as a car backfiring, being in a crowd). Then identify how now is different than then (such as you are not in a war zone, you have more control now)."
+						},
+						{
+							"type": "text",
+							"content": "Third, decide what to do. For example, if being in a crowd upset you, recognize that this crowd is not hostile. You can decide to stay in the crowd and see that you are safe now."
+						}
+					]
+				},
+				{
+					"displayName": "What is dissociation?",
+					"id": 15,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Dissociation is the sense of detachment from physical and emotional experiences, sensations, memories or one’s immediate surroundings. Dissociation can range from mild to intense. It often happens without the person’s intent, so it can be confusing and upsetting."
+						},
+						{
+							"type": "text",
+							"content": "Examples:"
+						},
+						{
+							"type": "list",
+							"content": ["Observing yourself/your body from an outside perspective (such as above, across the room)", "Sounds or sights seeming far away or distorted", "Losing time", "Physical or emotional numbing"]
+						}
+					]
+				},
+				{
+					"displayName": "I am avoiding things",
+					"id": 16,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "People with PTSD often find themselves avoiding things that remind them of the trauma they experienced. While it may feel like a relief in the short run to avoid painful reminders, when you end up avoiding things that you need to deal with, isolating yourself, or noticing that your life has gotten a lot smaller, it can mean that avoiding isn’t really working. "
+						},
+						{
+							"type": "text",
+							"content": "You can find tools and strategies for managing triggers and reducing avoidance in the Manage Symptoms section of this app."
+						}
+					]
+				},
+				{
+					"displayName": "I don't trust people",
+					"id": 17,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Many people who have been through a trauma feel mistrustful, but it’s not helpful to make that assumption about everyone all the time. "
+						},
+						{
+							"type": "text",
+							"content": "Practice asking yourself questions like:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Is that true all the time? What percent of the time are people untrustworthy?",
+								"Can I think of a time when someone came through for me?",
+								"Who are 3 people I know who I can trust at least a little?",
+								"What can I trust them with?"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "I can't control my temper",
+					"id": 18,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+						"type": "text",
+						"content": "This can be really scary and frustrating for many trauma survivors, especially Veterans and Active Duty military personnel who have been in places where being angry or aggressive was seen as beneficial. You can learn to control your behavior when you are upset with the help of this app and/or with in-person therapy. Check out some of the coping tools for anger in this app by going to the <b>Manage Symptoms</b> section."
+					}]
+				},
+				{
+					"displayName": "I'm always on edge",
+					"id": 19,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+						"type": "text",
+						"content": "Feeling edgy, vigilant, or constantly alert to danger is a common experience for many people with PTSD. Relaxation exercises and mindfulness practices can help soothe your nervous system. These exercises are available in this app in the Manage Symptoms section."
+					}]
+				},
+				{
+					"displayName": "I feel sad all the time",
+					"id": 20,
+					"audio": "Do I Have PTSD.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Feeling sad, down, heavy or blue most of the time for more than 2 weeks can be a sign of depression. If you are concerned that you may be depressed, talk with your health care provider or reach out to a counselor for support. You can also call the Veterans Crisis Line at"
+						},
+						{
+							"type": "link_phone",
+							"full": true,
+							"content": "1-800-273-8255",
+							"link": "1-800-273-8255"
+						}
+					]
+				}
+			],
+			"displayName": "Learn about PTSD",
+			"icon": "learn_PTSD.png"
+		},
+		{
+			"Content": [{
+					"displayName": "I'm in crisis",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 21,
+					"cdata": [{
+							"type": "text",
+							"content": "For any crisis, including medical emergencies, go to your nearest emergency room or:"
+						},
+						{
+							"type": "link_phone",
+							"content": "911",
+							"link": "911"
+						},
+						{
+							"type": "text",
+							"content": "<br><br>National Suicide Prevention Lifeline:"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-800-273-8255",
+							"link": "1-800-273-8255"
+						},
+						{
+							"type": "text",
+							"content": "<i>(press 1 for Veterans Crisis Line)</i>"
+						},
+						{
+							"type": "text",
+							"content": "<br><br>Veterans Crisis Line-Text"
+						},
+						{
+							"type": "link_phone",
+							"content": "838255",
+							"link": "838255"
+						},
+						{
+							"type": "text",
+							"content": "<br><br>Veterans Crisis Line- Chat"
+						},
+						{
+							"type": "link_web",
+							"link": "https://www.veteranscrisisline.net",
+							"content": "Chat"
+						},
+						{
+							"type": "text",
+							"content": "<br><br>National Domestic Violence Hotline:"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-800-799-7233",
+							"link": "1-800-799-7233"
+						},
+						{
+							"type": "text",
+							"content": "<br><br>National Sexual Assault Hotline:"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-800-656-4673",
+							"link": "1-800-656-4673"
+						}
+					]
+				},
+				{
+					"displayName": "Treatment Locator",
+					"audio": "",
+					"id": -42,
+					"image": "t42",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "Finding Treatment for Alcohol or Drugs",
+					"audio": "",
+					"id": -43,
+					"image": "t43",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "What is counseling (therapy)?",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 22,
+					"cdata": [{
+							"type": "text",
+							"content": "Counseling, or therapy (also called psychotherapy or talk therapy), involves meeting with a trained professional to work on many different kinds of problems, including but not limited to:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"changes in mood, like depression or anxiety,",
+								"problematic beliefs or ways of thinking,",
+								"behaviors like smoking, alcohol use, or not getting enough exercise,",
+								"problems with pain or sleep,",
+								"difficult feelings or emotions,",
+								"improving problems in relationships."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Tools For PTSD",
+					"audio": "",
+					"id": -36,
+					"image": "t36",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "Do I need professional help?",
+					"audio": "Do Need Pro Help.mp3",
+					"id": 23,
+					"cdata": [{
+							"type": "text",
+							"content": "It’s normal for people who have experienced trauma to have some challenges adjusting afterwards—this is no cause for shame. Sometimes these challenges are severe, or last more than a few months."
+						},
+						{
+							"type": "text",
+							"content": "Whether you need help can only be determined by you and a trained healthcare professional. However, you can take the PTSD self-assessment in this app to get a sense of how you are doing."
+						},
+						{
+							"type": "text",
+							"content": "If you are having thoughts about hurting or killing yourself or someone else, please call "
+						},
+						{
+							"type": "link_phone",
+							"content": "911",
+							"link": "911"
+						},
+						{
+							"type": "text",
+							"content": "or go immediately to the nearest hospital emergency room. You may also call the Veterans Crisis Line at"
+						},
+						{
+							"type": "link_phone",
+							"content": "1-800-273-8255",
+							"link": "1-800-273-8255"
+						},
+						{
+							"type": "text",
+							"content": "Remember, you don’t have to wait for an emergency to speak to someone."
+						},
+						{
+							"type": "text",
+							"content": "The following problems are common after a trauma and can signal a need for more support:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Depression-feeling sad, down, or blue most of the time",
+								"Anxiety-nervousness, worry, tension, being very alert to potential danger most of the time",
+								"Overly watchful, or startling easily in response to loud or unexpected noises",
+								"Intrusive thoughts and memories of traumatic experiences that are very upsetting",
+								"Increased use of alcohol, street drugs, or prescription medications, or using them to cope with problems",
+								"Easily angered, aggressive/violent behavior",
+								"Reckless or aggressive driving",
+								"Sleep problems such as insomnia, nightmares",
+								"Isolating oneself, withdrawing from friends and family",
+								"Changes in appetite, or gaining/losing a lot of weight without trying",
+								"Having trouble working or meeting daily responsibilities",
+								"Having problems in relationships or trouble taking care of family",
+								"Having thoughts about suicide, or of hurting or killing someone else"
+							]
+						},
+						{
+							"type": "text",
+							"content": "If you have any of these concerns, you might benefit from talking with a counselor."
+						}
+					]
+				},
+				{
+					"displayName": "Why do people seek counseling?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 24,
+					"cdata": [{
+							"type": "text",
+							"content": "Some trauma survivors seek counseling because they:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Have trouble with work and relationships",
+								"Avoid reminders but find memories around every corner",
+								"Feel very nervous or angry",
+								"Have trouble sleeping"
+							]
+						},
+						{
+							"type": "text",
+							"content": "While these symptoms are common in the first month or two after a trauma, if you don’t feel better soon, then you should think about talking to a counselor."
+						},
+						{
+							"type": "text",
+							"content": "Also, some people find that:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Loved ones mean well but can’t help the way they need them to",
+								"Loved ones are far away and unavailable",
+								"The things they want to talk about feel too sensitive or private"
+							]
+						},
+						{
+							"type": "text",
+							"content": "In these circumstances, talking to an expert can really help."
+						}
+					]
+				},
+				{
+					"displayName": "How can a therapist help me?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 25,
+					"cdata": [{
+							"type": "text",
+							"content": "Professionals who specialize in working with PTSD can:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Help you learn skills to cope better",
+								"Offer new perspectives",
+								"Help you feel more relaxed about talking to people in your daily life, pursuing your goals, and focusing on your future"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Remember: seeking counseling is a sign of strength, not weakness. Talking to a counselor is a brave step toward recovery, and can strengthen your ability to help yourself."
+						}
+					]
+				},
+				{
+					"displayName": "Is counseling confidential?",
+					"audio": "Why Do People Seek.mp3",
+					"id": 26,
+					"cdata": [{
+							"type": "text",
+							"content": "Therapy is almost always confidential."
+						},
+						{
+							"type": "text",
+							"content": "Exceptions to this important rule are made if:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"you disclose that you are planning to kill or harm yourself or someone else",
+								"the therapist learns about a child or elder being abused",
+								"you are Active Duty military (there may be limits to confidentiality)"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Your provider may write a note in your medical chart that can be viewed by other providers involved in your care."
+						},
+						{
+							"type": "text",
+							"content": "Please discuss any concerns you have about confidentiality with your therapist or health care provider."
+						}
+					]
+				},
+				{
+					"displayName": "Will therapy really work?",
+					"audio": "Will it Really Work.mp3",
+					"id": 27,
+					"cdata": [{
+							"type": "text",
+							"content": "Research on different kinds of therapy shows that many types of counseling and medications really do work. Plus, some kinds of therapy only take a few months to complete."
+						},
+						{
+							"type": "text",
+							"content": "Many Service Members and Veterans find that they get used to talking to a counselor quickly and come to trust them. Counselors are well-trained professionals, and many are specialists who have helped large numbers of trauma survivors."
+						},
+						{
+							"type": "text",
+							"content": "Remember: you can always see how it goes – you don’t have to commit to anything right away. And if you have a few sessions and don’t think it’s going well, you can talk to the counselor about what you want changed, or ask for a different counselor. Counselors are interested in your recovery and will help you get the support you need."
+						}
+					]
+				},
+				{
+					"displayName": "PTSD treatments that work",
+					"audio": "PTSD TX.mp3",
+					"id": 28,
+					"cdata": [{
+							"type": "text",
+							"content": "The good news is that there are several effective treatments for PTSD, including:"
+						},
+						{
+							"type": "text",
+							"content": "Short-term (several months) psychotherapies with the strongest scientific evidence:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Prolonged Exposure (PE) Therapy and other exposure therapies that focus on emotionally processing trauma memories and reminders",
+								"Cognitive Processing Therapy (CPT) and other cognitive therapies that address negative beliefs related to the trauma",
+								"Eye Movement Desensitization and Reprocessing (EMDR), which focuses on reducing the intensity of thoughts and feelings about the trauma, allowing for more effective coping"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Other short-term (several months) psychotherapies that can help:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Cognitive Behavioral Therapy (CBT)",
+								"Brief Eclectic Psychotherapy (BEP)",
+								"Narrative Exposure Therapy",
+								"Written Narrative Exposure"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Psychotherapies that don't involve focusing on the trauma:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Stress Inoculation Training (SIT)",
+								"Present-Centered Therapy (PCT)",
+								"Interpersonal Psychotherapy (IPT)"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Medications (if psychotherapy is not an option for you):"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Zoloft (Sertraline)",
+								"Paxil (Paroxetine)",
+								"Prozac (Fluoxetine)",
+								"Effexor (Venlafaxine)"
+							]
+						},
+						{
+							"type": "text",
+							"content": "The best treatment is psychotherapy, but medications may be helpful if psychotherapy isn't available or affordable for you."
+						},
+						{
+							"type": "text",
+							"content": "Your provider should work with you to personalize your treatment based on your:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"needs",
+								"preferences",
+								"treatment goals",
+								"previous treatment experiences"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "How do I find a counselor/therapist?",
+					"audio": "PTSD TX.mp3",
+					"id": 29,
+					"cdata": [{
+							"type": "text",
+							"content": "To find a therapist or counselor, you can:"
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+									"type": "text",
+									"content": "Ask a doctor, physician’s assistant, or nurse for a referral"
+								}],
+								[{
+									"type": "text",
+									"content": "Ask friends and family you trust for names"
+								}],
+								[{
+										"type": "text",
+										"content": "Visit the:"
+									},
+									{
+										"type": "link_web",
+										"content": "National Center for PTSD Website",
+										"link": "https://www.ptsd.va.gov/"
+									}
+								]
+							]
+						},
+						{
+							"type": "text",
+							"content": "If you are a Service Member or a Veteran you can also:"
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+										"type": "text",
+										"content": "Contact Military OneSource, call:"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-800-342-9647",
+										"link": "1-800-342-9647"
+									},
+									{
+										"type": "text",
+										"content": "or visit the"
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.militaryonesource.mil/",
+										"content": "Website"
+									}
+								],
+								[{
+										"type": "text",
+										"content": "Contact the VA health care system: call"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-877-222-8387",
+										"link": "1-877-222-8387"
+									},
+									{
+										"type": "text",
+										"content": "or visit the"
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.oefoif.va.gov/",
+										"content": "Returning Service Members Website"
+									}
+								],
+								[{
+										"type": "text",
+										"content": "Access the Women Veterans Call Center at:"
+									},
+									{
+										"type": "link_phone",
+										"content": "1-855-829-6636",
+										"link": "1-855-829-6636"
+									}
+								],
+								[{
+									"type": "text",
+									"content": "Visit (or make an appointment with) your command or installation chaplain to start your search"
+								}],
+								[{
+										"type": "text",
+										"content": "Some personnel may also be eligible for services at local"
+									},
+									{
+										"type": "link_web",
+										"link": "https://www.vetcenter.va.gov/",
+										"content": "Vet Centers"
+									}
+								]
+							]
+						}
+					]
+				},
+				{
+					"displayName": "How much does counseling cost?",
+					"audio": "Practical Things.mp3",
+					"id": 30,
+					"cdata": [{
+							"type": "text",
+							"content": "Don’t let your worries about how much counseling might cost get in the way of doing some research and seeing what your options are. Depending on your insurance or VA benefits, counseling may be free or low cost."
+						},
+						{
+							"type": "text",
+							"content": "To learn more:"
+						},
+						{
+							"type": "list_complex",
+							"depth": 1,
+							"content": [
+								[{
+									"type": "text",
+									"content": "Call your insurance company and find out about your benefits."
+								}],
+								[{
+										"type": "text",
+										"content": "For Veterans, call the VA to determine your benefits at"
+									},
+									{
+										"type": "link_phone",
+										"content": "800-827-1000",
+										"link": "800-827-1000"
+									}
+								],
+								[{
+										"type": "text",
+										"content": "For Service Members, call Military OneSource for more information at"
+									},
+									{
+										"type": "link_phone",
+										"content": "800-342-9647",
+										"link": "800-342-9647"
+									}
+								]
+							]
+						}
+					]
+				},
+				{
+					"displayName": "I want counseling, but I work all day",
+					"audio": "Practical Things.mp3",
+					"id": 31,
+					"cdata": [{
+							"type": "text",
+							"content": "If you need flexible appointments so you don’t miss work, look for a counselor who can work with your schedule. Also, most employers will understand and help you take care of your health, whether it’s physical or emotional."
+						},
+						{
+							"type": "text",
+							"content": "Often, people can work out a flexible schedule with their boss to free up time for appointments during the day."
+						}
+					]
+				},
+				{
+					"displayName": "Transportation to appointments",
+					"audio": "Mean About Me.mp3",
+					"id": 32,
+					"cdata": [{
+							"type": "text",
+							"content": "Some people have problems getting to and from appointments. If this is an issue for you, consider these options:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Public transportation",
+								"Ask for a ride from a friend, family member, or neighbor",
+								"Borrow a vehicle from a friend, family member, or neighbor",
+								"Some counseling centers offer transportation services for Veterans; ask your center if they offer this."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "I’m embarrassed to go for counseling",
+					"audio": "Embarassed.mp3",
+					"id": 33,
+					"cdata": [{
+							"type": "text",
+							"content": "Some people feel ashamed to need help or ask for help. But think about this:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"We are not alone in this world. People are here to help you now, just as you’ve helped others in the past.",
+								"Did you know that people who accept help after a stressful time do better than those who don’t get support?",
+								"You may think that asking for help means that you’re not normal, but it’s normal and common to have difficulties after a trauma, including sleep problems, increased anger, depression, anxiety, and substance use problems."
+							]
+						},
+						{
+							"type": "list",
+							"content": [
+								"Seeking counseling doesn’t mean you are non-functional. In fact, most people experiencing PTSD can continue their usual routines while recovering.",
+								"If you feel guilty about taking the time and money for counseling, remember: you will be better able to be there for your family and your work once you are feeling better.",
+								"If you don't feel better and it's been months, or years, since your trauma, talking to a counselor may help so that problems don’t become chronic or more severe.",
+								"Counseling is not for weak or broken people. It takes courage to ask for help. You are actively taking charge of your life and improving your ability to help yourself."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Who can help me?",
+					"audio": "Who Can Help.mp3",
+					"id": 34,
+					"cdata": [{
+							"type": "text",
+							"content": "There are many experts who can help you if you seek care."
+						},
+						{
+							"type": "text",
+							"content": "You can read more here about the roles and duties of primary care physicians, social workers, psychologists, psychiatrists, and pastoral counselors/chaplains."
+						}
+					]
+				},
+				{
+					"displayName": "What does a primary care physician do?",
+					"audio": "Primary Care Physician.mp3",
+					"id": 35,
+					"cdata": [{
+							"type": "text",
+							"content": "A primary care provider (PCP) is usually a medical doctor (MD or DO) or a nurse practitioner (NP). They can treat common medical problems, and may also be trained to recognize and help with common psychological problems, such as depression and anxiety."
+						},
+						{
+							"type": "text",
+							"content": "A primary care provider can help you with:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Medical attention",
+								"A prescription to help with depression or sleep problems",
+								"A referral to a psychologist, social worker, or psychiatrist"
+							]
+						},
+						{
+							"type": "text",
+							"content": "You can find a primary care physician:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Through a referral from a doctor, nurse, or your insurance company",
+								"Through people you know",
+								"In the military and VA health care systems"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "What does a social worker do?",
+					"audio": "Social Worker.mp3",
+					"id": 36,
+					"cdata": [{
+							"type": "text",
+							"content": "Social workers usually have a Master’s degree in social work, or in some cases a Ph.D., and often work as counselors. They work with individuals, couples, families, and groups."
+						},
+						{
+							"type": "text",
+							"content": "A social worker can help you with:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Practical challenges like finding employment, housing, and government benefits",
+								"Problems like depression, anxiety, PTSD, and substance misuse",
+								"Family and relationship difficulties"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Social workers cannot prescribe medications."
+						},
+						{
+							"type": "text",
+							"content": "You can find a social worker:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Through a referral from a doctor, nurse, or your insurance company",
+								"Through people you know",
+								"In the military and VA health care systems"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "What does a psychologist do?",
+					"audio": "Psychologist.mp3",
+					"id": 37,
+					"cdata": [{
+							"type": "text",
+							"content": "Psychologists have a Ph.D. or Psy. D. in psychology. They can provide assessment and therapy, but only a few are licensed to prescribe medications. They work with individuals, couples, families and groups."
+						},
+						{
+							"type": "text",
+							"content": "A psychologist can help you with:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Problems like depression, anxiety, PTSD, and substance use problems",
+								"Family and relationship difficulties",
+								"Psychological assessment",
+								"In some cases, a prescription for medication for a mental health concern"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Most psychologists cannot prescribe medications."
+						},
+						{
+							"type": "text",
+							"content": "You can find a psychologist:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Through a referral from a doctor, nurse, or your insurance company",
+								"Through people you know",
+								"In the military and VA health care systems"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "What does a psychiatrist do?",
+					"audio": "Psychiatrist.mp3",
+					"id": 38,
+					"cdata": [{
+							"type": "text",
+							"content": "A psychiatrist is a medical doctor (MD) with specialized training in psychiatry. They mostly treat patients with medications that can ease symptoms of depression, anxiety, or PTSD, or help with sleep or other problems associated with mental health issues."
+						},
+						{
+							"type": "text",
+							"content": "A psychiatrist can help you with:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Medications for mental health problems like depression, anxiety, PTSD and severe mental illnesses",
+								"In some cases, counseling"
+							]
+						},
+						{
+							"type": "text",
+							"content": "You can find a psychiatrist:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Through a referral from a doctor, nurse, or your insurance company",
+								"Through people you know",
+								"In the military and VA health care systems"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "What does a pastoral counselor or chaplain do?",
+					"audio": "Pastoral Counselor.mp3",
+					"id": 39,
+					"cdata": [{
+							"type": "text",
+							"content": "A pastoral counselor or chaplain is a member of the clergy who:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Provides spiritual support and guidance",
+								"Conducts religious services in the field",
+								"Offers support in emergency situations"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Chaplains help people regardless of their faith and religious beliefs, and offer spiritual counseling and support. Although chaplains are not usually trained to provide mental health counseling, some pastoral counselors are also licensed as mental health providers. Chaplains or pastoral counselors may also refer you to a specialist like a psychologist, psychiatrist, or social worker."
+						},
+						{
+							"type": "text",
+							"content": "If you are looking for spiritual guidance, a pastoral counselor or chaplain is a good place to start."
+						}
+					]
+				}
+			],
+			"displayName": "Getting professional help",
+			"icon": "prof_care.png"
+		},
+		{
+			"Content": [{
+					"displayName": "What is couples counseling?",
+					"id": 40,
+					"audio": "Whatiscouplescounseling.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If you and your partner are having trouble getting along or feeling close, couples therapy may be helpful."
+						},
+						{
+							"type": "text",
+							"content": "In this type of counseling, a therapist can help the two of you:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Understand where your difficulties are coming from",
+								"Learn ways to cope with relationship stress",
+								"Develop skills to communicate and solve problems better",
+								"Build trust and feel closer"
+							]
+						},
+						{
+							"type": "text",
+							"content": "A health care provider, chaplain, or social services organization can help you find a couples therapist."
+						}
+					]
+				},
+				{
+					"displayName": "What is family therapy?",
+					"id": 41,
+					"audio": "Whatisfamilytherapy.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If your family is having trouble communicating or getting along, consider family therapy."
+						},
+						{
+							"type": "text",
+							"content": "In this type of counseling, a therapist helps you and your family:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Communicate better",
+								"Develop and maintain good relationships",
+								"Cope with upsetting emotions",
+								"Understand and cope with PTSD"
+							]
+						},
+						{
+							"type": "text",
+							"content": "A health care provider, chaplain, or social services organization can help you find a family therapist."
+						}
+					]
+				},
+				{
+					"displayName": "Reconnecting with your partner",
+					"id": 42,
+					"audio": "Reconnectingwithyourpartner.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Relationships may feel strained if one partner is struggling with PTSD. Here are some tips to help you become closer again."
+						},
+						{
+							"type": "list",
+							"content": [
+								"Feeling emotionally numb can make it hard to express love and care. You can start with appreciating concrete things your partner does (such as &quot;thank you for doing the dishes,&quot; or &quot;I appreciate you changing the oil in the car.&quot;)",
+								"Talk to your partner about how PTSD has affected you and what you need. They can support you better if they know what’s going on.",
+								"Ask questions and listen to your loved one’s feelings and needs. Do your best to stay open and put yourself in their shoes when they speak.",
+								"If you tend to withdraw under stress, make an effort to move toward your loved one instead with small favors, little touches, or a few kind words.",
+								"Avoid saying hurtful things or becoming physically violent. Instead, take a Time Out to calm yourself. You can find this tool in the Manage Symptoms section of this app.",
+								"With the stress of PTSD, sexual intimacy may be off the table for a while. If so, try to focus on other ways of being close, like spending fun time together, holding hands, hugging, and kissing.",
+								"Understand that PTSD may lead you to feel more distant or irritable. Try to keep your expectations and self-criticism in check—you’re only human, and healing takes time!",
+								"Seek help from a couples counselor if needed."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Fighting fair",
+					"id": 43,
+					"audio": "Fightingfair.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Conflict will always exist in relationships. If you are irritable or have a \"short fuse\" it can make it even more challenging. Here are some tips for \"fighting fair\":"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Think before you speak. Keeping a cool head goes a long way toward resolving problems.",
+								"When you speak, use statements starting with &quot;I,&quot; such as &quot;I think&quot; or &quot;I feel.&quot; Using &quot;you&quot; statements can sound accusatory.",
+								"Take &quot;small bites.&quot; Focus on one issue at a time.",
+								"Be positive-clearly request what you want or need. Blame and negativity won't help resolve things.",
+								"Put your feelings into words. Your loved one may not know you are sad or frustrated unless you say so.",
+								"During a confrontation, allow the other person equal time to speak his/her mind.",
+								"When the other person is talking, listen to what he/she has to say without interrupting. Ask questions and repeat back what they said to be sure you understand.",
+								"Don't give advice unless you are asked.",
+								"Don’t hit \"below the belt\" with comments about sensitive topics. Stick to the issues at hand.",
+								"Never argue in bed. Use a neutral room, and affirm your love often.",
+								"Work as a team to solve problems. You can get a lot more done this way than you can as rivals.",
+								"Avoid saying &quot;I told you so.&quot; Remember that a problem solved is a win for you both.",
+								"If things are getting too heated, take a time out, but agree to continue the discussion when things cool off."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Talking to Kids",
+					"audio": "",
+					"id": -39,
+					"image": "t39",
+					"tool": true,
+					"cdata": []
+				},
+				{
+					"displayName": "Impact of PTSD on children",
+					"id": 44,
+					"audio": "ImpactofPTSDonchildren.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Adjusting to living with a parent with PTSD can be challenging for children and teens. While many children adjust well, others may respond in problematic ways, including:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Acting like their parent, perhaps as a way of trying to establish a closer connection with them. These children might show some of the same symptoms as the parent with PTSD, such as being irritable or complaining of sleep problems.",
+								"Taking on adult roles and responsibilities to \"fill in\" for the parent with  PTSD. This child may act too grown-up for his or her age. This can  be overwhelming for the child, and can keep them from living like the kid they are.",
+								"Acting younger than they are (such as bed wetting, temper tantrums).",
+								"Thinking that  they are the problem, or that they are responsible for the behavior of the parent with PTSD (such as \"he wouldn’t get so mad if I could be quieter.\").",
+								"Experiencing symptoms of depression or anxiety.",
+								"Showing problems at school or in relationships with friends."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Children’s responses to PTSD symptoms",
+					"id": 45,
+					"audio": "ChildrensresponsestoPTSDsymptoms.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "A parent’s reactions to a past trauma can affect children in different ways:"
+						},
+						{
+							"type": "text",
+							"content": "If: Parent has upsetting nightmares or overwhelming memories/ flashbacks"
+						},
+						{
+							"type": "text",
+							"content": "Children might:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Feel confused about what is happening and why",
+								"Feel scared if they see or hear the parent in a very upset or frightened state",
+								"Worry about their parent's well-being",
+								"Worry that their parent cannot properly care for them"
+							]
+						},
+						{
+							"type": "text",
+							"content": "If: Parent avoids going out or isolates him/herself"
+						},
+						{
+							"type": "text",
+							"content": "Children might:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Take it personally and worry that their parent does not care about them, about spending time with them, or about being involved in their lives (such as school sports games, family outings)",
+								"Feel neglected",
+								"Have hurt feelings, or feel frustrated"
+							]
+						},
+						{
+							"type": "text",
+							"content": "If: Parent is withdrawn, numb, or uninterested"
+						},
+						{
+							"type": "text",
+							"content": "Children might:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Think that the parent is not interested in them or doesn’t love them, even if the parent’s words say otherwise",
+								"Feel worried that their parent will leave them or the family."
+							]
+						},
+						{
+							"type": "text",
+							"content": "If: Parent is irritable, angry, or easily frustrated"
+						},
+						{
+							"type": "text",
+							"content": "Children might:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Question their parent's love",
+								"Walk on eggshells around their parent, or feel tense and anxious",
+								"Lose respect for their parent"
+							]
+						},
+						{
+							"type": "text",
+							"content": "If: Parent is vigilant, sensitive to danger, or startles easily"
+						},
+						{
+							"type": "text",
+							"content": "Children might:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Develop levels of vigilance similar to their parent and feel very stressed",
+								"Feel more on edge and wary of danger"
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Can children get PTSD from their parents?",
+					"id": 46,
+					"audio": "CanchildrengetPTSDfromtheirparents.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "While it is not common, it is possible for children of people with PTSD to show signs of PTSD, too. This is called \"secondary traumatization.\""
+						},
+						{
+							"type": "text",
+							"content": "Here’s how it can happen:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"When a family teaches a child never to talk about disturbing events, thoughts, or feelings, the child's anxiety may get worse. He may worry about causing the parent's symptoms, make up his own story about what happened.",
+								"Sometimes parents share too many details about the events. Children may start  to have their own stress and PTSD symptoms in response.",
+								"A child may begin to share in her parent's symptoms as a way to connect with the parent.",
+								"Children may also re-enact or re-do some aspect of the trauma their parent experienced. It is difficult at times for children to separate the past trauma from the present moment."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Helping children cope",
+					"id": 47,
+					"audio": "Helpingchildrencope.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "When PTSD impacts the family:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Explain the reasons for the  difficulties. Knowing what is happening, and why, helps children feel safer.",
+								"However, be careful not to share too many details of the event(s) with the child. How much you say depends on your child's age and maturity level.",
+								"Help them see that PTSD symptoms and trauma reactions are not their fault.",
+								"Talk about related events and experiences together. Listen to their concerns and accept their feelings.",
+								"Recognize that change is stressful for children just as it is for adults, and be patient.",
+								"Remember that they may have mixed feelings about you and your PTSD. They may feel loving, concerned, and protective, and also resentful, anxious, or angry at times.",
+								"Help them learn tools to better manage stress. Examples include:"
+							]
+						},
+						{
+							"type": "list_l2",
+							"content": [
+								"Running or exercising to blow off steam",
+								"Drawing or writing for self-expression",
+								"Taking deep breaths to relax"
+							]
+						},
+						{
+							"type": "list",
+							"content": [
+								"Give them a journal to keep about these events and their feelings and experiences.",
+								"Involve them in decisions that affect them whenever possible."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Parenting tips",
+					"id": 48,
+					"audio": "Parentingtips.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Here are some tips for parenting children who are adjusting to living with someone with PTSD."
+						},
+						{
+							"type": "text",
+							"content": "Educate Yourselves"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Both parents should learn about how PTSD can impact children, and about  children’s common responses to having a parent with PTSD.",
+								"Be aware that children may need extra care, attention, and closeness during this time."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Provide Support"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Make time to do  activities and talk together. Both parents should listen to their children’s feelings and concerns, and take them seriously.",
+								"Provide reassurance and support for their questions and worries.",
+								"Give kids information at a level they can understand about PTSD and about the experiences and changes of their parent with PTSD to ease the confusion and fear of the unknown.",
+								"Encourage and organize activities (moving around to blow off steam, drawing and writing to express themselves, etc.) that help kids to express themselves and manage stress."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Be Loving and Have Clear Limits"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Be loving, patient and attentive, while also holding clear, consistent limits.",
+								"Understand kids may act out and misbehave at times, and give them some slack for this. Acting out is a normal response to stress, as long as it doesn’t become frequent or cause bigger problems.",
+								"Praise their positive behavior and healthy ways of coping. Always keep your focus on what you appreciate about them.",
+								"If you are the  parent with PTSD, focus on quality and fun time with kids and delay getting involved in disciplining, especially if you have been moody or irritable lately."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Keep Things Ordinary"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Maintain basic family routines like dinnertime and bedtime rituals.",
+								"Make sure children keep attending school and other regular activities."
+							]
+						},
+						{
+							"type": "text",
+							"content": "Include Them"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Involve kids in family activities. Keep weekends fun with kid-friendly activities.",
+								"Stay involved in your kids’ school and social activities.",
+								"Ask about their interests and listen without judging or teasing."
+							]
+						}
+					]
+				},
+				{
+					"displayName": "Are my kids ok? When to seek outside help",
+					"id": 49,
+					"audio": "AremykidsokWhentoseekoutsidehelp.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "If your child or teenager seems to have trouble adjusting to your PTSD, don't hesitate to contact your doctor or a mental health professional for support. Here are some things to watch out for:"
+						},
+						{
+							"type": "list",
+							"content": [
+								"Trouble concentrating or engaging in school assignments and activities",
+								"Intense emotional responses, such as continued crying, intense sadness or moodiness",
+								"Depression, or acting withdrawn and uncommunicative",
+								"Expressing violent or depressed feelings in dark drawings or writings",
+								"Significant weight loss or gain, or lack of attention to hygiene",
+								"Big changes in social activity or friendships",
+								"Drug or alcohol use"
+							]
+						},
+						{
+							"type": "text",
+							"content": "Please seek help immediately if your child intentionally hurts or cuts themself, seems at risk of hurting others, or expresses suicidal thoughts."
+						}
+					]
+				},
+				{
+					"displayName": "Should my child have individual counseling?",
+					"id": 50,
+					"audio": "Shouldmychildhaveindividualcounseling.mp3",
+					"cdata": [{
+							"type": "text",
+							"content": "Children may benefit from individual counseling or family therapy."
+						},
+						{
+							"type": "text",
+							"content": "Family therapy helps family members learn how to cope, communicate, and get along when they are under stress."
+						},
+						{
+							"type": "text",
+							"content": "Individual therapy offers a private place for kids to talk about and learn to cope with their experiences."
+						}
+					]
+				}
+			],
+			"displayName": "PTSD and the family",
+			"icon": "PTSD_and_the_family.jpg"
+		}
+	]
+}

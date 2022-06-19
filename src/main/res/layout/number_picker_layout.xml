@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_mmlarge">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large" android:layout_weight="1">
+            <NumberPicker android:id="@+id/number_picker_picker" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="@string/picker"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@color/colorAccent" android:id="@+id/number_picker_txt_cancel" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_mlarge" android:text="@string/cancel" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:contentDescription="@string/cancel_btn" android:textAllCaps="true"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@color/colorAccent" android:id="@+id/number_picker_txt_confirm" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/confirm" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:contentDescription="@string/confirm_btn" android:textAllCaps="true"/>
+    </LinearLayout>
+</LinearLayout>

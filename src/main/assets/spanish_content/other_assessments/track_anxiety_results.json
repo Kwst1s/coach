@@ -1,0 +1,55 @@
+{
+	"low": [{
+			"type": "text",
+			"content": "¡Actividad completada! Siga registrandose."
+		},
+		{
+			"type": "text",
+			"content": "¡Parece que está manejando su ansiedad bastante bien en este momento! Si hay veces que se siente ansioso(a), consulte la sección Manejando el estrés para aprender acerca de cosas que podrían ayudarle."
+		}
+	],
+	"high": [{
+			"type": "text",
+			"content": "Basado en sus respuestas, es pósible que esté teniendo dificultad manejando la ansiedad durante este momento difícil."
+		},
+		{
+			"type": "text",
+			"content": "Encuentre unas ideas de como manejar su ansiedad en Cómo mantenerse bien."
+		},
+		{
+			"type": "link_internal",
+			"learn_file": "learn_staying_sane.json",
+			"learn_title": "Cómo mantenerse bien",
+			"learn_icon": "learn_icon_learn",
+			"link": "link_learn_category",
+			"full": true,
+			"content": "Aprender"
+		},
+		{
+			"type": "text",
+			"content": "También obtenga más información sobre cómo encontrar ayuda en Encuentra recursos"
+		},
+		{
+			"type": "link_internal",
+			"full": true,
+			"link": "find_resources",
+			"content": "Enlace a la sección Encuentre recursos de esta aplicación"
+		},
+		{
+			"type": "text",
+			"content": "Obtenga más información sobre la ansiedad:"
+		},
+		{
+			"type": "link",
+			"full": true,
+			"link": "https://www.nami.org/NAMI/media/NAMI-Media/Images/FactSheets/Spanish_Anxiety_(trastornos-de-ansiedad).pdf",
+			"content": "Información acerca de la ansiedad"
+		},
+		{
+			"type": "link",
+			"full": true,
+			"link": "https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html",
+			"content": "Consejos de los CDC sobre afrontamiento"
+		}
+	]
+}

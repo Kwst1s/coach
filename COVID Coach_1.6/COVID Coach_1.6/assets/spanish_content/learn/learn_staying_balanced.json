@@ -1,0 +1,657 @@
+[
+  {
+    "displayName": "Dormir",
+    "id": 2000,
+    "related_tools": [
+      102
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Trate de dormir lo suficiente. El sueño lo ayudará a procesar lo que está sucediendo, mejorar su estado de ánimo y tomar mejores decisiones."
+      },
+      {
+        "type": "text",
+        "content": "Es perfectamente normal que duerma de forma diferente a lo habitual. Para volver a lo habitual, pruebe algunos de estos consejos:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Trate de dejar de beber cafeína después de la mitad del día (antes de las 4 pm). La cafeína necesita tiempo para salir de su sistema antes de acostarse.",
+          "Trate de acostarse a la misma hora todos los días.",
+          "Tómese un tiempo para relajarse, una hora antes de acostarse, cuando apague el teléfono y la televisión.",
+          "Si no puede conciliar el sueño o se despierta en medio de la noche durante más de 15 minutos, levántese de la cama y haga algo relajante y no demasiado estimulante hasta que vuelva a sentir sueño."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "¡Consulte más información en Herramientas para Dormir! Para obtener aún más herramientas y consejos, descargue la aplicación Insomnia Coach desde la App o Play Stores."
+      },
+      {
+        "type": "link",
+        "content": "Insomnia Coach for Android",
+        "full": true,
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.insomniacoach&hl=en_US&gl=US"
+      }
+    ]
+  },
+  {
+    "displayName": "Hable con un Profesional",
+    "id": 200002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Manejar su salud mental durante una pandemia puede ser difícil. Encontrar recursos terapéuticos que sean asequibles puede ser aún más difícil. A continuación, encontrará información para ayudarle a navegar por el complejo sistema."
+      },
+      {
+        "type": "title",
+        "content": "Encontrar un Proveedor Gratuito o de Bajo Costo"
+      },
+      {
+        "type": "list",
+        "content": [
+          "211 es un servicio nacional disponible para personas en los 50 estados, el Distrito de Columbia y Puerto Rico. Los especialistas en referencias utilizan su base de datos de recursos para emparejar, vincular o referir a las personas a una agencia u organización local que pueda ayudarlos."
+        ]
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame al 211",
+        "full": true,
+        "imageButton": true,
+        "link": "211"
+      },
+      {
+        "type": "link",
+        "content": "Acceder a los recursos en línea",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.211.org/"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Si tiene un médico, pídale referencias dentro de su red de seguro.",
+          "Considere comunicarse con un centro de salud mental comunitario.",
+          "Muchos colegios y universidades (pero no todas) ofrecen servicios de salud mental de bajo costo que son brindados por estudiantes graduados que necesitan ganar horas clínicas. Llame a su departamento local de psicología, psiquiatría, trabajo social u otros departamentos de salud conductual para conocer lo que ofrecen y si sus servicios están abiertos al público."
+        ]
+      },
+      {
+        "type": "title",
+        "content": "Directorios y Recursos Adicionales"
+      },
+      {
+        "type": "list",
+        "content": [
+          "En los centros de salud financiados por el gobierno federal, usted paga según sus ingresos y muchos de los centros incluyen servicios de salud mental."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Encuentre un centro de salud cerca de usted",
+        "full": true,
+        "imageButton": true,
+        "link": "https://data.hrsa.gov/widgets/FindAHealthCenter/es/index.html"
+      },
+      {
+        "type": "list",
+        "content": [
+          "La Administración de Servicios de Salud Mental y Abuso de Sustancias (SAMHSA) es una organización gubernamental con una base de datos de localizaciones de tratamiento de bajo costo en los Estados Unidos."
+        ]
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame a la Línea de Ayuda Nacional de SAMHSA",
+        "full": true,
+        "imageButton": true,
+        "link": "1-800-662-4357"
+      },
+      {
+        "type": "list",
+        "content": [
+          "La Alianza Nacional de Enfermedades Mentales (NAMI) ofrece recursos grupales virtuales gratuitos."
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "De Persona a Persona de NAMI es un programa educativo gratuito de ocho sesiones para adultos con problemas de salud mental que buscan entenderse mejor a sí mismos y su recuperación."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Grupo de Apoyo",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.nami.org/Find-Your-Local-NAMI/Affiliate/Programs?classkey=a1x36000003TN9NAAW"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "De Familia a Familia de NAMI es un programa educativo gratuito de 8 sesiones para familiares, seres queridos y amigos de personas con problemas de salud mental."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Grupo de Apoyo Familiar",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.nami.org/Find-Your-Local-NAMI/Affiliate/Programs?classkey=a1x36000003TN9ZAAW"
+      },
+      {
+        "type": "list",
+        "content": [
+          "La Oficina de Salud de las Minorías del Departamento de Salud y Servicios Humanos de los Estados Unidos organizaciones ofrecen atención médica que brindan una variedad de servicios médicos, dentales, de farmacia, de la vista y de la salud mental a personas de bajos ingresos."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "La Oficina de Salud de las Minorías del Departamento de Salud y Servicios Humanos de los Estados Unidos",
+        "full": true,
+        "imageButton": true,
+        "link": "https://minorityhealth.hhs.gov/espanol/cuidadodesalud"
+      }
+    ]
+  },
+  {
+    "displayName": "Para trabajadores de salud",
+    "id": 2010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Se ha pedido a los trabajadores de la salud que den un paso adelante de una manera sin precedentes durante esta pandemia. Manejar la tensión laboral, el riesgo de exposición y el estrés en el hogar puede ser especialmente abrumador para quienes están en primera línea."
+      }
+    ]
+  },
+  {
+    "displayName": "¿Encerrado en Casa?",
+    "id": 2001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Cuando se sienta atrapado en la casa con fiebre de cabina, puede ser útil cambiar su forma de pensar. Recuerde que \"encerrado en casa\" también puede significar \"seguro en casa\". Crear estructura también puede ayudar aquí. Establezca un horario para usted, incluso si no está haciendo nada. Configure alarmas o citas en su teléfono, si le ayuda a realizar una rutina."
+      },
+      {
+        "type": "text",
+        "content": "Comience con algunas formas sencillas de mantener un horario regular, como estas:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Despierte a la misma hora todos los días",
+          "Vístase todos los días. Cualquier ropa que funcione para usted está bien, siempre y cuando se cambie la ropa de dormir. Póngase joyas o maquillaje si eso le ayuda a sentirse listo para el día.",
+          "Tenga horarios regulares para las comidas, incluso si no tiene ganas de comer mucho. Si vive con otras personas, intente sentarse y compartir una comida al menos una vez al día.",
+          "Merienda con moderación. Se sentirá mejor si no abusa de la comida reconfortante. ¡Escoge algo delicioso para los bocadillos que planeas!",
+          "Haga algo de ejercicio de una manera que funcione para usted. Todos los días haga algunos estiramientos ligeros o calistenia, o camine dentro de su casa, patio o vecindario (siempre que pueda mantener una distancia física segura).",
+          "Manténgase al día con las tareas domésticas y la limpieza. ¡Hágalo más divertido tocando música!",
+          "Sea consciente del tiempo. Tenga un reloj y un calendario a mano o utilice las funciones de hora y calendario de su teléfono.",
+          "Todos los días trata de lograr algo, por pequeño que sea.",
+          "Escriba en un diario. Este es un momento sin precedentes y puede ayudar a procesarlo escribiendo sobre él."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Ten Cuidado Consigo Mismo",
+    "id": 2002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Está viviendo en medio de una pandemia. Es uno de los eventos más importantes que jamás haya visto el mundo. Por lo tanto, no hará todo lo que le gustaría. Eso es normal y está totalmente bien."
+      },
+      {
+        "type": "text",
+        "content": "Su productividad será una fracción de lo que solía ser. Ahora todos tenemos un trabajo extra a tiempo parcial, simplemente manteniéndonos al día con lo que sucede y lidiando con ello. Si usted es padre o cuidador, de repente se convierte en maestro de escuela en casa, cocinero y limpiador. No somos superhéroes y simplemente no podemos hacerlo todo. ¡Recuerde darse un respiro!"
+      },
+      {
+        "type": "text",
+        "content": "Todos tenemos que tomarnos más tiempo para lidiar con lo que está sucediendo, y si no lo hacemos, nuestro cuerpo y mente harán que eso suceda de todos modos. Déjate ser humano. Aléjate cuando sea necesario."
+      }
+    ]
+  },
+  {
+    "displayName": "Haz Lo Que Puedas",
+    "id": 2003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Para lo que quiere hacer, o tiene que hacer que no haya sido establecido por otros, haga un seguimiento de una manera que tenga en cuenta todas las distracciones."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Escriba las tareas en una lista sin fecha a medida que las piensa.",
+          "No se imponga los fechas de límite. En su lugar, extraiga las tareas de su lista cuando pueda trabajar en ellas.",
+          "Permítase dejar las tareas sin importancia para más adelante. Es bueno aligerar la carga.",
+          "¡O déjese distraer por tareas sin importancia! Es bueno mantenerse ocupado.",
+          "Si le resulta difícil concentrarse, utilice la procrastinación a su favor. Trabaje un poco en otra cosa y luego vuelva a cambiar cuando esté listo.",
+          "¡No se exceda tampoco! Si está trabajando desde casa, comience a trabajar no antes de que comience su turno y deje de trabajar cuando termine su turno. Sigue tomando todos sus descansos y almuerzos."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Defiéndete",
+    "id": 2004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Eres importante. Todos tenemos que hacer nuestra parte, pero usted merece que se atiendan sus necesidades tanto como los demás."
+      },
+      {
+        "type": "text",
+        "content": "Si trabaja fuera de casa, haga su seguridad una prioridad. Si está en un trabajo que puede ponerlo en riesgo la exposición, exija el equipo de protección necesario o haga o improvise el equipo para protegerse. Algunas redes comunitarias vinculadas en la sección Encontrar Recursos de esta aplicación están trabajando para coser máscaras y hacer protectores faciales para personas como usted en la líneas de frente."
+      },
+      {
+        "type": "link_internal",
+        "content": "Encontrar Recursos",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      },
+      {
+        "type": "text",
+        "content": "Establezca expectativas y límites realistas con las personas que quieren cosas de usted. Está bien decir \"No\" o \"No puedo hacer eso en este momento\", o recordarles que existen límites para lo que es posible o razonable."
+      },
+      {
+        "type": "text",
+        "content": "Haga aliados y defiéndase. Cualquiera que sea la presión sobre usted, no está solo."
+      }
+    ]
+  },
+  {
+    "displayName": "Siendo Propietario De Una Pequeña Empresa",
+    "id": 2005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los empresarios y propietarios de pequeñas empresas se han visto muy afectados por la pandemia de COVID-19. Muchos han tenido que girar rápidamente y cambiar su forma de operar, hacer recortes drásticos e incluso despedir empleados. Otros ni siquiera saben si sus empresas sobrevivirán. Lo único seguro es más incertidumbre para todos en esta comunidad."
+      },
+      {
+        "type": "text",
+        "content": "Vivir con inseguridad económica supone una tremenda presión para usted y los que dependen de usted. ¿Qué puede hacer para cultivar el ambiente de trabajo en una forma más saludable mentalmente en este momento?"
+      },
+      {
+        "type": "text",
+        "content": "Considere lo siguiente a medida que aprende a navegar por este nuevo territorio para su negocio:"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 0,
+            "string": "Reconozca la multitud de sentimientos que podría estar experimentando y haga espacio para sentirlos. Miedo, ira, ansiedad, tristeza, desesperación, todo es muy humano en este momento. Consulte las herramientas en la sección Manejar El Estrés de esta aplicación y aprenda el método 3x3, una táctica de atención plena rápida y sencilla para utilizar cuando se sienta abrumado."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "TEDx El Arte De Vivir Conscientemente",
+        "full": true,
+        "imageButton": true,
+        "link": "https://youtu.be/g6OY_jTsQXg"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Siga a otros emprendedores en su viaje para manejar los desafíos emocionales."
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "Mi Propio Jefe",
+        "full": true,
+        "imageButton": true,
+        "link": "https://mipropiojefe.com/como-liberarte-de-los-pensamientos-negativos/"
+      },
+      {
+        "type": "link_web",
+        "content": "Diario De Emprendedores",
+        "full": true,
+        "imageButton": true,
+        "link": "https://diariodeemprendedores.com/herramientas/vuelta-a-la-rutina.html"
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Identifique a una persona confiable para compartir inquietudes y temores acerca de la perspectiva de su negocio (por ejemplo, recaudación de fondos)."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 1,
+            "string": "Cuide de sí mismo y de su negocio cuidando a los demás. Pregunte a sus empleados, inversores, socios y clientes qué tipo de apoyo podrían utilizar durante este tiempo y tome pequeños pasos diarios para abordar las necesidades."
+          }
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Intente ofrecer transparencia, comunicarse de forma clara y frecuente y gestionar los conflictos a medida que surgen.",
+          "Consulte con regularidad cómo les está yendo a las partes interesadas en su negocio. Un liderazgo fuerte también requiere reconocimiento y conciencia emocional."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 2,
+            "string": "Encuentre y reúna formas creativas de mantener la motivación, inculque confianza y restablezca la esperanza en el clima económico actual."
+          }
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Los emprendedores tienen talento para identificar oportunidades. Aunque haya perdido mucho, ¿hay algo que gano? Encienda su reconocimiento de oportunidades a medida que avanzamos juntos en esto."
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 3,
+            "string": "Si prevé que su negocio se reducirá o cerrará durante la pandemia, familiarícese con los recursos sobre cómo comunicarse mejor al respecto."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "La Vanguardia",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.lavanguardia.com/economia/20191223/472415684525/start-up-atart-ups-unicornio-empresas-cierre-fracaso.html"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 4,
+            "string": "Participe y modele prácticas de cuidado personal que le ayuden a recargar sus baterías."
+          }
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Priorizar Usted Mismo",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "learn_staying_sane.json",
+        "learn_id": 1000
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 5,
+            "string": "Si es propietario único o trabaja en un equipo pequeño, las cosas pueden sentirse bastante solitarias. Conectarse a una comunidad en línea de otros en un barco similar puede ser reconstituyente."
+          }
+        ]
+      },
+      {
+        "type": "link_web",
+        "content": "Expansión",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.expansion.com/2013/01/11/emprendedores-empleo/emprendimiento/1357928987.html"
+      },
+      {
+        "type": "link_web",
+        "content": "Promonegocios",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.promonegocios.net/foro/index.php"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 6,
+            "string": "Establezca límites entre el hogar y el trabajo. Desarrolle nuevos sistemas para organizar el tiempo no estructurado y gestiona proyectos de forma remota."
+          },
+          {
+            "number": 7,
+            "string": "Trate de concentrarse en lo que puede cambiar y deje atrás lo que no puede. Tiene control sobre cómo responde."
+          },
+          {
+            "number": 8,
+            "string": "Recuerde que estamos pasando por una transición ahora mismo. Ha pasado por transiciones antes. Recuerde cómo se las arregló en el pasado y recurra a esas habilidades. Las transiciones tienen un comienzo, un medio y un final, y superarás esto."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Si está considerando un préstamo para pequeñas empresas, puede visitar el sitio web de la Administración de Pequeñas Empresas de EE. UU. Para obtener más información:"
+      },
+      {
+        "type": "link_web",
+        "content": "Agencia Federal de Pequeños Negocios de Estados Unidos",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.sba.gov/programas-de-financiamiento/prestamos"
+      }
+    ]
+  },
+  {
+    "displayName": "Para Estudiantes Universitarios",
+    "id": 200001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Asistir a la universidad durante la era COVID puede ser difícil. El aprendizaje en línea puede ser conveniente (y será más difícil para su profesor saber si está durmiendo durante la clase), pero ¿qué pasa con todo lo demás? Los estudiantes universitarios pueden verse particularmente afectados por las numerosas pérdidas durante este momento difícil. Cosas como la vida en el dormitorio, encontrar grupos de amigos y obtener apoyo para el estudio están en pausa, y para muchos, no estar en la escuela físicamente puede afectar las necesidades básicas como el acceso a vivienda, la comida y el empleo. Como muchas escuelas se preparan para regresar virtualmente o con un horario híbrido, los estudiantes universitarios pueden encontrarse un poco perdidos"
+      },
+      {
+        "type": "text",
+        "content": "Durante este tiempo, puede ser particularmente esencial volver a lo básico. El mensaje del CDC para los estudiantes enfatiza la importancia de lavarse las manos y el distanciamiento social, pero ¿luego qué?"
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/downloads/College-Poster-COVID-Tips-for-Students.pdf",
+        "content": "El mensaje para estudiantes del CDC"
+      },
+      {
+        "type": "text",
+        "content": "En este momento puede ser especialmente importante centrarse en lo básico:"
+      },
+      {
+        "type": "text",
+        "content": "<b>Lo que necesita</b>: Si el cierre de escuelas afecta su capacidad para encontrar vivienda, comida, trabajo y otras necesidades básicas, existe ayuda. Consulte la sección Satisfacer Sus Necesidades en Buscar Recursos para obtener enlaces a los programas de apoyo. Para obtener información específica de la universidad, comuníquese con su centro de bienestar estudiantil. Es probable que casi todos estos servicios estén disponibles durante la pandemia (aunque muchos se han vuelto virtuales) y es posible que puedan indicarle organizaciones locales que pueden ayudarlo."
+      },
+      {
+        "type": "text",
+        "content": "<b>Sueño</b>: El sueño tiene su propia categoría porque es muy importante. La falta de sueño se asocia con un estado de ánimo bajo y ansiedad elevada, y puede ser un círculo vicioso: puede ser difícil dormir cuando la ansiedad es alta. Si te despiertas cuando quieres dormir, consulta las Herramientas de Dormir o descarga Insomnia Coach para crear un plan de sueño personalizado."
+      },
+      {
+        "type": "text",
+        "content": "<b>Cómo se siente</b>: este tiempo es increíblemente pesado por muchas razones diferentes. Las universidades son conscientes de la tremenda carga que llevan sus estudiantes y muchas han incrementado los recursos de apoyo gratuitos. Llame o vaya en línea a su centro de bienestar o centro de salud para estudiantes y pregunte sobre recursos de asesoramiento individual. Los colegios comunitarios también tienen recursos y muchos tienen programas de apoyo grupal disponibles también."
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.cccco.edu/About-Us/Chancellors-Office/Divisions/Communications-and-Marketing/Novel-Coronavirus/students-spanish",
+        "content": "Recursos de apoyo gratuitos"
+      },
+      {
+        "type": "text",
+        "content": "<b>Quién puede ayudar</b>: El distanciamiento social no significa el fin del contacto social. Estar aislado puede hacer que todo se sienta peor. Incluso si aún no puede vivir con compañeros de cuarto o conocer nuevos amigos en persona, considere conectarse con personas en las clases a través del chat de video para conocerlos. Es más difícil participar en el equipo de baile swing en línea, pero no es imposible formar nuevas amistades. Si es difícil encontrar formas de conectarse, comuníquese con el Centro de Servicios para estudiantes y solicite ideas; esta es exactamente la razón por la que existen este tipo de organizaciones."
+      },
+      {
+        "type": "text",
+        "content": "Si en algún momento se siente muy deprimido, solo o triste, comuníquese con La Línea De Texto De Crisis enviando el mensaje HOME al 741741, o llame a Crisis LIne al (1-888-628-9454)."
+      }
+    ]
+  },
+  {
+    "displayName": "Afrontando Los Cambios En El Trabajo",
+    "id": 2006,
+    "related_tools": [
+      105,
+      56,
+      108
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Millones de personas están pasando por la experiencia de ser despedidas, o de que les reduzcan sus horas de trabajo debido a la pandemia mundial de COVID-19. Esto puede ser estresante de muchas maneras "
+      },
+      {
+        "type": "list",
+        "content": [
+          "sentir que está estancado financieramente,",
+          "extrañar las conexiones sociales que proporciona el trabajo,",
+          "notar bajo estado de ánimo o cambios en la identidad cuando no puede trabajar y proveer."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Puede ser útil pensar en su respuesta a estos factores estresantes de dos maneras diferentes: (1) cómo las va a enfrentar y (2) cómo va a manejar su reacción emocional."
+      },
+      {
+        "type": "text",
+        "content": "Obviamente, no poder trabajar plantea problemas económicos para la mayoría de las personas. Si está perdiendo dinero debido a cambios en su trabajo, visite Satisfacer Sus Necesidades para revisar los recursos relacionados con mantenerse a flote durante tiempos difíciles. El seguro de desempleo se ha ampliado en muchos estados para adaptarse a las circunstancias únicas que ha causado la pandemia. Incluso si cree que no reúne los requisitos para recibir asistencia, revise los enlaces en Satisfacer Sus Necesidades y obtenga más información sobre sus opciones. Comuníquese con familiares y amigos con quienes se sienta cómodo y hágales saber sobre su situación. Es posible que puedan ayudar en pequeñas formas que reduzcan la presión financiera."
+      },
+      {
+        "type": "link_internal",
+        "content": "Satisfacer Sus Necesidades",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10003
+      },
+      {
+        "type": "text",
+        "content": "Si ha perdido su trabajo, ya sabe que este es un momento muy estresante y miserable. Estar desempleado introduce todo tipo de incertidumbres y presiones en su vida y puede afectar su crédito, su vivienda, sus recursos, su estilo de vida, sus amistades y todo tipo de cosas más. Es posible que no reciba un cheque de pago, pero todavía está trabajando: ahora tiene un trabajo de tiempo completo lidiando con estar desempleado y tratando de encontrar su próximo trabajo remunerado."
+      },
+      {
+        "type": "text",
+        "content": "Si todavía está trabajando, intente mantener conexiones con sus compañeros de trabajo. Reserve tiempo al comienzo o al final de las reuniones para comunicarse entre sí, o programe una reunión breve una vez a la semana solo para saludar, como sustituto de esas conversaciones habituales. Si hay algunas personas en el trabajo con las que se siente más conectado, manténgase en contacto por mensaje de texto o correo electrónico de forma regular. Los compañeros de trabajo son una forma importante de apoyo social, que necesitamos aún más durante estos tiempos difíciles."
+      },
+      {
+        "type": "text",
+        "content": "El trabajo también tiende a ser una gran parte de nosotros, incluso si no estamos trabajando en el trabajo de nuestros sueños. Si nota que se siente un poco perdido cuando no está trabajando, trate de ceñirse a su horario habitual tanto como sea posible. Las investigaciones muestran que nos va mejor cuando nos despertamos a la misma hora cada semana, así que elija una hora que funcione para usted y configure su alarma. Trate de programar su tiempos de merendar y almorzar con sus descansos laborales, ya que probablemente su cuerpo se haya adaptado al ritmo de su día. Use lo que normalmente podría ser su tiempo de trabajo para abordar algo que deseaba hacer y que lo hace sentir efectivo. Podría ser aprender sobre un tema nuevo, probar una nueva actividad o realizar tareas domésticas.<br>Lo más importante es recordar que esto es temporal. Es difícil perder su trabajo y no tomarlo como algo personal, pero es esencial recordar que esto es el resultado de las circunstancias, no de algo que usted hizo."
+      },
+      {
+        "type": "text",
+        "content": "Estar desempleado durante largos períodos de tiempo puede ser un factor de riesgo de problemas de salud mental. Si nota pensamientos molestos o difíciles sobre su situación, pruebe una de las habilidades de manejo del estrés en Manejar El Estrés, como Atención Plena, Encontrando  Significado, o Autocompasión."
+      }
+    ]
+  },
+  {
+    "displayName": "Equilibrio De Responsabilidades",
+    "id": 2007,
+    "related_tools": [
+      108,
+      8
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "En este momento, puede parecer que está siendo empujado en muchas direcciones diferentes, todas al mismo tiempo. También es probable que se sienta preocupado y ansioso por la salud, la seguridad y el bienestar financiero de usted, su familia y sus amigos. ¡Está haciendo malabares con muchas responsabilidades y roles!"
+      },
+      {
+        "type": "text",
+        "content": "Si se siente abrumado por todas las demandas en su plato, podría ser útil recordar ser suave con usted mismo. Tenga cuidado de reconocer que está preocupado porque le importa. Preocuparse por cumplir con sus responsabilidades es un atributo positivo. Trate de no juzgarse por estar estresado. Estamos pasando por un momento muy difícil e inusual, recuerde que está lidiando con circunstancias sin precedentes y que todos los sentimientos que tiene ahora mismo son normales."
+      },
+      {
+        "type": "text",
+        "content": "A continuación, es posible que desee considerar tomarse un tiempo para recargar la batería. Incorpora \"Tiempo Mío\" en su horario. Haga espacio para hacer algo que le guste hacer. Podría ser un paseo (si es posible), leer o simplemente sentarse a \"pensar en nada\". No importa cuánto tiempo, incluso 10 a 15 minutos podrían ser suficientes.<br>Haga todo lo posible para proteger su \"Tiempo Mío\" para que pueda concentrarse en usted y sólo en usted."
+      },
+      {
+        "type": "text",
+        "content": "También puede ser útil disponer de tiempo cada semana para crear una lista de \"tareas pendientes\". Al hacer la lista, piense en categorizar cuándo se PUEDEN hacer las tareas en lugar de cuándo DEBEN hacerse. Le ayuda a ver las responsabilidades de manera diferente y le da el control."
+      },
+      {
+        "type": "text",
+        "content": "No se presione. No va a dejar caer la pelota. Lo está dejando por ahora. Muchas otras personas se encuentran en situaciones similares y experimentan las mismas cosas. No es sólo usted. Si tiene a alguien que pueda ayudar, pídale ayuda."
+      },
+      {
+        "type": "text",
+        "content": "Si tiene problemas para controlar los pensamientos ansiosos, es una señal de que necesita tomarse un tiempo para sí mismo. Si los pensamientos de ansiedad continúan impidiéndole cumplir con sus responsabilidades de manera saludable, es posible que desee comunicarse con un profesional de la salud mental."
+      },
+      {
+        "type": "link_internal",
+        "content": "Búsqueda De Ayuda En Línea",
+        "full": true,
+        "link": "link_learn",
+        "learn_file": "find_resources.json",
+        "learn_id": 10001
+      }
+    ]
+  },
+  {
+    "displayName": "Trabajando Desde Casa",
+    "id": 2008,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El distanciamiento social ha obligado a las personas a trabajar de forma remota más que nunca y el cambio repentino no ha sido fácil para la mayoría."
+      },
+      {
+        "type": "text",
+        "content": "Es probable que el trabajo que realiza no solo haya cambiado en respuesta a la pandemia, sino que también se enfrenta a la dificultad de completar tareas fuera de su espacio de trabajo habitual y sus compañeros de trabajo. También existe la dificultad de ser productivo desde casa con todas las distracciones y demandas competitivas que lo acompañan."
+      },
+      {
+        "type": "text",
+        "content": "El desafío de trabajar desde casa puede agregar una capa adicional de estrés a su día laboral y su vida. Considere los siguientes consejos para cultivar un flujo de vida saludable que funcione para usted:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "Reconozca el estrés de la situación y ajuste sus expectativas de sí mismo. Es poco probable que sea tan productivo como de costumbre y eso está bien",
+          "Establezca un horario y trate de ceñirse a su rutina. La estructura ayudará a evitar que la línea entre el hogar y el trabajo se vuelva demasiado borrosa. Desea ser productivo durante sus horas de trabajo regulares sin tener que perder su valioso tiempo de inactividad para relajarse.",
+          "Establezca un espacio de trabajo exclusivo que sea cómodo para usted, lo que le ayudará a reducir las distracciones y a entrar en el espacio mental para trabajar.",
+          "Considere apagar las notificaciones de su teléfono o evitar revisar noticias o leer correos electrónicos que no sean críticos para cualquier tarea que esté haciendo. ¡Esto ayudará a evitar que su cerebro sufra una sobrecarga de información!",
+          "Comunique sus necesidades. Deje que sus compañeros de trabajo y supervisores sepan qué otras demandas tiene en su plato.",
+          "Es fácil caer en el hábito de comunicarse menos con sus compañeros de trabajo cuando se trabaja desde casa, lo que puede generar sentimientos de aislamiento. Considere la posibilidad de reservar tiempo con regularidad para comunicarse entre sí, incluso si es solo para charlar y compartir experiencias sobre cómo va su trabajo.",
+          "Tome descansos durante el día para mover su cuerpo y estimular su mente. El yoga, los estiramientos o dar un paseo por la cuadra son excelentes formas de hacer que la sangre fluya.",
+          "Concéntrese primero en el trabajo más importante y en los temas de máxima prioridad. El trabajo remoto puede hacer que deseemos parecer ocupados, pero dado que nuestro tiempo se interrumpe, es importante ser eficiente."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Actividad Física",
+    "id": 2009,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Comprometerse con la actividad física puede ser un desafío. Puede ser difícil ser creativo y encontrar formas de hacer ejercicio en casa. También puede ser difícil encontrar tiempo para hacer ejercicio mientras nos adaptamos a una nueva rutina. Nuestra relación con el ejercicio también puede ser estresante. Puede parecer como otra responsabilidad. También es posible que no tengamos práctica y tengamos dificultades para volver al ritmo."
+      },
+      {
+        "type": "text",
+        "content": "Lo que puede ser útil es reenmarcar lo que la actividad física puede significar para usted. Piense en ello como una forma de reducir el estrés y la incomodidad, algo que finalmente lo relajará. También puede pensar en ello como un regalo, o escapar de la responsabilidad, y convertirlo en \"tiempo para mí\". De esta manera puede convertirse en algo que QUIERES hacer; una forma de cuidar su mente y su cuerpo."
+      },
+      {
+        "type": "text",
+        "content": "Al final, tendrá más energía, dormirá mejor y reducirá su estrés.<br>Si está comenzando o volviendo a hacerlo, comience con un ritmo que pueda mantener todos los días. Trate de encontrar 10-15 minutos y concéntrese en mover su cuerpo. A medida que se acostumbre, podrá realizar ejercicios más largos o más complicados. El éxito vendrá de la actividad diaria: no se sienta mal si no puede cumplir con alguna recomendación de salud genérica de inmediato."
+      },
+      {
+        "type": "text",
+        "content": "Elija algo que disfrute. ¡Puede ser cualquier cosa! Haga las tareas del hogar o trabaje en el jardín con música, juegue con los niños, involucre a la familia o los compañeros de departamento, salga a caminar, baile.<br>Asegúrese de calentar (muévase pero tómelo con calma al principio) y enfríe (disminuya la velocidad pero siga moviéndose, eventualmente estirándose) para evitar lesiones y dolor."
+      },
+      {
+        "type": "text",
+        "content": "¡Y seguimiento del progreso para desarrollar su hábito de actividad! Tome notas en su calendario o en un cuaderno, o haga un gráfico. Si tiene amigos que también están tratando de mantenerse activos, póngase en contacto con los demás con regularidad para comparar notas o comparta una hoja de cálculo para mantenerse en movimiento."
+      },
+      {
+        "type": "text",
+        "content": "La actividad física típicamente suele ser segura. Sin embargo, si le preocupa que una afección se agrave con el ejercicio, asegúrese de consultar con un médico antes de comenzar un nuevo ejercicio."
+      }
+    ]
+  }
+]

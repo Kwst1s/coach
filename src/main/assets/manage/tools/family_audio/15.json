@@ -1,0 +1,21 @@
+{
+	"filename": "mindful_walking.mp3",
+	"filename_es": "Mindful-Walking.mp3",
+	"title": "Mindful Walking",
+	"display_title": "Mindful Walking",
+	"subtitle":"sub_mindful_walking",
+	"intro_text": [{
+			"type": "text",
+			"content": "For this exercise, you can walk at home, in your yard, in your neighborhood, at a park, or wherever else feels comfortable and safe to you. Try to remain silent during your walk so that you can more easily attend to your sensations and to your mind."
+		},
+		{
+			"type": "text",
+			"content": "Please note that there will be pauses in the audio so you can practice without distraction."
+		},
+		{
+			"type": "text",
+			"content": "Time: about 6 minutes."
+		}
+	],
+	"image": "t15"
+}

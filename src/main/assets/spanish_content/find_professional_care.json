@@ -1,0 +1,178 @@
+[{
+		"type": "text",
+		"content": "Tenga en cuenta que las siguientes páginas web están en inglés. Recomendamos que utilicen el traductor de Google cuando naveguen por estas páginas web."
+	},{
+		"type": "text",
+		"content": "Para aprender más sobre los tratamientos, incluyendo dónde encontrarlos, visite la página web del National Center for PTSD (Centro Nacional para el TEPT)."
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.ptsd.va.gov/",
+		"content": "Visite la web del National Center for PTSD (Centro Nacional para el TEPT)"
+	},
+	{
+		"type": "text",
+		"content": "Para localizar un proveedor de cuidados en Salud Mental:"
+	},
+	{
+		"type": "list",
+		"content": ["Encuentra un cuidador local:"]
+	},
+	{
+		"type": "text",
+		"content": "Localiza los servicios para Veteranos más cerca de tí"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.va.gov/directory/",
+		"content": "Encuentra ayuda local"
+	},
+	{
+		"type": "list",
+		"content": ["Behavioral Health Treatment Services Location (SAMHSA):"]
+	},
+	{
+		"type": "text",
+		"content": "Recursos y localizaciones para el público general así como para los Veteranos"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-800-662-4357",
+		"content": "1-800-662-4357"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://findtreatment.samhsa.gov/",
+		"content": "Behavioral Health Treatment Services Locator (SAMHSA)"
+	},
+	{
+		"type": "list",
+		"content": ["Military OneSource"]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.militaryonesource.mil/",
+		"content": "Military OneSource"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-800-342-9647",
+		"content": "Llamar  al 1-800-342-9647"
+	},
+	{
+		"type": "text",
+		"content": "Contacte con el Sistema de Salud para Veteranos (VA health system):"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-877-222-8387",
+		"content": "VA Health System"
+	},
+	{
+		"type": "text",
+		"content": "O visite la pagina para miembros del servicio militar que regresan de su servicio."
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.oefoif.va.gov",
+		"content": "Returning Service Members website"
+	},
+	{
+		"type": "list",
+		"content": ["La Mujeres Veteranas pueden llamar al Women Veterans Call Center al 1-855-829-6636"]
+	},
+
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-855-829-6636",
+		"content": "Llame al 1-855-829-6636"
+	},
+
+	{
+		"type": "list",
+		"content": ["Algunos profesionales pueden estar también disponibles para algunos servicios en los Centros de Veteranos locales."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.vetcenter.va.gov",
+		"content": "Vet Centers Website"
+	},
+	{
+		"type": "list",
+		"content": ["La Asociación Americana de Psicólogos, The American Psychological Association ofrece herramientas online para encontrar un psicólogo en tu zona."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://locator.apa.org",
+		"content": "American Psychological Association"
+	},
+	{
+		"type": "list",
+		"content": ["La Asociación Americana de Terapia Familiar y de Pareja, The American Association of Marriage and Family Therapy,  también dispone de una herramienta online para encontrar un terapeuta familiar o de pareja."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://therapistlocator.net/",
+		"content": "American Association for Marriage and Family Therapy"
+	},
+
+	{
+		"type": "list",
+		"content": ["La Revista Psychology Today dispone de una herramienta para localizer a un consejero, o grupo de apoyo o un psiquiatra próximo a ti."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.psychologytoday.com/intl",
+		"content": "Psychology Today"
+	},
+	{
+		"type": "text",
+		"content": "Si eres un familiar de un Veterano con TEPT que está buscando ayuda:"
+	},
+	{
+		"type": "list",
+		"content": ["Prueba llamando a Coaching into Care en el número 1-888-823-7458, quienes están disponibles de Lunes a viernes de 8 am.- 8pm."]
+	},
+	{
+		"type": "list",
+		"content": ["Para hablar con una persona que pueda proporcionarte información, ánimos y consejo experto para ayudar a un Veterano a encontrar tratamiento efectivo para el TEPT."]
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://www.mirecc.va.gov/coaching/services.asp",
+		"content": "Coaching Into Care"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-888-823-7458",
+		"content": "Call 1-888-823-7458"
+	},
+	{
+		"type": "list",
+		"content": ["GiveAnHour ofrece servicios de counseling gratis o con un bajo coste, para personal militar, Veteranos  y a los miembros de su familia."]
+	},
+
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://giveanhour.org/",
+		"content": "GiveAnHour"
+	}
+]

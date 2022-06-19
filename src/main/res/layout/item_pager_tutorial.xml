@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@+id/item_pager_tutorial_img" android:layout_width="match_parent" android:layout_height="200dp" android:scaleType="centerCrop"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/item_pager_tutorial_content" android:paddingTop="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

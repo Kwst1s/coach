@@ -1,0 +1,17 @@
+{
+	"filename": "clouds_in_the_sky.mp3",
+	"filename_es": "Observe-Thoughts-Clouds-in-the-Sky.mp3",
+	"title": "Clouds in the Sky",
+	"display_title": "Clouds in the Sky",
+	"subtitle":"sub_clouds_in_the_sky",
+	"intro_text": [{
+			"type": "text",
+			"content": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed."
+		},
+		{
+			"type": "text",
+			"content": "Please note that there will be pauses in the audio so you can practice without distraction"
+		}
+	],
+	"image": "t18"
+}

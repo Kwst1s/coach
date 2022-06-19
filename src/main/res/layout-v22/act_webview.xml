@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_fafafa" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/webview_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material" app:titleTextColor="@android:color/white">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/webview_txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" android:accessibilityHeading="true" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <WebView android:id="@+id/webview_webview" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <fr.castorflex.android.circularprogressbar.CircularProgressBar android:id="@+id/webview_pb" android:layout_width="64dp" android:layout_height="64dp" android:indeterminate="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" app:cpb_color="@color/colorPrimary" app:cpb_max_sweep_angle="310" app:cpb_min_sweep_angle="30" app:cpb_rotation_speed="1" app:cpb_stroke_width="3dp" app:cpb_sweep_speed="1"/>
+    </RelativeLayout>
+</LinearLayout>

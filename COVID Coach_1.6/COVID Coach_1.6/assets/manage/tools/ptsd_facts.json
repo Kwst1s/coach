@@ -1,0 +1,390 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "PTSD is Treatable",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "No matter how long you have lived with PTSD, there are treatments that can help."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Treatment Helps",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Talking to a professional is one of the best things you can do to help with PTSD.  There are several evidence-based treatments that have been shown to be effective in reducing PTSD symptoms."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Support Plays a Big Role",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Support can go a long way in helping people with PTSD. Studies have shown that support from loved ones improves both treatment and recovery from PTSD. Check out the PTSD Family Coach app for tips on how loved ones can support people with PTSD."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "You're Not Alone",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "PTSD affects everyone differently, but it's extremely common for people to experience significant stress. Don't be afraid to seek out help and support to help you deal with any stress you’re experiencing."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Did You Know?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Over 600,000 Veterans who used VA services as recently as 2016 were diagnosed with PTSD."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Did You Know?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "5 out of every 100 active duty Service Members were estimated to have PTSD after deployment."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Did You Know?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "For those in infantry units that experienced combat, 13 out of every 100 Service Members had PTSD."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Effective Treatments for PTSD",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Psychotherapy and/or medication are the most effective treatments for PTSD.  Trauma-focused psychotherapy is considered more effective than medications."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	}, {
+		"text": [{
+				"type": "title",
+				"content": "How Treatment Helps",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Treatments for PTSD have been shown to improve symptoms, personal and professional relationships, and quality of life. Talk to your providers about which PTSD treatment is right for you."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What are Trauma-Focused Psychotherapies?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "These therapies use different techniques to help people with PTSD process their traumatic experience. Some involve visualizing, talking, or thinking about the traumatic memory, while others focus on changing unhelpful beliefs."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Which Therapies Work?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "There are several trauma-focused psychotherapies that have been shown to help improve PTSD: Prolonged Exposure (PE), Cognitive Processing Therapy (CPT), Eye-Movement Desensitization and Reprocessing (EMDR), Brief Eclectic Psychotherapy, Narrative Exposure Therapy, and Written Narrative Exposure."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What Medications Work?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Medications that can be helpful for PTSD are also used for depression and anxiety: sertraline (Zoloft), paroxetine (Paxil), fluoxetine (Prozac), and venlafaxine (Effexor). Talk to your doctor about whether a prescription could be helpful for you."
+			}
+		],
+		"action": "",
+		"action_text": "",
+		"link": ""
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Help with Treatment Decisions",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Try an online tool to help you learn about and compare effective treatments for PTSD:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "http://www.ptsd.va.gov/apps/decisionaid/",
+				"content": "Visit Website"
+			}
+		],
+		"action": "app",
+		"action_text": "Visit Website",
+		"link": "http://www.ptsd.va.gov/apps/decisionaid/"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Learn More about PTSD",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "The National Center for PTSD maintains an extensive collection of PTSD-related articles, videos, and self-help tools.  Learn everything you need to know here:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.ptsd.va.gov/index.asp",
+				"content": "Visit Website"
+			}
+		],
+		"action": "app",
+		"action_text": "Visit Website",
+		"link": "https://www.ptsd.va.gov/index.asp"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "After Deployment",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "After Deployment is a comprehensive resource for managing stress, anxiety, sleep, health, and more.  It’s well-worth a visit:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "http://afterdeployment.org/",
+				"content": "Visit Website"
+			}
+		],
+		"action": "app",
+		"action_text": "Visit Website",
+		"link": "http://afterdeployment.dcoe.mil/"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What is PTSD?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Check out this great video:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=YMC2jt_QVEE",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=YMC2jt_QVEE"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Treatment: Know Your Options",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Check out this great video about treatment options:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=FeLLt39DI8A",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=FeLLt39DI8A"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Learn More about Medications",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Check out this video about medication options for PTSD:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=k08Kryo1HiE",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=k08Kryo1HiE"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What is \"Evidence-Based Treatment\"?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Learn more in this nice little video:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=7dzkS0ioqqwhttps://www.youtube.com/watch?v=7dzkS0ioqqw",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=7dzkS0ioqqwhttps://www.youtube.com/watch?v=7dzkS0ioqqw"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What is Cognitive Processing Therapy?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Check out this brief video to learn more about CPT:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=Jqj5zDbkPxY",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=Jqj5zDbkPxY"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "What is Prolonged Exposure?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Check out this short video to learn more about PE:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.youtube.com/watch?v=rHg_SlEqJGc&t=1s",
+				"content": "Play Video"
+			}
+		],
+		"action": "app",
+		"action_text": "Play Video",
+		"link": "https://www.youtube.com/watch?v=rHg_SlEqJGc&t=1s"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Faces of PTSD",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Hear more about PTSD in the words of Veterans and their loved ones here:"
+			}, {
+				"type": "link_web",
+				"gravity": 0,
+				"full": true,
+				"link": "https://www.ptsd.va.gov/apps/aboutface/",
+				"content": "Visit Website"
+			}
+		],
+		"action": "app",
+		"action_text": "Visit Website",
+		"link": "https://www.ptsd.va.gov/apps/aboutface/"
+	}
+]

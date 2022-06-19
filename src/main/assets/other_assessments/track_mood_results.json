@@ -1,0 +1,67 @@
+{
+	"q9_0": {
+		"low": [{
+			"type": "text",
+			"content": "Activity complete! Keep checking in."
+		}, {
+			"type": "text",
+			"content": "Seems like you are managing your mood pretty well right now! If you are feeling low at times, check out the Managing Stress section of the app to learn things to do that might help."
+		}],
+		"medium": [{
+				"type": "text",
+				"content": "Based on your responses you might be struggling to manage depression and low mood during this challenging time. Check out the Find Resources section of this app, or learn more about depression here:"
+			},
+			{
+				"type": "link",
+				"link": "https://www.mayoclinic.org/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057",
+				"full": true,
+				"content": "Learn More About Depression"
+			},
+			{
+				"type": "text",
+				"content": "If you are experiencing thoughts of harming yourself, help is available."
+			},
+			{
+				"type": "link_text",
+				"link": "741741",
+				"full": true,
+				"content": "Crisis Text Line: Text HOME"
+			},
+			{
+				"type": "link_phone",
+				"link": "1-800-273-8255",
+				"full": true,
+				"content": "Suicide Prevention Hotline"
+			},
+			{
+				"type": "link",
+				"link": "https://suicidepreventionlifeline.org/chat/",
+				"full": true,
+				"content": "Suicide Prevention Online Chat"
+			}
+		]
+	},
+	"high": [{
+			"type": "text",
+			"content": "It sounds like you are currently experiencing thoughts of harming yourself. Help is available. If your concerns are urgent, please utilize these crisis resources."
+		},
+		{
+			"type": "link_text",
+			"link": "741741",
+			"full": true,
+			"content": "Crisis Text Line: Text HOME"
+		},
+		{
+			"type": "link_phone",
+			"link": "1-800-273-8255",
+			"full": true,
+			"content": "Suicide Prevention Hotline"
+		},
+		{
+			"type": "link",
+			"link": "https://suicidepreventionlifeline.org/chat/",
+			"full": true,
+			"content": "Suicide Prevention Online Chat"
+		}
+	]
+}

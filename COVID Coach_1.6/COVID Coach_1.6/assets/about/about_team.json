@@ -1,0 +1,45 @@
+[
+  {
+    "type": "title",
+    "content": "Project Team"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Beth Jaworski, Ph.D",
+      "Kelly M. Ramsey",
+      "Katherine Taylor, Psy.D., MPH",
+      "Sarah Steinmetz, Ph.D",
+      "Adrienne Heinz, Ph.D",
+      "Jason Owen, Ph.D, MPH"
+    ]
+  },
+  {
+    "type": "title",
+    "content": "Subject Matter Experts"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Jessica Hamblen, Ph.D",
+      "Patricia Watson, Ph.D",
+      "Pearl McGee-Vincent, Psy.D.",
+      "Katherine Juhasz, MA",
+      "Tanisha Thelemaque, PhD"
+    ]
+  },
+  {
+    "type": "title",
+    "content": "Graphic Arts"
+  },
+  {
+    "type": "text",
+    "content": "Ellen Forney"
+  },
+  {
+    "type": "link",
+    "content": "Website",
+    "full": true,
+    "link": "https://ellenforney.com"
+  }
+]

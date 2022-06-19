@@ -1,0 +1,37 @@
+[{
+		"type": "title",
+		"content": "Ask my doctor or pharmacist for naloxone"
+	},
+	{
+		"type": "list",
+		"content": ["Naloxone, also known as Narcan®, is a safe and effective medication that can reverse the effects of an opioid overdose. It has been used successfully to reverse opioid overdoses for decades.",
+			"If you have access to opioids, ask your doctor or pharmacist if naloxone is right for you. It may be covered by insurance or free of cost. Naloxone is free to VHA patients who need it. Naloxone may also be available from community-based programs.",
+			"Learning how to prevent overdose is critical whether you take prescription opioids or illicit opioids.",
+			"Once you have naloxone, carry it with you at all times and tell family members and friends where you keep it – someone else has to administer it in the case of an overdose."
+		]
+	},
+	{
+		"type": "link_web",
+		"content": "Instructions on how to use naloxone",
+		"full": true,
+		"link": "https://prevent-protect.org/individual-resources/reversing-overdose-with-naloxone/"
+	},
+	{
+		"type": "link_web",
+		"content": "More information on community-based programs ",
+		"full": true,
+		"link": "https://prevent-protect.org"
+	},
+	{
+		"type": "link_web",
+		"content": "Opioid safety information",
+		"full": true,
+		"link": "https://www.veteranshealthlibrary.va.gov/Encyclopedia/142,41510_VA"
+	},
+	{
+		"type": "link_web",
+		"content": "Choose before you use: Opioid overdose prevention",
+		"full": true,
+		"link": "https://www.veteranshealthlibrary.va.gov/Search/142,41511_VA"
+	}
+]

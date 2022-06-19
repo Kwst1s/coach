@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="btn_like">65dp</dimen>
+    <dimen name="circle">8dp</dimen>
+    <dimen name="circle_big">12dp</dimen>
+    <dimen name="circle_double">116dp</dimen>
+    <dimen name="divider_height">5dp</dimen>
+    <dimen name="drawer_width">105dp</dimen>
+    <dimen name="drawer_width_long">235dp</dimen>
+    <dimen name="indicator_radius">3dp</dimen>
+    <dimen name="padding_enormous">46dp</dimen>
+    <dimen name="padding_large">19dp</dimen>
+    <dimen name="padding_medium">11dp</dimen>
+    <dimen name="padding_small">9dp</dimen>
+    <dimen name="padding_x_small">6dp</dimen>
+    <dimen name="padding_xlarge">40dp</dimen>
+    <dimen name="padding_xmlarge">30dp</dimen>
+    <dimen name="padding_xx_small">2dp</dimen>
+    <dimen name="progress_dialog_bar">90dp</dimen>
+    <dimen name="progress_dialog_dimen">130dp</dimen>
+    <dimen name="txt_l_mid">7sp</dimen>
+    <dimen name="txt_large">21sp</dimen>
+    <dimen name="txt_little">4sp</dimen>
+    <dimen name="txt_mid">14sp</dimen>
+    <dimen name="txt_mid_btn">13.5sp</dimen>
+    <dimen name="txt_normal">12sp</dimen>
+    <dimen name="txt_xlarge">31sp</dimen>
+    <dimen name="txt_xnormal">18sp</dimen>
+</resources>

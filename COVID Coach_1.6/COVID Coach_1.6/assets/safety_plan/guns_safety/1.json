@@ -1,0 +1,22 @@
+[{
+		"type": "title",
+		"content": "Use gun locks"
+	},
+	{
+		"type": "list",
+		"content": ["Pick up gun locks for all your guns. Gun locks can be purchased online or in a gun shop. Veterans can also get them for free from the Suicide Prevention Coordinator at their local VA.",
+			"Put gun locks on all your guns.",
+			"Give the keys to a buddy OR have your buddy set the combination to something you don't know."
+		]
+	},
+	{
+		"type": "text",
+		"content": "Veterans do not have to be enrolled in the VA to get a gun lock, and family or friends of Veterans can also request a gun lock. Contact the Suicide Prevention Coordinator at the local VA for more details. Their contact information can be found by visiting the Veterans Crisis Line website and entering your local zip code. You can also call any main VA hospital line and ask the operator to connect you to the Suicide Prevention Coordinator."
+	},
+	{
+		"type": "link_web",
+		"link": "https://www.veteranscrisisline.net/get-help/local-resources",
+		"full": true,
+		"content": "Veterans Crisis Line"
+	}
+]

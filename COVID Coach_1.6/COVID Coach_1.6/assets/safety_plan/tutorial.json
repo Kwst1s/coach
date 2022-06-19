@@ -1,0 +1,67 @@
+[
+	[{
+			"type": "title",
+			"content": "Welcome to the Safety Plan"
+		},
+		{
+			"type": "text",
+			"content": "A suicide safety plan is a personalized set of coping strategies and resources that you can use to keep yourself safe during times of crisis."
+		}
+	],
+	[{
+			"type": "title",
+			"content": "Who should create a safety plan?"
+		},
+		{
+			"type": "text",
+			"content": "The Safety Plan is for anyone who has experienced suicidal thoughts or urges. This tool will help you create a plan to:"
+		},
+		{
+			"type": "list_numeric",
+			"content": ["recognize when you are heading towards a crisis, and", "use specific strategies before and during the crisis to keep you safe."]
+		}
+	],
+	[{
+			"type": "title",
+			"content": "Why create a safety plan?"
+		},
+		{
+			"type": "text",
+			"content": "When a crisis happens, it can be hard to think clearly. The Safety Plan is like an emergency action plan to keep you safe until suicidal thoughts or urges to hurt yourself pass."
+		}
+	],
+	[{
+			"type": "title",
+			"content": "When should I create a safety plan?"
+		},
+		{
+			"type": "text",
+			"content": "We recommend that you create your Safety Plan before a crisis happens. Work on it when you are relaxed and in a safe space. Many healthcare providers have been trained in how to create safety plans. Ask your provider if you would like help filling yours out."
+		},
+		{
+			"type": "text",
+			"content": "We have included a lot of helpful tips in the app so that you can create a safety plan on your own, if you do not have access to a trained provider. Tap the &#9432; for more information about a specific step, including examples or additional resources."
+		},
+		{
+			"type": "link_internal",
+			"content": "Find Professional Care",
+			"full": true,
+			"link": "find_care"
+		}
+	],
+	[{
+			"type": "text",
+			"content": "The Safety Plan includes six steps to use to keep yourself safe. If following one step is not helpful, then go to the next step. Remember, it’s ok to skip steps. Call 911 or the National Suicide Prevention Lifeline (1-800-273-8255, press 1 if you are a Veteran) if you need to talk to someone right away."
+		},
+		{
+			"type": "link_internal",
+			"content": "Crisis Resources",
+			"full": true,
+			"link": "crisis_resources"
+		}
+	],
+	[{
+		"type": "text",
+		"content": "A Safety Plan usually takes about 30 minutes to complete. You can come back to any part of your plan at any time to review or make changes. You should review your plan often. You can set reminders to revisit your Safety Plan on the main screen."
+	}]
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/rewarding_good_behavior_layout_total" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:id="@+id/rewarding_good_behavior_layout_no_elements" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@+id/rewarding_good_behavior_img" android:focusable="false" android:layout_width="match_parent" android:layout_height="150dp" android:src="@drawable/img_rew_new_behavior" android:scaleType="centerCrop" android:importantForAccessibility="no"/>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/rewarding_good_behavior_layout_container" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </androidx.core.widget.NestedScrollView>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/rewarding_good_behavior_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/rewarding_good_behavior_rview" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_adder"/>
+</LinearLayout>

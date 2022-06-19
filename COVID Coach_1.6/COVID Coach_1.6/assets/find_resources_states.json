@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Alabama",
+    "url": "https://alabamapublichealth.gov/covid19"
+  },
+  {
+    "name": "Alaska",
+    "url": "http://www.dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx"
+  },
+  {
+    "name": "Arizona",
+    "url": "https://azdhs.gov/"
+  },
+  {
+    "name": "Arkansas",
+    "url": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+  },
+  {
+    "name": "California",
+    "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCOV2019.aspx"
+  },
+  {
+    "name": "Colorado",
+    "url": "https://covid19.colorado.gov/"
+  },
+  {
+    "name": "Connecticut",
+    "url": "https://portal.ct.gov/coronavirus"
+  },
+  {
+    "name": "Delaware",
+    "url": "https://coronavirus.delaware.gov/"
+  },
+  {
+    "name": "Florida",
+    "url": "https://floridahealthcovid19.gov/"
+  },
+  {
+    "name": "Georgia",
+    "url": "https://dph.georgia.gov/novelcoronavirus"
+  },
+  {
+    "name": "Hawaii",
+    "url": "https://health.hawaii.gov/coronavirusdisease2019/"
+  },
+  {
+    "name": "Idaho",
+    "url": "https://coronavirus.idaho.gov/"
+  },
+  {
+    "name": "Illinois",
+    "url": "https://dph.illinois.gov/covid19"
+  },
+  {
+    "name": "Indiana",
+    "url": "https://secure.in.gov/isdh/28470.htm"
+  },
+  {
+    "name": "Iowa",
+    "url": "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus"
+  },
+  {
+    "name": "Kansas",
+    "url": "http://www.kdheks.gov/coronavirus/COVID-19_Resource_Center.htm"
+  },
+  {
+    "name": "Kentucky",
+    "url": "https://govstatus.egov.com/kycovid19"
+  },
+  {
+    "name": "Louisiana",
+    "url": "http://ldh.la.gov/coronavirus/"
+  },
+  {
+    "name": "Maine",
+    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml"
+  },
+  {
+    "name": "Maryland",
+    "url": "https://coronavirus.maryland.gov/"
+  },
+  {
+    "name": "Massachusetts",
+    "url": "https://www.mass.gov/service-details/2019-novel-coronavirus-covid-19"
+  },
+  {
+    "name": "Michigan",
+    "url": "https://www.michigan.gov/Coronavirus"
+  },
+  {
+    "name": "Minnesota",
+    "url": "https://www.health.state.mn.us/diseases/coronavirus/index.html"
+  },
+  {
+    "name": "Mississippi",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+  },
+  {
+    "name": "Missouri",
+    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/"
+  },
+  {
+    "name": "Montana",
+    "url": "https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt"
+  },
+  {
+    "name": "Nebraska",
+    "url": "http://dhhs.ne.gov/pages/Coronavirus.aspx"
+  },
+  {
+    "name": "Nevada",
+    "url": "https://nvhealthresponse.nv.gov/"
+  },
+  {
+    "name": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/"
+  },
+  {
+    "name": "New Jersey",
+    "url": "https://www.nj.gov/health/"
+  },
+  {
+    "name": "New Mexico",
+    "url": "https://cv.nmhealth.org/"
+  },
+  {
+    "name": "New York",
+    "url": "https://coronavirus.health.ny.gov/home"
+  },
+  {
+    "name": "North Carolina",
+    "url": "https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina"
+  },
+  {
+    "name": "North Dakota",
+    "url": "https://www.health.nd.gov/diseases-conditions/coronavirus"
+  },
+  {
+    "name": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/"
+  },
+  {
+    "name": "Ohio",
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home"
+  },
+  {
+    "name": "Oklahoma",
+    "url": "https://coronavirus.health.ok.gov/"
+  },
+  {
+    "name": "Oregon",
+    "url": "https://govstatus.egov.com/OR-OHA-COVID-19"
+  },
+  {
+    "name": "Pennsylvania",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx"
+  },
+  {
+    "name": "Rhode Island",
+    "url": "https://health.ri.gov/diseases/ncov2019/"
+  },
+  {
+    "name": "South Carolina",
+    "url": "https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19"
+  },
+  {
+    "name": "South Dakota",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx"
+  },
+  {
+    "name": "Tennessee",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "name": "Texas",
+    "url": "https://dshs.texas.gov/coronavirus/"
+  },
+  {
+    "name": "Utah",
+    "url": "https://coronavirus.utah.gov/"
+  },
+  {
+    "name": "Vermont",
+    "url": "https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus"
+  },
+  {
+    "name": "Virginia",
+    "url": "http://www.vdh.virginia.gov/coronavirus/"
+  },
+  {
+    "name": "Washington",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+  },
+  {
+    "name": "West Virginia",
+    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx"
+  },
+  {
+    "name": "Wisconsin",
+    "url": "https://www.dhs.wisconsin.gov/covid-19/index.htm"
+  },
+  {
+    "name": "Wyoming",
+    "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/"
+  },
+  {
+    "name": "District of Columbia",
+    "url": "https://coronavirus.dc.gov/"
+  },
+  {
+    "name": "American Samoa",
+    "url": "https://www.americansamoa.gov/department-of-public-health"
+  },
+  {
+    "name": "Guam",
+    "url": "https://ghs.guam.gov/coronavirus-covid-19"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "url": "https://chcc.gov.mp/coronavirusinformation.php"
+  },
+  {
+    "name": "Puerto Rico",
+    "url": "http://www.salud.gov.pr/Pages/coronavirus.aspx"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "url": "https://doh.vi.gov/covid19usvi"
+  }
+]

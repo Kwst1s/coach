@@ -1,0 +1,117 @@
+[{
+		"app": "AIMS",
+		"img": "icn_aims",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims",
+		"link_ios": "https://itunes.apple.com/app/id1243035440",
+		"text": [{
+				"type": "title",
+				"content": "AIMS"
+			},
+			{
+				"type": "text",
+				"content": "AIMS puede ayudarle si tiene dificultades con la irritabilidad o el enojo."
+			},
+			{
+				"type": "text",
+				"content": "Toque el ícono del mensaje a continuación para compartir información sobre estas aplicaciones con otras personas."
+			}
+		]
+	},
+	{
+		"app": "COACH TCC-I",
+		"img": "icn_cbti",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti",
+		"link_ios": "https://itunes.apple.com/app/id655918660",
+		"text": [{
+				"type": "title",
+				"content": "COACH TCC-I"
+			}, {
+				"type": "text",
+				"content": "Aún cuando esta aplicación está diseñado para el uso con un profesional de la salud, puede ser útil para aprender más sobre cómo dormir mejor."
+			}
+		]
+	},
+	{
+		"app": "COACH Conciencia Plena",
+		"img": "icn_mindfulness",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach",
+		"link_ios": "https://itunes.apple.com/it/app/mindfulness-coach/id804284729",
+		"text": [{
+				"type": "title",
+				"content": "COACH Conciencia Plena"
+			}, {
+				"type": "text",
+				"content": "El COACH de Conciencia Plena (mindfulness) proporciona ejercicios e información que puede ayudar a:"
+			}, {
+				"type": "list_numeric",
+				"content": ["focalizar la atención en el momento presente y", "eliminar pensamientos o recuerdos no deseados."]
+			}
+		]
+	},
+	{
+		"app": "Permanece Abstinente Coach",
+		"img": "icn_stay_quit",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.stayquit",
+		"link_ios": "https://itunes.apple.com/it/app/stay-quit-coach/id655892317",
+		"text": [{
+				"type": "title",
+				"content": "Permanece Abstinente Coach"
+			}, {
+				"type": "text",
+				"content": "¿Fuma cigarrillos y quiere dejar de fumar?"
+			}, {
+				"type": "text",
+				"content": "Crea un plan personal, programa una fecha para dejarlo y empieza tu vida como un/a exfumador/a."
+			}
+		]
+	},
+	{
+		"app": "Respira para Relajarte",
+		"img": "icn_btrelax",
+		"link": "https://play.google.com/store/apps/details?id=org.t2health.breathe2relax",
+		"link_ios": "https://itunes.apple.com/us/app/breathe2relax/id425720246",
+		"text": [{
+				"type": "title",
+				"content": "Respira para Relajarte"
+			}, {
+				"type": "text",
+				"content": "La respiración profunda es una de las mejores maneras para aprender a relajarte."
+			}, {
+				"type": "text",
+				"content": "Aprende a hacer respiraciones más controladas y profundas, utilizando esta app gratis y personalizable."
+			}
+		]
+	},
+	{
+		"app": "Rastreador de Humor",
+		"img": "icn_mood",
+		"link": "https://play.google.com/store/apps/details?id=com.t2.vas",
+		"link_ios": "https://itunes.apple.com/us/app/t2-mood-tracker/id428373825",
+		"text": [{
+				"type": "title",
+				"content": "Rastreador de Humor"
+			}, {
+				"type": "text",
+				"content": "Examine su estado de ánimo, u otras cosas importantes para usted utilizando el “Mood Tracking.” Presione el icono debajo para compartir esta aplicación con otros."
+			}
+		]
+	},
+	{
+		"app": "PTSD Coach",
+		"img": "icn_ptsd",
+		"link": "https://play.google.com/store/apps/details?id=is.vertical.ptsdcoach",
+		"link_ios": "https://itunes.apple.com/it/app/ptsd-coach/id430646302",
+		"text": [{
+				"type": "title",
+				"content": "PTSD Coach"
+			}, {
+				"type": "text",
+				"content": "Es posible compartir esta aplicación si cree que alguien más podría beneficiarse de la información y las herramientas que ha visto aquí."
+			},
+			{
+				"type": "text",
+				"content": "Oprima el ícono de mensaje por debajo para compartir información sobre esta aplicación con otros."
+			}
+		]
+	}
+]

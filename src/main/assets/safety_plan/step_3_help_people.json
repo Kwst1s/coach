@@ -1,0 +1,27 @@
+[{
+		"type": "title",
+		"content": "People that can provide a distraction"
+	},
+	{
+		"type": "text",
+		"content": "To keep yourself safe, it can be important to seek people and/or places that can provide distraction until the crisis passes. If the coping strategies in Step 2 did not help you to feel safer, you will move to Step 3."
+	},
+	{
+		"type": "text",
+		"content": "This is not the section to list professional health care or mental health providers. You will have an opportunity to add those formal contacts later. You can add any social contacts you have that can provide healthy distraction or support."
+	},
+	{
+		"type": "text",
+		"content": "It is ok if you do not have any social contacts to list right now. It is also ok if you don’t have last names for your social contacts or you would like to use a nickname. If you have a phone number for your contact, it is best to include that here so you can call them when you use your plan."
+	},
+	{
+		"type": "text",
+		"content": "For tips on building your support network:"
+	},
+	{
+		"type": "link_internal",
+		"full":true,
+		"content": "Grow Your Support",
+		"link": "grow_support"
+	}
+]

@@ -1,0 +1,1768 @@
+[
+  {
+    "displayName": "Crisis Support",
+    "id": 10000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "National Suicide Prevention Lifeline",
+        "type": "title"
+      },
+      {
+        "content": "If you are thinking about harming yourself, call the National Suicide Prevention Lifeline (press 1 if you are a Veteran). The lifeline is available 24/7 for free and confidential support.",
+        "type": "text"
+      },
+      {
+        "content": "Call National Suicide Prevention Lifeline",
+        "type": "link_phone",
+        "link": "1-800-273-8255",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Chat with National Suicide Prevention Lifeline",
+        "type": "link",
+        "link": "https://suicidepreventionlifeline.org/chat/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Crisis Text Line",
+        "type": "title"
+      },
+      {
+        "content": "To text with a Crisis Counselor, reach out to the Crisis Text Line. The text line is free and available 24/7.",
+        "type": "text"
+      },
+      {
+        "content": "Text the Crisis Text Line",
+        "type": "link_text",
+        "link": "741741",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Crisis Text Line Website",
+        "type": "link",
+        "link": "https://www.crisistextline.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SAMHSA’s Helpline",
+        "type": "title"
+      },
+      {
+        "content": "SAMHSA’s National Helpline is a free confidential information and referral service that is available 24/7 for individuals or families facing mental health or substance use problems. ",
+        "type": "text"
+      },
+      {
+        "content": "Call SAMHSA’s National Helpline",
+        "type": "link_phone",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Sexual Assault Hotline",
+        "type": "title"
+      },
+      {
+        "content": "The National Sexual Assault Hotline is available 24/7 for free confidential support and information about resources.",
+        "type": "text"
+      },
+      {
+        "content": "Call Sexual Assault Hotline",
+        "type": "link_phone",
+        "link": "1-800-656-4673",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Sexual Assault Hotline Website",
+        "type": "link",
+        "link": "https://www.rainn.org/about-national-sexual-assault-telephone-hotline",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Domestic Violence Hotline ",
+        "type": "title"
+      },
+      {
+        "content": "The National Domestic Violence Hotline is available 24 hours a day for anyone affected by abuse and needing support.",
+        "type": "text"
+      },
+      {
+        "content": "Call Domestic Violence Hotline",
+        "type": "link_phone",
+        "link": "1-800-799-7233",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Text Domestic Violence Hotline",
+        "type": "link_text",
+        "link": "22522",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Domestic Violence Hotline Website",
+        "type": "link",
+        "link": "https://www.thehotline.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "The Trevor Project",
+        "type": "title"
+      },
+      {
+        "content": "The Trevor Project is a national organization providing crisis intervention and suicide prevention services to lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people under 25. Help is available 24 hours a day, 7 days a week.",
+        "type": "text"
+      },
+      {
+        "content": "Call The Trevor Project Hotline",
+        "type": "link_phone",
+        "link": "1-866-488-7386",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Text The Trevor Project Hotline",
+        "type": "link_text",
+        "link": "678-678",
+        "fill": "START",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Chat Online with The Trevor Project",
+        "type": "link",
+        "link": "https://trevorproject.secure.force.com/apex/TrevorChatPreChatForm?endpoint=https%3A%2F%2Ftrevorproject.secure.force.com%2Fapex%2FTrevorChatWaitingScreen%3Flanguage%3D%23deployment_id%3D57241000000LPlc%26org_id%3D00D410000005OLz%26button_id%3D57341000000LTDX%26session_id%3Dczw4uzacziWOZA==",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Child Abuse Hotline",
+        "type": "title"
+      },
+      {
+        "content": "The Childhelp National Child Abuse Hotline is a confidential 24/7 hotline with trained counselors that can offer support, information, and assistance reporting abuse. You can also chat with a counselor on their website.",
+        "type": "text"
+      },
+      {
+        "content": "Call Child Abuse Hotline",
+        "type": "link_phone",
+        "link": "1-800-422-4453",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Childhelp Website",
+        "type": "link",
+        "link": " https://www.childhelp.org/contact/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Child Sexual Abuse Prevention",
+        "type": "title"
+      },
+      {
+        "content": "The Stop It Now! Child Sexual Abuse Prevention Hotline offers confidential support, guidance, and information about how to prevent child sexual abuse. It is available Monday-Friday 12-6 EST.",
+        "type": "text"
+      },
+      {
+        "content": "Call Child Sexual Abuse Prevention Hotline",
+        "type": "link_phone",
+        "link": "18887738368",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Stop It Now! Website",
+        "type": "link",
+        "link": "https://www.stopitnow.org/help-guidance/get-help-now",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Elder Abuse Information and Reporting",
+        "type": "title"
+      },
+      {
+        "content": "To report elder abuse or suspected elder abuse, you can contact local authorities, or call the Eldercare Locator. Eldercare Locator services are available from Monday to Friday, 9:00 am - 8:00 pm EST.",
+        "type": "text"
+      },
+      {
+        "content": "Call Eldercare Locator",
+        "type": "link_phone",
+        "link": "1-800-677-1116",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Chat Online with Eldercare Locator",
+        "type": "link",
+        "link": "https://home-c6.incontact.com/inContact/ChatClient/ChatClient.aspx?poc=9801c7c8-84a3-4269-8e5f-51dbf40f9ae9&bu=4593078",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "For more information regarding elder abuse and COVID-19, please visit the National Center on Elder Abuse website.",
+        "type": "text"
+      },
+      {
+        "content": "National Center on Elder Abuse & COVID-19",
+        "type": "link",
+        "link": "https://ncea.acl.gov/Resources/COVID-19.aspx",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "For additional state-specific information and hotlines, please visit the Elder Protection Center website.",
+        "type": "text"
+      },
+      {
+        "content": "Elder Protection Center",
+        "type": "link",
+        "link": "https://elderprotectioncenter.com/state-elder-abuse-hotlines/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Finding Online Help",
+    "id": 10001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "It can be useful to connect with a therapist or counselor to help manage stress and mood symptoms. Many mental health providers are now offering remote video or telephone sessions, so that people can participate in therapy right from their own homes.",
+        "type": "text"
+      },
+      {
+        "content": "Finding a Provider if you have Insurance",
+        "type": "title"
+      },
+      {
+        "content": "Before connecting with a therapist, you may want to contact your insurance company to learn about any mental health benefits you might have. Your insurer may recommend certain therapists who are considered “in network” with your insurance. Or, you may have benefits that cover “out of network” therapists.",
+        "type": "text"
+      },
+      {
+        "content": "To locate a therapist near you, explore the links below.",
+        "type": "text"
+      },
+      {
+        "content": "Find a psychologist, therapist, counselor, social worker, or chaplain:",
+        "type": "text"
+      },
+      {
+        "content": "Search for a therapist or counselor",
+        "type": "link",
+        "link": "https://therapists.psychologytoday.com",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Search for a marriage and family therapist",
+        "type": "link",
+        "link": "https://therapistlocator.net",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Search for a social worker",
+        "type": "link",
+        "link": "https://helppro.com",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Search for a clinical psychologist",
+        "type": "link",
+        "link": "https://locator.apa.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Finding a Low-Cost or Free Provider",
+        "type": "title"
+      },
+      {
+        "content": "If you don’t have mental health benefits, you might look for therapists who see clients at a free, low-fee, or a sliding scale rate. Try searching for the following places in your community that likely offer free or low-cost virtual therapy:",
+        "type": "text"
+      },
+      {
+        "content": [
+          "Community mental health centers",
+          "Federally funded health care centers",
+          "Local universities or colleges that house training programs for therapists",
+          "National hotlines can often connect you to free local clinics",
+          "Counseling at places of worship",
+          "Employee Assistance Programs through work",
+          "Peer-support or recovery groups",
+          "Group therapy at local health clinics",
+          "State or county behavioral health services"
+        ],
+        "type": "list"
+      },
+      {
+        "content": "211 is a national database of resources that refers people to a local organization that can help them.",
+        "type": "text"
+      },
+      {
+        "content": "Call 211",
+        "type": "link_phone",
+        "link": "211",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Access 211 Resources Online",
+        "type": "link_web",
+        "link": "https://www.211.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "The National Alliance on Mental Illness (NAMI) offers free, virtual group resources.",
+        "type": "text"
+      },
+      {
+        "content": "Peer Support Group",
+        "type": "link_web",
+        "link": "https://www.nami.org/Support-Education/Mental-Health-Education/NAMI-Peer-to-Peer",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "The National Association of Free & Charitable Clinics and The Substance Abuse and Mental Health Services Administration (SAMHSA) have online databases with resources",
+        "type": "text"
+      },
+      {
+        "content": "National Association of Free & Charitable Clinics",
+        "type": "link_web",
+        "link": "https://www.nafcclinics.org/find-clinic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Search SAMHSA’s Database",
+        "type": "link_web",
+        "link": "https://findtreatment.samhsa.gov/locator",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Self-Help Resources",
+        "type": "title"
+      },
+      {
+        "content": "For additional tools to help you manage stress and anxiety related to COVID-19, check out:",
+        "type": "text"
+      },
+      {
+        "content": "Care for Your Coronavirus Anxiety",
+        "type": "link",
+        "link": "https://www.virusanxiety.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Greater Good Center",
+        "type": "link",
+        "link": "https://greatergood.berkeley.edu/article/item/greater_good_guide_to_well_being_during_coronavirus?fbclid=IwAR1DyZU3iEPOmfrnTbphYxGQjcRwYDqVJo7XnYLLE0nMmsfuBxxHB0oJi1M",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Substance Use Support",
+    "id": 10002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "If you struggle with substance use or want to continue to get support in maintaining sobriety, the following resources may be useful during this tough time. Many support services and groups are now available virtually.",
+        "type": "text"
+      },
+      {
+        "content": "SAMHSA’s National Helpline",
+        "type": "title"
+      },
+      {
+        "content": "SAMHSA’s National Helpline is a free confidential information and referral service that is available 24/7 for individuals or families facing mental health or substance use problems",
+        "type": "text"
+      },
+      {
+        "content": "Call SAMHSA’s National Helpline",
+        "type": "link_phone",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Helpline Website",
+        "type": "link",
+        "link": "https://www.samhsa.gov/find-help/national-helpline",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Narcotics Anonymous",
+        "type": "title"
+      },
+      {
+        "content": "Narcotics Anonymous is a global, community-based nonprofit fellowship of recovering addicts who meet regularly to help each other stay clean. Check out their website for a directory of online meetings you can attend.",
+        "type": "text"
+      },
+      {
+        "content": "NA Online Meetings",
+        "type": "link",
+        "link": "https://www.na.org/meetingsearch/text-results.php?country=Web&state&city&zip&street&within=5&day=0&lang&orderby=distance",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SMART Recovery",
+        "type": "title"
+      },
+      {
+        "content": "SMART Recovery is a global community that holds mutual-support groups for any addiction. Programs are science-based and emphasize self-empowerment for overcoming addiction. Check out their website for a directory of online meetings you can attend.",
+        "type": "text"
+      },
+      {
+        "content": "SMART Recovery Website",
+        "type": "link",
+        "link": "https://www.smartrecovery.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Alcoholics Anonymous",
+        "type": "title"
+      },
+      {
+        "content": "Alcoholics Anonymous is a global, community-based nonprofit fellowship of recovering alcoholics who meet regularly to help each other stay sober. Check out their website for information about online intergroups you can attend.",
+        "type": "text"
+      },
+      {
+        "content": "AA Website",
+        "type": "link",
+        "link": "http://aa-intergroup.org/directory.php",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "LifeRing",
+        "type": "title"
+      },
+      {
+        "content": "LifeRing is an organization of people who share practical experiences and sobriety support for overcoming drug and alcohol addiction. Check out their website for their online meeting schedule. ",
+        "type": "text"
+      },
+      {
+        "content": "LifeRing Website",
+        "type": "link",
+        "link": "https://www.lifering.org/online-meetings",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Cocaine Anonymous",
+        "type": "title"
+      },
+      {
+        "content": "Cocaine Anonymous is a global, community-based nonprofit fellowship of recovering addicts who meet regularly to help each other stay clean. Check out their website for a directory of online meetings you can attend.",
+        "type": "text"
+      },
+      {
+        "content": "Cocaine Anonymous Website",
+        "type": "link",
+        "link": "https://ca.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "In The Rooms",
+        "type": "title"
+      },
+      {
+        "content": "In The Rooms is a global online community who share strength and experience through live meetings, discussion groups, and other online tools.",
+        "type": "text"
+      },
+      {
+        "content": "In The Rooms Website",
+        "type": "link",
+        "link": " https://www.intherooms.com/home/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Meeting Your Needs",
+    "id": 10003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Public Benefits",
+        "type": "title"
+      },
+      {
+        "content": "Regularly updated list of financial resources and benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Library Journal - When No Public Means No Paycheck",
+        "type": "link",
+        "link": "https://www.libraryjournal.com/?detailStory=When-No-Public-Means-No-Paycheck",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Finder for help paying bills, keeping utilities on, finding food.",
+        "type": "text"
+      },
+      {
+        "content": "211 / United Way",
+        "type": "link",
+        "link": "http://www.211.org/services/covid19",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to apply for unemployment cash benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Unemployment Insurance",
+        "type": "link",
+        "link": "https://www.benefits.gov/benefit/91",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to apply for TANF cash and support benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Temporary Assistance for Needy Families (TANF)",
+        "type": "link",
+        "link": "https://www.benefits.gov/benefit/613",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to apply for WIC food benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",
+        "type": "link",
+        "link": "https://www.fns.usda.gov/wic/wic-how-apply",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to apply for SNAP food benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Supplemental Nutrition Assistance Program (SNAP)",
+        "type": "link",
+        "link": "https://www.benefits.gov/benefit/361",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to apply for retirement, disability, Medicare, survivor, or Supplemental Security Income (SSI) benefits.",
+        "type": "text"
+      },
+      {
+        "content": "Social Security Administration (SSA)",
+        "type": "link",
+        "link": "https://www.ssa.gov/benefits/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How to sign up for subsidized health care coverage.",
+        "type": "text"
+      },
+      {
+        "content": "Brookings Institution - What Do I Do If I Lose My Job-Based Health Insurance?",
+        "type": "link",
+        "link": "https://www.brookings.edu/blog/usc-brookings-schaeffer-on-health-policy/2020/03/17/what-do-i-do-if-i-lose-my-job-based-health-insurance/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Private Organizations",
+        "type": "title"
+      },
+      {
+        "content": "Find a local food bank.",
+        "type": "text"
+      },
+      {
+        "content": "Feeding America",
+        "type": "link",
+        "link": "https://www.feedingamerica.org/find-your-local-foodbank",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Food Finder",
+        "type": "link",
+        "link": "http://foodfinder.us",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Food delivery service for senior citizens.",
+        "type": "text"
+      },
+      {
+        "content": "Meals on Wheels",
+        "type": "link",
+        "link": "https://www.mealsonwheelsamerica.org/find-meals",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Local organizations that can help pay your rent.",
+        "type": "text"
+      },
+      {
+        "content": "United Way - Community Resources to Help With Housing",
+        "type": "link",
+        "link": "https://www.unitedway.org/my-smart-money/pages/community-resources-to-help-with-housing",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "For Veterans and active duty military, help paying for rent, loans, and utilities.",
+        "type": "text"
+      },
+      {
+        "content": "PenFed Foundation - Emergency Financial Relief Program",
+        "type": "link",
+        "link": "https://penfedfoundation.org/apply-for-assistance/coronavirus-emergency-financial-assistance/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Bank and credit card companies’ financial assistance programs during the outbreak.",
+        "type": "text"
+      },
+      {
+        "content": "The Simple Dollar - Where to Find Financial Relief",
+        "type": "link",
+        "link": "https://www.thesimpledollar.com/financial-wellness/coronavirus-financial-assistance/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Community Aid, US",
+        "type": "title"
+      },
+      {
+        "content": "Local community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "COVID-19 Mutual Aid Resources",
+        "type": "link",
+        "link": "https://www.paperrevolution.org/mutual-aid/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Local community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "Mutual Aid Hub",
+        "type": "link",
+        "link": "https://www.mutualaidhub.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Initiative to get personal protective gear to health care workers.",
+        "type": "text"
+      },
+      {
+        "content": "Project N95",
+        "type": "link",
+        "link": "https://www.projectn95.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Site for health care workers to request masks, and volunteers to send them.",
+        "type": "text"
+      },
+      {
+        "content": "Mask Match",
+        "type": "link",
+        "link": "https://www.mask-match.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Site for health care workers to request masks, and volunteers to send them.",
+        "type": "text"
+      },
+      {
+        "content": "Masks for Docs",
+        "type": "link",
+        "link": "https://masksfordocs.com",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Community Aid, UK",
+        "type": "title"
+      },
+      {
+        "content": "Local community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "COVID-19 Mutual Aid Groups: A List",
+        "type": "link",
+        "link": "https://freedomnews.org.uk/covid-19-uk-mutual-aid-groups-a-list/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Local community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "COVID-19 Mutual Aid UK",
+        "type": "link",
+        "link": "https://covidmutualaid.org/local-groups/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "London community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "London’s Coronavirus Mutual Aid Groups",
+        "type": "link",
+        "link": "https://www.theresident.co.uk/london-culture-events/londons-coronavirus-mutual-aid-groups-a-complete-list/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Community Aid, Australia",
+        "type": "title"
+      },
+      {
+        "content": "Local community groups offering help with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "Australia groups",
+        "type": "link",
+        "link": "https://docs.google.com/spreadsheets/d/1J7bjI-2bD4zpvpQM3v1QB9dlbbUgPErnn-JjBq4NrNs/htmlview",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Community Aid, Canada",
+        "type": "title"
+      },
+      {
+        "content": "Local community groups offering assistance with shopping, housework, paying bills.",
+        "type": "text"
+      },
+      {
+        "content": "Canada groups",
+        "type": "link",
+        "link": "https://docs.google.com/document/d/1LsHkTBMS0YX_4F7OSAt55ppV0xICi50AXdF62vRw4W8/mobilebasic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "How-To",
+        "type": "title"
+      },
+      {
+        "content": "Tips for shopping safely and cleaning groceries.",
+        "type": "text"
+      },
+      {
+        "content": "Consumer Reports - Protect Yourself from Coronavirus When Grocery Shopping",
+        "type": "link",
+        "link": "https://www.consumerreports.org/food-shopping/how-to-protect-yourself-from-coronavirus-when-grocery-shopping/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Instructions and sewing patterns for making protective masks and delivering them.",
+        "type": "text"
+      },
+      {
+        "content": "How to Make a Face Mask",
+        "type": "link",
+        "link": "https://www.deaconess.com/How-to-make-a-Face-Mask",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Local Resources for COVID-19",
+    "id": 10009,
+    "related_tools": [],
+    "cdata": []
+  },
+  {
+    "displayName": "Stay COVID-19 Informed",
+    "id": 10004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Pandemic Information",
+        "type": "title"
+      },
+      {
+        "content": "Dear Pandemic",
+        "type": "title"
+      },
+      {
+        "content": "A website run by a team of researchers and clinicians to help navigate all the information about COVID-19 and provide credible and timely information about the pandemic. Responses to reader-submitted questions are posted on the site.",
+        "type": "text"
+      },
+      {
+        "link": " https://dearpandemic.org/",
+        "type": "link",
+        "content": "Dear Pandemic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centers for Disease Control (CDC)",
+        "type": "title"
+      },
+      {
+        "content": "Official information about the pandemic from the US CDC.",
+        "type": "text"
+      },
+      {
+        "link": "https://www.cdc.gov/coronavirus/2019-nCoV",
+        "type": "link",
+        "content": "CDC Information",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Federal Government",
+        "type": "title"
+      },
+      {
+        "content": "Stay up-to-date on what the federal government is doing in response to the pandemic.",
+        "type": "text"
+      },
+      {
+        "link": "https://www.usa.gov/coronavirus",
+        "type": "link",
+        "content": "USA.Gov Information",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "U.S. Department of Veterans Affairs",
+        "type": "title"
+      },
+      {
+        "content": "Stay engaged with VA information as it becomes available.",
+        "type": "text"
+      },
+      {
+        "link": "https://www.publichealth.va.gov/n-coronavirus/?utm_source=Homepage&utm_campaign=Coronavirus",
+        "type": "link",
+        "content": "VA’s Novel Coronavirus Webpage",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "link": "https://www.va.gov/coronavirus-veteran-frequently-asked-questions/",
+        "type": "link",
+        "content": "VA’s Coronavirus FAQs",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Johns Hopkins University Coronavirus Resource Center",
+        "type": "title"
+      },
+      {
+        "content": "Updates from public health and disease experts to inform the public.",
+        "type": "text"
+      },
+      {
+        "content": "Hopkins Resource Center",
+        "type": "link",
+        "link": "https://coronavirus.jhu.edu/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "American Association for Retired Persons (AARP) Coronavirus Updates",
+        "type": "title"
+      },
+      {
+        "content": "Tips and regular call-in events for older Americans.",
+        "type": "text"
+      },
+      {
+        "content": "AARP Coronavirus Updates",
+        "type": "link",
+        "link": "https://www.aarp.org/health/conditions-treatments/info-2020/coronavirus-facts.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Mental Health Advice",
+        "type": "title"
+      },
+      {
+        "content": "National Alliance on Mental Illness (NAMI) Updates on the Coronavirus",
+        "type": "title"
+      },
+      {
+        "content": "NAMI provides tips for people with mental illness to enhance functioning during the COVID-19 outbreak.",
+        "type": "text"
+      },
+      {
+        "content": "NAMI Updates",
+        "type": "link",
+        "link": "https://www.nami.org/About-NAMI/NAMI-News/2020/NAMI-Updates-on-the-Coronavirus",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centers for Disease Control & SAMHSA - Managing Stress and Anxiety",
+        "type": "title"
+      },
+      {
+        "content": "Learn more from tips from the CDC and SAMHSA for dealing with stress.",
+        "type": "text"
+      },
+      {
+        "content": "CDC Stress Management Tips",
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SAMHSA Stress Management Tips",
+        "type": "link",
+        "link": "https://store.samhsa.gov/product/Coping-with-Stress-During-Infectious-Disease-Outbreaks/sma14-4885",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "U.S. Department of Veterans Affairs",
+        "type": "title"
+      },
+      {
+        "content": "Read the latest VA information regarding coronavirus and mental health.",
+        "type": "text"
+      },
+      {
+        "content": "Coronavirus and Mental Health Info",
+        "type": "link",
+        "link": "https://www.mentalhealth.va.gov/coronavirus/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "For Parents and Caregivers",
+    "id": 10005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "National Child Traumatic Stress Network",
+        "type": "title"
+      },
+      {
+        "content": "The NCTSN provides resources for supporting children’s well-being during this time.",
+        "type": "text"
+      },
+      {
+        "content": "NCTSN Resources",
+        "type": "link",
+        "link": "https://www.childtrends.org/publications/resources-for-supporting-childrens-emotional-well-being-during-the-covid-19-pandemic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Talking to Your Children about School Closures",
+        "type": "title"
+      },
+      {
+        "content": "Learn more from the Washington Office of the Superintendent of Public Instruction about how to approach the topic of school closures with your children.",
+        "type": "text"
+      },
+      {
+        "content": "Talking About School Closures",
+        "type": "link",
+        "link": "https://medium.com/waospi/talking-to-your-children-about-school-closures-aeb3e6be6456",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Parent Helpline",
+        "type": "title"
+      },
+      {
+        "content": "You can also call the National Parent Helpline for support related to stress or anxiety around parenting. Someone is available Monday through Friday from 10:00 AM PST to 7:00 PM PST.",
+        "type": "text"
+      },
+      {
+        "content": "Call National Parent Helpline",
+        "type": "link_phone",
+        "link": "1-855-427-2736",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Parent Helpline Website",
+        "type": "link",
+        "link": "https://www.nationalparenthelpline.org/find-support",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Postpartum Support International",
+        "type": "title"
+      },
+      {
+        "content": "Families who are expecting a child or who have recently welcomed a baby can access resources and support through Postpartum International.",
+        "type": "text"
+      },
+      {
+        "content": "Postpartum International Website",
+        "type": "link",
+        "link": "https://postpartum.net",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Postpartum International Warmline",
+        "type": "link_phone",
+        "link": "1-800-944-4773",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "American Association of Retired Persons (AARP) ",
+        "type": "title"
+      },
+      {
+        "content": "The AARP also has morale-boosting resources for older adults.",
+        "type": "text"
+      },
+      {
+        "content": "AARP Resources",
+        "type": "link",
+        "link": "https://www.aarp.org/caregiving/health/info-2020/boost-morale-during-coronavirus.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "American Alzheimer’s Association",
+        "type": "title"
+      },
+      {
+        "content": "The American Alzheimer’s Association provides information for people taking care of someone with dementia during the COVID-19 pandemic.",
+        "type": "text"
+      },
+      {
+        "content": "American Alzheimer’s Association Tips",
+        "type": "link",
+        "link": "https://alz.org/help-support/caregiving/coronavirus-(covid-19)-tips-for-dementia-care",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "For Veterans and Service Members",
+    "id": 10006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Give An Hour",
+        "type": "title"
+      },
+      {
+        "content": "Give an Hour is a nonprofit group that provides access to low or no cost mental health services to address a variety of needs.",
+        "type": "text"
+      },
+      {
+        "content": "Give An Hour",
+        "type": "link",
+        "link": "https://giveanhour.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Find a VA Facility",
+        "type": "title"
+      },
+      {
+        "content": "The VA offers a variety of services including healthcare, counseling, and benefits. Click below to find your nearest VA location.",
+        "type": "text"
+      },
+      {
+        "content": "Find a VA",
+        "type": "link",
+        "link": "https://www.va.gov/find-locations/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Vet Centers",
+        "type": "title"
+      },
+      {
+        "content": "VetCenters also have care for Veterans, and continue to serve Veterans during the COVID-19 pandemic.",
+        "type": "text"
+      },
+      {
+        "content": "Find a Vet Center",
+        "type": "link",
+        "link": "https://www.va.gov/find-locations/?facilityType=vet_center",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Vet Center Call Center",
+        "type": "link_phone",
+        "link": "1-877-927-8387",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "VA Caregiver Support",
+        "type": "title"
+      },
+      {
+        "content": "Find your VA’s Caregiver Support Coordinator.",
+        "type": "text"
+      },
+      {
+        "content": "Call VA Caregiver Support Line",
+        "type": "link_phone",
+        "link": "1-855-260-3274",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit VA Caregiver Support Website",
+        "type": "link",
+        "link": "https://www.caregiver.va.gov/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Women Veterans",
+        "type": "title"
+      },
+      {
+        "content": "Women Veterans and their families can access a wide range of information and resources through the Center for Women Veterans (CWV), or can call or text the Women Veterans Call Center (WVCC).",
+        "type": "text"
+      },
+      {
+        "content": "Visit CWV Website",
+        "type": "link",
+        "link": "https://www.va.gov/womenvet/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Call WVCC",
+        "type": "link_phone",
+        "link": "1-855-829-6636",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Text WVCC",
+        "type": "link_text",
+        "link": "1-855-829-6636",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Coaching into Care",
+        "type": "title"
+      },
+      {
+        "content": "Are you a family member of a Veteran?  Talk with an expert about how to help motivate your loved one  to try mental health care. The Coaching into Care telephone service is available from 8:00 AM to 5:00 PM EST, Monday through Friday.",
+        "type": "text"
+      },
+      {
+        "content": "Call Coaching into Care",
+        "type": "link_phone",
+        "link": "1-888-823-7458",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit Coaching into Care",
+        "type": "link",
+        "link": "https://www.mirecc.va.gov/coaching/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Military OneSource",
+        "type": "title"
+      },
+      {
+        "content": "Military OneSource offers information and support for members of the military and their families.",
+        "type": "text"
+      },
+      {
+        "content": "Visit Military Onesource",
+        "type": "link",
+        "link": "https://www.militaryonesource.mil/all-the-ways?gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1vqhKSLUVv1lJb3aziNUBgaaElgParx_7cmXLFoOK4BBlaEwL9SVnQaAmc7EALw_wcB",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Call Military Onesource",
+        "type": "link_phone",
+        "link": "1-800-342-9647",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Psychological Health Resource Center",
+        "type": "title"
+      },
+      {
+        "content": "Answers to your questions about mental health from consultants who understand military culture.",
+        "type": "text"
+      },
+      {
+        "content": "Call PHRC",
+        "type": "link_phone",
+        "link": "1-866-966-1020",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit PHRC",
+        "type": "link",
+        "link": "https://www.pdhealth.mil/resources/call-centers/psychological-health-resource-center",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Vets4Warriors",
+        "type": "title"
+      },
+      {
+        "content": "Peer support for life challenges for the military community.",
+        "type": "text"
+      },
+      {
+        "content": "Call Vets4Warriors",
+        "type": "link_phone",
+        "link": "1-855-838-8255",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit Vets4Warriors",
+        "type": "link",
+        "link": "https://www.vets4warriors.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Make the Connection",
+        "type": "title"
+      },
+      {
+        "content": "Learn about PTSD from Veterans and view video testimonials.",
+        "type": "text"
+      },
+      {
+        "content": "Visit Make the Connection",
+        "type": "link",
+        "link": "https://maketheconnection.net",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit AboutFace",
+        "type": "link",
+        "link": "https://www.ptsd.va.gov/appps/AboutFace",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Resource Directory",
+        "type": "title"
+      },
+      {
+        "content": "Comprehensive database of resources, tools, and services for Veterans, Service members, and their families.",
+        "type": "text"
+      },
+      {
+        "content": "Visit the National Resource Directory",
+        "type": "link",
+        "link": "https://nrd.gov",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Military Health System",
+        "type": "title"
+      },
+      {
+        "content": "Helpful medical news, information about programs, and links to TRICARE benefits and other services.",
+        "type": "text"
+      },
+      {
+        "content": "Visit the MHS Website",
+        "type": "link",
+        "link": "https://health.mil",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "For Healthcare Workers",
+    "id": 10010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Counseling and Crisis",
+        "type": "title"
+      },
+      {
+        "content": "<b>Physician Support Line</b>",
+        "type": "text"
+      },
+      {
+        "content": "Confidential, free support from volunteer psychiatrists to help physicians with the unique stresses and mental wellness challenges of their work. Available 8am - 1am Eastern Time.",
+        "type": "text"
+      },
+      {
+        "content": "Call Physician Support Line",
+        "type": "link_phone",
+        "link": "1-888-409-0141",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Physician Support Line Website",
+        "type": "link",
+        "link": "https://www.physiciansupportline.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>For the Frontlines</b>",
+        "type": "text"
+      },
+      {
+        "content": "Stress and crisis counseling for health care and essential workers during the pandemic.",
+        "type": "text"
+      },
+      {
+        "content": "For the Frontlines",
+        "type": "link",
+        "link": "https://www.forthefrontlines.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>Therapy Aid Coalition</b>",
+        "type": "text"
+      },
+      {
+        "content": "Free and low fee therapy for essential workers.",
+        "type": "text"
+      },
+      {
+        "content": "Therapy Aid Coalition",
+        "type": "link",
+        "link": "https://therapyaid.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>PeerRxMed</b>",
+        "type": "text"
+      },
+      {
+        "content": "Peer-to-peer support for helping health care workers deal with professional distress and burnout.",
+        "type": "text"
+      },
+      {
+        "content": "PeerRxMed Website",
+        "type": "link",
+        "link": "https://www.peerrxmed.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Providing Care",
+        "type": "title"
+      },
+      {
+        "content": "<b>American College of Physicians - Information for Internists</b>",
+        "type": "text"
+      },
+      {
+        "content": "Guides, toolkits, and information for physicians providing care related to COVID-19.",
+        "type": "text"
+      },
+      {
+        "content": "ACP COVID-19 Information",
+        "type": "link",
+        "link": "https://www.acponline.org/clinical-information/clinical-resources-products/coronavirus-disease-2019-covid-19-information-for-internists",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>American Hospital Association - Coronavirus COVID-19: Protecting & Enabling Health Care Workers</b>",
+        "type": "text"
+      },
+      {
+        "content": "Resources for delivering care and protecting staff.",
+        "type": "text"
+      },
+      {
+        "content": "AHA Resources",
+        "type": "link",
+        "link": "https://www.aha.org/issue-landing-page/2020-03-15-coronavirus-covid-19-protecting-health-care-workers",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>American Medical Association - COVID-19 Resources</b>",
+        "type": "text"
+      },
+      {
+        "content": "Support tips and lists of various services available to health care staff.",
+        "type": "text"
+      },
+      {
+        "content": "AMA Resources",
+        "type": "link",
+        "link": "https://www.ama-assn.org/delivering-care/public-health/caring-our-caregivers-during-covid-19",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Mobile Apps to Support Mental Health",
+    "id": 10007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "There are many different apps that could be used to help support mental health and well-being.",
+        "type": "text"
+      },
+      {
+        "content": "Here are just a few you could try:",
+        "type": "text"
+      },
+      {
+        "content": "Mindfulness Coach",
+        "type": "title"
+      },
+      {
+        "content": "Created by the National Center for PTSD, this is an app designed to help you bring mindfulness practices into your daily life. It offers guided meditation exercises, educational material, and a log for tracking your mindfulness practice.",
+        "type": "text"
+      },
+      {
+        "content": "Mindfulness Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "PTSD Coach",
+        "type": "title"
+      },
+      {
+        "content": "An app designed for service members, veterans, and trauma survivors who  are experiencing symptoms of PTSD. This app provides educational material, interactive tools,  assessments to track symptoms over time, and important resources. It was developed by the National Center for PTSD and the Center for Telehealth and Technology.",
+        "type": "text"
+      },
+      {
+        "content": "PTSD Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=is.vertical.ptsdcoach",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "AIMS (Anger & Irritability Management Skills)",
+        "type": "title"
+      },
+      {
+        "content": "An app designed for veterans and military service members, but it can be used by anyone coping with anger problems. AIMS provides users with education about anger, opportunities for finding support, the ability to create an anger management plan, anger tracking, and tools to help manage angry reactions. Users can also create custom tools based on their preferences, and can integrate their own contacts, photos, and music. AIMS was created by the National Center for PTSD and Mental Health Services at the Department of Veterans Affairs.",
+        "type": "text"
+      },
+      {
+        "content": "AIMS for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims&hl=en",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "ACT Coach",
+        "type": "title"
+      },
+      {
+        "content": "An app based on Acceptance and Commitment Therapy (ACT), which aims to help you live with unpleasant thoughts, feelings, and impulses without avoiding them or being controlled by them. In ACT, you are encouraged to commit to actions so that you can live your life by your values, even in the face of these unpleasant experiences. The app offers exercises, tools, information, and tracking logs so you can practice what you’re learning in your daily life.",
+        "type": "text"
+      },
+      {
+        "content": "ACT Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=is.vertical.actcoach&hl=en",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "CBT-i Coach",
+        "type": "title"
+      },
+      {
+        "content": "An app based on Cognitive Behavioral therapy for Insomnia (CBT-i) that teaches proven strategies for helping you improve your sleep. The app provides a structured program for learning about sleep, developing positive sleep routines, and improving your sleep environment.",
+        "type": "text"
+      },
+      {
+        "content": "CBT-i Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Help Kids Cope",
+        "type": "title"
+      },
+      {
+        "content": "An app designed to assist parents in talking to their children about disaster experiences. The provides information on how to explain, prepare, respond, and heal from ten types of disasters. It also provides guidance on how to support children when they are coping and reacting to disasters.",
+        "type": "text"
+      },
+      {
+        "content": "Help Kids Cope for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=nctsn.helpkidscope",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Learn More About Mental Health",
+    "id": 10008,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Mental health includes our emotional, psychological, and social well-being.  It affects how we think, feel, and act.  ",
+        "type": "text"
+      },
+      {
+        "content": "It also helps determine how we handle stress, relate to others, and make choices.  Mental health is important at every stage of life, from childhood and adolescence through adulthood.",
+        "type": "text"
+      },
+      {
+        "content": "Early Warning Signs of Mental Health Concerns",
+        "type": "title"
+      },
+      {
+        "content": "Not sure if you or someone you know is living with mental health problems? Experiencing one or more of the following feelings or behaviors can be an early warning sign of a problem:",
+        "type": "text"
+      },
+      {
+        "content": [
+          "Eating or sleeping too much or too little",
+          "Pulling away from people and usual activities",
+          "Having low or no energy",
+          "Feeling numb or like nothing matters",
+          "Having unexplained aches and pains",
+          "Feeling helpless or hopeless",
+          "Smoking, drinking, or using drugs more than usual",
+          "Feeling unusually confused, forgetful, on edge, angry, upset, worried, or scared",
+          "Yelling or fighting with family and friends",
+          "Experiencing severe mood swings that cause problems in relationships",
+          "Having persistent thoughts and memories you can’t get out of your head",
+          "Hearing voices or believing things that are not true",
+          "Thinking of harming yourself or others",
+          "Inability to perform daily tasks like taking care of your kids or getting to work or school"
+        ],
+        "type": "list"
+      },
+      {
+        "content": "You can learn more about mental health at the National Alliance of Mental Illness website:",
+        "type": "text"
+      },
+      {
+        "content": "NAMI website",
+        "type": "link",
+        "link": "https://nami.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "If you or someone you know needs help with mental health concerns, visit the National Institutes for Health:",
+        "type": "text"
+      },
+      {
+        "content": "NIH website",
+        "type": "link",
+        "link": "https://www.nimh.nih.gov/health/find-help/index.shtml",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "You can learn more about mood disorders at the Mayo’s clinic’s website: ",
+        "type": "text"
+      },
+      {
+        "content": "Learn about Mood Disorders",
+        "type": "link",
+        "link": "https://www.mayoclinic.org/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Learn more about anxiety disorders:",
+        "type": "text"
+      },
+      {
+        "content": "Learn about Anxiety Disorders",
+        "type": "link",
+        "link": "https://www.nami.org/Learn-More/Mental-Health-Conditions/Anxiety-Disorders",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  }
+]

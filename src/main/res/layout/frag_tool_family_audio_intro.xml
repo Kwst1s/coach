@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/audio_family_tool_intro_img" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:scaleType="centerCrop" android:importantForAccessibility="no"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/audio_family_tool_intro_layout_content" android:paddingTop="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@android:color/black" android:id="@+id/audio_family_tool_intro_btn_continue" android:background="@drawable/custom_btn_white_very_rounded" android:padding="@dimen/padding_small" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_mlarge" android:layout_marginTop="@dimen/padding_large" android:layout_marginRight="@dimen/padding_mlarge" android:layout_marginBottom="@dimen/padding_large" android:minHeight="60dp" android:text="@string/do_continue" android:contentDescription="@string/do_continue" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold" app:tracking_id="30525"/>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_standard"/>
+</LinearLayout>

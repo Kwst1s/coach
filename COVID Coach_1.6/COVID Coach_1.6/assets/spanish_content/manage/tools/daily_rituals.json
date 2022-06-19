@@ -1,0 +1,102 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "Rituales Matutinos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "¿Hay rutinas matutinas que comparte con su ser querido? ¿Café? ¿Un abrazo? ¿Unas pocas palabras? ¿Un texto?"
+			}
+		],
+		"image":"img_dr_1",
+		"message": "Me gusta tener un ritual matutino contigo. Podemos..."
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Conversación Nocturna",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Intente tener una conversación casi todas las noches: solo turnense para compartir sus experiencias del día, sin interrupciones. Sin teléfonos, sin distracciones, solo una breve conversación."
+			}
+		],
+		"image": "img_dr_2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Hable Una Vez Al Día",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Hable al menos una vez al día y muestra su interés:"
+			},
+			{
+				"type": "list",
+				"content": ["Haga un buen contacto visual y","practique realmente a comprender lo que su ser querido tiene que decir"]
+			}
+		],
+		"image": "img_dr_3"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Deje Que Se Quejen",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Muéstrale a su ser querido que está de su lado. Si están molestos o se quejan:"
+			},
+			{
+				"type": "list",
+				"content": ["No critique","encuentre maneras de tomar su lado"]
+			}
+		],
+		"image": "img_dr_4"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Compañerismo",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Hágale saber a su ser querido regularmente que usted está en su equipo.  Hágale saber que pueden lograr las cosas juntos."
+			}
+		],
+		"image": "img_dr_5"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Mostrando Afecto",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Encuentre pequeñas formas de mostrar afecto con su ser querido de forma regular. Podría ser una mano en el hombro, un abrazo, un beso o cualquier cosa que los dos se sientan cómodos compartiendo."
+			}
+		],
+		"image": "img_dr_6"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Envíe Un Mensaje De Texto",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Envíele un mensaje de texto a su ser querido, sin otro motivo que no sea el cariño."
+			}
+		],
+		"image": "img_dr_7",
+		"message": "¿Cómo te va?"
+	}
+]

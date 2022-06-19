@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/screen_sview" android:background="@color/grey_hh_light" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/screen_img" android:layout_width="match_parent" android:layout_height="200dp" android:scaleType="centerCrop"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/screen_layout" android:paddingTop="@dimen/padding_medium" android:paddingBottom="@dimen/padding_medium" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/screen_layout_related_tools" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:background="@color/related_tools_color" android:padding="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:text="@string/related_tools" android:textAllCaps="true" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/screen_layout_related_tools_layout" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

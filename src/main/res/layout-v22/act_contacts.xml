@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.flipboard.bottomsheet.BottomSheetLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/contacts_bs_layout" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/contacts_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/support_contacts" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" android:accessibilityHeading="true" app:fontFamily="@font/font_regular"/>
+        </androidx.appcompat.widget.Toolbar>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/contacts_rview" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:id="@+id/contacts_txt_no_elements" android:padding="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/support_contacts_unavailable" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            <vainstrum.Components.FABTracking android:id="@+id/contacts_fab_add" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_large" android:src="@drawable/icon_plus_white" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="@string/add_contacts_button" app:tracking_id="22549"/>
+        </RelativeLayout>
+    </LinearLayout>
+</com.flipboard.bottomsheet.BottomSheetLayout>

@@ -1,0 +1,137 @@
+[{
+		"app": "AIMS",
+		"img": "icn_aims",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims",
+		"link_ios": "https://itunes.apple.com/app/id1243035440",
+		"text": [{
+				"type": "title",
+				"content": "AIMS"
+			},
+			{
+				"type": "text",
+				"content": "AIMS can help you if you're having a hard time with irritability or anger."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "CBT-i Coach",
+		"img": "icn_cbti",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti",
+		"link_ios": "https://itunes.apple.com/app/id655918660",
+		"text": [{
+				"type": "title",
+				"content": "CBT-i Coach"
+			}, {
+				"type": "text",
+				"content": "Although this app is designed for use with a healthcare professional, it can be helpful for learning more about getting better sleep."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "Mindfulness Coach",
+		"img": "icn_mindfulness",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach",
+		"link_ios": "https://itunes.apple.com/it/app/mindfulness-coach/id804284729",
+		"text": [{
+				"type": "title",
+				"content": "Mindfulness Coach"
+			}, {
+				"type": "text",
+				"content": "Mindfulness Coach provides exercises and information that can help to:"
+			}, {
+				"type": "list_numeric",
+				"content": ["Focus awareness on the present moment and", "Take power away from unwanted thoughts or memories."]
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "Stay Quit Coach",
+		"img": "icn_stay_quit",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.stayquit",
+		"link_ios": "https://itunes.apple.com/it/app/stay-quit-coach/id655892317",
+		"text": [{
+				"type": "title",
+				"content": "Stay Quit Coach"
+			}, {
+				"type": "text",
+				"content": "Do you smoke cigarettes and want to quit?"
+			}, {
+				"type": "text",
+				"content": "Create a personal plan, set a quit date, and start your life as a non-smoker."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "Breathe2Relax",
+		"img": "icn_btrelax",
+		"link": "https://play.google.com/store/apps/details?id=org.t2health.breathe2relax",
+		"link_ios": "https://itunes.apple.com/us/app/breathe2relax/id425720246",
+		"text": [{
+				"type": "title",
+				"content": "Breathe2Relax"
+			}, {
+				"type": "text",
+				"content": "Deep breathing is one of the best ways to learn to relax."
+			}, {
+				"type": "text",
+				"content": "Learn to take controlled, deeper breaths using this free, customizable app."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "Mood Tracker",
+		"img": "icn_mood",
+		"link": "https://play.google.com/store/apps/details?id=com.t2.vas",
+		"link_ios": "https://itunes.apple.com/us/app/t2-mood-tracker/id428373825",
+		"text": [{
+				"type": "title",
+				"content": "Mood Tracker"
+			}, {
+				"type": "text",
+				"content": "Track your mood, or other things that are important to you, using Mood Tracker."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	},
+	{
+		"app": "PTSD Coach",
+		"img": "icn_ptsd",
+		"link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.covid",
+		"link_ios": "https://itunes.apple.com/it/app/ptsd-coach/id430646302",
+		"text": [{
+				"type": "title",
+				"content": "PTSD Coach"
+			}, {
+				"type": "text",
+				"content": "You may want to share this app if you think someone else might benefit from the information and tools you have seen here."
+			},
+			{
+				"type": "text",
+				"content": "Tap the message icon below to share information about these apps with others."
+			}
+		]
+	}
+]

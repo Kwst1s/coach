@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center_horizontal" android:padding="@dimen/padding_small" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:id="@+id/item_table_txt_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    <View android:layout_width="@dimen/padding_xlarge" android:layout_height="1px"/>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:id="@+id/item_table_txt_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+</TableRow>

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "text",
+    "content": "Try to choose a goal that is SMART:"
+  },
+  {
+    "type": "list",
+    "content": [
+      "Specific",
+      "Measurable",
+      "Attainable",
+      "Realistic",
+      "Time-Bound"
+    ]
+  }
+]

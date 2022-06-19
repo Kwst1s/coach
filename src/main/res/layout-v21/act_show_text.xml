@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/show_text_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material" android:contentInsetStart="0dp" android:contentInsetLeft="0dp" app:titleTextColor="@android:color/white">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:layout_gravity="center" android:id="@+id/show_text_toolbar_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <ScrollView android:id="@+id/show_text_container" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:id="@+id/show_text_content" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </ScrollView>
+</LinearLayout>

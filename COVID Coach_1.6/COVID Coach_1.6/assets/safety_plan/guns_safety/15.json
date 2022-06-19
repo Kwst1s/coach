@@ -1,0 +1,21 @@
+[{
+		"type": "title",
+		"content": "Safely dispose of medication I no longer need"
+	},
+	{"type":"list",
+	"content":["For medications you do not need every day, you can also consider the option of safe disposal. The VA recommends getting rid of any medications you have not used in the last 12 months.",
+	"You can discard medications safely in a disposal bin at your local VA facility, or at select pharmacies and police departments in the community. Select the disposal locator button below find a safe disposal site near you."]
+	},
+	{
+		"type": "link_web",
+		"content": "Disposal Locator ",
+		"full": true,
+		"link": "https://apps2.deadiversion.usdoj.gov/pubdispsearch/spring/main?execution=e1s1"
+	},
+	{
+		"type": "link_web",
+		"content": "Medication Safety Tips",
+		"full": true,
+		"link": "https://www.pbm.va.gov/PBM/vacenterformedicationsafety/vacenterformedicationsafetyprescriptionsafety.asp"
+	}
+]

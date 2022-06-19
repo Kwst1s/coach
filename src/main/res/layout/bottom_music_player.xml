@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/bottom_music_player_layout" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <View android:background="@color/grey_light" android:layout_width="match_parent" android:layout_height="1px"/>
+    <LinearLayout android:orientation="horizontal" android:background="@android:color/white" android:padding="@dimen/padding_medium" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:paddingRight="@dimen/padding_medium" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:ellipsize="end" android:id="@+id/bottom_music_player_txt_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_mid" android:textColor="@android:color/black" android:ellipsize="end" android:id="@+id/bottom_music_player_txt_artist" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        </LinearLayout>
+        <View android:background="@color/grey_light" android:layout_width="1px" android:layout_height="match_parent" android:layout_marginRight="@dimen/padding_medium"/>
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/bottom_music_player_img_play_pause" android:padding="@dimen/padding_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_play" android:contentDescription="@string/play_audio"/>
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/bottom_music_player_img_fbw" android:padding="@dimen/padding_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_frwd" android:contentDescription="@string/fbw_audio"/>
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/bottom_music_player_img_ffw" android:padding="@dimen/padding_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_ffwd" android:contentDescription="@string/ffw_audio"/>
+        <View android:id="@+id/bottom_music_player_right_padding" android:layout_width="1px" android:layout_height="1px"/>
+    </LinearLayout>
+</LinearLayout>

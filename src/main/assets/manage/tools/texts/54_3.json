@@ -1,0 +1,20 @@
+[{
+		"type": "text",
+		"content": "What can you do to reward them for making a change in the right direction?"
+	},
+	{
+		"type": "text",
+		"content": "Rewards can be small, in-the-moment things like:"
+	},
+	{
+		"type": "list",
+		"content": ["Thank my loved one", "Letting my loved one know I noticed", "Smile at my loved one", "Do something nice in return", "Pay them a compliment"]
+	},
+	{
+		"type": "text",
+		"content": "Example reward for bigger changes that your loved one is making:"
+	}, {
+		"type": "list",
+		"content": ["Making their favorite dinner.", "Doing a bigger chore for them.", "Doing something I know this person will really appreciate."]
+	}
+]

@@ -1,0 +1,23 @@
+[{
+		"type": "text",
+		"content": "You are having some difficulties related to your traumatic experience, but these problems most likely would not be given a diagnosis of Posttraumatic Stress Disorder."
+	},
+	{
+		"type": "text",
+		"content": "However, you may still be struggling. Even mild posttraumatic stress can be distressing enough to interrupt your life. Plus, problems like depression, substance abuse, and anxiety can also happen after a trauma and may not register on a PTSD scale."
+	},
+	{
+		"type": "text",
+		"content": "While there is no replacement for professional care, this app can help you learn tools for managing your stress as it comes up. If you are in treatment, this app can be a helpful add-on to care."
+	},
+	{
+		"type": "text",
+		"content": "If you ever feel like hurting yourself or someone else, touch the Find Resources button below to get help right away. Otherwise, you can take this assessment once per month to see how your symptoms are changing – and hopefully getting better – over time."
+	},
+     	{
+     		"type":"link_internal",
+     		"content":"Find Resources",
+     		"full":true,
+     		"link":"get_support"
+     	}
+]

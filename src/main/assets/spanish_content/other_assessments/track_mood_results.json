@@ -1,0 +1,60 @@
+{
+  "q9_0": {
+    "low": [
+      {
+        "type": "text",
+        "content": "¡Actividad completada! Siga registrandose."
+      },
+      {
+        "type": "text",
+        "content": "¡Parece que está manejando su estado de ánimo bastante bien en este momento! Si a veces se siente bajo, consulte la sección Manejando el estrés para aprender acerca de recursos que podrían ayudarle."
+      }
+    ],
+    "medium": [
+      {
+        "type": "text",
+        "content": "Basado en sus respuestas, es pósible que esté teniendo dificultad manejando la depresión y el bajo estado de ánimo durante este momento difícil. Consulte la sección Encontrar recursos u obtenga más información acerca de la depresión aqui:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.mayoclinic.org/es-es/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057",
+        "full": true,
+        "content": "Aprenda más acerca de la depresion "
+      },
+      {
+        "type": "text",
+        "content": "Si esta experimentando pensamientos de querer dañarse, hay ayuda disponible."
+      },
+      {
+        "type": "link_text",
+        "link": "66746",
+        "full": true,
+        "content": "SAMHSA Disaster line: Manda el texto \"Hablanos\" al 66746"
+      },
+      {
+        "type": "link_phone",
+        "link": "1-888-628-9454",
+        "full": true,
+        "content": "Línea para la prevención del suicidio"
+      }
+    ]
+  },
+  "high": [
+    {
+      "type": "text",
+      "content": "Parece ser que está experimentando pensamientos de querer hacerse daño. Hay ayuda disponible. Si sus preocupaciones son urgentes, utilice estos recursos de crisis."
+    },
+    {
+      "type": "link_text",
+      "link": "66746",
+      "full": true,
+      "content": "SAMHSA Disaster line: Manda el texto \"Hablanos\" al 66746"
+    },
+    {
+      "type": "link_phone",
+      "link": "1-888-628-9454",
+      "full": true,
+      "content": "Línea para la prevención del suicidio"
+    }
+  ]
+}

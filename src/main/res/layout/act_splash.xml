@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/green_gradient" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xlarge" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@+id/splash_txt_covid" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding_enormous" android:text="@string/covid" android:layout_alignParentTop="true" android:textAllCaps="true" android:fontFamily="@font/font_bold"/>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_mlarge" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@+id/splash_txt_coach" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/coach" android:layout_below="@+id/splash_txt_covid" android:textAllCaps="true" android:fontFamily="@font/font_bold"/>
+    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/splash_img_centered" android:layout_centerInParent="true"/>
+    <ImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/splash_footer" android:scaleType="centerCrop" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/license_toolbar" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@+id/tabs_txt_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/license_agreement" android:layout_weight="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center_horizontal" android:id="@+id/license_img_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/padding_mmlarge" android:layout_marginBottom="@dimen/padding_large" android:src="@drawable/va_logo"/>
+                <LinearLayout android:orientation="vertical" android:id="@+id/license_layout_texts" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </ScrollView>
+        <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@color/grey_4a" android:layout_gravity="center_horizontal" android:id="@+id/license_btn_accept" android:background="@drawable/custom_btn_white_very_rounded" android:padding="@dimen/padding_medium" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_mlarge" android:minHeight="60dp" android:text="@string/tap_to_accept" android:textAllCaps="true" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold" app:tracking_id="10221"/>
+    </LinearLayout>
+</LinearLayout>

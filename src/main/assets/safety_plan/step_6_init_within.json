@@ -1,0 +1,21 @@
+[{
+		"text": "Disassemble guns completely, as if preparing to clean them",
+		"help_id": 5
+	},
+	{
+		"text": "Remove firing pins from guns, if possible",
+		"help_id": 4
+	},
+	{
+		"text": "Safely store ammunition",
+		"help_id": 3
+	},
+	{
+		"text": "Use a gun safe",
+		"help_id": 2
+	},
+	{
+		"text": "Use gun locks",
+		"help_id": 1
+	}
+]

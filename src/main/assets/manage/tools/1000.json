@@ -1,0 +1,70 @@
+{
+	"welcome_text": ["Having a wind-down time before you go to sleep can help relax your mind and body. See the Evening Activities below to explore some ideas for things to do during your buffer zone. If an activity continues to work for you, you may want to tap the star next to it to mark it as a favorite."],
+	"stars": [{
+		"id": 1,
+		"text": "Choose clothes to wear the next day"
+	}, {
+		"id": 2,
+		"text": "Make your lunch for the next day"
+	}, {
+		"id": 3,
+		"text": "Prepare dinner for the next day and store it in the refrigerator"
+	}, {
+		"id": 4,
+		"text": "Take a bath or long shower"
+	}, {
+		"id": 5,
+		"text": "Write thank you notes or short emails to friends"
+	}, {
+		"id": 6,
+		"text": "Surf the internet (non-stressful topics only) or do research for major purchases (cars, appliances, vacations)"
+	}, {
+		"id": 7,
+		"text": "Watch movies or episodes of television shows that you haven’t seen in a long time (no action films or thrillers)"
+	}, {
+		"id": 8,
+		"text": "Take the dog for a long walk"
+	}, {
+		"id": 9,
+		"text": "Groom your pets"
+	}, {
+		"id": 10,
+		"text": "Listen to slow, relaxing or instrumental music"
+	}, {
+		"id": 11,
+		"text": "Gather old bills and statements and shred them"
+	}, {
+		"id": 12,
+		"text": "Organize collections - photos, old letters, books, or other items"
+	}, {
+		"id": 13,
+		"text": "Catch up on laundry or folding clothes"
+	}, {
+		"id": 14,
+		"text": "Polish your shoes"
+	}, {
+		"id": 15,
+		"text": "Iron or mend clothing"
+	}, {
+		"id": 16,
+		"text": "Write in your journal"
+	}, {
+		"id": 17,
+		"text": "Do some stretches to relax your muscles"
+	}, {
+		"id": 18,
+		"text": "Give yourself a pedicure, manicure, or facial"
+	}, {
+		"id": 19,
+		"text": "Sweep or mop the kitchen floor while no one else is there to walk on it"
+	}, {
+		"id": 20,
+		"text": "Floss"
+	}, {
+		"id": 21,
+		"text": "Knit"
+	}, {
+		"id": 22,
+		"text": "Quilt"
+	}]
+}

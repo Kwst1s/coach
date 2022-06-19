@@ -1,0 +1,73 @@
+{
+	"low": [{
+			"type": "text",
+			"content": "Your current well-being score is pretty low. That is not unusual given these really stressful times. Think about what small steps or actions you could take every day that could help you feel just a bit better. What sorts of things might bring you a little bit of happiness, peace, or relaxation?"
+		},
+		{
+			"type": "text",
+			"content": "Check out the Manage Stress section to explore ways to feel a bit better in the moment. Mindfulness may be a good place to start to find a little peace. Try Inside Activities for ways to engage fully in your day, even when you can’t leave the house. Relationship Tools includes tips for interacting with your loved ones."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manage Stress"
+		},
+		{
+			"type": "text",
+			"content": "Consider setting a small, daily goal to practice one thing that might make you feel more balanced."
+		},
+		{
+			"type": "link_internal",
+			"link": "mood_check",
+			"full":true,
+			"content": "Set A Goal"
+		}
+	],
+	"medium": [{
+			"type": "text",
+			"content": "Your current well-being score is right in the middle of the range.  Seems like you have been able to keep yourself feeling OK, even with all the changes happening. To add some moments of peace, happiness or comfort, check out the Manage Stress section. Spend some time with the Positive Imagery tool to take a mental vacation! Practice Deep Breathing to regulate any anxiety you might be experiencing. Check out the Inside Activities tool for even more ideas about how to engage with your day."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manage Stress"
+		},
+		{
+			"type": "text",
+			"content": "Consider setting a small, daily goal to practice one thing that might make you feel more balanced."
+		},
+		{
+			"type": "link_internal",
+			"link": "mood_check",
+			"full":true,
+			"content": "Set A Goal"
+		}
+	],
+	"high": [{
+			"type": "text",
+			"content": "Your current well-being score is high!  Even in these tough times, you are managing to maintain a strong sense of wellbeing. Keep it up by regularly practicing the tools and habits that help you feel strong. Enhance your days by continuing to connect with others!"
+		},
+		{
+			"type": "text",
+			"content": "You can always check out the Manage Stress section to build up your library of coping tools."
+		},
+		{
+			"type": "link_internal",
+			"link": "manage_stress",
+			"full":true,
+			"content": "Manage Stress"
+		},
+		{
+			"type": "text",
+			"content": "You can also set goals to keep up your positive routines!"
+		},
+		{
+			"type": "link_internal",
+			"full":true,
+			"link": "mood_check",
+			"content": "Set A Goal"
+		}
+	]
+}

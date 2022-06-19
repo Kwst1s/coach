@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m00" android:title="00"/>
+    <item android:id="@+id/m05" android:title="05"/>
+    <item android:id="@+id/m10" android:title="10"/>
+    <item android:id="@+id/m15" android:title="15"/>
+    <item android:id="@+id/m20" android:title="20"/>
+    <item android:id="@+id/m25" android:title="25"/>
+    <item android:id="@+id/m30" android:title="30"/>
+    <item android:id="@+id/m35" android:title="35"/>
+    <item android:id="@+id/m40" android:title="40"/>
+    <item android:id="@+id/m45" android:title="45"/>
+    <item android:id="@+id/m50" android:title="50"/>
+    <item android:id="@+id/m55" android:title="55"/>
+</menu>

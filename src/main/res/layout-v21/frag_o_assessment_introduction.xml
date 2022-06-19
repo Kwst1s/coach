@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/bg_color_app" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatImageView android:id="@+id/o_assessment_intro_img" android:layout_width="match_parent" android:layout_height="200dp" android:src="@drawable/track_ptsd_icon" android:scaleType="centerCrop"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/o_assessment_intro_layout_content" android:paddingTop="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@color/grey_4a" android:id="@+id/o_assessment_intro_btn_next" android:background="@drawable/custom_btn_white_very_rounded" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_mlarge" android:minHeight="60dp" android:text="@string/get_started" android:contentDescription="@string/get_started" android:textAllCaps="true" android:fontFamily="@font/font_semibold" android:elevation="2dp" app:fontFamily="@font/font_semibold" app:tracking_id="54270"/>
+</LinearLayout>

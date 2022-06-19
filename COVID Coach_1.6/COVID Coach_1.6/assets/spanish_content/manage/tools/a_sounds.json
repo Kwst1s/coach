@@ -1,0 +1,43 @@
+[{
+	"title": "Grillos",
+	"audio": "Crickets.mp3"
+}, {
+	"title": "Gotas de agua",
+	"audio": "Dripping_Water.mp3"
+}, {
+	"title": "Ranas",
+	"audio": "Frogs.mp3"
+}, {
+	"title": "Pantano",
+	"audio": "Marsh.mp3"
+}, {
+	"title": "Piscina pública",
+	"audio": "Public_Pool.mp3"
+}, {
+	"title": "Lluvia",
+	"audio": "Rain.mp3"
+}, {
+	"title": "Arroyo",
+	"audio": "Stream.mp3"
+},{
+	"title": "Sonidos de la ciudad",
+	"audio": "CitySounds.mp3"
+},{
+	"title": "Metro",
+	"audio": "NYCSubway.mp3"
+},{
+	"title": "Cascada",
+	"audio": "Waterfall.mp3"
+},{
+	"title": "Arroyo 2",
+	"audio": "Stream2.mp3"
+},{
+	"title": "Pájaros",
+	"audio": "Birds.mp3"
+},{
+	"title": "Ruido de oficina",
+	"audio": "OfficeNoise.mp3"
+},{
+	"title": "Viento",
+	"audio": "Wind.mp3"
+}]

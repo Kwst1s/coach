@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ActionBarTheme" android:id="@+id/get_video_toolbar" android:background="@color/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/abc_action_bar_default_height_material">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pick_video" android:textAllCaps="true" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/get_video_rview" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:id="@+id/get_video_txt_no_elements" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_videos_on_device" android:layout_centerInParent="true" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:id="@+id/item_rewards_card" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:layout_marginStart="@dimen/padding_large" android:layout_marginEnd="@dimen/padding_large" app:cardBackgroundColor="@android:color/white" app:cardCornerRadius="6dp" app:cardElevation="0dp" app:cardUseCompatPadding="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:background="@android:color/white" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/padding_mlarge" android:paddingEnd="@dimen/padding_mlarge">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/things_to_reward" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:id="@+id/item_rewards_txt_thing_to_reward" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:background="@color/gray_very_light" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/padding_mlarge" android:paddingEnd="@dimen/padding_mlarge">
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/reward_i_can_use" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:id="@+id/item_rewards_txt_reward_i_can_use" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_semibold" app:fontFamily="@font/font_semibold"/>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

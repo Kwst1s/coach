@@ -1,0 +1,13 @@
+{
+	"filename": "imagery_forest.mp3",
+	"filename_es": "Positive-Imagery-Forest.mp3",
+	"title": "Visualización positiva: Bosque",
+	"display_title": "Visualización positiva",
+	"subtitle":"sub_imagery_forest",
+	"intro_text": [{
+			"type": "text",
+			"content": "A continuación,  un ejercicio de relajación enfocado en visualizar algo placentero.  Esta práctica toma al alrededor de 4 minutos. El ejercicio está acompañado de una grabación, por lo que deberá encontrar un lugar tranquilo o utilizar audífonos."
+		}
+	],
+	"image": "t23"
+}

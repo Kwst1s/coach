@@ -1,0 +1,643 @@
+[
+  {
+    "displayName": "Vacunas para COVID-19",
+    "id": 500002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Ahora existen vacunas aprobadas para el coronavirus."
+      },
+      {
+        "type": "text",
+        "content": "Los Centros para el Control de Enfermedades han proporcionado respuestas a muchas preguntas frecuentes sobre las vacunas, como por ejemplo, cómo pudieron desarrollarse tan rápidamente y si son seguras. Para obtener más información, visite el sitio web del CDC:"
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html",
+        "imageButton": true,
+        "full": true,
+        "content": "Preguntas Frecuentes Sobre la Vacuna para COVID-19"
+      },
+      {
+        "type": "text",
+        "content": "En los Estados Unidos, los planes de distribución de vacunas generalmente se manejan a nivel estatal. Para obtener más información sobre los planes de su estado para la distribución de vacunas, consulte la Información Local de COVID-19 en la sección Encuentre Recursos de esta aplicación. Seleccione su estado y luego toque el botón \"Encuentre Recursos\" debajo del selector."
+      },
+      {
+        "type": "link_internal",
+        "learn_title": "Información Local de COVID-19 local",
+        "learn_file": "find_resources.json",
+        "learn_id": 10009,
+        "learn_icon": "learn_icon_learn",
+        "link": "link_learn",
+        "imageButton": true,
+        "full": true,
+        "content": "Información Local de COVID-19 local"
+      },
+      {
+        "type": "text",
+        "content": "Debido a que la información sobre la distribución de vacunas se actualiza periódicamente, asegúrese de consultar la información nueva de su estado, sistema de atención médica o proveedor de atención médica."
+      },
+      {
+        "type": "text",
+        "content": "Existen varios beneficios de recibir la vacuna para COVID-19."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Se ha demostrado que todas las vacunas para COVID-19 actualmente disponibles en los Estados Unidos son altamente efectivas para prevenir COVID-19.",
+          "Todas las vacunas para COVID-19 que están en desarrollo están siendo evaluadas cuidadosamente en ensayos clínicos y serán autorizadas o aprobadas solo si reducen sustancialmente las probabilidades de que usted contraiga COVID-19.",
+          "Según lo que sabemos sobre las vacunas para otras enfermedades y los primeros datos de los ensayos clínicos, los expertos creen que recibir una vacuna para COVID-19 también puede ayudar a evitar que se enferme gravemente si contrae COVID-19.",
+          "Vacunarse  también puede proteger a las personas que lo rodean, en particular a las personas que corren un mayor riesgo de contraer enfermedades graves por COVID-19.",
+          "Los científicos continúan realizando más estudios sobre el efecto de la vacunación para COVID-19 sobre la gravedad de la enfermedad causada por COVID-19, así como su capacidad para evitar que las personas propaguen el virus que causa COVID-19."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información, visite el sitio web del CDC:"
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html",
+        "imageButton": true,
+        "full": true,
+        "content": "Beneficios de Recibir una Vacuna para COVID-19"
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/vaccines/effectiveness.html",
+        "imageButton": true,
+        "full": true,
+        "content": "Asegurar que las Vacunas para COVID-19 Funcionen"
+      }
+    ]
+  },
+  {
+    "displayName": "Cómo Protegerse",
+    "id": 5000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_1"
+      },
+      {
+        "type": "title",
+        "content": "Sepa Cómo Se Propaga"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Actualmente no existe una vacuna para prevenir la enfermedad por coronavirus 2019 (COVID-19).",
+          "La mejor forma de prevenir enfermedades es evitar la exposición a este virus.",
+          "Se cree que el virus se transmite principalmente de persona a persona."
+        ]
+      },
+      {
+        "type": "list_l2",
+        "content": [
+          "Entre personas que están en contacto con uno a otro (dentro de unos 6 pies).",
+          "A través de gotitas respiratorias que se producen cuando una persona infectada tose o estornuda, o al tocar superficies contaminadas por estas gotitas.",
+          "Estas gotas pueden caer en la boca o la nariz de las personas que están cerca o pueden transferirse de las manos a la boca, la nariz o los ojos."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_2"
+      },
+      {
+        "type": "title",
+        "content": "Tome Medidas Para Protegerse"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Lávese las manos con frecuencia.",
+          "Lávese las manos con frecuencia con agua y jabón durante al menos 20 segundos, especialmente después de haber estado en un lugar público, o después de sonarse la nariz, toser o estornudar.",
+          "Si no hay agua y jabón disponibles, use un desinfectante para manos que contenga al menos un 60% de alcohol. Cubre todas las superficies de tus manos y frótalas hasta que se sequen.",
+          "Evite tocarse los ojos, la nariz y la boca con las manos sin lavar."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_3"
+      },
+      {
+        "type": "title",
+        "content": "Evite El Contacto Cercano"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Evite el contacto cercano con personas que están enfermas",
+          "Ponga distancia entre usted y otras personas si COVID-19 se está propagando en su comunidad. Esto es especialmente importante para las personas que tienen un mayor riesgo de enfermarse gravemente."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/index.html",
+        "imageButton": true,
+        "full": true,
+        "content": "CDC-Personas Con Alto Riesgo"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_4"
+      },
+      {
+        "type": "title",
+        "content": "Quédese En Casa Si Está Enfermo"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Quédese en casa si está enfermo, excepto para recibir atención médica.",
+          "Debe quedarse en casa al menos unos días después de que se resuelvan sus síntomas para evitar infectar a otras personas.",
+          "Hable con su médico para obtener más información sobre cuánto tiempo debe permanecer en casa.",
+          "Si tiene alguna pregunta, comuníquese con su departamento de salud pública local."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html",
+        "imageButton": true,
+        "full": true,
+        "content": "CDC-Qué Hacer Si Esta Enfermo"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_5"
+      },
+      {
+        "type": "title",
+        "content": "Cubra La Tos Y Los Estornudos"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cúbrase la boca y la nariz con un pañuelo cuando tosa o estornude o use la parte interna del codo.",
+          "Tire los pañuelos usados a la basura.",
+          "Lávese las manos inmediatamente con agua y jabón durante al menos 20 segundos. Si no hay agua y jabón disponible, lávese las manos con un desinfectante para manos que contenga al menos un 60% de alcohol."
+        ]
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_6"
+      },
+      {
+        "type": "title",
+        "content": "Use Una Máscara Cuando Esté Cerca De Otras Personas"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cualquier persona mayor de 2 años debe usar una máscara en entornos públicos y cuando esté cerca de personas que no viven en su hogar, especialmente cuando es difícil mantenerse a más de 6 pies de distancia de otras personas.",
+          "El COVID-19 puede ser transmitido por personas que no presentan síntomas y no saben que están infectadas. Por eso es importante que todos usen máscaras en lugares públicos y practiquen el distanciamiento físico (manteniéndose al menos a 6 pies de distancia de otras personas).",
+          "Aunque se recomienda mucho usar las máscaras para que reduzcan la propagación de COVID-19, hay casos específicos en los que es posible que no sea factible usar una máscara."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html",
+        "imageButton": true,
+        "full": true,
+        "content": "CDC Lineas de Guia de Mascaras"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_7"
+      },
+      {
+        "type": "title",
+        "content": "Limpiar y Desinfectar"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Limpie y desinfecte las superficies que se tocan con frecuencia a diario. Esto incluye mesas, pomos de puerta, interruptores de luz, cubiertos, controles remotos, manijas, escritorios, teléfonos, teclados, inodoros, llaves de agua y fregadoras."
+        ]
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html",
+        "imageButton": true,
+        "full": true,
+        "content": "CDC-Gui Para Desinfectar"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Si las superficies están sucias, límpielas: use detergente o agua y jabón antes de la desinfección."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Usar Una Mascarilla",
+    "id": 500001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "list",
+        "content": [
+          "Las investigaciones muestran que usar una mascarilla en público, incluso cuando se siente bien, puede ayudar a frenar la propagación del coronavirus.",
+          "El CDC recomienda máscaras faciales de tela para la mayoría de las personas cuando están en lugares públicos.",
+          "Al elegir o hacer una máscara, asegúrese de considerar la tela, el ajuste y el cuidado."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "<b>Tela</b>: Lo mejor es una mascarilla hecha de dos capas de un tejido ajustado, 100% fibra de algodón."
+      },
+      {
+        "type": "text",
+        "content": "<b>Ajuste</b>: su máscara debe cubrir su cara desde el puente de la nariz hasta debajo de la barbilla. Las máscaras que cubren tu rostro son mejores que las máscaras con un frente plano. Asegúrese de poder hablar cómodamente con la máscara puesta. Quieres evitar tocar o ajustar tu máscara."
+      },
+      {
+        "type": "text",
+        "content": "<b>Cuidado</b>: Lave su mascarilla diariamente con jabón y agua caliente. Asegúrese de que su mascarilla esté completamente seca antes de usarla nuevamente."
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información, visite el sitio web del Centros para el Control y la Prevención de Enfermedades:"
+      },
+      {
+        "type": "link_web",
+        "full": true,
+        "imageButton": true,
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html",
+        "content": "CDC - Cubiertos Faciales"
+      }
+    ]
+  },
+  {
+    "displayName": "Lavado De Manos 101",
+    "id": 5001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El Centros Del Control y la Prevención de Enfermedades recomiendan 5 pasos para lavarse las manos de la manera correcta:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "Mójese las manos con agua corriente limpia (tibia o fría), cierre el grifo y aplique jabón.",
+          "Enjabónese las manos frotándose con el jabón. Enjabónese el dorso de las manos, entre los dedos y debajo de las uñas.",
+          "Frote sus manos durante al menos 20 segundos. ¿Necesitas un temporizador? Tararee la canción \"Feliz cumpleaños\" de principio a fin dos veces.",
+          "Enjuágate bien las manos con agua corriente limpia.",
+          "Séquese las manos con una toalla limpia o séquese al aire."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Trate de evitar tocarse los ojos, la nariz o la boca con las manos sin lavar."
+      },
+      {
+        "type": "link",
+        "link": "https://www.cdc.gov/handwashing/esp/when-how-handwashing.html",
+        "imageButton": true,
+        "full": true,
+        "content": "Consejos para lavarse las manos del CDC"
+      }
+    ]
+  },
+  {
+    "displayName": "Handwash Like A Pro",
+    "id": 5002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Illustrations and text by Ellen Forney"
+      },
+      {
+        "type": "text",
+        "content": "Regular handwashing is one of the best ways to remove germs, avoid getting sick, and prevent the spread of germs to others."
+      },
+      {
+        "type": "text",
+        "content": "It’s easy to remember the steps with these simple names for the positions and a story to string them together."
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 1: The Snickering Villain\nRub your palms together in a circular motion",
+        "content": "handwash_step1"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 2: Spiders on Piggyback\nSpread your fingers wide on both of your hands. Place one palm on the back of the other hand, interlace your fingers, and rub the back of your hand. Do this on both sides.",
+        "content": "handwash_step2"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 3: Spiders Kissing.\nSpread your fingers wide on both of your hands. Place your palms together, interlace your fingers, and rub palm to palm.",
+        "content": "handwash_step3"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 4: Kung Fu Grip\nWith your palms facing together, rotate one hand so that your fingers are pointing in opposite directions. Curl your fingers to clasp your hands together. Rub the backs of your fingers in the opposite palm.",
+        "content": "handwash_step4"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 5: Motorcycle Throttle\nGrip your left thumb with all the fingers of your right hand, and rub your thumb by rotating your grip, as if your left thumb is a motorcycle handle.  Do this on both sides.",
+        "content": "handwash_step5"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 6: Mortar and Pestle\nRub your right fingertips in the palm of your left hand. Do this on both sides.",
+        "content": "handwash_step6"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Then, use a single-use towel or air dry.",
+        "content": "handwash_step7"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Here’s a story that can help you remember all the steps:",
+        "content": "handwash_step8"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "The Villain gets angry because the spiders are all happy, piggy-backing and spider-kissing...",
+        "content": "handwash_step9"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "… so picks a Kung Fu fight, but loses and flees on a motorcyle, and the spiders celebrate with dinner at a nice restaurant that uses freshly-ground spices.",
+        "content": "handwash_step10"
+      },
+      {
+        "type": "image",
+        "gravity": 0,
+        "full": true,
+        "contentDescription": "Step 1: The Snickering Villain\nRub your palms together in a circular motion\nStep 2: Spiders on Piggyback\nSpread your fingers wide on both of your hands. Place one palm on the back of the other hand, interlace your fingers, and rub the back of your hand. Do this on both sides.\nStep 3: Spiders Kissing.\nSpread your fingers wide on both of your hands. Place your palms together, interlace your fingers, and rub palm to palm.\nStep 4: Kung Fu Grip\nWith your palms facing together, rotate one hand so that your fingers are pointing in opposite directions. Curl your fingers to clasp your hands together. Rub the backs of your fingers in the opposite palm.\nStep 5: Motorcycle Throttle\nGrip your left thumb with all the fingers of your right hand, and rub your thumb by rotating your grip, as if your left thumb is a motorcycle handle.  Do this on both sides.\nStep 6: Mortar and Pestle\nRub your right fingertips in the palm of your left hand. Do this on both sides.",
+        "content": "handwash_step11"
+      }
+    ]
+  },
+  {
+    "displayName": "Desinfectar",
+    "id": 5003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "image",
+        "gravity": 0,
+        "contentDescription": "",
+        "content": "img_5000_7"
+      },
+      {
+        "type": "text",
+        "content": "<b>Para desinfectar adecuadamente los artículos o las superficies de su hogar:</b>"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<b>Use diluidas soluciones de lejía doméstica si es apropiado para la superficie.</b>. Verifique para asegurarse de que el producto no haya pasado su fecha de vencimiento. La lejía casera será eficaz contra los coronavirus cuando se diluya adecuadamente.",
+          "<b>Siga las instrucciones del fabricante para la aplicación y la ventilación adecuada</b>. Nunca mezcle lejía doméstica con amoníaco o cualquier otro limpiador."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "<b>Para hacer una solución de lejía</b>, mezcle:"
+      },
+      {
+        "type": "text",
+        "content": "5 cucharadas (1/3 taza) de lejía por galón de agua"
+      },
+      {
+        "type": "text",
+        "content": "O"
+      },
+      {
+        "type": "text",
+        "content": "4 cucharaditas de lejía por cuarto de galón de agua"
+      },
+      {
+        "type": "list",
+        "content": [
+          "<b>Utilice soluciones alcohólicas</b> con al menos un 70% de alcohol.",
+          "<b>Pruebe con limpiadores y desinfectantes domésticos</b>: limpie el área o el artículo con agua y jabón u otro detergente si está sucio. Luego, use un desinfectante doméstico."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "<b>Siga las instrucciones de la etiqueta</b> para garantizar un uso seguro y eficaz del producto."
+      },
+      {
+        "type": "text",
+        "content": "Muchos productos recomiendan:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Mantener la superficie húmeda durante varios minutos para garantizar la eliminación de los gérmenes.",
+          "Precauciones como usar guantes y asegurarse de tener una buena ventilación durante el uso del producto."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "La mayoría de los desinfectantes domésticos registrados por la Agencia de Protección Ambiental (EPA) (por ejemplo, muchos productos Lysol o Clorox) deberían ser eficaces."
+      },
+      {
+        "type": "link",
+        "link": "https://espanol.epa.gov/espanol/enfermedad-del-coronavirus-2019-covid-19",
+        "imageButton": true,
+        "full": true,
+        "content": "Consejos del EPA sobre el coronavirus"
+      }
+    ]
+  },
+  {
+    "displayName": "Distanciamiento Físico",
+    "id": 5004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Las autoridades de salud locales a veces sugerirán que sigamos el distanciamiento físico. Esto ayuda a interrumpir la transmisión de COVID-19."
+      },
+      {
+        "type": "text",
+        "content": "Si se le ha pedido que practique el distanciamiento social o físico o el refugio en el hogar, trate de no salir de su casa, a menos que sea absolutamente necesario. Puede hacer ejercicio de manera segura en su vecindario, siempre que pueda mantenerse al menos a 6 pies de distancia de los demás."
+      },
+      {
+        "type": "text",
+        "content": "Cuando salga, mantenga una distancia de 6 pies entre usted y cualquier persona que no pertenezca a su hogar inmediato, especialmente aquellos que puedan estar estornudando o tosiendo."
+      },
+      {
+        "type": "text",
+        "content": "¿Por qué? Cuando alguien tose o estornuda, libera gotitas que podrían contener el virus COVID-19 si estuviera infectado. Si está demasiado cerca, podría inhalar las gotitas y exponerse a una infección."
+      },
+      {
+        "type": "text",
+        "content": "El distanciamiento físico no se trata solo de protegerlo, se trata de unirse y proteger a todos en nuestra comunidad."
+      },
+      {
+        "type": "text",
+        "content": "¡El distanciamiento físico o social tampoco significa aislamiento social! Asegúrese de estar en contacto regular con amigos, familiares o compañeros."
+      },
+      {
+        "type": "text",
+        "content": "Aprende más aquí:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+        "imageButton": true,
+        "full": true,
+        "content": "Organización Mundial de la Salud"
+      }
+    ]
+  },
+  {
+    "displayName": "No Tocarse La Cara",
+    "id": 5005,
+    "related_tools": [
+      51,
+      32,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "title",
+        "content": "Estrategias Cognitivas Para No Tocarse La Cara"
+      },
+      {
+        "type": "text",
+        "content": "Tocarse la cara puede acercar las partículas del virus COVID-19 a sus ojos, nariz o boca, lo que puede provocar una infección."
+      },
+      {
+        "type": "text",
+        "content": "Si tiende a tocarse la cara con frecuencia como un hábito, existen varias estrategias que puede intentar para limitar o evitar tocarse la cara:"
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 0,
+            "string": "Practique la atención plena: utilice un ejercicio rápido de atención plena para notar la necesidad de tocarse la cara y luego suelte esos pensamientos con suavidad."
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 1,
+            "string": "Cambio de pensamiento: utilice un ejercicio rápido de cambio de pensamiento para ocuparse con otra cosa."
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 2,
+            "string": "Conexión a tierra: Conéctese a otra sensación física"
+          }
+        ]
+      },
+      {
+        "type": "list_numeric_specific",
+        "content": [
+          {
+            "number": 3,
+            "string": "Lleve algo pequeño en sus manos que pueda distraerlo, como una pelota antiestrés o cualquier cosa con la que pueda jugar."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Sobre todo, no se preocupe si fracasa. Es casi imposible evitar por completo tocarse la cara, solo haga todo lo posible para minimizarlo. Minimizar esto reducirá su riesgo de exposición."
+      }
+    ]
+  },
+  {
+    "displayName": "Si Se Enferma",
+    "id": 5006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "list",
+        "content": [
+          "¡Llame a su proveedor de atención médica!",
+          "No asista a una cita con síntomas sin antes llamar antes para notificar a su proveedor u hospital.",
+          "Esto ayudará a proteger a nuestros proveedores de atención médica vitales y valientes y a otras personas de la comunidad.",
+          "Si no puede ponerse en contacto con su proveedor o no tiene uno y está experimentando síntomas graves, llame al 911."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Use Una Máscara, Salve Vidas",
+    "id": 5007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "title",
+        "content": "Use Una Máscara, Salve Vidas"
+      },
+      {
+        "type": "text",
+        "content": "Recuerde estas 3 cosas que puede hacer para prevenir la propagación del COVID-19:"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "<b>USE</b> una cubierta facial",
+          "<b>Lávese</b> las manos",
+          "<b>OBSERVE</b> su distancia (mantenga una distancia segura de otras personas fuera de su hogar)"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información sobre la asociación entre los Centros Para ell Control y la Prevención de Enfermedades de EE. UU., La Organización Mundial de la Salud y Google para ayudar a brindar información precisa sobre COVID-19, visite:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.google.com/intl/es_us/covid19/?language=es_us&placement=header",
+        "imageButton": true,
+        "full": true,
+        "content": "Sitio Web"
+      }
+    ]
+  }
+]

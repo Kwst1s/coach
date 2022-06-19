@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="left" android:layout_gravity="center_vertical" android:paddingTop="@dimen/padding_mlarge" android:paddingBottom="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/press_on_any_image_remove_it" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" android:paddingStart="@dimen/padding_large" android:paddingEnd="@dimen/padding_large" app:fontFamily="@font/font_regular"/>
+</LinearLayout>

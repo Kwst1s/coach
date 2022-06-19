@@ -1,0 +1,41 @@
+[{
+		"type": "text",
+		"content": "Su puntaje ha subido desde la última vez que hizo la evaluación, lo que significa que algunas cosas le están molestando más que antes."
+	},
+	{
+		"type": "text",
+		"content": "Su puntaje le coloca en el rango alto, lo que significa que tiene una gran cantidad de síntomas de Trastorno de estrés postraumático (TEPT). Si ya ha hablado con un proveedor de atención médica y tiene un diagnóstico de TEPT, es posible que no se sea información nueva. Si nunca ha hablado con un proveedor anteriormente, ahora es probablemente el momento de comenzar. "
+	},
+	{
+		"type": "text",
+		"content": "Las reacciones como las suyas son normales. Muchas personas que experimentan un trauma tienen este tipo de reacción, al menos durante las primeras semanas o meses después del trauma. Pero una vez que los problemas impiden el funcionamiento en casa, o el trabajo, es hora de pedir ayuda."
+	},
+	{
+		"type": "text",
+		"content": "Buscar ayuda será especialmente importante si usted piensa que puede tener otros problemas relacionados con el trauma que esta evaluación no captaría, así como la depresión, el abuso de sustancias o la ansiedad."
+	},
+	{
+		"type": "text",
+		"content": "Existen tratamientos que han sido científicamente probados y que realmente funcionan para el TEPT. No sufra más de lo necesario. Para obtener información sobre dónde encontrar un proveedor de atención médica, consulte la sección Encuentre recursos de esta aplicación. Muchos proveedores ahora ofrecen atención de forma virtual."
+	},
+	{
+		"type": "text",
+		"content": "Si bien no existe un reemplazo para la atención profesional, esta aplicación puede ayudarlo a aprender herramientas para manejar su estrés a medida que surja. Si está en tratamiento, esta aplicación puede ser un complemento útil para el cuidado profesional que esta recibiendo."
+	},
+	{
+		"type": "text",
+		"content": "Si alguna vez tiene ganas de hacerse daño a sí mismo o a otra persona, oprima el botón Encuentre recursos a continuación para obtener ayuda de inmediato. De lo contrario, puede realizar esta evaluación una vez al mes para ver cómo cambian sus síntomas -- y ojala mejorando -- con el tiempo."
+	},
+    {
+		"type":"link",
+        "content":"Aprender Sobre TEPT",
+        "full":true,
+        "link":"https://www.ptsd.va.gov/understand/what/ptsd_basics.asp"
+    },
+    {
+    	"type":"link_internal",
+        "content":"Encuentre Recursos",
+        "full":true,
+        "link":"get_support"
+    }
+]

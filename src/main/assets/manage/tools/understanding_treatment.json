@@ -1,0 +1,119 @@
+[{
+		"text": [{
+				"type": "title",
+				"gravity": 0,
+				"content": "Talk Therapy Works"
+			},
+			{
+				"type": "text",
+				"content": "One of the most effective treatments for PTSD is talk therapy.  Find a counselor your loved one feels comfortable with."
+			}
+		],
+		"image": "talktheraphy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Trauma-Specific Therapy"
+		}, {
+			"type": "text",
+			"content": "While many kinds of talk therapy can be helpful, the best possible treatment is a trauma-specific therapy.  These are: Prolonged Exposure, Cognitive Processing Therapy, and Eye Movement Desensitization and Retraining (or EMDR)."
+		}],
+		"image": "traumatherapy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Exercise Can Help Mood"
+		}, {
+			"type": "text",
+			"content": "Exercise can be an important part of improving mood. If you’re physically able, you might benefit from a few minutes of exercise each day."
+		}],
+		"image": "exercisetherapy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Mindfulness Can Help"
+		}, {
+			"type": "text",
+			"content": "Mindfulness, or mindful meditation practice, has been shown to be very effective at reducing distress and PTSD symptoms. Try the Mindfulness Tools in this app!"
+		}, {
+			"type": "link_internal",
+			"gravity": 0,
+			"full": true,
+			"link": "mindfulness",
+			"content": "Mindfulness Tools"
+		}],
+		"image": "icn_mindfulness",
+		"action": "practice_mindfulness"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Getting into Treatment"
+		}, {
+			"type": "text",
+			"content": "Talk with a professional coach, for free, about how to get the care you need. Call Coaching into Care:"
+		}, {
+			"type": "link_phone",
+			"gravity": 0,
+			"full": true,
+			"link": "1-883-823-7458",
+			"content": "Call Coaching into Care"
+		}],
+		"image": "glovedone"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Medications that Work"
+		}, {
+			"type": "text",
+			"content": "There are some medications that have been shown to help with PTSD, including Celexa, Paxil, Prozac, and Zoloft. Talk with your doctor."
+		}],
+		"image": "medications"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Family Therapy"
+		}, {
+			"type": "text",
+			"content": "PTSD can affect everyone in the family. Family therapy is a helpful way to bring family members together and to better understand one another in a safe, caring space."
+		}],
+		"image": "familyth"
+	},
+
+	{
+		"text": [{
+				"type": "title",
+				"gravity": 0,
+				"content": "PTSD treatment"
+			}, {
+				"type": "text",
+				"content": "Feeling sad, down, heavy or blue most of the time for more than 2 weeks can be a sign of depression. If you are concerned that you may be depressed, talk with your health care provider or reach out to a counselor for support. You can also call the Veterans Crisis Line at"
+			},
+			{
+				"type": "link_phone",
+				"content": "1-800-273-8255",
+				"gravity": 0,
+				"full": true,
+				"link": "1-800-273-8255"
+			}
+		],
+		"image": "l7"
+	}
+]

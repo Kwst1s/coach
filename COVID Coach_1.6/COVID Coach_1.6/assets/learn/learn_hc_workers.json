@@ -1,0 +1,243 @@
+[
+  {
+    "displayName": "Identifying Burnout and Trauma",
+    "id": 20101,
+    "related_tools": [
+      46,
+      107,
+      105,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "The risk for job burnout and posttraumatic stress rises significantly under intense conditions. Humans are not wired to endure high levels of adversity indefinitely."
+      },
+      {
+        "type": "text",
+        "content": "Common signs of burnout include:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Making mistakes",
+          "Apathy - feeling numb",
+          "Fatigue",
+          "Sleep changes",
+          "Avoidance of difficult people, places or situations",
+          "Trouble engaging with others",
+          "Trouble with concentration or memory",
+          "Becoming more isolated from others",
+          "Changes in behavior",
+          "Self-medicating"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "“If you feel “burnout” setting in, if you feel demoralized and exhausted, it is best, for the sake of everyone, to withdraw and restore yourself.” - Dalai Lama"
+      },
+      {
+        "type": "link",
+        "content": "Check for burnout",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.proqol.org/uploads/ProQOL_5_English_Self-Score_3-2012.pdf"
+      },
+      {
+        "type": "text",
+        "content": "Healthcare workers are also at risk for experiencing posttraumatic stress as a result of their job. Check if you might be struggling with PTSD symptoms."
+      },
+      {
+        "type": "link_internal",
+        "content": "Check for PTSD Symptoms",
+        "full": true,
+        "link": "track_ptsd_symptoms"
+      }
+    ]
+  },
+  {
+    "displayName": "Dealing with Difficult Decisions",
+    "id": 20102,
+    "related_tools": [
+      105,
+      56
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "How can you do your heart’s work without breaking your own heart in the process? Moral injury occurs in the healthcare profession when there are not enough resources to perform the job as it is supposed to be done.  Specifically, healthcare workers can find themselves in situations where they are forced to make care decisions that challenge their moral compass."
+      },
+      {
+        "type": "link",
+        "content": "Learn More About Moral Injury",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury_hcw.asp"
+      },
+      {
+        "type": "text",
+        "content": "Healthcare providers often enter their line of work to help others. When they don’t have the tools necessary to do so, they may notice:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Rumination and feelings of guilt after a perceived failure",
+          "Placing the needs of others above their own",
+          "Not acknowledging or minimizing their own pain and struggles",
+          "Having strong reactions to work that falls below personal standards"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Moral injury can be addressed by considering the following;"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "What tiny steps can teams take to support and protect each other emotionally and spiritually?",
+          "What systems can be implemented to facilitate self-monitoring, check-ins, flexible planning, and problem solving?",
+          "Who needs to be contacted when the work that needs to be done is not possible with the resources available?"
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Research-Supported Self-Care Strategies",
+    "id": 20103,
+    "related_tools": [
+      105,
+      4,
+      6,
+      107,
+      65
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "How do you fill your cup when the well has run dry? Fortunately there are tools to help.  Putting them into practice will help you show up to do this important, mission-driven work."
+      },
+      {
+        "type": "title",
+        "content": "Ways to Self-Preserve"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Practice self-compassion - shift expectations, be flexible, talk to yourself like you would a friend",
+          "Ask for help from friends or family",
+          "Self-monitor for stress reactions"
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Try Mood Check",
+        "full": true,
+        "link": "mood_check_section"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Adjust unhelpful, self-doubting beliefs that don’t serve you",
+          "Stay in the present - feel your feet",
+          "Find ways to enhance gratitude and meaning and weaponize empathy",
+          "Listen and tune into your inner knowing and natural resilience- call upon your intuition",
+          "Create and sustain healthy escapes",
+          "Calm the mind - explore yoga, meditation, or try:"
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Emotional Freedom Tapping",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.thetappingsolution.com/"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Find moments of peace:"
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Try Eye of the Hurricane Meditation",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.youtube.com/watch?v=HPFayxlm_ms"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Get outside. Practice nature-based stress reduction",
+          "Find a counselor or therapist"
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Find Online Help",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "learn_id": 10001,
+        "link": "link_learn"
+      }
+    ]
+  },
+  {
+    "displayName": "For Partners of Medical Professionals",
+    "id": 20104,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Some days it may feel impossible to console a partner who has had to witness  suffering, death, and grief. Acknowledging their pain and being fully present can be invaluable in the midst of the storm."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Offer comfort and support: “I am here.  This is unimaginably hard. What do you need today?  How can I help?”",
+          "Communicate needs.  Develop your own simple metric to identify when strategies and help needs to be employed to “fill the gap” at home.",
+          "Consider exploring relationship tools."
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Try A Tool Now",
+        "full": true,
+        "link": "relationship_tools"
+      },
+      {
+        "type": "link",
+        "content": "Try the Couples Coach App on Play Store",
+        "full": true,
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.couplescoach"
+      },
+      {
+        "type": "list",
+        "content": [
+          "If you notice that your partner seems to not be themselves or that your relationship is deteriorating, consider seeking additional help."
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Find Online Help",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "learn_id": 10001,
+        "link": "link_learn"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Should the time come when you need to process what your relationship has endured, consider couples counseling."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Find a Couples Counselor",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.psychologytoday.com/us/therapists/couples-counseling"
+      }
+    ]
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "displayName": "Staying Safe in a Relationship",
+    "id": 4000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Very stressful life events, like the current COVID-19 pandemic may increase tension and stress in romantic relationships. "
+      },
+      {
+        "type": "text",
+        "content": "If you feel unsafe or your partner is hurting you, it’s important that you connect to resources that can help you. Intimate partner violence can include physical acts (hitting, slapping, punching, kicking), sexual acts (unwanted sexual activity), psychological or emotional abuse (like yelling or name calling), or other controlling behaviors (like restricting access to finances, education, or medical care, or monitoring your location)."
+      },
+      {
+        "type": "text",
+        "content": "Some important safety practices are as follows:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "If you think that you or your children are in danger, leave the situation right away.",
+          "Note safe places in your home to go if conflicts heat up. Avoid rooms with weapons (like the kitchen) or no exits (e.g. closets, bathrooms).",
+          "Come up with a code word to use as a distress signal to family, children, and friends. Tell them in advance that if you use the code word, they should get help right away.",
+          "Pack a suitcase or bag with essentials if you need to leave. Make copies of important legal documents (e.g. driver's license, Social Security cards, birth certificates, medical records showing previous injuries) and set some money aside. Hide these items in a place where your partner will not find them.",
+          "Make a list of people and agencies you can call or go to in case of an emergency. Learn key phone numbers by heart in case you are without your phone.",
+          "Talk with someone you trust. Even if you don’t discuss details, letting one person know the basics and that you may need their support in the future can help.",
+          "Consider talking to neighbors about calling the police if they hear loud noises or fighting.",
+          "Consider talking with a supervisor at work for help with safety planning in your workplace."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "If you are experiencing abuse and are currently in a safe place, call the toll-free, 24-hour National Domestic Violence hotline: "
+      },
+      {
+        "type": "link_phone",
+        "full": true,
+        "imageButton": true,
+        "link": "1-800-799-7233",
+        "content": "Call National Domestic Violence Hotline"
+      },
+      {
+        "type": "text",
+        "content": "If you can’t speak safely right now, try:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.thehotline.org/",
+        "content": "Online Chat with the National Domestic Violence Hotline"
+      },
+      {
+        "type": "link_text",
+        "full": true,
+        "imageButton": true,
+        "link": "22522",
+        "content": "Text the National Domestic Violence Hotline"
+      },
+      {
+        "type": "text",
+        "content": "You can also find more information about intimate partner violence and COVID-19 at:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "http://www.ndvh.org",
+        "content": "National Domestic Violence Website"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.futureswithoutviolence.org/get-updates-information-covid-19/",
+        "content": "Futures Without Violence"
+      }
+    ]
+  },
+  {
+    "displayName": "Protecting Children",
+    "id": 4001,
+    "related_tools": [
+      29,
+      5
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Parenting can be stressful in the best of times. Parenting during extreme challenges, such as the COVID-19 pandemic can make the challenges seem overwhelming. You may feel angry, impatient, scared, sad, hopeless, or all of those emotions throughout the course of a single day."
+      },
+      {
+        "type": "text",
+        "content": "As a parent, you may be juggling work, school and daycare closures, and spending a lot of time in close quarters.  "
+      },
+      {
+        "type": "text",
+        "content": "It is important to remember that your child may also be impacted by major life changes, like sheltering in place. "
+      },
+      {
+        "type": "text",
+        "content": "The National Child Traumatic Stress Network (NCTSN) has more information about how children might be impacted by COVID-19:"
+      },
+      {
+        "type": "link",
+        "content": "NCTSN Caregiver Guide",
+        "imageButton": true,
+        "link": "https://www.nctsn.org/resources/parent-caregiver-guide-to-helping-families-cope-with-the-coronavirus-disease-2019",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "If you start to feel like you are losing your temper, and you might harm your children, here are some tips for things you can try, even if you can’t leave your home:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Take a time out for yourself. If you have a baby or very young child, make sure they are somewhere safe (like a crib or playpen) and give yourself a few minutes. Try to find a space where you can be by yourself until your anger levels go down.",
+          "Practice deep breathing or mindfulness,even for a few minutes.",
+          "Call a trusted friend or family member"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "You can also call the National Parent Helpline. Someone is available Monday through Friday from 10:00 AM PST to 7:00 PM PST."
+      },
+      {
+        "type": "link_phone",
+        "content": "Call National Parent Helpline",
+        "link": "1-855-427-2736",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "link",
+        "content": "National Parent Helpline Website",
+        "link": "https://www.nationalparenthelpline.org/find-support",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "For more information about how you can help your children cope during the COVID-19 pandemic, check out information provided by Child Trends, the nation’s leading research organization focused exclusively on improving the lives of children and youth, especially those who are most vulnerable."
+      },
+      {
+        "type": "link",
+        "content": "Child Trends Resources for Children",
+        "link": "https://www.childtrends.org/publications/resources-for-supporting-childrens-emotional-well-being-during-the-covid-19-pandemic",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Limiting Drinking or Drug Use",
+    "id": 4002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Stress and scary times can be triggers for overuse of alcohol and drugs."
+      },
+      {
+        "type": "text",
+        "content": "While using substances may feel like a temporary break from stress and anxiety, it can make it much harder to cope with the day to day routine, and can put families and individuals at risk."
+      },
+      {
+        "type": "text",
+        "content": "If you or someone in your family is at risk of problematic substance use during this time, try to bring in supportive routines and services as soon as possible."
+      },
+      {
+        "type": "text",
+        "content": "Remove alcohol and substances from the home temporarily, and discuss ways to engage in non-substance approaches to stress management, such as mindfulness, exercises, or virtual therapy."
+      },
+      {
+        "type": "text",
+        "content": "If you are concerned about overuse, contact your health provider. Find community treatment options through SAMHSA’s confidential and anonymous treatment services locator:"
+      },
+      {
+        "type": "link",
+        "content": "SAMHSA Treatment Locator",
+        "imageButton": true,
+        "link": "https://findtreatment.samhsa.gov/",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Or contact the 24-hour hotline if you need immediate support:"
+      },
+      {
+        "type": "link_phone",
+        "content": "SAMHSA Hotline",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Most 12-step based programming is also available virtually; learn about meetings in your area here:  "
+      },
+      {
+        "type": "link",
+        "content": "Alcoholics Anonymous Meetings",
+        "link": "https://www.aa.org/pages/en_US/online-intergroup",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "link",
+        "content": "Narcotics Anonymous Meetings",
+        "link": "https://www.na.org/meetingsearch/text-results.php?country=Web&state&city&zip&street&within=5&day=0&lang&orderby=distance",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Recognizing Warning Signs of Suicide",
+    "id": 4003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Isolation, fear, and scarcity can cause some people to feel increased hopelessness, which may lead to thoughts of suicide."
+      },
+      {
+        "type": "text",
+        "content": "If you or a loved one is experiencing or reporting:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Feeling hopeless or like life is not worth living",
+          "Isolating from others (not due to COVID19 and sheltering in place)",
+          "Feeling sad or depressed most of the time",
+          "Losing interest in things they usually cared about",
+          "Engaging in risky behaviors",
+          "Wanting to “give up” or “escape”",
+          "Thinking about ways to harm themselves",
+          "Cutting or self mutilation",
+          "Giving away their possessions",
+          "Withdrawing from contact completely, worrying friends and family"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Or if you need support for someone with:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "A history of depression, chronic pain or substance abuse.",
+          "A history of suicidal behaviors or attempts."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Immediately contact the National Suicide Prevention Lifeline:"
+      },
+      {
+        "type": "link_phone",
+        "content": "Call 911",
+        "imageButton": true,
+        "full": true,
+        "link": "911"
+      },
+      {
+        "type": "link_phone",
+        "content": "Call National Suicide Prevention Lifeline",
+        "imageButton": true,
+        "full": true,
+        "link": "1-800-273-8255"
+      },
+      {
+        "type": "link",
+        "content": "Chat with National Suicide Prevention Lifeline",
+        "imageButton": true,
+        "full": true,
+        "link": "https://suicidepreventionlifeline.org/chat/"
+      },
+      {
+        "type": "text",
+        "content": "You can also reach trained counselors at the Crisis Text line:"
+      },
+      {
+        "type": "link_text",
+        "content": "Text Crisis Text Line",
+        "imageButton": true,
+        "full": true,
+        "link": "741741"
+      },
+      {
+        "type": "text",
+        "content": "If you are a Veteran, you can call the Veterans Crisis Line:"
+      },
+      {
+        "type": "link_phone",
+        "content": "Call Crisis Line",
+        "imageButton": true,
+        "full": true,
+        "link": "1-800-273-8255"
+      },
+      {
+        "type": "text",
+        "content": "(Press 1 to be connected with the Veterans Crisis Line)"
+      },
+      {
+        "type": "link_text",
+        "content": "Text Veterans Crisis Line",
+        "imageButton": true,
+        "full": true,
+        "link": "838-255"
+      },
+      {
+        "type": "link",
+        "content": "Chat with Veterans Crisis Line",
+        "imageButton": true,
+        "full": true,
+        "link": "https://veteranscrisisline.net"
+      }
+    ]
+  },
+  {
+    "displayName": "Facing Xenophobia & Racism",
+    "id": 4004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "The COVID-19 pandemic has led to increased reports of racism and xenophobia in the United States."
+      },
+      {
+        "type": "text",
+        "content": "These attacks and discriminatory practices can be both physically and psychologically damaging. To learn more about what racism is and how it can impact people, read about it here:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.racialequitytools.org/resources/fundamentals/core-concepts/racism",
+        "imageButton": true,
+        "content": "Defining Racism",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "It’s important that we acknowledge these experiences. Contacting law enforcement may not be safe for everyone. However, if you feel safe to do so, contact them. Other resources exist that may be helpful."
+      },
+      {
+        "type": "text",
+        "content": "If you feel comfortable, you can also report the incident at the following places:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.standagainsthatred.org/",
+        "imageButton": true,
+        "content": "Stand Against Hatred",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://www.justice.gov/hatecrimes/get-help-now",
+        "imageButton": true,
+        "content": "U.S. Department of Justice",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://civilrights.justice.gov/",
+        "imageButton": true,
+        "content": "Report a Civil Rights Violation",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://www.adl.org/reportincident?gclid=Cj0KCQjwjoH0BRD6ARIsAEWO9DtiSiasRJUK-apme-gu8n77RlgNK3ZFUmulTf3ka2LcERNZOgZxAcIaAsFwEALw_wcB",
+        "content": "Report Anti-Semitism to the Anti-Defamation League",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "To emotionally cope with the stress of these types of incidents, here are some research-supported strategies to try:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Acknowledge what happened as harmful or upsetting.",
+          "Talk to your friends, family, community leaders, or a mental health professional about what you experienced, and ask for help if you need it. Be open to asking for emotional and other types of support, including financial.",
+          "Choosing not to talk about it or ignoring the racist incident has a negative effect on mental health. It is important to share your experiences with others who can understand and validate your experiences.",
+          "Journal or record your feelings through audio or video to help process the incident.",
+          "Take a few minutes to practice mindfulness."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "If you <b>witness</b> a racist attack, try one of the following strategies:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Check in on the person being harassed. Try to express support (“Is everything okay? Is there anything I can do?”)",
+          "Express your disagreement (“I don’t agree with what you are doing or saying at all.”) Remember to be confident, calm, and assertive.",
+          "Describe what is happening (“I see that you are harassing this person who is just getting groceries.”)",
+          "Use an exclamation (“Hey, stop it!”)",
+          "Use non-verbal communication (like putting up a hand, or stepping in front of someone, if you feel safe.)",
+          "Interrupt and redirect the conversation (“Excuse me, I think this person is trying to do something. Is there something I can help you with?”)",
+          "Bring in another person to help intervene including someone with more perceived authority like a store manager or bus driver.",
+          "If it is safe, film or record the incident.",
+          "Do not call the police unless requested (or it is safe for everyone).",
+          "Report the act"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "We can all take a stand against discrimination and racism when we see it. "
+      }
+    ]
+  }
+]

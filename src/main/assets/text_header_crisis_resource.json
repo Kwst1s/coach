@@ -1,0 +1,58 @@
+[{
+		"type": "text",
+		"content": "For any crisis, including medical emergencies, go to your nearest emergency room or:"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"content": "911",
+		"link": "911"
+	},
+	{
+		"type": "text",
+		"content": "National Suicide Prevention Lifeline:"
+	}, {
+		"type": "link_phone",
+		"link": "1-800-273-8255",
+		"full": true,
+		"content": "Call 1-800-273-8255"
+	}, {
+		"type": "text",
+		"content": "(press 1 for Veterans Crisis Line)"
+	},
+	{
+		"type": "link_text",
+		"link": "838255",
+		"full": true,
+		"content": "Veterans Text 838255"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.veteranscrisisline.net",
+		"content": "Confidential Veterans Chat"
+	},
+	{
+		"type": "text",
+		"content": "National Domestic Violence Hotline:"
+	},
+	{
+		"type": "link_phone",
+		"link": "1-800-799-7233",
+		"full": true,
+		"content": "Call 1-800-799-7233"
+	},
+	{
+		"type": "text",
+		"content": "National Sexual Assault Hotline:"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-800-656-4673",
+		"content": "Call 1-800-656-4673"
+	},
+	{
+		"type": "text",
+		"content": "<b><font color=\"#00826D\">Personal Contacts:</font></b>"
+	},

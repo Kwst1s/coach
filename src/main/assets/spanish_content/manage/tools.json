@@ -1,0 +1,331 @@
+[{
+		"id": "2",
+		"filename": "a_sounds.json",
+		"title": "Sonidos ambientales",
+		"display_title": "Ambiente",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "3",
+		"filename": "change_perspective.json",
+		"title": "Cambie su perspectiva",
+		"display_title": "Perspectiva",
+		"symptoms_ids": [1, 2, 3, 4, 5, 6, 7]
+	}, {
+		"id": "4",
+		"filename": "connect_others.json",
+		"title": "Relacionarse con Otras Personas",
+		"display_title": "Relacionarse",
+		"symptoms_ids": [3, 5, 6]
+	}, {
+		"id": "5",
+		"filename": "deep_breathing.json",
+		"title": "Respiración profunda",
+		"display_title": "Respiración profunda",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "6",
+		"filename": "grounding.json",
+		"title": "Mantenerse en el presente",
+		"display_title": "Mantenerse en el presente",
+		"symptoms_ids": [1, 4, 6, 8]
+	}, {
+		"id": "7",
+		"filename": "help_asleep.json",
+		"title": "Ayuda para conciliar el sueño",
+		"display_title": "Quedarse dormido",
+		"symptoms_ids": [8]
+	},{
+		"id": "8",
+		"filename": "leisure.json",
+		"title": "Actividades En Espacios Interiores: Tiempo Solo ",
+		"display_title": "Actividades En Espacios Interiores: Tiempo Solo",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "9",
+		"filename": "leisure.json",
+		"title": "Actividades En Espacios Interiores: Con Una Pareja o Compañero De Cuarto",
+		"display_title": "Actividades En Espacios Interiores: Con Una Pareja o Compañero De Cuarto",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "10",
+		"filename": "leisure.json",
+		"title": "Actividades En Espacios Interiores: Con Niños",
+		"display_title": "Actividades En Espacios Interiores: Con Niños",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "11",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio para conectar con el presente: Respiración",
+		"display_title": "Respiración consciente",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "15",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio para conectar con el presente: Caminar",
+		"display_title": "Caminata consciente",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "17",
+		"filename": "mindfulness_observe.json",
+		"title": "Escaneo corporal con Julia",
+		"display_title": "Escaneo corporal con Julia",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "18",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio para conectar con el presente: Nubes en el cielo",
+		"display_title": "Nubes en el cielo",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "19",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio para conectar con el presente: Hojas en el arroyo",
+		"display_title": "Hojas en el arroyo",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "31",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio para conectar con el presente: Exploración corporal",
+		"display_title": "Exploración corporal",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	}, {
+		"id": "20",
+		"filename": "muscle_relaxation.json",
+		"title": "Relajación muscular",
+		"display_title": "Relajación muscular",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "21",
+		"filename": "positive_imagery.json",
+		"title": "Visualización positiva: Playa",
+		"display_title": "Visualización positiva",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "22",
+		"filename": "positive_imagery.json",
+		"title": "Visualización positiva: Camino rural",
+		"display_title": "Visualización positiva",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "23",
+		"filename": "positive_imagery.json",
+		"title": "Visualización positiva: Bosque",
+		"display_title": "Visualización positiva",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "24",
+		"filename": "",
+		"title": "Sonidos calmantes",
+		"display_title": "Sonidos calmantes",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "25",
+		"filename": "",
+		"title": "Imágenes relajantes",
+		"display_title": "Imágenes relajantes",
+		"symptoms_ids": [1, 2, 4, 6, 7, 8]
+	}, {
+		"id": "26",
+		"filename": "",
+		"title": "RID",
+		"display_title": "RID",
+		"symptoms_ids": [1]
+	}, {
+		"id": "28",
+		"filename": "soothe_senses.json",
+		"title": "Calma Los Sentidos",
+		"display_title": "Calma Los Sentidos",
+		"symptoms_ids": [1, 3, 4, 5, 7]
+	}, {
+		"id": "32",
+		"filename": "thought_shifting.json",
+		"title": "Control del pensamiento",
+		"display_title": "Control de pensamientos",
+		"symptoms_ids": [7]
+	}, {
+		"id": "29",
+		"filename": "time_out.json",
+		"title": "Pausa",
+		"display_title": "Pausa",
+		"symptoms_ids": [7]
+	}, {
+		"id": "30",
+		"filename": "inspiring_quotes.json",
+		"title": "Citas inspiracionales",
+		"display_title": "Citas",
+		"symptoms_ids": [1, 2, 3, 4, 5, 6, 8]
+	},
+	{
+		"id": "33",
+		"filename": "schedule_worry_time.json",
+		"title": "Programa un tiempo para la preocupación",
+		"display_title": "Tiempo para la preocupación",
+		"symptoms_ids": [8]
+	},
+	{
+		"id": "34",
+		"filename": "changing_sleep_perspectives.json",
+		"title": "Cambia tu perspectiva",
+		"display_title": "Cambia tu perspectiva",
+		"symptoms_ids": [8]
+	},
+	{
+		"id": "35",
+		"filename": "positive_communication.json",
+		"title": "Comunicación Positiva",
+		"display_title": "Comunicación Positiva",
+		"symptoms_ids": [3]
+	},
+	{
+		"id": "38",
+		"filename": "reconnecting.json",
+		"title": "Reconectar con mi pareja",
+		"display_title": "Reconectar",
+		"symptoms_ids": []
+	},
+	{
+		"id": "40",
+		"filename": "arguments_healthier.json",
+		"title": "Haciendo más saludables las discusiones",
+		"display_title": "Jugando limpio",
+		"symptoms_ids": [4]
+	},
+	{
+		"id": "44",
+		"filename": "using_i_messages.json",
+		"title": "Utilizando Mensajes en Primera Persona (“Yo”)",
+		"display_title": "Mensajes en primera persona (“Yo”)",
+		"symptoms_ids": [4]
+	},
+	{
+		"id": "45",
+		"filename": "seeing_my_strenghts.json",
+		"title": "Observando mis fortalezas",
+		"display_title": "Observando mis fortalezas",
+		"symptoms_ids": [5]
+	},
+	{
+		"id": "46",
+		"filename": "my_feelings.json",
+		"title": "Mis Sentimientos",
+		"display_title": "Mis Sentimientos",
+		"symptoms_ids": []
+	},
+	{
+		"id": "47",
+		"filename": "good_sleep_habits.json",
+		"title": "Buenos Hábitos De Sueño",
+		"display_title": "Buenos Hábitos De Sueño",
+		"symptoms_ids": [8]
+	}, {
+		"id": "48",
+		"filename": "mindfulness_observe.json",
+		"title": "Recorrido Corporal con Robyn",
+		"display_title": "Recorrido Corporal con Robyn",
+		"symptoms_ids": [1, 2, 5, 6, 7]
+	},{
+		"id": "49",
+		"filename": "mindfulness_observe.json",
+		"title": "Reconociendo los Sentidos",
+		"display_title": "Reconociendo los Sentidos",
+		"symptoms_ids": []
+	},{
+		"id": "50",
+		"filename": "mindfulness_observe.json",
+		"title": "Ejercicio de Compasión y Bondad",
+		"display_title": "Ejercicio de Compasión y Bondad",
+		"symptoms_ids": []
+	},{
+		"id": "51",
+		"filename": "seated_practice.json",
+		"title": "Ejercicio de Relajación en Silla",
+		"display_title": "Ejercicio de Relajación en Silla",
+		"symptoms_ids": []
+	},{
+		"id": "52",
+		"filename": "daily_rituals.json",
+		"title": "Rituales Diarios",
+		"display_title": "Rituales Diarios",
+		"symptoms_ids": [6]
+	},{
+		"id": "54",
+		"filename": "rewarding_good_behavior.json",
+		"title": "Premiar El Buen Comportamiento",
+		"display_title": "Premiar El Buen Comportamiento",
+		"symptoms_ids": [6]
+	},{
+		"id": "55",
+		"filename": "appreciation.json",
+		"title": "Mostrando Aprecio",
+		"display_title": "Mostrando Aprecio",
+		"symptoms_ids": [6]
+	},{
+		"id": "56",
+		"filename": "find_meaning.json",
+		"title": "Encontrar Significado",
+		"display_title": "Encontrar Significado",
+		"symptoms_ids": [1, 2, 4]
+	},{
+		"id": "57",
+		"filename": "self_compassion.json",
+		"title": "Respiración de Ritmo Calmante",
+		"display_title": "Respiración de Ritmo Calmante",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "58",
+		"filename": "self_compassion.json",
+		"title": "Creando un Lugar Seguro",
+		"display_title": "Creando un Lugar Seguro",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "59",
+		"filename": "self_compassion.json",
+		"title": "Colores Compasivos",
+		"display_title": "Colores Compasivos",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "60",
+		"filename": "self_compassion.json",
+		"title": "Ser Compasivo",
+		"display_title": "Ser Compasivo",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "61",
+		"filename": "self_compassion.json",
+		"title": "Compasión Fluyendo",
+		"display_title": "Compasión Fluyendo",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "62",
+		"filename": "self_compassion.json",
+		"title": "Compasión por los Demás",
+		"display_title": "Compasión por los Demás",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "63",
+		"filename": "self_compassion.json",
+		"title": "Recuerdos Compasivos",
+		"display_title": "Recuerdos Compasivos",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "64",
+		"filename": "self_compassion.json",
+		"title": "Ideales Compasivos",
+		"display_title": "Ideales Compasivos",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "65",
+		"filename": "self_compassion.json",
+		"title": "Autocompasión",
+		"display_title": "Autocompasión",
+		"symptoms_ids": [2,3]
+	}
+]

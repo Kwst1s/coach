@@ -1,0 +1,21 @@
+{
+	"filename": "awareness_of_senses.mp3",
+	"filename_es": "awareness_of_senses.mp3",
+	"title": "Awareness of the Senses",
+	"display_title": "Awareness of the Senses",
+	"subtitle":"sub_awareness_of_senses",
+	"intro_text": [{
+			"type": "text",
+			"content": "For this exercise, find a comfortable and quiet place to sit, where you are unlikely to be disturbed."
+		},
+		{
+			"type": "text",
+			"content": "Please note that there will be pauses in the audio so you can practice without distraction."
+		},
+		{
+			"type": "text",
+			"content": "Time: About 11 minutes."
+		}
+	],
+	"image": "t49"
+}

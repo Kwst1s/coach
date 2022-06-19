@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:orientation="vertical" android:id="@+id/item_video_card" android:focusable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/padding_small" app:cardCornerRadius="4dp" app:cardElevation="0dp">
+        <LinearLayout android:orientation="vertical" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ImageView android:id="@+id/item_video_img" android:focusable="false" android:layout_width="match_parent" android:layout_height="0dp" android:scaleType="centerCrop" android:layout_weight="1"/>
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:ellipsize="end" android:id="@+id/item_video_txt" android:background="@android:color/white" android:padding="@dimen/padding_medium" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="2" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

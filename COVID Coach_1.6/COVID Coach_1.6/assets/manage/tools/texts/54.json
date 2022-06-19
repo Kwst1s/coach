@@ -1,0 +1,22 @@
+[{
+		"type": "text",
+		"content": "Want to know how to encourage someone close to you, or someone you're sheltering with?"
+	},
+	{
+		"type": "list",
+		"content": ["to be nicer to you?", "to talk more, or to talk less?", "to help out more?"]
+	},
+	{
+		"type": "text",
+		"content": "Here's what tends not to work as well:"
+	}, {
+		"type": "list",
+		"content": ["bargaining for a change", "demanding a change", "ultimatums", "yelling"]
+	}, {
+		"type": "text",
+		"content": "Here's what might work better:"
+	}, {
+		"type": "list",
+		"content": ["noticing when this person takes a step in the right direction", "finding verbal and nonverbal ways to reinforce positive steps"]
+	}
+]

@@ -1,0 +1,56 @@
+[{
+		"text": [{
+				"type": "text",
+				"content": "Bienvenido a COVID Coach."
+			},
+			{
+				"type": "text",
+				"content": "Esta aplicación fue diseñada para ayudarlo durante la pandemia de COVID-19 y más allá."
+			},
+			{
+				"type": "text",
+				"content": "Puede ayudarlo a controlar el estrés, realizar un seguimiento de su estado de ánimo y encontrar recursos."
+			},
+			{
+				"type": "text",
+				"content": "Esta aplicación no reemplaza el tratamiento de un profesional."
+			}
+		],
+		"img": "t_covid1"
+	},
+	{
+		"text": [{
+			"type": "text",
+			"content": "La sección <b>Manejar el estrés</b> proporciona consejos, estrategias y herramientas concretas para enfrentar el estrés y encontrar maneras de hacer frente a los desafíos."
+		}],
+		"img": "t_covid2"
+	},
+	{
+		"text": [{
+			"type": "text",
+			"content": "La sección <b>Aprender</b> contiene información importante para ayudarle a mantenerse seguro y saludable durante la pandemia COVID-19 y más allá."
+		}],
+		"img": "t_covid3"
+	},
+	{
+		"text": [{
+			"type": "text",
+			"content": "Utilice la sección <b>Registro de ánimo</b> para realizar el seguimiento de sus objetivos, checar su estado de ánimo y bienestar, y visualizar su progreso."
+		}],
+		"img": "t_covid4"
+	},
+	{
+		"text": [{
+			"type": "text",
+			"content": "Utilice la sección <b>Encontrar recursos</b> para conectarse con una amplitud de servicios y apoyos para ayudarle a satisfacer sus necesidades durante la pandemia."
+		}],
+		"img": "t_covid5"
+	},
+	{
+		"text": [{
+			"type": "text",
+			"content": "Establezca <b>Recordatorios</b> para checar la aplicación y tomar unos minutos para usted mismo(a) y su bienestar."
+		}],
+		"img": "t_covid6"
+	}
+]

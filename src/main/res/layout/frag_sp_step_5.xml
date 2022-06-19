@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@+id/sp_step_5_intro_content_1" android:paddingTop="@dimen/padding_mlarge" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/sp_step_5_layout_rview" android:paddingTop="@dimen/padding_large" android:paddingBottom="@dimen/padding_large" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+            <vainstrum.Components.ButtonTracking android:textSize="@dimen/txt_mid_btn" android:textColor="@color/grey_4a" android:layout_gravity="center_horizontal" android:id="@+id/sp_step_5_btn_add_contacts" android:background="@drawable/custom_btn_white_very_rounded" android:paddingLeft="@dimen/padding_xlarge" android:paddingRight="@dimen/padding_xlarge" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:minHeight="48dp" android:text="@string/add_contacts" android:contentDescription="@string/add_contacts" android:textAllCaps="false" android:fontFamily="@font/font_semibold" android:layout_marginStart="@dimen/padding_mlarge" android:layout_marginEnd="@dimen/padding_mlarge" app:fontFamily="@font/font_semibold" app:tracking_id="50341"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/sp_step_5_intro_content_2" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

@@ -1,0 +1,370 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a toddler (2-4 year old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Set some short and clear rules with your child about things like personal space, using outside voices inside, or other potential triggers. Find 1 or 2 words to remind them gently, but frequently, about the rules for interacting with family."
+			}
+		],
+		"image": "dotodler1"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Is your child missing quality time with you?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Find at least one activity you can share with your child for a few minutes each day. Quality time will be good for both of you."
+			}
+		],
+		"image": "childmissqtime"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a young child (2-12 years old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Keep your rules short and to the point. Follow through on your promises and your rules.  Set expectations that you’re sure your child can meet."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a young child (2-12 years old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Celebrate your child's successes."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a young child (2-12 years old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Trust your instincts about how to be the best parent you can be."
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a young child (2-12 years old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Establish, and keep, a routine if you don’t already have one. Children thrive on consistency"
+			}
+		],
+		"image": "ychild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Are you and your child having a hard time connecting?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Think about ways to express your appreciation for your child- by saying something, using gestures, or some other signal that shows how much you care."
+			}
+		],
+		"image": "lovedchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Have you and your child been distant from each other?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Re-introduce yourself to your child by doing things together that you both enjoy. Gradually try to increase how much time you spend together."
+			}
+		],
+		"image": "childdistant"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Feeling like a bad parent?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Know that you're not alone. It's <i>incredibly</i> difficult to parent with PTSD, and you can only do your best.  Children are resilient, and children know when they’re loved.  Love your children, accept that you will make mistakes, forgive yourself, and move on. Just try to do the best that you can do."
+			}
+		],
+		"image": "feelbad"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a toddler (2-4 year old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Ask your child what you can do to help them.  Take several minutes to hear anything they have to say, and find one thing each day to help them with, however small."
+			}
+		],
+		"image": "dotodler2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a young child (5-12 year old)?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Help your child manage any anger they experience.  Give them tools to manage their anger: count to 10, find a creative way to vent their anger, do some deep breathing, find an ally that they can talk to."
+			}
+		],
+		"image": "ychild2"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a teenager?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Don’t be afraid to talk with your teenager about PTSD.  Ask for, and listen to, their opinions.  Encourage them to express their feelings- in words, or music, or some other outlet.  "
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a teenager?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Teenagers may need their own space to deal with your loved one’s PTSD. Respect your teenager’s privacy as much as you safely can.  Don’t step in to solve their problems or make decisions for them."
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a teenager?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pick your moments with your teenager, and when they do want to talk, just listen. Show affection for your teenager, even when it annoys them!"
+			}
+		],
+		"image": "teen"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a partner who helps with your child?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Include your spouse or partner as often as you can when making decisions about how to discipline your child."
+			}
+		],
+		"image": "parthelpchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Support your loved one's parenting",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Compliment your partner when you notice them doing something well."
+			}
+		],
+		"image": "suppparenting"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Do you have a partner who helps with your child?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Try to make sure your children are getting a consistent message when they talk to you and when they talk to your partner. Even if you have very different parenting strategies, try to find common ground where you can. "
+			}
+		],
+		"image": "parthelpchild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Feeling like things are out of control?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Tell your family that you’re going to start having regular Family Meetings.  Schedule a family meeting when you know everyone in your family can be together- meals are good times for these."
+			}
+		],
+		"image": "ocontrol"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Family Meetings",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Make an agenda together. Work together as a family to see if you can come up with some solutions for each item on the agenda."
+			}
+		],
+		"image": "fmeetings"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Does your child have a hard time discussing feelings?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Take the time to give your child your full and undivided attention. Listen with respect and interest, and avoid commenting or judging- let your child do the talking."
+			}
+		],
+		"image": "htimediscuss"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Does your child have a hard time discussing feelings?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Help your child give a label or name to any feelings you hear them talking about- like happy, sad, afraid, excited, interested."
+			}
+		],
+		"image": "hardtimechild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Does your child have a hard time discussing feelings?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "You don't always have to talk. Sometimes it’s enough just to be together for a while."
+			}
+		],
+		"image": "hardtimechild"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Have a young child?",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Sesame Street has a very nice set of resources for helping children cope with trauma in the family:"
+			},
+			{
+				"type": "link_web",
+				"link": "https://sesamestreetincommunities.org/topics/traumatic-experiences/",
+				"content": "Sesame Street Communities"
+			}
+		],
+		"image": "ustudios"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Try a conversation starter, ask what they think.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "With children who can understand, try something like: \"I have been dealing with some difficult stuff lately and I would like to talk with you for a few minutes. How do you feel about how things have been going?\""
+			}
+		],
+		"image": "openup"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Try a conversation starter, share how you're feeling.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "If you are open to discussing how you are feeling, try saying something like \"I've been a bit crabby lately. I want to tell you a little bit about what is going on with me.\""
+			}
+		],
+		"image": "askthink"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Try a conversation starter, open up.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "With older children, model sharing your feelings: \"I'd like to talk with you about some tough things...\""
+			}
+		],
+		"image": "focusstrenghts"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Focus on strengths.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pay attention to your child's strengths-let them know you see them in a positive light. Point out things they do well."
+			}
+		],
+		"image": "sharefeeling"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Give kids time to speak.",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Ask your child about their worries and concerns, and then give them a long moment to respond, to show that you really want them to have a voice."
+			}
+		],
+		"image": "timetospeak"
+	}
+]

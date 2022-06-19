@@ -1,0 +1,22 @@
+{
+  "filename": "observe_sensations.mp3",
+  "filename_es": "Observe-Sensations-Body-Scan.mp3",
+  "title": "Escaneo corporal con Julia",
+  "display_title": "Escaneo corporal con Julia",
+  "subtitle": "sub_body_scan_julia",
+  "intro_text": [
+    {
+      "type": "text",
+      "content": "Para este ejercicio, busque un lugar cómodo y silencioso en el que se pueda sentar sin que se distraiga."
+    },
+    {
+      "type": "text",
+      "content": "Tenga en cuenta que habrá pausas durante la grabación para que pueda practicar sin distracción."
+    },
+    {
+      "type": "text",
+      "content": "Tiempo estimado: 9 minutos."
+    }
+  ],
+  "image": "t17"
+}

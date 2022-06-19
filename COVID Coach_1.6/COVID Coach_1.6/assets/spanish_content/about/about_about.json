@@ -1,0 +1,26 @@
+[
+	{
+		"type": "text",
+		"content": "COVID Coach es una aplicación de teléfono móvil para civiles, veteranos y miembros del servicio afectados por la pandemia COVID-19."
+	},
+	{
+		"type": "text",
+		"content": "COVID Coach está diseñado para ayudarle a mejorar su cuidado personal y su salud mental en general durante estos tiempos difíciles."
+	},
+	{
+		"type": "text",
+		"content": "Esta aplicación proporciona:"
+	},
+	{
+		"type": "list",
+		"content": ["Educación sobre cómo afrontar esta pandemia mundial.",
+		"Herramientas para el autocuidado",
+		"Herramientas para mejorar tu bienestar emocional",
+		"Rastreadores para el seguimiento de salud mental a lo largo del tiempo.",
+		"Rastreador para trabajar en objetivos personales que establezca."]
+	},
+	{
+		"type": "text",
+		"content": "Se puede utilizar como una herramienta de educación y autocuidado independiente, o para aumentar el cuidado con un profesional de la salud."
+	}
+]

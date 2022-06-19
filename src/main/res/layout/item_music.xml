@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:id="@+id/item_music_layout" android:background="@drawable/custom_bg_white" android:padding="@dimen/padding_medium" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:layout_gravity="center_vertical" android:id="@+id/item_music_img_playing" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_small" android:src="@drawable/icon_play"/>
+    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_gravity="center_vertical" android:id="@+id/item_music_txt_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_medium" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_gravity="center_vertical" android:id="@+id/item_music_txt_artist" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_medium" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </LinearLayout>
+    <ImageView android:layout_gravity="center_vertical" android:id="@+id/item_music_img_delete" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginLeft="@dimen/padding_medium" android:src="@drawable/icon_delete" android:scaleType="center"/>
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "text",
+    "content": "¿Quiere saber cómo animar a alguien cercano a usted o alguien con quien se está refugiando?"
+  },
+  {
+    "type": "list",
+    "content": [
+      "para ser más amable con usted?",
+      "hablar más o hablar menos?",
+      "para ayudar más?"
+    ]
+  },
+  {
+    "type": "text",
+    "content": "Esto es lo que tiende a no funcionar tan bien:"
+  },
+  {
+    "type": "list",
+    "content": [
+      "negociando para un cambio",
+      "exigiendo un cambio",
+      "ultimátums",
+      "Gritando"
+    ]
+  },
+  {
+    "type": "text",
+    "content": "Esto es lo que podría funcionar mejor:"
+  },
+  {
+    "type": "list",
+    "content": [
+      "darse cuenta cuando esta persona da un paso en la dirección correcta",
+      "encontrar formas verbales y no verbales de reforzar los pasos positivos"
+    ]
+  }
+]

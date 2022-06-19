@@ -1,0 +1,64 @@
+{
+	"welcome_text": ["Tener una actividad por ansiar durante la mañana puede ayudarle a levantarse de la cama a la misma hora cada día. Consulte Actividades de la Mañana, a continuación, para obtener ideas sobre cosas que hacer por la mañana. Si una actividad continúa funcionando para usted toque la estrella junto a ella para marcarla como favorita."],
+	"stars": [{
+		"id": 1,
+		"text": "Orar o meditar"
+	}, {
+		"id": 2,
+		"text": "Ver el amanecer"
+	}, {
+		"id": 3,
+		"text": "Llevar el perro para dar un paseo"
+	}, {
+		"id": 4,
+		"text": "Leer el periódico o leer las noticias en línea"
+	}, {
+		"id": 5,
+		"text": "Ir a su gimnasio o hacer ejercicio en casa"
+	}, {
+		"id": 6,
+		"text": "Ir a la tienda de comestibles u otras tiendas que abren temprano"
+	}, {
+		"id": 7,
+		"text": "Hacer el almuerzo para usted y para todos los demás en la casa"
+	}, {
+		"id": 8,
+		"text": "Disfrutar de ser capaz de prepararse para el trabajo y preparar a los niños para la escuela sin tener que apresurarse"
+	}, {
+		"id": 9,
+		"text": "Ordenar algunos juguetes de los niños y elegir cosas para una tienda de segunda o venta de garaje"
+	}, {
+		"id": 10,
+		"text": "Ordenar y empezar su ropa para lavar, o planchar la ropa para el trabajo"
+	}, {
+		"id": 11,
+		"text": "Iniciar un presupuesto para su familia en una hoja de cálculo o en un cuaderno"
+	}, {
+		"id": 12,
+		"text": "Enviar correos electrónicos a amigos o revisar su correo electrónico de trabajo"
+	}, {
+		"id": 13,
+		"text": "Desgarrar o borrar discos computadora, DVDs, etc."
+	}, {
+		"id": 14,
+		"text": "Organice todas sus cuentas, recibos, cupones e información de garantía en un archivador o en carpetas"
+	}, {
+		"id": 15,
+		"text": "Empezar preparaciones para la cena (marinado, cortar verduras, etc.)"
+	}, {
+		"id": 16,
+		"text": "Hacer la cama y ordenar su habitación"
+	}, {
+		"id": 17,
+		"text": "Abrir las cortinas y persianas en la casa"
+	}, {
+		"id": 18,
+		"text": "Barrer su patio o escalones, o palear la nieve"
+	}, {
+		"id": 19,
+		"text": "Hacer jardinería ligera o regar las plantas que rodean su porche or jardín"
+	}, {
+		"id": 20,
+		"text": "Revise su lista de tareas para el día o la semana"
+	}]
+}

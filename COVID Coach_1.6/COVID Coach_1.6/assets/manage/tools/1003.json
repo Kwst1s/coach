@@ -1,0 +1,64 @@
+{
+	"welcome_text": ["Having an activity to look forward to in the morning can help getting out of bed at the same time each day seem more doable. See Morning Activities, below, for ideas for things to do in the morning. If an activity continues to work for you, you may want to tap the star next to it to highlight it."],
+	"stars": [{
+		"id": 1,
+		"text": "Meditate or pray"
+	}, {
+		"id": 2,
+		"text": "Watch the sunrise"
+	}, {
+		"id": 3,
+		"text": "Take the dog for a walk"
+	}, {
+		"id": 4,
+		"text": "Read the newspaper or read the news online"
+	}, {
+		"id": 5,
+		"text": "Go to your gym or workout at home"
+	}, {
+		"id": 6,
+		"text": "Go to the grocery store or other stores that open early"
+	}, {
+		"id": 7,
+		"text": "Make lunch for yourself and for everyone else in the house"
+	}, {
+		"id": 8,
+		"text": "Enjoy being able to get ready for work and kids ready for school without having to rush"
+	}, {
+		"id": 9,
+		"text": "Sort out some kids’ toys and choose things for Goodwill or a yard sale"
+	}, {
+		"id": 10,
+		"text": "Sort and start your laundry, or iron clothes for work"
+	}, {
+		"id": 11,
+		"text": "Start a budget for your family on a spreadsheet or in a notebook"
+	}, {
+		"id": 12,
+		"text": "Send emails to friends or check your work email"
+	}, {
+		"id": 13,
+		"text": "Shred or erase old computer disks, DVDs, etc. "
+	}, {
+		"id": 14,
+		"text": "Organize all of your bills, receipts, coupons and warranty information in a filing cabinet or folders"
+	}, {
+		"id": 15,
+		"text": "Get some of the preparation started for dinner dishes (marinating, chopping vegetables, and so on)"
+	}, {
+		"id": 16,
+		"text": "Make the bed and tidy up your bedroom "
+	}, {
+		"id": 17,
+		"text": "Open the curtains and blinds in the house"
+	}, {
+		"id": 18,
+		"text": "Sweep your sidewalk or steps, or shovel snow"
+	}, {
+		"id": 19,
+		"text": "Do some light gardening or water houseplants or those around your porch"
+	}, {
+		"id": 20,
+		"text": "Review your to-do list for the day or the week"
+	}]
+}

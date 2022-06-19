@@ -1,0 +1,111 @@
+[{
+		"title": "Who should create a safety plan?",
+		"display_title": "Who?",
+		"content": [{
+				"type": "title",
+				"content": "Who should create a safety plan?"
+			}, {
+				"type": "text",
+				"content": "The Safety Plan is for anyone who has experienced suicidal thoughts or urges. This tool will help you create a plan to:"
+			},
+			{
+				"type": "list_numeric",
+				"content": ["recognize when you are heading towards a crisis, and", "use specific strategies before and during the crisis to keep you safe."]
+			}
+		]
+	},
+	{
+		"title": "Why create a safety plan?",
+		"display_title": "Why?",
+		"content": [{
+				"type": "title",
+				"content": "Why create a safety plan?"
+			},
+			{
+				"type": "text",
+				"content": "When a crisis happens, it can be hard to think clearly. The Safety Plan is like an emergency action plan to keep you safe until suicidal thoughts or urges to hurt yourself pass."
+			}
+		]
+	},
+	{
+		"title": "When should I create a safety plan?",
+		"display_title": "When?",
+		"content": [{
+				"type": "title",
+				"content": "When should I create a safety plan?"
+			}, {
+				"type": "text",
+				"content": "We recommend that you create your Safety Plan <i>before a crisis happens</i>. Work on it when you are relaxed and in a safe space. Many healthcare providers have been trained in how to create safety plans. Ask your provider if you need help filling yours out."
+			},
+			{
+				"type": "link_internal",
+				"content": "Find Professional Care",
+				"full": true,
+				"link": "find_care"
+			}
+		]
+	},
+	{
+		"title": "What happens when I call a crisis line?",
+		"display_title": "Crisis Line",
+		"content": [{
+				"type": "title",
+				"content": "What happens when I call a crisis line?"
+			}, {
+				"type": "text",
+				"content": "There are many crisis lines available around the world. For people in the USA, we recommend the National Suicide Prevention Lifeline, which provides 24/7, free and confidential support for people in distress. When you call the National Suicide Prevention Lifeline (1-800-273-8255), you will hear a recording with options. Stay on the line to be connected to someone trained to help people who are in crisis. If you are a Veteran, or calling about a Veteran, press 1 and you will be connected to the Veterans Crisis Line, where responders have military culture training and access to VA resources. You also have the option to text this number or visit the National Suicide Prevention Lifeline website to start a chat online."
+			},
+			{
+				"type": "text",
+				"content": "Once you are connected to a crisis worker, they will ask you questions to see if you are safe. Depending on your level of risk, they might connect you with resources, such as your local hospital. They will also listen, offer support, and help you make a plan to stay safe. You can even ask them to help you complete your safety plan."
+			},
+			{
+				"type": "text",
+				"content": "Note: During the call you will be given the option to provide your contact information, in order for the responder to help you access local resources. However, you are not required to provide this information."
+			},
+			{
+				"type": "link_internal",
+				"content": "Crisis Resources",
+				"full": true,
+				"link": "crisis_resources"
+			}
+		]
+	},
+	{
+		"title": "Who could help me complete a safety plan?",
+		"display_title": "Help",
+		"content": [{
+				"type": "title",
+				"content": "Who could help me complete a safety plan?"
+			}, {
+				"type": "text",
+				"content": "Ideally, you should complete a safety plan side by side with a healthcare provider who has been trained on the Safety Planning Intervention. Ask your provider if they are familiar with safety plans, and if they can help you create yours."
+			},
+			{
+				"type": "text",
+				"content": "We have included a lot of helpful tips in the app so that you can create a safety plan on your own, if you do not have access to a trained provider. Tap the &#9432; for more information about a specific step, including examples or additional resources."
+			},
+			{
+				"type": "text",
+				"content": "You can also ask for help from the National Suicide Prevention Lifeline or the Veterans Crisis Line. They will connect you with a crisis worker who can help you with your plan."
+			},
+			{
+				"type": "link_internal",
+				"content": "Crisis Resources",
+				"full": true,
+				"link": "crisis_resources"
+			}
+		]
+	},
+	{
+		"title": "How do I ask for help?",
+		"display_title": "Help",
+		"content": [{
+			"type": "title",
+			"content": "How do I ask for help?"
+		}, {
+			"type": "text",
+			"content": "It is very important to reach out for help when you are in crisis. Whether you contact a professional resource or a trusted friend, be open and honest about the fact that you are in crisis and need some help. You can say something as simple as, “I’m having thoughts of suicide and I need help,” or, “I’m in crisis and I need support right away.” Whatever you say, be sure to convey that you have an <u>immediate</u>, <u>serious</u> need."
+		}]
+	}
+]

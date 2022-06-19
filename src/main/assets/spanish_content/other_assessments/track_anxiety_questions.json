@@ -1,0 +1,184 @@
+[{
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Nervioso(a), ansioso(a) or con los nervios de punta?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 0
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "No ha sido capaz de parar o controlar su preocupación"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 1
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Se ha preocupado demasiado por motivos diferentes?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+
+	"number": 2
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Ha tenido dificultad para relajarse?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 3
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Se ha sentido tan inquieto(a) que no ha podido quedarse quieto(a)?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 4
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Se ha molestado o irritado fácilmente?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 5
+}, {
+	"question": [{
+		"type": "text",
+		"content": "Durante las últimas 2 semanas: ¿qué tan seguido ha tenido molestias debido a que:"
+	}, {
+		"type": "text",
+		"content": "Ha tenido miedo de que algo terrible fuera a pasar?"
+	}],
+	"answers": [{
+			"answer": "Ningún día",
+			"points": 0
+		},
+		{
+			"answer": "Varios días",
+			"points": 1
+		},
+		{
+			"answer": "Más de la mitad de los días",
+			"points": 2
+		},
+		{
+			"answer": "Casi todos los días",
+			"points": 3
+		}
+	],
+	"number": 6
+}]

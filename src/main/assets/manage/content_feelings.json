@@ -1,0 +1,25 @@
+[{
+			"name": "Angry",
+			"children": ["Betrayed", "Bitter", "Critical", "Devastated", "Disgusted", "Frustrated", "Furious", "Hateful", "Hostile", "Hurt", "Irritated", "Resentful"]
+		},
+		{
+			"name": "Joyful",
+			"children": ["Alive", "Cheerful", "Creative", "Curious", "Daring", "Hopeful", "Imaginative", "Light-hearted", "Optimistic", "Playful", "Sensuous", "Stimulating"]
+		},
+		{
+			"name": "Powerful",
+			"children": ["Appreciated", "Confident", "Discerning", "Energetic", "Nurturing", "Proud", "Respected", "Responsive", "Successful", "Thankful", "Valued", "Worthwhile"]
+		},
+		{
+			"name": "Sad",
+			"children": ["Ashamed", "Bored", "Cold", "Depressed", "Despairing", "Disconnected", "Empty", "Hopeless", "Humiliated", "Lonely", "Tired", "Worthless"]
+		},
+		{
+			"name": "Safe",
+			"children": ["Accepted", "Calm", "Loved", "Open", "Peaceful", "Protected", "Quiet", "Relaxed", "Secure", "Thoughtful", "Understood", "Warm"]
+		},
+		{
+			"name": "Scared",
+			"children": ["Abandoned", "Anxious", "Bewildered", "Helpless", "Inadequate", "Insignificant", "Numb", "Overwhelmed", "Paralyzed", "Shocked", "Trapped", "Vulnerable"]
+		}
+	]

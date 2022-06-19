@@ -1,0 +1,422 @@
+[
+  {
+    "displayName": "Mantenerse Seguro En Una Relación",
+    "id": 4000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Los acontecimientos de la vida muy estresantes, como la actual pandemia de COVID-19, pueden aumentar la tensión y el estrés en las relaciones románticas."
+      },
+      {
+        "type": "text",
+        "content": "Si se siente inseguro o si su pareja lo está lastimando, es importante que se conecte a recursos que puedan ayudarlo.\nLa violencia domestica puede incluir actos físicos (golpes, bofetadas, puñetazos, patadas), actos sexuales (actividad sexual no deseada), abuso psicológico o emocional (como gritar o insultar) u otros comportamientos de control (como restringir el acceso a las finanzas, la educación, o atención médica, o monitoreando su ubicación)."
+      },
+      {
+        "type": "text",
+        "content": "Algunas prácticas de seguridad importantes son las siguientes:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Si cree que usted o sus hijos están en peligro, abandone la situación de inmediato.",
+          "Tenga en cuenta los lugares seguros en su hogar para ir si los conflictos se intensifican. Evite las habitaciones con armas (como la cocina) o sin salidas (por ejemplo, armarios, baños).",
+          "Piense en una palabra clave para usarla como señal de socorro para familiares, niños y amigos. Dígales con anticipación que si usa la palabra clave, deben buscar ayuda de inmediato.",
+          "Empaca una maleta o bolso con lo esencial si necesita irse. Haga copias de documentos legales importantes (por ejemplo, licencia de conducir, tarjetas de Seguro Social, certificados de nacimiento, registros médicos que muestren lesiones anteriores) y reserve algo de dinero. Esconda estos artículos en un lugar donde su pareja no los encuentre.",
+          "Haga una lista de personas y agencias a las que puede llamar o acudir en caso de una emergencia. Aprenda los números de teléfono de memoria en caso de que no tenga su teléfono.",
+          "Habla con alguien en quien confíes. Aunque no discuta los detalles, dejar que una persona sepa los conceptos básicos y que es posible que necesite su apoyo en el futuro puede ayudar.",
+          "Considere hablar con los vecinos sobre llamar a la policía si escuchan ruidos fuertes o peleas.",
+          "Considere hablar con un supervisor en el trabajo para obtener ayuda con la planificación de seguridad en su lugar de trabajo."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Si está sufriendo abuso y actualmente se encuentra en un lugar seguro, llame a la línea directa de violencia doméstica nacional gratuita las 24 horas:"
+      },
+      {
+        "type": "link_phone",
+        "full": true,
+        "imageButton": true,
+        "link": "1-800-799-7233",
+        "content": "Llame a la Línea Directa Nacional Contra La Violencia Doméstica"
+      },
+      {
+        "type": "text",
+        "content": "Si no puede hablar con seguridad en este momento, intente:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://espanol.thehotline.org/solicite-ayuda/",
+        "content": "Chat En Línea con la Línea Directa Nacional De Violencia Doméstica"
+      },
+      {
+        "type": "link_text",
+        "full": true,
+        "imageButton": true,
+        "fill": "LOVEIS",
+        "link": "1-866-331-9474",
+        "content": "Envíe un mensaje de texto a la Línea Directa Nacional De Violencia Doméstica"
+      },
+      {
+        "type": "text",
+        "content": "También puede encontrar más información sobre la violencia de pareja íntima y COVID-19 en:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://espanol.thehotline.org/",
+        "content": "Página web de Violencia Doméstica Nacional"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://covid19.ca.gov/es/resources-for-emotional-support-and-well-being/",
+        "content": "Futuros sin violencia"
+      }
+    ]
+  },
+  {
+    "displayName": "Proteger Los Niños",
+    "id": 4001,
+    "related_tools": [
+      29,
+      5
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "La crianza de los hijos puede ser estresante en el mejor de los casos. La crianza de los hijos durante desafíos extremos, como la pandemia de COVID-19, puede hacer que los desafíos parezcan abrumadores. Puede sentirse enojado, impaciente, asustado, triste, desesperado o todas esas emociones durante el transcurso de un solo día."
+      },
+      {
+        "type": "text",
+        "content": "Como padre, es posible que esté haciendo malabarismos con el trabajo, el cierre de la escuela y la guardería, y que esté pasando mucho tiempo en espacios pequeños."
+      },
+      {
+        "type": "text",
+        "content": "Es importante recordar que su hijo también puede verse afectado por estos cambios importantes en la vida, como estar en cuarentena."
+      },
+      {
+        "type": "text",
+        "content": "La página Red Nacional de Estrés Traumático Infantil (NCTSN) tiene más información sobre cómo los niños pueden verse afectados por COVID-19:"
+      },
+      {
+        "type": "link",
+        "content": "NCTSN Guia Para Padre o Cuidador",
+        "imageButton": true,
+        "link": "https://www.nctsn.org/resources/parent-caregiver-guide-to-helping-families-cope-with-the-coronavirus-disease-2019-sp",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Si comienza a sentir que está perdiendo los estribos y podría dañar a sus hijos, aquí hay algunos consejos sobre cosas que puede probar, aunque no pueda salir de su casa:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Tómese un tiempo para usted mismo. Si tiene un bebé o un niño muy pequeño, asegúrese de que esté en un lugar seguro (como una cuna o un corral) y tómese unos minutos. Trate de encontrar un espacio donde pueda estar solo hasta que sus niveles de ira bajen.",
+          "Practica la respiración profunda o la atención plena, aunque nada más sea  unos minutos.",
+          "Llame a un amigo o familiar de confianza"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "También puede llamar a la Línea Nacional de Ayuda para Padres. Alguien está disponible de lunes a viernes de 10:00 AM PST a 7:00 PM PST."
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame a la Línea Nacional de Ayuda para Padres",
+        "link": "1-855-427-27360",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "link",
+        "content": "Sitio web de la línea nacional de ayuda para padres",
+        "link": "https://www.nationalparenthelpline.org/find-support#spanish",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Para obtener más información sobre cómo puede ayudar a sus hijos a sobrellevar la pandemia de COVID-19, consulte la información proporcionada por Child Mind Institute, la organización nacional independiente sin fines de lucro dedicada a transformar las vidas de niños y familias que luchan con trastornos de aprendizaje y salud mental."
+      },
+      {
+        "type": "link",
+        "content": "Child Mind Institute Resources for Children",
+        "link": "https://childmind.org/article/como-apoyar-a-los-ninos-en-la-crisis-del-covid-19/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Limitar El Consumo De Alcohol O Drogas",
+    "id": 4002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El estrés y los momentos de miedo pueden desencadenar el uso excesivo de alcohol y drogas."
+      },
+      {
+        "type": "text",
+        "content": "Aunque el consumo de sustancias puede parecer un descanso temporal del estrés y la ansiedad, puede hacer que sea mucho más difícil afrontar a la rutina diaria y puede poner en riesgo a familias e individuos."
+      },
+      {
+        "type": "text",
+        "content": "Si usted o alguien de su familia está en riesgo de consumo problemático de sustancias durante este tiempo, intente incorporar rutinas y servicios de apoyo lo antes posible."
+      },
+      {
+        "type": "text",
+        "content": "Elimine el alcohol y las sustancias del hogar temporalmente y analice las formas de adoptar enfrentamientos sin sustancias para el manejo del estrés, como la atención plena, los ejercicios o la terapia virtual."
+      },
+      {
+        "type": "text",
+        "content": "Si le preocupa el uso excesivo, comuníquese con su proveedor de salud. Encuentre opciones de tratamiento comunitario a través del localizador de servicios de tratamiento confidenciales y anónimos de SAMHSA:"
+      },
+      {
+        "type": "link",
+        "content": "Localizador De Tratamientos de SAMHSA",
+        "imageButton": true,
+        "link": "https://findtreatment.samhsa.gov/",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "O comuníquese con la línea directa de 24 horas si necesita asistencia inmediata:"
+      },
+      {
+        "type": "link_phone",
+        "content": "Línea directa de SAMHSA",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "La mayoría de la programación de 12 pasos también están disponible virtualmente; aprenda sobre las reuniones en su área aquí:"
+      },
+      {
+        "type": "link",
+        "content": "Reuniones de Alcohólicos Anónimos",
+        "link": "https://www.aa.org/pages/es_ES/online-intergroup",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "link",
+        "content": "Reuniones de Narcóticos Anónimos",
+        "link": "https://www.na.org/meetingsearch/text-results.php?country=Web&state=&city=&zip=&street=&within=10&day=0&lang=&orderby=distance",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Reconociendo Las Señales De Suicidio",
+    "id": 4003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El aislamiento, el miedo y la escasez pueden hacer que algunas personas sientan una mayor desesperanza, lo que puede llevar a pensamientos suicidas."
+      },
+      {
+        "type": "text",
+        "content": "Si usted o un ser querido está experimentando o comunicando:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Sentirse desesperado o como si la vida no valiera la pena.",
+          "Aislamiento de los demás (no debido a COVID19 y refugio en el hogar)",
+          "Sentirse triste o deprimido la mayor parte del tiempo.",
+          "Perder interés en las cosas que generalmente les importaban.",
+          "Participar en conductas de riesgo.",
+          "Querer \"rendirse\" o \"escapar\".",
+          "Pensando en formas de hacerse daño.",
+          "Cortarse o automutilarse.",
+          "Regalando sus posesiones.",
+          "Retirada del contacto por completo, preocupando a amigos y familiares."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "O si necesita apoyo para alguien con:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Antecedentes de depresión, dolor crónico o abuso de sustancias.",
+          "Antecedentes de conductas o intentos suicidas."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Comuníquese de inmediato con la Línea Nacional de Prevención del Suicidio:"
+      },
+      {
+        "type": "link_phone",
+        "content": "Llamar al 911",
+        "imageButton": true,
+        "full": true,
+        "link": "911"
+      },
+      {
+        "type": "link_phone",
+        "content": "Llame al National Suicide Prevention Lifeline",
+        "imageButton": true,
+        "full": true,
+        "link": "1-800-273-8255"
+      },
+      {
+        "type": "link",
+        "content": "Chatear con National Suicide Prevention Lifeline",
+        "imageButton": true,
+        "full": true,
+        "link": "https://suicidepreventionlifeline.org/help-yourself/en-espanol/"
+      },
+      {
+        "type": "text",
+        "content": "También puede comunicarse con consejeros capacitados en la línea de Crisis Text:"
+      },
+      {
+        "type": "link_text",
+        "content": "Línea De Texto De Crisis",
+        "fill": "HOME",
+        "imageButton": true,
+        "full": true,
+        "link": "741741"
+      },
+      {
+        "type": "text",
+        "content": "Si es un veterano, puede llamar a la Línea de crisis para veteranos:"
+      },
+      {
+        "type": "link_phone",
+        "content": "Llamar a la Línea De Crisis",
+        "imageButton": true,
+        "full": true,
+        "link": "1-800-273-8255"
+      },
+      {
+        "type": "text",
+        "content": "(Presione 1 para conectarse con la Línea de Crisis de Veteranos)"
+      },
+      {
+        "type": "link_text",
+        "content": "Mande un mensaje de texto a Veterans Crisis Line",
+        "imageButton": true,
+        "full": true,
+        "link": "838-255"
+      },
+      {
+        "type": "link",
+        "content": "Chatear con Veterans Crisis Line",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.veteranscrisisline.net/get-help/chat"
+      }
+    ]
+  },
+  {
+    "displayName": "Enfrentando La Xenofobia Y El Racismo",
+    "id": 4004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "La pandemia de COVID-19 ha provocado un aumento de los reportes de racismo y xenofobia en los Estados Unidos."
+      },
+      {
+        "type": "text",
+        "content": "Estos ataques y prácticas discriminatorias pueden ser dañinos tanto física como psicológicamente. Para obtener más información sobre qué es el racismo y cómo puede afectar a las personas, lea aquí:"
+      },
+      {
+        "type": "link",
+        "link": "https://politikon.es/2020/06/17/que-es-el-racismo/#",
+        "imageButton": true,
+        "content": "Definiendo El Racismo",
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Es importante que reconozcamos estas experiencias. Es posible que ponerse en contacto con la policía no sea seguro para todos. Sin embargo, si se siente seguro de hacerlo, comuníquese con ellos. Existen otros recursos que pueden resultar útiles."
+      },
+      {
+        "type": "text",
+        "content": "Si se siente cómodo, también puede denunciar el incidente en los siguientes lugares:"
+      },
+      {
+        "type": "link",
+        "link": "https://www.standagainsthatred.org/",
+        "imageButton": true,
+        "content": "Lucha Contra El Odio",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://www.justice.gov/hatecrimes-espanol/consiga-ayuda-ahora",
+        "imageButton": true,
+        "content": "Departamento De Justicia de EE. UU.",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://civilrights.justice.gov/",
+        "imageButton": true,
+        "content": "Reportar una Infracción de Derechos Civiles",
+        "full": true
+      },
+      {
+        "type": "link",
+        "link": "https://www.adl.org/media/13636/download",
+        "content": "Denuncie el Antisemitismo a la Liga Antidifamación",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "type": "text",
+        "content": "Para lidiar emocionalmente con el estrés de este tipo de incidentes, aquí hay algunas estrategias respaldadas por la investigación para probar:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Reconozca lo que sucedió como dañino o perturbador.",
+          "Hable con sus amigos, familiares, líderes comunitarios o un profesional de la salud mental sobre lo que experimentó y pida ayuda si la necesita. Esté abierto a pedir apoyo emocional y de otro tipo, incluido el financiero.",
+          "Elegir no hablar de ello o ignorar el incidente racista tiene un efecto negativo en la salud mental. Es importante compartir sus experiencias con otras personas que puedan comprender y validar sus experiencias.",
+          "Lleve un diario o registre sus sentimientos a través de audio o video para ayudar a procesar el incidente.",
+          "Tómese unos minutos para practicar la atención plena",
+          "Siéntase orgulloso de su identidad racial. Es difícil estar a la altura de las expectativas de la sociedad, pero no deje que eso le impida estar orgulloso de quién es."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Si es testigo de un ataque racista, pruebe una de las siguientes estrategias:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Controle a la persona que está siendo acosada. Trate de expresar su apoyo (\"¿Está todo bien? ¿Hay algo que pueda hacer?\")",
+          "Exprese su desacuerdo (\"No estoy de acuerdo con lo que está haciendo o diciendo\"). Recuerde tener confianza, calma y asertividad.",
+          "Describe lo que está sucediendo (\"Veo que estás acosando a esta persona que solo está comprando comida\").",
+          "Utilice una exclamación (\"¡Oye, basta!\")",
+          "Utilice la comunicación no verbal (como levantar una mano o ponerse delante de alguien, si se siente seguro).",
+          "Interrumpir y redirigir la conversación (\"Disculpe, creo que esta persona está tratando de hacer algo. ¿Hay algo en lo que pueda ayudarlo?\")",
+          "Traiga a otra persona para que ayude a intervenir, incluido alguien con una autoridad más percibida, como un gerente de tienda o un conductor de autobús.",
+          "Si es seguro, filme o grabe el incidente.",
+          "No llame a la policía a menos que se le solicite (o es seguro para todos).",
+          "Denuncie el acto"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "Todos podemos tomar una posición contra la discriminación y el racismo cuando lo vemos. "
+      }
+    ]
+  }
+]

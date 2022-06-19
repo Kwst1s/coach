@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/help_asleep_img" android:layout_width="match_parent" android:layout_height="200dp" android:src="@drawable/img_feelings" android:scaleType="centerCrop"/>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/help_asleep_txt" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_c_refr"/>
+</LinearLayout>

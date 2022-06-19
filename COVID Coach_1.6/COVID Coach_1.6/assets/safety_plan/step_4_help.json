@@ -1,0 +1,55 @@
+[{
+		"type": "title",
+		"content": "How is this different from distractions?"
+	},
+	{
+		"type": "text",
+		"content": "You likely experience varying levels of comfort and trust in each of your relationships. In this step, it’s important to contact people you feel comfortable talking to about personal things. Be sure to list friends and family in the order that you would wish to contact them in a crisis."
+	},
+	{
+		"type": "title",
+		"content": "Can I use nicknames?"
+	},
+	{
+		"type": "text",
+		"content": "Yes, just like with Step 3, you can use nicknames or first names and you should include phone numbers so you can contact your supports when needed, as quickly and as easily as possible."
+	},
+	{
+		"type": "title",
+		"content": "Should I share my Safety Plan with the people I list here?"
+	},
+	{
+		"type": "text",
+		"content": "Absolutely! You can export your plan from the Safety Plan main screen (where all 6 steps are listed). Just as it is important to create your plan when you are not actively in crisis, it is important to share your plan with important support contacts when you are not in crisis. That way, you don’t have to try to explain yourself or your plan when you are experiencing distress."
+	},
+	{
+		"type": "title",
+		"content": "What should I tell my family and friends when I share my safety plan?"
+	},
+	{
+		"type": "text",
+		"content": "It is important to let someone know if you are planning to send them your safety plan. Receiving a safety plan without some background might cause your loved one to become very alarmed. Before you send it, consider giving them some basic information about safety plans (“A safety plan is a plan for me to use when I am in crisis”), as well as an explanation as to how you’d like to involve them (“You are one of my friends and family from step 4,” or, “I want you to be aware of my warning signs.”). Oftentimes, family and friends will appreciate being informed. You can help them support you by being specific about what you need from them (“If you haven’t heard from me in a few days, please check in.”). Or, if you’re not sure what you need from them, you can just say, “In case I am in a crisis in the future, I want you to know my plan.”"
+	},
+	{
+		"type": "title",
+		"content": "What if I don’t have any family or friends in my support network right now?"
+	},
+	{
+		"type": "text",
+		"content": "That’s ok, you can leave this blank and move on to the next step. You can also learn more about how to build your support network here:"
+	},
+	{
+		"type": "link_internal",
+		"full": true,
+		"content": "Grow Your Support",
+		"link": "grow_support"
+	},
+	{
+		"type": "title",
+		"content": "What if I prefer not to list my family or friends in my plan?"
+	},
+	{
+		"type": "text",
+		"content": "That’s ok, too. You might consider why you prefer not to list them. Many people who experience suicidal thoughts think that they are a burden to others, including their loved ones. It’s very likely that your family and friends want you to reach out to them if you are having thoughts of suicide. However, it may be the case that you don’t feel supported by your family. In that case, it’s ok to move on to contacting professionals whom you trust."
+	}
+]

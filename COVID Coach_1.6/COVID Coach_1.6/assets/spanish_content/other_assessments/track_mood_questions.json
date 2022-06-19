@@ -1,0 +1,281 @@
+[
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha tenido molestias debido a tener poco interés o placer en hacer cosas?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 0
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha tenido molestias debido a sentirse decaido(a), deprimido(a) o sin esperanzas?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 1
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha tenido dificultad para quedarse o permancecer dormido(a), o ha dormido demasiado?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 2
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido se ha sentido cansado(a) o can poca energia?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 3
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha estado sin apetito o ha comido en exceso?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 4
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido se ha sentido mal con usted mismo(a) - o que es un fracaso o que ha quedado mal con usted mismo(a) o con su familia?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 5
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha tenido dificultad para concentrarse en ciertas actividades, tales como leer el periódico o ver la televisión?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 6
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido se ha movido o hablado tan lento que otras personas podrían haberlo notado? o lo contrario - muy inquieto(a) o agitado(a) que ha estado moviéndoso mucho más de lo normal?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 7
+  },
+  {
+    "question": [
+      {
+        "type": "text",
+        "content": "¿Durante las últimas dos semanas,"
+      },
+      {
+        "type": "text",
+        "content": "qué tan seguido ha tenido pensamientos de que estaría mejor muerto(a) o de lastimarse de alguna manera?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Ningun día",
+        "points": 0
+      },
+      {
+        "answer": "Varios días",
+        "points": 1
+      },
+      {
+        "answer": "Más de la mitad de los días",
+        "points": 2
+      },
+      {
+        "answer": "Casi todos los días",
+        "points": 3
+      }
+    ],
+    "number": 8
+  }
+]

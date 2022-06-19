@@ -1,0 +1,152 @@
+[{
+	"title": "Someone You Trust",
+	"content": [{
+			"type": "text",
+			"content": "Having someone you can trust and open up to is a gift. It doesn't mean that person has to be perfect- just that you feel comfortable enough to let them in on your experience of the world and know that it’s ok to be yourself."
+		},
+		{
+			"type": "text",
+			"content": "Take a moment to appreciate having someone you can trust. Research has shown that the act of expressing appreciation or gratitude to another person can really help lift your own spirits. Is there someone in your life that you can call or text out of the blue?"
+		},
+		{
+			"type": "text",
+			"content": "Just engaging in a conversation with someone you can trust can often be very helpful.  Make a short call or visit to a friend or loved one, and if you’re feeling adventurous, open up to them a bit more than you usually do."
+		}
+	]
+}, {
+	"title": "Feeling Alone",
+	"content": [{
+			"type": "text",
+			"content": "Feeling alone or isolated is a common experience. Everyone feels this way sometimes, and it’s especially common for those who have had traumatic experiences. It can sometimes be hard to relate to others, or to feel understood by them. You might even feel annoyed or irritable when you’re around others."
+		},
+		{
+			"type": "text",
+			"content": "First, it’s important to recognize that living through a traumatic experience can often lead to avoiding other people- whether it’s because you’re uncertain or fearful about how they will react, you’re uncertain about how you’ll act around them, or you just want to be alone."
+		},
+		{
+			"type": "text",
+			"content": "If you’re feeling lonely or on your own, it’s very important for you to try to reach out to others and to try to find others who you can connect with and spend time with."
+		},
+		{
+			"type": "text",
+			"content": "To start to connect with others, consider one of the following:"
+		},
+		{
+			"type": "list",
+			"content": ["Call or text a friend you haven’t heard from in a while", "Join a meetup group around a hobby or interest of yours",
+				"If you’re religious, attend a religious service or group meeting", "No matter how small, try to do one nice thing for another person today",
+				"Be the first to make small talk next time you’re around someone you wouldn’t otherwise talk to", "Smile and say hello to someone in a situation where you normally wouldn’t",
+				"Write a letter or send an email to someone you care about", "Volunteer your time with a local charity", "Surprise someone with a small gift or help with something"
+			]
+		}
+	]
+}, {
+	"title": "Growing Your Support",
+	"content": [{
+			"type": "text",
+			"content": "Having healthy, satisfying support from other people in your life is important to having a good quality of life. If you've already got at least some support, you're doing well."
+		},
+		{
+			"type": "text",
+			"content": "Having satisfying relationships and friendships with others requires some effort- showing those you care about that you have time for them and are interested in them."
+		},
+		{
+			"type": "text",
+			"content": "Taking the time to invest in your existing relationships can pay dividends- you’ll probably feel better, and you’ll strengthen your connections with people you already care about."
+		},
+		{
+			"type": "text",
+			"content": "To grow your existing support, try one of the following:"
+		},
+		{
+			"type": "list",
+			"content": ["Call a friend and invite them to do something with you this week", "Ask a family member to spend some quality time with you doing something that you both enjoy",
+				"Take the time to do something with a friend or family member that you know they enjoy, even if you don’t enjoy it so much",
+				"Have a conversation with someone you care about and give them your full attention- as the other person talks to you, try to make sure you really understand what they’re saying",
+				"Connect with other Veterans who’ve had similar experiences:"
+			]
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Facebook has many Veteran-focused groups"
+				}]
+			]
+		},
+
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.facebook.com/",
+			"content": "Facebook Groups"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Meetup has many Veteran-focused activity groups."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.meetup.com/",
+			"content": "Meetup Groups"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Team Rubicon helps Veterans partner with first responders to create disaster relief teams and give back to the community. It's a great way to connect with other Veterans and do something that matters."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://teamrubiconusa.org/",
+			"content": "Team Rubicon"
+		},
+
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Iraq and Afghanistan Veterans of America has many ways to connect with other Veterans"
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://iava.org/programs/",
+			"content": "Iraq and Afghanistan Veterans of America"
+		},
+		{
+			"type": "list_complex",
+			"depth": 2,
+			"content": [
+				[{
+					"type": "text",
+					"content": "Get physically active with a Team Red White &amp; Blue group near you."
+				}]
+			]
+		},
+		{
+			"type": "link_web",
+			"full": true,
+			"link": "https://www.teamrwb.org",
+			"content": "Team Red White &amp; Blue group"
+		}
+	]
+}]

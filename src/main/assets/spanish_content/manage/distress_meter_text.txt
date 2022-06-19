@@ -1,0 +1,5 @@
+Puede calificar su nivel de angustia en una escala de 0 a 10.<br>
+La angustia incluye todo lo negativo que sientes, incluyendo enojo, tristeza, miedo, dolor físico, etcétera, todo en una sola puntuación.<br><br>
+0 significa que no hay angustia en lo absoluto.<br><br>
+10 significa la peor angustia que puedas imaginar.<br><br>
+Esto le ayudará a monitorear sus niveles de angustia y averiguar qué herramientas de esta aplicación funcionan mejor para usted.

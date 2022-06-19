@@ -1,0 +1,15 @@
+[{
+		"type": "text",
+		"content": "You may be taking medications that are essential for your health and well-being. However, when you are experiencing a crisis it can be important to stop yourself from taking too much medication. You might consider getting a medication lock box, or asking a family member or friend to hold on to your medication and give you daily doses. You might also ask your doctor (or pharmacist) to only give you small amounts of medication at a time. At some pharmacies, you can even ask for medication to be packaged in individual, daily dose packages or in blister packs, which make it so you pop out the pills one at a time. Ask your local pharmacist about your options. Lastly, if you have access to opioids, consider asking a physician or pharmacist for a naloxone emergency kit. Naloxone is a medication that can reverse the effects of opioid overdose"
+	},
+	{
+		"type": "text",
+		"content": "For medications you do not need every day, you can also consider the option of safe disposal. Try mixing up medication with coffee grounds and throwing them away at home. You can also discard medications safely in a disposal bin at your local VHA facility, or at select pharmacies and police departments in the community. Select the disposal locator button below find a safe disposal site near you."
+	},
+	{
+		"type": "link_web",
+		"link": "https://apps2.deadiversion.usdoj.gov/pubdispsearch/spring/main?execution=e1s1",
+		"full":true,
+		"content": "Disposal Locator"
+	}
+]

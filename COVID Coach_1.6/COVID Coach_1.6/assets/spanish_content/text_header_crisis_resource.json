@@ -1,0 +1,55 @@
+[{
+		"type": "text",
+		"content": "Para cualquier tipo de crisis, incluyendo emergencias médicas, vaya a su sala de emergencias más cercana o llame al:"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"content": "911",
+		"link": "911"
+	},
+	{
+		"type": "text",
+		"content": "Línea Nacional de Prevención de Suicidios:"
+	}, {
+		"type": "link_phone",
+		"link": "1-888-628-9454",
+		"full": true,
+		"content": "Llame 1-888-628-9454"
+	},
+	{
+		"type": "link_text",
+		"link": "838255",
+		"full": true,
+		"content": "Mensaje de veteranos 838255"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.veteranscrisisline.net",
+		"content": "Chat confidencial en línea para veteranos"
+	},
+	{
+		"type": "text",
+		"content": "Línea Nacional Contra la Violencia Doméstica:"
+	},
+	{
+		"type": "link_phone",
+		"link": "1-800-799-7233",
+		"full": true,
+		"content": "Llame al 1-800-799-7233"
+	},
+	{
+		"type": "text",
+		"content": "Línea Nacional de Asalto Sexual:"
+	},
+	{
+		"type": "link_phone",
+		"full": true,
+		"link": "1-800-656-4673",
+		"content": "Llame al 1-800-656-4673"
+	},
+	{
+		"type": "text",
+		"content": "<b><font color=\"#1565c0\">Contatos personales:</font></b><br>"
+	},

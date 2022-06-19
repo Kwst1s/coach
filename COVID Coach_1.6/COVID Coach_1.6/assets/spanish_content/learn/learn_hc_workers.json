@@ -1,0 +1,243 @@
+[
+  {
+    "displayName": "Identificando agotamiento y trauma",
+    "id": 20101,
+    "related_tools": [
+      46,
+      107,
+      105,
+      6
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "El riesgo de agotamiento y estrés postraumático aumenta significativamente debajo de condiciones intensas. Los humanos no están programados para enfrentar altos niveles de adversidad indefinitamente."
+      },
+      {
+        "type": "text",
+        "content": "Síntomas comunes de agotamiento incluyen:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Cometer errores",
+          "Apatía - sensasión de adormecimiento",
+          "Fatiga",
+          "Cambios en el sueño",
+          "Evitamiento de personas, lugares o situaciones difiíciles",
+          "Dificultad relacionandose con los demás",
+          "Dificultad con la concentración o la memoria",
+          "Aislandose de los demás",
+          "Cambios de comportamiento",
+          "Auto-medicandose "
+        ]
+      },
+      {
+        "type": "text",
+        "content": "\"Si te sientes \"consumido\", si te sientes desmoralizado y agotado, lo mejor, por el bien de todos, es retirarte y restaurarte a ti mismo.\" - Dalai Lama"
+      },
+      {
+        "type": "link",
+        "content": "Check for burnout",
+        "full": true,
+        "imageButton": true,
+        "link": "https://f69e.engage.squarespace-mail.com/r?m=5ec2c7841929095fffb4e34a&u=http%3A%2F%2Fwww.proqol.org%2Fuploads%2FProQOL_5_English_Self-Score_3-2012.pdf&w=5514c67ce4b0ce927f070fd1&l=en-US&s=j-K0Gyvbr_eh2_TQ1yVKRRb1RMU%3D"
+      },
+      {
+        "type": "text",
+        "content": "Los trabajadores de la salud también corren el riesgo de experimentar estrés postraumático debido a su trabajo.  Compruebe si esta luchando con síntomas de TEPT (PTSD)."
+      },
+      {
+        "type": "link_internal",
+        "content": "Checar síntomas de TEPT (PTSD)",
+        "full": true,
+        "link": "track_ptsd_symptoms"
+      }
+    ]
+  },
+  {
+    "displayName": "Como lidiar con decisiones difíciles",
+    "id": 20102,
+    "related_tools": [
+      105,
+      56
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "¿Cómo puede hacer el trabajo de su corazón sin romper su propio corazón en el proceso? Los daños morales ocurren en la profesión de la salud cuando no hay suficientes recursos para realizar el trabajo como se supone que se debe de hacer.  Específicamente, los trabajadores de la salud pueden encontrarse en situaciones en las que se ven obligados a tomar decisiones de cuidado que desafían su brújula moral."
+      },
+      {
+        "type": "link",
+        "content": "Más información sobre los daños morales",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.ptsd.va.gov/professional/treat/cooccurring/moral_injury_hcw.asp"
+      },
+      {
+        "type": "text",
+        "content": "Los proveedores de cuidados para la salud a menudo ingresan a su línea de trabajo para ayudar a los demás. Cuando no tienen las herramientas necesarias para hacerlo, pueden notar:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Pensamientos rumiativos y sentimientos de culpa después de percibir un fracaso",
+          "Ponen las necesidades de los demás por encima de las propias",
+          "No reconocen o minimilizan su propio dolor y luchas",
+          "Tienen reacciones fuertes o exageradas cuando el trabajo cae por debajo de sus estándares personales"
+        ]
+      },
+      {
+        "type": "text",
+        "content": "El daño moral puede ser abordado tomando en cuenta lo siguiente;"
+      },
+      {
+        "type": "list_numeric",
+        "content": [
+          "¿Qué pasos pequeños pueden tomar los equipos para apoyarse y protegerse emocionalmente y espiritualmente?",
+          "¿Qué sistemas se pueden implementar para facilitar la auto-supervisión, los chequeos, la planificación flexible y la resolución de problemas?",
+          "¿A quién hay que contactar cuando el trabajo que se tiene que realizar no es posible con los recursos disponibles?"
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Estrategias de autocuidado respaldadas por investigación",
+    "id": 20103,
+    "related_tools": [
+      105,
+      4,
+      6,
+      107,
+      65
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "¿Cómo llenas tu taza cuando el pozo se ha secado? Afortunadamente hay herramientas que pueden ayudarle.  Ponerlas en práctica le ayudará a presentarse a ese trabajo importante que es su misión."
+      },
+      {
+        "type": "title",
+        "content": "Formas de Auto-Conservar"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Practicar la compasión por si mismo - cambiar sus expectativas, ser flexible, hablar con si mismo como lo haría hacia un amigo",
+          "Pida ayuda de sus amigos o familiares",
+          "Automonitorear sus reacciones de estrés."
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Intentar Chequeo de ánimo",
+        "full": true,
+        "link": "mood_check_section"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Ajuste las dudas de si mismo(a) que son inútiles y no le sirven",
+          "Mantengase en el presente - sienta sus pies",
+          "Encuentre maneras de aumentar la gratitud y el significado y use la empatía como una arma",
+          "Escuche y sintonice su conocimiento interior y resiliencia natural - invoque su intuición",
+          "Cree y mantenga escapes saludables",
+          "Calme la mente - explore la yoga, la meditación o pruebe:"
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Técnica de liberación emocional (Tapping)",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.youtube.com/watch?v=fEWmWswbe1s"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Encuentra momentos de paz:"
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Intente la Meditación guiada - El ojo del huracán",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.youtube.com/watch?v=PqRy6-SmqTE"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Salga afuera. Practique la reducción de estrés a traves de la naturaleza",
+          "Encuentre un consejero o terapeuta"
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Buscar ayuda en línea",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "learn_id": 10001,
+        "link": "link_learn"
+      }
+    ]
+  },
+  {
+    "displayName": "Para las parejas de profesionales médicos",
+    "id": 20104,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Algunos días puede parecer imposible consolar a una pareja que ha tenido que presenciar el sufrimiento, la muerte y el dolor. Reconocer ese dolor y estar plenamente presentes puede ser algo invaluable en medio de esta tormenta."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Ofrezca consuelo y apoyo: \"Estoy aquí.  Esto es inimaginablemente difícil. ¿Qué necesitas hoy? ¿Cómo puedo ayudar?\"",
+          "Comunique las necesidades.  Desarrolle su propia manera de identificar cuándo es necesario emplear estrategias y ayuda para \"llenar el vacío\" en casa.",
+          "Considere la posibilidad de explorar las herramientas de relaciónes."
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Pruebe una nueva herramienta ahora",
+        "full": true,
+        "link": "relationship_tools"
+      },
+      {
+        "type": "link",
+        "content": "Pruebe la aplicación Couples Coach (Coach de parejas)",
+        "full": true,
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.couplescoach"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Si nota que su pareja parece no ser ellos mismos o que su relación se está deteriorando, considere buscar ayuda adicional."
+        ]
+      },
+      {
+        "type": "link_internal",
+        "content": "Buscar ayuda en línea",
+        "full": true,
+        "learn_file": "find_resources.json",
+        "learn_id": 10001,
+        "link": "link_learn"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Si llega el momento en que necesite procesar lo que su relación ha sufrido, considere la consejería de parejas."
+        ]
+      },
+      {
+        "type": "link",
+        "content": "Encontrar un consejero de parejas",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.psychologytoday.com/us/therapists/spanish"
+      }
+    ]
+  }
+]

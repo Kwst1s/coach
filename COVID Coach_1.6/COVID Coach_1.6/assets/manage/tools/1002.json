@@ -1,0 +1,64 @@
+{
+	"welcome_text": ["Getting out of bed to do some relaxing activities when you can’t sleep can help your body associate your bed with sleep. See the Activities for the Middle of the Night below for ideas for things to do when you are having trouble sleeping. If an activity continues to work for you tap the star next to it to highlight it."],
+	"stars": [{
+		"id": 1,
+		"text": "Look through catalogs"
+	}, {
+		"id": 2,
+		"text": "Update your address books or start one online or on paper"
+	}, {
+		"id": 3,
+		"text": "Sort out junk mail and bills (but don’t pay bills)"
+	}, {
+		"id": 4,
+		"text": "Play solitaire online or with cards at home, as long as you are not too competitive about it"
+	}, {
+		"id": 5,
+		"text": "Catch up on your reading"
+	}, {
+		"id": 6,
+		"text": "Make a grocery shopping list for the week"
+	}, {
+		"id": 7,
+		"text": "Create a detailed menu for dinners"
+	}, {
+		"id": 8,
+		"text": "De-clutter your coffee table, dining room table, kitchen countertops or desk"
+	}, {
+		"id": 9,
+		"text": "Create a list of activities that you’d enjoy doing on weekends and vacations"
+	}, {
+		"id": 10,
+		"text": "Work on photo albums or scrapbooks"
+	}, {
+		"id": 11,
+		"text": "Fold clothes, put away clothes"
+	}, {
+		"id": 12,
+		"text": "Shop for holiday, wedding or birthday gifts online"
+	}, {
+		"id": 13,
+		"text": "Read magazines or other light material"
+	}, {
+		"id": 14,
+		"text": "Make a materials list for a project around the house"
+	}, {
+		"id": 15,
+		"text": "Choose one or two drawers to clean out (in your desk, kitchen, bathroom)"
+	}, {
+		"id": 16,
+		"text": "Watch infomercials, C-SPAN, The Weather Channel, or other repetitive television shows"
+	}, {
+		"id": 17,
+		"text": "Organize collections of CDs or DVDs and choose some to donate or sell if you no longer enjoy them"
+	}, {
+		"id": 18,
+		"text": "Jot down thoughts on a notepad for an assigned period of time. Use this exercise to help decrease nighttime thinking and worrying."
+	}, {
+		"id": 19,
+		"text": "Knit or do other crafts that you can stop working on when you feel sleepy"
+	}, {
+		"id": 20,
+		"text": "Read your kids’ books- these are often very comforting, easy to read, and fun"
+	}]
+}

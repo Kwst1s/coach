@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Llame a un familiar",
+    "content": "Hablar con otra persona sobre sus problemas o escuchar los problemas de otra persona durante un tiempo puede ayudarlo a mejorar su estado de ánimo o cambiar su forma de pensar."
+  },
+  {
+    "title": "Llame a un amigo",
+    "content": "Hablar con otra persona sobre sus problemas o escuchar los problemas de otra persona durante un tiempo puede ayudarlo a mejorar su estado de ánimo o cambiar su forma de pensar."
+  },
+  {
+    "title": "Escribe un correo electrónico a alguien que le importa",
+    "content": ""
+  },
+  {
+    "title": "Establezca una videollamada con amigos",
+    "content": ""
+  },
+  {
+    "title": "Establezca  una video llamada con familia ",
+    "content": ""
+  },
+  {
+    "title": "Tome una clase en línea gratuita.",
+    "content": "La Universidad Nacional Autónoma de México (UNAM) ofrece 43 cursos online gratuitos con la posibilidad de acceder al certificado de finalización. ¡Aprovéchalos!",
+    "link": "https://es.coursera.org/unam",
+    "link_name": "Universidad Nacional Autónoma de México"
+  },
+  {
+    "title": "Inicie un grupo de chatear en línea. Vea y discuta una transmisión en vivo de una actuación musical en línea.",
+    "content": "LaMusica es un servicio gratuito de vídeo, radio, música y entretenimiento digital.",
+    "link": "https://www.lamusica.com/",
+    "link_name": "LaMusica"
+  },
+  {
+    "title": "Inicie un grupo de chatear en línea. Vea y discuta una obra de teatro en linea.",
+    "content": "Teatrix es un catálogo que incluye muchas obras de teatro de cada género.",
+    "link": "https://www.teatrix.com/",
+    "link_name": "Teatrix"
+  },
+  {
+    "title": "Inicie un grupo de chatear en línea. Mire una película al mismo tiempo.",
+    "content": "¡Tomatazos tiene una lista de las 100 mejores películas de todos los tiempos!",
+    "link": "https://www.tomatazos.com/articulos/419650/Hollywood-elige-las-100-mejores-peliculas-de-todos-los-tiempos",
+    "link_name": "Tomatazos"
+  },
+  {
+    "title": "Participe en un juego en línea con amigos o familiares.",
+    "content": "La página de Univision tiene una lista de los 10 mejores juegos en línea  para compartir con amigos y familiares en la cuarentena.",
+    "link": "https://www.univision.com/noticias/tecnologia/coronavirus-10-mejores-juegos-para-compartir-con-amigos-y-familiares-en-la-cuarentena",
+    "link_name": "Univision"
+  },
+  {
+    "title": "Envíe un mensaje a un viejo amigo en las redes sociales.",
+    "content": ""
+  },
+  {
+    "title": "Cocina la cena por sí mismo y envíe una foto a sus amigos.",
+    "content": "Clara puede ayudarte a pensar en algunos platos sencillos.",
+    "link": "https://www.clara.es/recetas/recetas-cenas-rapidas_168/1",
+    "link_name": "Clara"
+  },
+  {
+    "title": "Únase a un club de lectura en línea o un grupo de lectura.",
+    "content": "Palabra Lab puede ayudarte encontrar libros o un grupo de lectura.",
+    "link": "http://www.palabralab.com/",
+    "link_name": "Palabra Lab"
+  }
+]

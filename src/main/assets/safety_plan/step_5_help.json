@@ -1,0 +1,29 @@
+[{
+		"type": "title",
+		"content": "Get help from a professional"
+	},
+	{
+		"type": "text",
+		"content": "This is the place to list professionals that you already know. This can be your therapist, psychiatrist, medical doctor, social worker, or chaplain/spiritual advisor."
+	},
+	{
+		"type": "text",
+		"content": "This is not the place to list professionals whom you have never met. Establishing care takes time, and the goal of the Safety Plan is to find help right away. However, we do recommend seeking new providers now (before you’re in crisis) so you have someone to go to in the event of a crisis."
+	},
+	{
+		"type": "link_internal",
+		"full": true,
+		"content": "Find Professional Care",
+		"link": "find_care"
+	},
+	{
+		"type": "text",
+		"content": "Remember that crisis counselors are available over the phone, 24/7. Some are also available via online chat or text. Select the Get Support Now button to learn more about crisis support resources."
+	},
+	{
+		"type": "link_internal",
+		"full": true,
+		"content": "Get Support Now",
+		"link": "crisis_resources"
+	}
+]

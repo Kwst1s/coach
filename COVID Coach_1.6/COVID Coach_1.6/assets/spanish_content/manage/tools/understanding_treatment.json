@@ -1,0 +1,109 @@
+[{
+		"text": [{
+				"type": "title",
+				"gravity": 0,
+				"content": "La psicoterapia Funciona"
+			},
+			{
+				"type": "text",
+				"content": "Uno de los tratamientos más efectivos para el TEPT es la psicoterapia. Encuentra un terapeuta con el que tu ser querido se encuentre a gusto."
+			}
+		],
+		"image": "talktheraphy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Terapia específica para el Trauma"
+		}, {
+			"type": "text",
+			"content": "Muchas de las psicoterapias ayudan, pero la mejor terapia posible son aquellas terapias específicas para el trauma. Estas son: Exposición prolongada, terapia de procesamiento cognitivo, y el Desensibilización y reprocesamiento por medio de movimiento ocular (o EMDR)."
+		}],
+		"image": "traumatherapy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "El Ejercicio Puede Mejorar el Estado de Ánimo"
+		}, {
+			"type": "text",
+			"content": "El ejercicio es efectivo como la medicación o la conserjería para muchos tipo de problema relacionados con el estado de animo. el ejercicio es efectivo como la medicación o la conserjería para muchos tipo de problema relacionados con el estado de animo. Si físicamente puedes, tú como tu PAREJA, os podríais beneficiar de algunos minutos de ejercicio diario."
+		}],
+		"image": "exercisetherapy"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "El mindfulness Puede Ayudar"
+		}, {
+			"type": "text",
+			"content": "La conciencia plena o el mindfulness, ha mostrado ser muy efectivo para reducir el estrés y los síntomas del TEPT. Prueba la herramienta de la conciencia plena con tu ser querido!"
+		}],
+		"image": "icn_mindfulness",
+		"action": "practice_mindfulness"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Busca un Tratamiento para tu Ser Querido"
+		}, {
+			"type": "text",
+			"content": "Habla con un profesional, gratis, sobre cómo conseguir la ayuda que necesitas y merece tu ser querido. Llama a: 1-883-823-7458 (Coaching Into Care)"
+		}],
+		"image": "glovedone"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Medicaciones que Funcionan"
+		}, {
+			"type": "text",
+			"content": "Se ha demostrado que algunas medicaciones son efectivas para personas con TePT. entre ellas los recaptadores de la inhibición de la serotonina. Habla con tu médico."
+		}],
+		"image": "medications"
+	},
+
+	{
+		"text": [{
+			"type": "title",
+			"gravity": 0,
+			"content": "Terapia Familiar"
+		}, {
+			"type": "text",
+			"content": "El TEPT puede afectar a todos los miembros de una familia. La terapia familiar ayuda a los miembros de la familia a que se entiendan mejor en un espacio seguro."
+		}],
+		"image": "familyth"
+	},
+
+	{
+		"text": [{
+				"type": "text",
+				"content": "El TEPT se puede tratar con psicoterapia o  con medicamentos, o mediante la combinación de ambas. El tratamiento más eficaz para el TEPT es la terapia cognitivo-conductual o de exposición. Este tratamiento consiste en la exploración de los pensamientos afectados por el trauma para ayudar al sobreviviente a controlar sus recuerdos de modo que le permita pensar en lo que sucedió de forma equilibrada y darle un sentido."
+			},
+			{
+				"type": "text",
+				"content": "El tratamiento puede incluir el enfrentamiento del sobrevivente con los recuerdos traumáticos de forma segura, y con el apoyo adecuado, para que pueda sentirse en control. A las personas también se les enseña a lidiar de manera eficaz con el estrés y a enfrentar los síntomas del TEPT, con técnicas similares a las disponibles en esta aplicación."
+			},
+			{
+				"type": "text",
+				"content": "Si desea más información acerca de tratamiento y dónde encontrarlo, lea la sección “Reciba ayuda profesional” en esta aplicación o visite la página web del"
+			},
+			{
+				"type": "link_web",
+				"content": "Centro Nacional de Estudios sobre el Estrés Postraumático",
+				"link": "https://www.ptsd.va.gov/public/"
+			}
+		],
+		"image": "l7"
+	}
+]

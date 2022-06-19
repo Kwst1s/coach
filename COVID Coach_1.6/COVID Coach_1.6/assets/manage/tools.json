@@ -1,0 +1,331 @@
+[{
+		"id": "2",
+		"filename": "a_sounds.json",
+		"title": "Ambient Sounds",
+		"display_title": "Ambient",
+		"symptoms_ids": [1, 7]
+	}, {
+		"id": "3",
+		"filename": "change_perspective.json",
+		"title": "Change Your Perspective",
+		"display_title": "Perspective",
+		"symptoms_ids": [1, 2, 4, 5]
+	}, {
+		"id": "4",
+		"filename": "connect_others.json",
+		"title": "Connect With Others",
+		"display_title": "Connect",
+		"symptoms_ids": [2, 3, 4, 6]
+	}, {
+		"id": "5",
+		"filename": "deep_breathing.json",
+		"title": "Deep Breathing",
+		"display_title": "Deep Breathing",
+		"symptoms_ids": [1, 3, 4, 5, 7]
+	}, {
+		"id": "6",
+		"filename": "grounding.json",
+		"title": "Grounding",
+		"display_title": "Grounding",
+		"symptoms_ids": [1, 3, 5]
+	}, {
+		"id": "7",
+		"filename": "help_asleep.json",
+		"title": "Help Falling Asleep",
+		"display_title": "Falling Asleep",
+		"symptoms_ids": [7]
+	}, {
+		"id": "8",
+		"filename": "leisure.json",
+		"title": "Indoor Activities: Time Alone",
+		"display_title": "Time Alone",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "9",
+		"filename": "leisure.json",
+		"title": "Indoor Activities: With a Partner or Roommate",
+		"display_title": "With a Partner or Roommate",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "10",
+		"filename": "leisure.json",
+		"title": "Indoor Activities: With Kids",
+		"display_title": "With Kids",
+		"symptoms_ids": [4, 6]
+	}, {
+		"id": "11",
+		"filename": "mindfulness_observe.json",
+		"title": "Mindful Breathing",
+		"display_title": "Mindful Breathing",
+		"symptoms_ids": [1, 2, 5]
+	}, {
+		"id": "15",
+		"filename": "mindfulness_observe.json",
+		"title": "Mindful Walking",
+		"display_title": "Mindful Walking",
+		"symptoms_ids": [1, 2, 5]
+	}, {
+		"id": "17",
+		"filename": "mindfulness_observe.json",
+		"title": "Body Scan with Julia",
+		"display_title": "Body Scan with Julia",
+		"symptoms_ids": [1, 3, 5]
+	}, {
+		"id": "18",
+		"filename": "mindfulness_observe.json",
+		"title": "Clouds in the Sky",
+		"display_title": "Clouds in the Sky",
+		"symptoms_ids": [1, 2, 4, 5, 7]
+	}, {
+		"id": "19",
+		"filename": "mindfulness_observe.json",
+		"title": "Leaves on a Stream",
+		"display_title": "Leaves on a Stream",
+		"symptoms_ids": [1, 2, 4, 5, 7]
+	}, {
+		"id": "31",
+		"filename": "mindfulness_observe.json",
+		"title": "Emotional Discomfort",
+		"display_title": "Emotional Discomfort",
+		"symptoms_ids": [1, 2, 5]
+	}, {
+		"id": "20",
+		"filename": "muscle_relaxation.json",
+		"title": "Muscle Relaxation",
+		"display_title": "Muscle Relaxation",
+		"symptoms_ids": [1, 4, 5, 7]
+	}, {
+		"id": "21",
+		"filename": "positive_imagery.json",
+		"title": "Positive Imagery: Beach",
+		"display_title": "Positive Imagery",
+		"symptoms_ids": [1,3, 4, 5, 7]
+	}, {
+		"id": "22",
+		"filename": "positive_imagery.json",
+		"title": "Positive Imagery: Country Road",
+		"display_title": "Positive Imagery",
+		"symptoms_ids": [1,3, 4, 5, 7]
+	}, {
+		"id": "23",
+		"filename": "positive_imagery.json",
+		"title": "Positive Imagery: Forest",
+		"display_title": "Positive Imagery",
+		"symptoms_ids": [1,3, 4, 5, 7]
+	}, {
+		"id": "24",
+		"filename": "",
+		"title": "Soothing Audio",
+		"display_title": "Soothing Audio",
+		"symptoms_ids": [1, 3, 4, 5, 7]
+	}, {
+		"id": "25",
+		"filename": "",
+		"title": "Soothing Images",
+		"display_title": "Soothing Images",
+		"symptoms_ids": [1, 3, 4, 5]
+	}, {
+		"id": "26",
+		"filename": "",
+		"title": "RID: Coping with Triggers",
+		"display_title": "RID",
+		"symptoms_ids": [1]
+	}, {
+		"id": "28",
+		"filename": "soothe_senses.json",
+		"title": "Soothe the Senses",
+		"display_title": "Soothe the Senses",
+		"symptoms_ids": [1, 3, 4, 5, 7]
+	}, {
+		"id": "32",
+		"filename": "thought_shifting.json",
+		"title": "Thought Shifting",
+		"display_title": "Thought Shifting",
+		"symptoms_ids": [1, 4, 5]
+	}, {
+		"id": "29",
+		"filename": "time_out.json",
+		"title": "Time Out",
+		"display_title": "Time Out",
+		"symptoms_ids": [1, 5, 6]
+	}, {
+		"id": "30",
+		"filename": "inspiring_quotes.json",
+		"title": "Inspiring Quotes",
+		"display_title": "Quotes",
+		"symptoms_ids": [2, 4]
+	},
+	{
+		"id": "33",
+		"filename": "schedule_worry_time.json",
+		"title": "Schedule Worry Time",
+		"display_title": "Worry Time",
+		"symptoms_ids": [1, 4, 7]
+	},
+	{
+		"id": "34",
+		"filename": "changing_sleep_perspectives.json",
+		"title": "Changing Sleep Perspectives",
+		"display_title": "Sleep Perspectives",
+		"symptoms_ids": [7]
+	},
+	{
+		"id": "35",
+		"filename": "positive_communication.json",
+		"title": "Positive Communication",
+		"display_title": "Positive Communication",
+		"symptoms_ids": [6]
+	},
+	{
+		"id": "38",
+		"filename": "reconnecting.json",
+		"title": "Reconnect with my Partner",
+		"display_title": "Reconnect with my Partner",
+		"symptoms_ids": [6]
+	},
+	{
+		"id": "40",
+		"filename": "arguments_healthier.json",
+		"title": "Make Arguments Healthier",
+		"display_title": "Make Arguments Healthier",
+		"symptoms_ids": [6]
+	},
+	{
+		"id": "44",
+		"filename": "using_i_messages.json",
+		"title": "Using \"I\" Messages",
+		"display_title": "Using \"I\" Messages",
+		"symptoms_ids": [6]
+	},
+	{
+		"id": "45",
+		"filename": "seeing_my_strenghts.json",
+		"title": "Seeing My Strengths",
+		"display_title": "Seeing My Strengths",
+		"symptoms_ids": [2, 6]
+	},
+	{
+		"id": "46",
+		"filename": "my_feelings.json",
+		"title": "My Feelings",
+		"display_title": "My Feelings",
+		"symptoms_ids": [1,2, 4, 5, 7]
+	},
+	{
+		"id": "47",
+		"filename": "good_sleep_habits.json",
+		"title": "Good Sleep Habits",
+		"display_title": "Good Sleep Habits",
+		"symptoms_ids": [7]
+	}, {
+		"id": "48",
+		"filename": "mindfulness_observe.json",
+		"title": "Body Scan with Robyn",
+		"display_title": "Body Scan with Robyn",
+		"symptoms_ids": [1, 3, 5]
+	},{
+		"id": "49",
+		"filename": "mindfulness_observe.json",
+		"title": "Awareness of the Senses",
+		"display_title": "Awareness of the Senses",
+		"symptoms_ids": [1, 2, 5]
+	},{
+		"id": "50",
+		"filename": "mindfulness_observe.json",
+		"title": "Loving Kindness",
+		"display_title": "Loving Kindness",
+		"symptoms_ids": [1, 2, 5]
+	},{
+		"id": "51",
+		"filename": "seated_practice.json",
+		"title": "Seated Practice",
+		"display_title": "Seated Practice",
+		"symptoms_ids": [1, 2, 5]
+	},{
+		"id": "52",
+		"filename": "daily_rituals.json",
+		"title": "Daily Rituals",
+		"display_title": "Daily Rituals",
+		"symptoms_ids": [6]
+	},{
+		"id": "54",
+		"filename": "rewarding_good_behavior.json",
+		"title": "Rewarding Good Behavior",
+		"display_title": "Rewarding Good Behavior",
+		"symptoms_ids": [6]
+	},{
+		"id": "55",
+		"filename": "appreciation.json",
+		"title": "Showing Appreciation",
+		"display_title": "Showing Appreciation",
+		"symptoms_ids": [6]
+	},{
+		"id": "56",
+		"filename": "find_meaning.json",
+		"title": "Finding Meaning",
+		"display_title": "Finding Meaning",
+		"symptoms_ids": [1, 2, 4]
+	},{
+		"id": "57",
+		"filename": "self_compassion.json",
+		"title": "Soothing Rhythm Breathing",
+		"display_title": "Soothing Rhythm Breathing",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "58",
+		"filename": "self_compassion.json",
+		"title": "Creating a Safe Place",
+		"display_title": "Creating a Safe Place",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "59",
+		"filename": "self_compassion.json",
+		"title": "Compassionate Colors",
+		"display_title": "Compassionate Colors",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "60",
+		"filename": "self_compassion.json",
+		"title": "Compassionate Self",
+		"display_title": "Compassionate Self",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "61",
+		"filename": "self_compassion.json",
+		"title": "Compassion Flowing Out",
+		"display_title": "Compassion Flowing Out",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "62",
+		"filename": "self_compassion.json",
+		"title": "Compassion for Others",
+		"display_title": "Compassion for Others",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "63",
+		"filename": "self_compassion.json",
+		"title": "Compassionate Memories",
+		"display_title": "Compassionate Memories",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "64",
+		"filename": "self_compassion.json",
+		"title": "Compassionate Ideals",
+		"display_title": "Compassionate Ideals",
+		"symptoms_ids": [2,3]
+	},
+	{
+		"id": "65",
+		"filename": "self_compassion.json",
+		"title": "Self-Compassion",
+		"display_title": "Self-Compassion",
+		"symptoms_ids": [2,3]
+	}
+]

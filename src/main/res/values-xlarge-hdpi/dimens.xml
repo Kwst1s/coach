@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer_width">128dp</dimen>
+    <dimen name="drawer_width_long">280dp</dimen>
+    <dimen name="half_seekbar_thumb">12dp</dimen>
+    <dimen name="padding_enormous">68dp</dimen>
+    <dimen name="padding_large">14dp</dimen>
+    <dimen name="padding_medium">11dp</dimen>
+    <dimen name="padding_mlarge">21dp</dimen>
+    <dimen name="padding_mmlarge">33dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_x_small">5dp</dimen>
+    <dimen name="padding_xlarge">57dp</dimen>
+    <dimen name="padding_xmlarge">43dp</dimen>
+    <dimen name="padding_xx_small">2dp</dimen>
+    <dimen name="seekbar_thumb">18dp</dimen>
+    <dimen name="txt_l_mid">11sp</dimen>
+    <dimen name="txt_little">6sp</dimen>
+    <dimen name="txt_mid">14sp</dimen>
+    <dimen name="txt_mlarge">29sp</dimen>
+    <dimen name="txt_normal">16sp</dimen>
+    <dimen name="txt_xlarge">36sp</dimen>
+</resources>

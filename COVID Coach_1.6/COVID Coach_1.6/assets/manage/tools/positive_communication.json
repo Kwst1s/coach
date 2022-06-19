@@ -1,0 +1,246 @@
+[{
+			"text": [{
+					"type": "title",
+					"content": "Show Love",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Tell your loved one about 1 thing that you love or appreciate about them. Send a text or leave a note where you know they’ll find it."
+				},
+				{
+					"type": "text",
+					"content": "Do it right now, if you can!"
+				}
+			],
+			"message": "Just wanted to tell you something I love about you..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Show Admiration",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Tell your loved one 1 thing you admire about him or her."
+				}
+			],
+			"message": "You know I really admire you for..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Start a Conversation",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Plan and start a conversation with your loved one about something that you know interests you both."
+				}
+			],
+			"calendar": "Start a conversation with my loved one"
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "First Impressions",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Can you remember your earliest impressions of your loved one? Without making comparisons to the present, share with your loved one what you first liked and appreciated about them after you met or really got to know one another."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Shared Values",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "What's at least one <b>shared goal</b> or <b>value</b> that you have in common with your loved one? Ask your loved one about their goals for the next month or year and how you can help meet that goal."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Contributions",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Spend 2 minutes thinking about this: what’s at least one <b>thing your loved one</b> does to contribute to the relationship you have with him or her?  Try to identify at least one thing, even if it’s small."
+				}
+			],
+			"message": "Thank you for..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Just Listen",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Ask your loved one to tell you about the best part of their day and the hardest part of their day. Focus on listening."
+				},
+				{
+					"type": "text",
+					"content": "Acknowledge what your loved one says without trying to solve anything."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Overcoming Challenges",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Think about a time in your relationship with your loved one when you had to overcome something difficult together."
+				}
+			],
+			"message": "Do you remember when..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Next Time you Talk",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Try to turn a few minutes with your loved one into a positive conversation - talk more than usually would about something you have in common. "
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Listen Openly",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Plan a conversation about whatever your loved one would like to talk about that interests them. Listen as openly as you can. Don't change the subject!"
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Share Their Interests",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Plan and start a conversation with your loved one about something you know is interesting to them but normally isn’t interesting to you."
+				}
+			],
+			"calendar": "Talk with my loved one about something they’re interested in"
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Noticing Niceness",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Find something nice, however big or small, that your loved one did recently.  Share it with your loved one and tell him or her how it made you feel."
+				}
+			],
+			"message": "I noticed that you did something nice and I wanted to really thank you..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Making Rituals",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Ask your loved one to start, or honor, a daily or weekly ritual with you. A ritual can be anything- a phone call, a meal, a hug, or anything else that you can share together."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Sharing Problems",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Ask your loved one what they want you to do next time they’re sharing a problem with you."
+				},
+				{
+					"type": "text",
+					"content": "Try saying this: \"Would you like for me to listen or would you like some advice?\" Don't give advice if your loved one doesn’t want it."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Fun Experiences",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Try to remember a fun experience that you shared with your loved one."
+				},
+				{
+					"type": "text",
+					"content": "Plan a fun activity and try to re-create that experience."
+				}
+			],
+			"message": "Do you remember when we..."
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Favorite Experiences",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Spend some time reminiscing with your loved one about some of your favorite experiences together."
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Write a Letter",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Write a letter to your loved one telling them what they mean to you, why you love them, or your hopes for the future with them."
+				},
+				{
+					"type": "text",
+					"content": "Make sure you give the letter to your loved one!"
+				}
+			]
+		},
+		{
+			"text": [{
+					"type": "title",
+					"content": "Leave a Note",
+					"gravity": 0
+				},
+				{
+					"type": "text",
+					"content": "Leave a note where your loved one can find it that says \"I love when you...\" and then fill in the blank!"
+				}
+			],
+			"message": "I love when you..."
+		}
+]

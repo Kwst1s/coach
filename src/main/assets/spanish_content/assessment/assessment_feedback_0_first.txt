@@ -1,0 +1,17 @@
+[{
+		"type": "text",
+		"content": "Usted no tiene ningún síntoma de Trastorno de estrés postraumático (TEPT) en este momento."
+	},
+	{
+		"type": "text",
+		"content": "Sin embargo, esta evaluación no captará otros problemas que puedan estar relacionados con trauma asi como la depresión, el abuso de sustancias y ansiedad."
+	},
+	{
+		"type": "text",
+		"content": "Si está estresado, comuníquese con un profesional de la salud independientemente del resultado de esta evaluación. Un profesional podrá ayudarle a entender lo que está pasando y cómo resolucionarlo."
+	},
+	{
+		"type": "text",
+		"content": "Aunque no tenga Trastorno de estrés postraumático (TEPT), esta aplicación puede ayudarle a aprender herramientas para manejar su estrés a medida que surge. Si usted está en tratamiento, esta aplicación puede ser un complemento útil para el cuidado profesional que esta recibiendo."
+	}
+]

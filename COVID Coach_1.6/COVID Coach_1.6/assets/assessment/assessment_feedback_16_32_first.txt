@@ -1,0 +1,23 @@
+[{
+		"type": "text",
+		"content": "Reactions like yours are normal. Many people who experience a trauma have this kind of reaction, at least for the first few weeks or months after the trauma."
+	},
+	{
+		"type": "text",
+		"content": "People who have symptoms like yours can often benefit from talking to a healthcare provider. For information on where to find one, check out the Find Resources section of this app. Seeking help will be especially important if you think that you may have other trauma-related problems that this assessment would not identify, such as depression, substance abuse, or anxiety."
+	},
+	{
+		"type": "text",
+		"content": "While there are no replacement for professional care, this app can help you learn tools for managing your stress as it comes up. If you are in treatment, this app can be a helpful add-on to care."
+	},
+	{
+		"type": "text",
+		"content": "If you ever feel like hurting yourself or someone else, touch the Find Resources button below to get help right away. Otherwise, you can take this assessment once per month to see how your symptoms are changing – and hopefully getting better – over time."
+	},
+     	{
+     		"type":"link_internal",
+     		"content":"Find Resources",
+     		"full":true,
+     		"link":"get_support"
+     	}
+]

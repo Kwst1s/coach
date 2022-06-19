@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.appcompat.widget.AppCompatImageView android:id="@+id/thought_shifting_img" android:layout_width="match_parent" android:layout_height="200dp" android:layout_marginBottom="@dimen/padding_mlarge" android:src="@drawable/t32" android:scaleType="centerCrop"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_mlarge" android:layout_marginRight="@dimen/padding_mlarge" android:layout_marginBottom="@dimen/padding_large" android:text="@string/thought_shifting_title" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </LinearLayout>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_standard_continue"/>
+</LinearLayout>

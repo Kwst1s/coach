@@ -1,0 +1,41 @@
+[{
+		"title": "Learn",
+		"text": "Learn everything you need to know about PTSD- for yourself or someone you care about.",
+		"image": "tutorial_5"
+	},
+	{
+		"title": "Track Progress",
+		"text": "Track your progress over time and get feedback just for you.",
+		"image": "tutorial_5"
+	},
+	{
+		"title": "Manage Symptoms",
+		"text": "Add your favorite tools for managing stress.",
+		"image": "tutorial_5"
+	},
+	{
+		"title": "Get Support",
+		"text": "Connect with support and resources that can really help.",
+		"image": "tutorial_5"
+	},
+	{
+		"title": "Welcome to COVID Coach!",
+		"text": [{
+			"type": "text",
+			"content": "This app was developed for trauma survivors. This app won’t diagnose you with PTSD or offer you treatment – only a trained professional can do that. But it can help you learn about PTSD, and it will give you tools for managing the stresses that can come with life after a trauma."
+		}],
+		"text2": [{
+			"type": "text",
+			"content": "Personalize COVID Coach by adding:"
+		},{
+				"type": "list",
+				"content": ["Contact info for friends, loved ones, and/or professionals who can help when you’re feeling stressed", "Pictures on your phone that you find comforting or funny", "Songs on your device that you find relaxing or that put you in a good mood"]
+			},
+			{
+				"type": "text",
+				"content": "You can change your selections at any time by visiting the Settings section from the home screen."
+			}
+		],
+		"image": ""
+	}
+]

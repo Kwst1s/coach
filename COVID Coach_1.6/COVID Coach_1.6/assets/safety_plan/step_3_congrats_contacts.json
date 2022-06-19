@@ -1,0 +1,11 @@
+[{
+		"type": "title",
+		"gravity":0,
+		"content": "Good work!"
+	},
+	{
+		"type": "text",
+		"gravity":0,
+		"content": "You have added your first contact. You may choose to add more now or later."
+	}
+]

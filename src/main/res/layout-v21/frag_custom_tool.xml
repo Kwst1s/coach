@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/show_c_t_layout_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <ImageView android:id="@+id/show_c_t_txt_img" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="200dp" android:src="@drawable/icon_big_text" android:scaleType="centerInside"/>
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:id="@+id/show_c_t_txt_text" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        </androidx.core.widget.NestedScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/show_c_t_layout_video" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <RelativeLayout android:id="@+id/show_c_t_videoplayer_layout" android:background="@drawable/bg_edt" android:layout_width="match_parent" android:layout_height="0dp" android:layout_margin="@dimen/padding_large" android:layout_weight="2">
+            <ImageView android:id="@+id/show_c_t_videoplayer_img" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="centerCrop" android:contentDescription="@string/video"/>
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/img_play" android:layout_centerInParent="true"/>
+        </RelativeLayout>
+        <ScrollView android:id="@+id/show_c_t_video_layout_caption" android:layout_width="match_parent" android:layout_height="0dp" android:layout_margin="@dimen/padding_large" android:layout_weight="1">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/show_c_t_video_txt_caption" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/show_c_t_layout_audio" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/show_c_t_audio_img" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="200dp" android:src="@drawable/icon_big_memo" android:scaleType="centerInside"/>
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:id="@+id/show_c_t_audio_title_artist" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_mlarge" android:layout_marginTop="@dimen/padding_medium" android:layout_marginRight="@dimen/padding_mlarge" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_mlarge" android:layout_marginTop="@dimen/padding_large" android:layout_marginRight="@dimen/padding_mlarge" android:layout_marginBottom="@dimen/padding_medium">
+                <vainstrum.Components.FABTracking android:layout_gravity="center_vertical" android:id="@+id/show_c_t_audio_play_pause" android:padding="@dimen/padding_small" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_small" android:layout_marginRight="@dimen/padding_large" android:src="@drawable/icon_play_white" android:contentDescription="@string/only_play_audio" app:fabSize="0" app:tracking_id="29521"/>
+                <SeekBar android:layout_gravity="center_vertical" android:id="@+id/show_c_t_audio_seekbar" android:paddingLeft="@dimen/half_seekbar_thumb" android:paddingRight="@dimen/half_seekbar_thumb" android:layout_width="0dp" android:layout_height="wrap_content" android:progressDrawable="@drawable/seekbar_scrubber" android:thumb="@drawable/thumb" android:layout_weight="1" android:splitTrack="false"/>
+                <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:layout_gravity="center_vertical" android:id="@+id/show_c_t_audio_txt_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/padding_large" android:text="00:00" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            </LinearLayout>
+        </LinearLayout>
+        <ScrollView android:id="@+id/show_c_t_audio_layout_caption" android:layout_width="match_parent" android:layout_height="0dp" android:layout_margin="@dimen/padding_large" android:layout_weight="1">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/show_c_t_audio_txt_caption" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        </ScrollView>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/show_c_t_layout_image" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_margin="@dimen/padding_large" android:layout_weight="2">
+            <ImageView android:id="@+id/show_c_t_img_image" android:padding="1dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter"/>
+        </RelativeLayout>
+        <ScrollView android:id="@+id/show_c_t_img_layout_caption" android:layout_width="match_parent" android:layout_height="0dp" android:layout_margin="@dimen/padding_large" android:layout_weight="1">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/show_c_t_img_txt_caption" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+        </ScrollView>
+    </LinearLayout>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_custom"/>
+</LinearLayout>

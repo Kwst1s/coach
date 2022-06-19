@@ -1,0 +1,15 @@
+[{
+		"type": "text",
+		"content": "To get the most out of COVID Coach, we recommend:"
+	},
+	{
+		"type": "list_numeric",
+		"content": ["Try a new coping tool every day.",
+			"Favorite the ones that help.",
+			"Track your mental health over time.",
+			"Create and use your own personal support network.",
+			"Learn more about how to practice self-care during these difficult times.",
+			"Set a personal goal and work towards it every day."
+		]
+	}
+]

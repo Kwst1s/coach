@@ -1,0 +1,19 @@
+[{
+		"type": "text",
+		"content": "When you use a VA mobile app, no data that could be used to identify you is sent to VA or third parties. Any information that you enter into the app, such as names, phone numbers, addresses, images, or music, cannot be accessed, stored, or shared by VA."
+	},
+	{
+		"type": "text",
+		"content": "VA uses some software analysis tools to help identify and prevent app problems. VA mobile apps do not share personal or identifying information with any of the vendors of these tools."
+	},
+	{
+		"type": "text",
+		"content": "In using a VA mobile app, it is your responsibility to protect any information in the app once it is installed on your device. Setting a passcode on your device is recommended to help keep your information safe."
+	},
+	{
+		"type": "link_web",
+		"content": "VA Apps",
+		"full": true,
+		"link": "https://www.ptsd.va.gov/appvid/mobile/"
+	}
+]

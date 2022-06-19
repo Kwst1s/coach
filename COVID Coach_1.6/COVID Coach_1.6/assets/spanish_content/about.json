@@ -1,0 +1,203 @@
+[{
+		"type": "title",
+		"content": "PTSD Coach"
+	},
+	{
+		"type": "text",
+		"content": "PTSD Coach is a mobile phone application for people with Posttraumatic Stress Disorder (PTSD) and those interested in learning more about PTSD."
+	},
+	{
+		"type": "text",
+		"content": "This application provides:"
+	},
+	{
+		"type": "list",
+		"content": ["Education about PTSD", "A self-assessment", "Tools for managing distress associated with Posttraumatic Stress", "A direct connection to crisis support and", "Information about professional treatment"]
+	},
+	{
+		"type": "text",
+		"content": "It can be used as a stand-alone education and symptom management tool, or to augment face-to-face care with a healthcare professional."
+	},
+	{
+		"type": "title",
+		"content": "Project Team"
+	},
+	{
+		"type": "text",
+		"content": "<b>PTSD Coach 1.0 - 3.0</b>"
+	},
+	{
+		"type": "list",
+		"content": ["Julia Hoffman, Psy.D.", "Eric Kuhn, Ph.D.", "Kelly M. Ramsey", "Beth Jaworski, Ph.D", "Jason Owen, Ph.D., MPH", "Laura H. Wald, Ph.D.", "Carolyn Greene, Ph.D.", "Josef I. Ruzek, Ph.D.", "Kenneth Weingardt, Ph.D."]
+	},
+	{
+		"type": "list",
+		"content": ["Jason Owen, Ph.D., MPH", "Kelly M. Ramsey", "Beth Jaworski, Ph.D.", "Eric Kuhn, Ph.D.", "Pearl McGee-Vincent, Psy.D.", "Katie Juhasz", "Katie Taylor, Psy.D."]
+	},
+	{
+		"type": "title",
+		"content": "Partners"
+	},
+	{
+		"type": "text",
+		"content": "PTSD Coach was a collaborative effort between the VA's National Center for PTSD and the DoD's National Center for Telehealth and Technology."
+	},
+	{
+		"type": "image",
+		"gravity": 0,
+		"contentDescription": "NCPTSD Logo",
+		"content": "ncptsd_logo"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.ptsd.va.gov/",
+		"content": "The National Center for PTSD"
+	},
+	{
+		"type": "text",
+		"content": "The National Center for PTSD, within the Department of Veterans Affairs, aims to help U.S. veterans and others through research, education, and training on trauma and PTSD."
+	},
+	{
+		"type": "text",
+		"gravity": 0,
+		"content": "<i>Advancing Science and Promoting Understanding of Traumatic Stress</i>"
+	},
+	{
+		"type": "image",
+		"gravity": 0,
+		"contentDescription": "T2 Logo",
+		"content": "t2_logo"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://t2health.dcoe.mil/",
+		"content": "The National Center for Telehealth and Technology (T2)"
+	},
+	{
+		"type": "text",
+		"content": "The National Center for Telehealth and Technology (T2) researches, develops, evaluates, and deploys new and existing technologies for Psychological Health (PH) and Traumatic Brain Injury (TBI) across the Department of Defense (DoD). T2 is a component center of the Defense Centers of Excellence for Psychological Health and Traumatic Brain Injury (DCoE), which leads a collaborative global network to promote the resilience, recovery and reintegration of Warriors and their families who face psychological health and traumatic brain injury issues."
+	},
+	{
+		"type": "text",
+		"gravity": 0,
+		"content": "<i>Technology to Make People Healthy</i>"
+	},
+	{
+		"type": "title",
+		"content": "Credits"
+	},
+	{
+		"type": "text",
+		"content": "Ambient Sounds were adapted from"
+	},
+	{
+		"type": "text",
+		"content": "Beach"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/ermine/sounds/23724/",
+		"content": "ermine (10/14/06)"
+	},
+	{
+		"type": "text",
+		"content": "Country Road"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/Akoustikos/sounds/137111/",
+		"content": "Akoustikos (12/11/11)"
+	},
+	{
+		"type": "text",
+		"content": "Crickets"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/dobroide/sounds/36599/",
+		"content": "dobroide (06/24/07)"
+	},
+	{
+		"type": "text",
+		"content": "Dripping Water"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/pulseczar42/sounds/170025/",
+		"content": "pulseczar42 (11/20/12)"
+	},
+	{
+		"type": "text",
+		"content": "Forest"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/dobroide/sounds/43661/",
+		"content": "dobroide (11/06/07)"
+	},
+	{
+		"type": "text",
+		"content": "Frogs"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/omjn/sounds/24139/",
+		"content": "omjn (10/23/06)"
+	},
+	{
+		"type": "text",
+		"content": "Marsh"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/dobroide/sounds/31579/",
+		"content": "dobroide (02/28/07)"
+	},
+	{
+		"type": "text",
+		"content": "Public Pool"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/belthaczar/sounds/56740/",
+		"content": "belthaczar (07/09/08)"
+	},
+	{
+		"type": "text",
+		"content": "Rain"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/reinsamba/sounds/17084/",
+		"content": "reinsamba (03/20/06)"
+	},
+	{
+		"type": "text",
+		"content": "Stream"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://www.freesound.org/people/shewbox/sounds/30688/",
+		"content": "shewbox (02/10/07)"
+	},
+	{
+		"type": "title",
+		"content": "Version"
+	},
+	{
+		"type": "text",
+		"content": "PTSD Coach Version 3.1"
+	}
+]

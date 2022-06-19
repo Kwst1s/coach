@@ -1,0 +1,13 @@
+[{
+		"type": "text",
+		"content": "Answer 14 questions designed to measure your personal well-being and to help you to track your progress over time. Tracking changes over time will help you:"
+	},
+	{
+		"type": "list",
+		"content": ["Learn to <b>recognize patterns.</b>", "Figure out <b>what works</b> to help you improve your own well-being."]
+	},
+	{
+		"type": "text",
+		"content": "This assessment is 14 questions and will take about 10 minutes."
+	}
+]

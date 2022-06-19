@@ -1,0 +1,27 @@
+[{
+		"type": "text",
+		"content": "Buenas noticias: Su  puntaje ha mejorado desde la última vez que hiza la autoevaluación. Esto significa que usted está teniendo menos problemas que antes."
+	},
+	{
+		"type": "text",
+		"content": "Las reacciones como las suyas son normales. Muchas personas que experimentan un trauma tienen este tipo de reacción, al menos durante las primeras semanas o meses después del trauma."
+	},
+	{
+		"type": "text",
+		"content": "La gente que tiene síntomas como los suyos a menudo pueden beneficiarse de hablar con un proveedor de atención médica. Para obtener información sobre dónde encontrar uno, consulte la sección Buscar recursos de esta aplicación. Buscar ayuda será especialmente importante si usted piensa que puede tener otros problemas relacionados con el trauma que esta evaluación no captaría, así como la depresión, el abuso de sustancias o la ansiedad."
+	},
+	{
+		"type": "text",
+		"content": "Si bien no existe un reemplazo para la atención profesional, esta aplicación puede ayudarlo a aprender herramientas para manejar su estrés a medida que surja. Si está en tratamiento, esta aplicación puede ser un complemento útil para el cuidado profesional que esta recibiendo."
+	},
+	{
+		"type": "text",
+		"content": "Si alguna vez tiene ganas de hacerse daño a sí mismo o a otra persona, oprima el botón Encuentre recursos a continuación para obtener ayuda de inmediato. De lo contrario, puede realizar esta evaluación una vez al mes para ver cómo cambian sus síntomas -- y ojala mejorando -- con el tiempo."
+	},
+	{
+		"type":"link_internal",
+		"content":"Encuentre Recursos",
+		"full":true,
+		"link":"get_support"
+	}
+]

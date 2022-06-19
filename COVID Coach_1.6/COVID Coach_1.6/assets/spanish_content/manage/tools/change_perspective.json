@@ -1,0 +1,98 @@
+[
+  {
+  "symptoms_ids":[1,2,3,5,6,7,8],
+  "content":"He pasado por muchas cosas difíciles en mi vida y soy fuerte debido a ello."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7,8],
+  "content":"Puedo tolerar esto."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"He pasado por cosas peores antes y lo he superado."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"No tengo que sentirme cómodo todo el tiempo.  Eso demuestra que soy humano."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"Esta emoción vendrá y se irá. Me sentiré diferente en veinte minutos."
+  },
+  {
+  "symptoms_ids":[4,5,6,7],
+  "content":"Soy capaz de responder con eficiencia. Tengo habilidades para manejar esta situación."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"Este es otro desafío que resolveré y enfrentaré."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"Estas emociones me están diciendo algo. No me lastimaran."
+  },
+  {
+  "symptoms_ids":[2,3,5,6,7],
+  "content":"Soy humano. Puedo cometer errores. Nadie es perfecto."
+  },
+  {
+  "symptoms_ids":[1,2,3,6,7],
+  "content":"Soy capaz de protegerme."
+  },
+  {
+  "symptoms_ids":[1,2,6],
+  "content":"Ve más despacio. Sé que hay más de una opción que puedo tomar."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6],
+  "content":"Puedo pedir ayuda a otros."
+  },
+  {
+  "symptoms_ids":[1,2,6],
+  "content":"He tomado la decisión correcta antes."
+  },
+  {
+  "symptoms_ids":[1,2,3,4,5,6,7],
+  "content":"Mis pensamientos son sólo pensamientos; no siempre tienen razón. No creas todo lo que piensas."
+  },
+  {
+  "symptoms_ids":[1,2,3,4,6,7],
+  "content":"Soy fuerte."
+  },
+  {
+  "symptoms_ids":[1,2,4,5,6,7],
+  "content":"Esto también pasará."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"Las emociones que siento en este momento me están dando información sobre cómo me siento, pero no están necesariamente basadas en hechos."
+  },
+  {
+  "symptoms_ids":[1,2,5,6,7],
+  "content":"Si no lucho contra mis emociones, disminuirán por sí solas."
+  },
+  {
+  "symptoms_ids":[3,5,6],
+  "content":"Soy una persona decente."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"Está bien si me toma tiempo resolver esto."
+  },
+  {
+  "symptoms_ids":[2,3,6],
+  "content":"Aprender me dará más opciones en el futuro."
+  },
+  {
+  "symptoms_ids":[1,2,3,5,6,7],
+  "content":"Hay momentos en los que volveré a caer en viejos patrones. Solo necesito recuperarme y volver al camino que es efectivo."
+  },
+  {
+  "symptoms_ids":[5,6],
+  "content":"Sé que merezco amor."
+  },
+  {
+  "symptoms_ids":[2,5,6],
+  "content":"Soy mi propia persona única: especial, talentosa y valiosa."
+  }
+]

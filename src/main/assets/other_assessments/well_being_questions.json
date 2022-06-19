@@ -1,0 +1,463 @@
+[{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling optimistic about the future."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 0
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling useful."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 1
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling relaxed."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 2
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling interested in other people."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 3
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've had energy to spare."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 4
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been dealing with problems well."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 5
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been thinking clearly."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 6
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling good about myself."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 7
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling close to other people."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 8
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling confident."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 9
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been able to make up my own mind about things."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 10
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling loved."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 11
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been interested in new things."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 12
+	},
+	{
+		"question": [{
+				"type": "text",
+				"content": "Over the past 2 weeks:"
+			},
+			{
+				"type": "text",
+				"content": "I've been feeling cheerful."
+			}
+		],
+		"answers": [{
+				"answer": "None of the time",
+				"points": 1
+			},
+			{
+				"answer": "Rarely",
+				"points": 2
+			},
+			{
+				"answer": "Some of the time",
+				"points": 3
+			},
+			{
+				"answer": "Often",
+				"points": 4
+			},
+			{
+				"answer": "All of the time",
+				"points": 5
+			}
+		],
+		"number": 13
+	}
+]

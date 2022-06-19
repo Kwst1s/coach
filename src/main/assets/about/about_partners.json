@@ -1,0 +1,38 @@
+[
+{
+		"type": "text",
+		"content": "Vertical"
+	},
+	{
+		"type": "image",
+		"gravity": 0,
+		"contentDescription": "Vertical Logo",
+		"content": "vertical_logo"
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://vertical.is/",
+		"content": "Vertical website"
+	},
+	{
+		"type": "title",
+		"content": "Additional Resources"
+	},
+	{
+		"type": "text",
+		"content": "Learn more about apps developed by the National Center for PTSD and access resources."
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "https://myvaapps.com",
+		"content": "NCPTSD Apps "
+	},
+	{
+		"type": "link_web",
+		"full": true,
+		"link": "http://mentalhealthapps.org",
+		"content": "Mentalhealthapps.org "
+	}
+]

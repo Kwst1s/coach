@@ -1,0 +1,61 @@
+[{
+	"question": ["Repeated disturbing, and unwanted memories of the stressful experience?"],
+	"number": "0"
+}, {
+	"question": ["Repeated, disturbing dreams of the stressful experience?"],
+	"number": "1"
+}, {
+	"question": ["Suddenly feeling or acting as if the stressful experience were actually happening again (as if you were actually back there reliving it)?"],
+	"number": "2"
+}, {
+	"question": ["Feeling very upset when something reminded you of the stressful experience?"],
+	"number": "3"
+}, {
+	"question": ["Having strong physical reactions when something reminded you of the stressful experience (for example, heart pounding, trouble breathing, sweating)?"],
+	"number": "4"
+}, {
+	"question": ["Avoiding memories, thoughts, or feelings related to the stressful experience?"],
+	"number": "5"
+}, {
+	"question": ["Avoiding external reminders of the stressful experience (for example, people, places, conversations, activities, objects, or situations)?"],
+	"number": "6"
+}, {
+	"question": ["Trouble remembering important parts of the stressful experience?"],
+	"number": "7"
+}, {
+	"question": ["Having strong negative beliefs about yourself, other people, or the world (for example, having thoughts such as: I am bad, there is something seriously wrong with me, no one can be trusted, the world is completely dangerous)?"],
+	"number": "8"
+}, {
+	"question": ["Blaming yourself or someone else for the stressful experience or what happened after it?"],
+	"number": "9"
+}, {
+	"question": ["Having strong negative feelings such as fear, horror, anger, guilt, or shame?"],
+	"number": "10"
+}, {
+	"question": ["Loss of interest in activities that you used to enjoy?"],
+	"number": "11"
+}, {
+	"question": ["Feeling distant or cut off from other people?"],
+	"number": "12"
+}, {
+	"question": ["Trouble experiencing positive feelings (for example, being unable to feel happiness or have loving feelings for people close to you)?"],
+	"number": "13"
+}, {
+	"question": ["Irritable behavior, angry outbursts, or acting aggressively?"],
+	"number": "14"
+}, {
+	"question": ["Taking too many risks or doing things that could cause you harm?"],
+	"number": "15"
+}, {
+	"question": ["Being “superalert” or watchful or on guard?"],
+	"number": "16"
+}, {
+	"question": ["Feeling jumpy or easily startled?"],
+	"number": "17"
+}, {
+	"question": ["Having difficulty concentrating?"],
+	"number": "18"
+}, {
+	"question": ["Trouble falling or staying asleep?"],
+	"number": "19"
+}]

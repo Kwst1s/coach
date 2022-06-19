@@ -1,0 +1,271 @@
+[{
+		"text": [{
+				"type": "title",
+				"content": "Date cuenta de las cosas buenas",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Reconoce 1 aspecto bueno de tu pareja, cada día durante una semana. Puede ser tan simple cómo darte cuenta de un cambio de estilo de pelo o de un gesto de amor y soporte. Date un momento para compartir lo que hayas observado con tu pareja."
+			}
+		],
+		"calendar": "Date cuenta de algo bueno que hace tu pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Note Las Cosas Agradables Juntos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Anima a tu pareja para ver si sois capaces los dos, de daros cuenta y comentar un aspecto bueno de cada uno, cada día, durante una semana."
+			}
+		],
+		"message": "Me estoy comprometiendo a darme cuenta de algo bueno de ti durante una semana. ¿Tratarás de hacer lo mismo conmigo?"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Se Cariñoso/a",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Dale un abrazo o toma la mano de tu cónyuge o pareja en un momento en el que normalmente no lo harías. Intenta mostrar a tu pareja una pequeña muestra de afecto físico de una manera que creas que él o ella lo pueda apreciar."
+			}
+		],
+		"calendar": "Abraza o toma la mano de mi pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Sean cariñosos juntos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Anima a tu pareja a comprometerse con darte un abrazo o coger tu mano al menos una vez cada día durante la siguiente semana."
+			}
+		],
+		"message": "Me gustaría que no comprometiéramos a tratar de abrazarnos o tomarnos de las manos al menos una vez al día durante esta semana. ¿podemos intentar de hacer esto juntos y ver qué pasa?"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Actos de Servicio",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Encuentra un pequeño acto de servicio que puedas proporcionar a tu pareja. Algo que tienen que hacer y que podrías hacer tú en su lugar. Sólo una cosa, incluso si es algo pequeño como ir a tirar la basura."
+			}
+		],
+		"calendar": "Haz al menos una cosa hoy que se de ayuda a tu pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Actos de Servicio juntos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Anima a tu pareja para comprometerse a realizar un pequeño acto de servicio a cada uno cada día."
+			}
+		],
+		"message": "Me gustaría que nos comprometiéramos a realizar cada día al menos una cosa que es de ayuda para el otro. ¿te comprometes en esto conmigo?"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Hacer un voluntariado juntos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "¡hacer algo juntos para ayudar a la comunidad en general!"
+			}
+		],
+		"link": "https://www.volunteermatch.org/",
+		"action_text": "Busca algo que importe en tu comunidad y ofrécete como voluntario una o dos horas de tu tiempo"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Quién quiero ser",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Date un momento para pensar en 3 palabras que utilizarías para describirte como la pareja que idealmente querrías ser. A lo mejor “compasivo/a” o “divertido/a o “relajado/a” ¡o algo totalmente diferente! Escribe las palabras y repítelo la próxima semana, practica de vivir esas cualidades lo mejor posible. Date cuenta de cómo te hace sentir."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Reflexionando sobre tu pareja",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pasa algunos minutos reflexionando sobre estas preguntas:"
+			},
+			{
+				"type": "list",
+				"content": ["¿qué es lo que te pareció más atractivo cuando conociste a tu pareja, a parte del físico?", 
+				"¿qué cualidades personales admiraste más de tu pareja cuando lo/la conociste?", 
+				"¿cuáles crees que son las fortalezas más grandes de tu pareja?"]
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Muestra tu apoyo",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Focaliza en mostrar a tu pareja que estás de su lado. Si tu pareja está triste por algo, busca maneras de estar a su lado y muestra tu apoyo."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Acto de servicio",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Realiza un acto sustancial de servicio para tu pareja. Haz todo lo posible para encontrar algo útil para él/ella- algo que creas que es probable que aprecien."
+			}
+		],
+		"calendar": "Realiza un acto de servicio para mi pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Cultiva la apreciación",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Pasa 10 minutos sentado/a solo/a en un lugar tranquilo. Cierra los ojos e intenta generar una sensación de calor y apreciación para tu pareja. Piensa en sus cualidades positivas. ¿Qué pasa cuando te tomas el tiempo en pensar en sus fortalezas o cualidades positivas?"
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Actuando como un equipo",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Asegúrese de que su pareja sepa que es un equipo y que pueden enfrentar las cosas juntos. Esto podría ser hablar sobre el futuro, planificar una actividad, o asumir un desafío juntos."
+			}
+		],
+		"calendar": "Planifica una actividad futura con mi pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Dejando ir los prejuicios",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Designa 5 minutos para focalizar en intentar no juzgar a tu pareja. Observa cómo te hace sentir el dejar ir cualquier prejuicio que tengas."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Ofreciendo un pequeño regalo",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Sorprende a tu pareja con un pequeño regalo- puede ser cualquier cosa: una pequeña nota, tu tiempo, flores, o cualquier cosa que sea rápida, fácil y que muestre que te importa."
+			}
+		],
+		"calendar": "Busca un pequeño regalo para mi pareja"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Expresa apreciación",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Expresa la apreciación que tienes hacia tu pareja cada vez que haga algo que te haga sentir bien, que te haga sentir apreciado/a ¡o que te simplifique la vida!"
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Deja de guardar rencor",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Si te das cuenta de que sueles hacer un seguimiento de todo lo que haces por tu pareja sin recibir nada a cambio, trata de parar de “hacer seguimiento” durante al menos un día. A veces, dejando ir las expectativas puede ayudar a reconectar, aunque sea por períodos cortos de tiempo."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Practica el no-prejuicio",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Si te encuentras en medio de un conflicto con tu pareja, intenta no juzgarle/la durante la conversación entera. ¡Esto es difícil de lograr! Lo importante es trabajar hacia el no-juicio, y si te está costando, no pasa nada."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Cita por sorpresa",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Dale una sorpresa a tu pareja con una actividad o cita planificada. Esto puede ser algo pequeño como salir a dar un paseo o ir al cine juntos."
+			}
+		],
+		"calendar": "Dale una sorpresa a tu pareja con una actividad juntos"
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Reviviendo momentos divertidos",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Piensa en una actividad corta (o un tema de conversación) que hiciste con tu pareja cuando se conocieron. Elige algo que sea neutral, que no sea probable que cause un conflicto y pregúntale si le gustaría hacer tiempo para probarlo de nuevo."
+			}
+		]
+	},
+	{
+		"text": [{
+				"type": "title",
+				"content": "Recuérdate a ti mismo/a de las cosas positivas",
+				"gravity": 0
+			},
+			{
+				"type": "text",
+				"content": "Haz una lista de todas las cualidades positivas que tiene tu pareja. Guarda la lista en algún lugar donde la veas y añade a la lista cuando te surjan cosas nuevas."
+			}
+		]
+	}
+]

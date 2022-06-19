@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/soothing_pictures_new_viewswitcher_layout" android:background="@color/blue" android:layout_width="match_parent" android:layout_height="200dp" android:layout_marginBottom="@dimen/padding_large">
+        <ViewSwitcher android:id="@+id/soothing_pictures_new_viewswitcher" android:background="@android:color/black" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent" android:importantForAccessibility="yes">
+            <ImageView android:id="@+id/soothing_pictures_new_img_1" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:importantForAccessibility="no"/>
+            <ImageView android:id="@+id/soothing_pictures_new_img_2" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scaleType="fitCenter" android:importantForAccessibility="no"/>
+        </ViewSwitcher>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_xnormal" android:textColor="@android:color/white" android:gravity="center_horizontal" android:id="@+id/soothing_pictures_new_txt_no_imgs" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/add_photos_to_create_slideshow" android:layout_centerInParent="true" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    </RelativeLayout>
+    <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/look_at_a_picture_meaningful" android:lineSpacingExtra="4dp" android:lineSpacingMultiplier="1" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+    <Space android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/bottom_tool_layout_soothing_images"/>
+</LinearLayout>

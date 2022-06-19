@@ -1,0 +1,699 @@
+[
+  {
+    "displayName": "Notice the Positive",
+    "id": 3000,
+    "related_tools": [
+      50,
+      103
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "When things are tough, it can be important to try to spend some time thinking about what is going well, especially in your relationships with others. This helps your mind to notice positive parts of your experience, even when things feel pretty negative. Refocusing our attention in this way is  especially important for our relationships during times of stress. "
+      },
+      {
+        "type": "text",
+        "content": "Practicing noticing the positive:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Observe positive things around you, like a child laughing or a happy pet. Take a picture of what you notice.",
+          "Take the time to catch others in the act of doing something nice or helpful for you. This could be asking how you are feeling, giving you space when you need it, or a simple act like helping you carry something.",
+          "Look for examples of good things in the news, such as people helping others.",
+          "Try a meditation that encourages you to notice love and kindness.",
+          "Connect with others in a positive way.",
+          "Each day, take a moment before going to sleep to write down three things you are grateful for including about the people you live with."
+        ]
+      },
+      {
+        "type": "text",
+        "content": "While these observations might not feel like they are directly related to your relationships, they will likely help you be more positive towards the people in your life."
+      },
+      {
+        "type": "text",
+        "content": "Continuing to focus on positive moments can help you recognize the love that’s around you and uncover the good in others, even in trying times."
+      }
+    ]
+  },
+  {
+    "displayName": "Fight Fairly",
+    "id": 3001,
+    "related_tools": [
+      44,
+      29
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Feeling stuck inside can make getting along with family and housemates harder.  Use these tips for “fighting fair” when having a conflict at home:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "When you speak, use statements starting with \"I,\" such as \"I think\" or \"I feel.\" Add an emotion word such as “sad,” “frustrated” or “worried” to let the other person know how their behavior affects you.",
+          "Focus on one issue at a time. ",
+          "During a confrontation, allow the other person equal time to speak their mind. Say “OK now let me know how you feel,” to make sure they have time to speak.",
+          "When the other person is talking, listen to what he or she has to say without interrupting. Ask questions to be sure you understand. Repeat back what they said to make sure you’re “getting it.”",
+          "Don’t hit below the belt with comments about the person’s appearance or a sensitive topic. Stick to the issues at hand and focus on the person in front of you. ",
+          "Never argue in bed with a partner. Use a neutral room.",
+          "Don’t say \"I don't love you\" or \"You don't love me.\" These verbal daggers can create resentment.",
+          "Try to steer clear of using definitive terms to describe a person’s behavior. Using “never” or “always” during a confrontation is rarely helpful.",
+          "Work as a team to solve problems. You can get a lot more done this way than you can as rivals. Make up a name for your team and use it with each other.",
+          "Avoid saying \"I told you so.\" Remember that a problem solved is a win for you both. ",
+          "If things are getting too heated, take a time out, but agree to continue the discussion when things cool off."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Take A Time Out",
+    "id": 3002,
+    "related_tools": [
+      29,
+      24,
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Getting some time and space from each other is especially important when people are forced to be in the same place for a long period of time. Even people who really care about each other will have a tough time getting along every minute."
+      },
+      {
+        "type": "text",
+        "content": "Once an argument has started it can be difficult to listen and work things out."
+      },
+      {
+        "type": "text",
+        "content": "This is normal because when we are really angry, our brains don’t process information the same way that they do when we are calm. When frustrated, it can be difficult to see anything but the worst in another person."
+      },
+      {
+        "type": "title",
+        "content": "Taking a Time Out"
+      },
+      {
+        "type": "title",
+        "content": "Step 1: What A Time Out Looks Like"
+      },
+      {
+        "type": "text",
+        "content": "Work with the other person to understand what it means for you both to be on time out. It could be not talking to each other, changing the subject or moving to different rooms. The important thing is that you are both on the same page."
+      },
+      {
+        "type": "title",
+        "content": "Step 2: Setting Time Out Length"
+      },
+      {
+        "type": "text",
+        "content": "A time out could last 15 minutes or 24 hours. What matters is selecting an amount of time that you both agree on."
+      },
+      {
+        "type": "title",
+        "content": "Step 3: Calling A Time Out"
+      },
+      {
+        "type": "text",
+        "content": "Decide ahead of time how you will communicate that you need a time out - it is hard to communicate when in the heat of an argument."
+      },
+      {
+        "type": "text",
+        "content": "It can be useful to have a time out signal or code word. For example, if one partner says “pineapple” it could mean that they are asking for a break."
+      },
+      {
+        "type": "title",
+        "content": "Step 4: Choosing Calming Activities"
+      },
+      {
+        "type": "text",
+        "content": "Make sure you have some go-to activities to do during the time out that are relaxing. This could be something like going for a walk, listening to soothing music or sounds doing a mindfulness exercise or playing a game on your phone. It’s important that you do things that you enjoy rather than spending the time out rehashing the argument in your mind."
+      },
+      {
+        "type": "title",
+        "content": "Step 5: Coming Back Together to Reconnect"
+      },
+      {
+        "type": "text",
+        "content": "After the time out has ended, it is important to be able to work toward understanding each other. Choose a location that is different from where you were arguing, if possible."
+      }
+    ]
+  },
+  {
+    "displayName": "Find a (Virtual) Couples Therapist",
+    "id": 3003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "One of the best things you can do for your relationship is to find a skilled couples therapist.  Even if you can’t leave the house, many therapists are now working virtually with individuals and couples to help them manage stress and conflict during these difficult times."
+      },
+      {
+        "type": "text",
+        "content": "To locate a therapist near you, use one of the locators below: "
+      },
+      {
+        "type": "link",
+        "content": "Psychology Today",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.psychologytoday.com/us/therapists/family-marital"
+      },
+      {
+        "type": "link",
+        "content": "American Association of Marriage & Family Therapists",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.therapistlocator.net/"
+      },
+      {
+        "type": "text",
+        "content": "Things to know about couples therapy:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "A good couples therapist will help both you and your partner to feel better heard and understood.",
+          "Therapy can improve communication and help you to better understand your loved one.",
+          "Treatment can reduce problem behaviors and improve teamwork.",
+          "Therapy highlights the strengths in your relationship and the things you’re doing well.",
+          "Therapy may be covered by insurance.  Check with your plan and the therapist you contact to see if the therapist is “in-network” or “out of network” and what benefits might apply. If not covered by your insurance, ask the therapist if they offer reduced fee or sliding scale spots. Therapy can be affordable- even a few sessions can help your relationship."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Help Toddlers and Preschoolers",
+    "id": 3004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Toddlers may have a difficult time adjusting to changing routines and new realities."
+      },
+      {
+        "type": "text",
+        "content": "Here are some tips for managing toddlers during times of stress:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Try to use a warm and non-judging voice most of the time you speak with your toddler. If it’s hard to do, try to picture someone you know with a soothing voice, like Mr. Rogers, and copy that.",
+          "Children this age don’t really need explanations; they need to know what to expect and that their adults will be around no matter what.",
+          "Model for them how you want them to react to the situation.  When feeling frustrated yourself, say “I’m going to take a big breath” and then do it in an exaggerated fashion so they see you coping.",
+          "Remember, children at this age are very adaptable, and as they mature they get better at managing things that may be difficult for them right now.",
+          "Talk often with anyone else who shares responsibility for your toddler.  Being “on the same page” helps your toddler know the rules. Also see if you can meet virtually with other toddler parents or join an online support group for parents. This age can be hard, and support is key.",
+          "Try not to set expectations for yourself and your toddler during this time. It’s hard to achieve much when stressed out, remind yourself that just “making it through” is the goal.",
+          "Help your toddler understand that emotions are part of life, and not something to be kept hidden or ashamed of.  Share your own emotions, and talk to your toddler and help them to better understand and learn from their emotions.",
+          "Show your toddler love and affection as often as you can.  Tell them when you’re happy or having fun.",
+          "If your child is aggressive, be as firm as you can be.  Set consistent expectations of your child, and hold a clear line on your rules.",
+          "Physical punishment, like spanking or slapping, is not an effective way to discipline your child.",
+          "Set expectations with a “star or sticker chart”.  List the things you want your child to do each day, and give them a star or sticker each day they succeed.",
+          "The best way to help your child feel secure is to have a consistent routine.  Have mealtime and bedtime routines that are predictable to your child. If they’ve changed in recent weeks, draw out a new schedule with the whole family so everyone is on the same page, even if you think your child is too young to understand. "
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Help Young Children",
+    "id": 3005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Young children may notice big changes recently and have a lot of questions."
+      },
+      {
+        "type": "text",
+        "content": "Children this age also may experience their emotions physically- headaches, stomachaches, and changes in their sleep or diet."
+      },
+      {
+        "type": "text",
+        "content": "Here are some tips to use during this time:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "The best way to help your young child feel secure is to have a consistent routine.  Have mealtime and bedtime routines that are predictable to your child. If they’ve changed in recent weeks, draw out a new schedule with the whole family so everyone is on the same page, even if you think your child is too young to understand.",
+          "Try to maintain some of your child’s relationships from school or activities, either through video chat or fun things they can do “with” friends, such as virtual games. Seeing familiar faces will help them feel more secure.",
+          "Talk to them as much as you can. Use conversation starters: \"What's the funniest thing that happened today?\" \"What's your favorite video game/character/book/tv show/movie right now?\" \"What is the most interesting thing you have seen lately?\"",
+          "Take some 100% uninterrupted fully-present time to spend with your child.  Give them your full attention- no electronics - no household chores. Do something that they want to do, and let them decide how you spend your time or what you talk about, even if just for a few minutes.",
+          "Catch them being good, and let them know you’ve noticed.",
+          "Have regular family meetings, where anyone in the family, including your child, can add topics to discuss.",
+          "Encourage your child to talk with you.  Help your child feel safe by limiting how much detail you discuss about any serious problems.",
+          "Make sure you have bedtime routines with your child.  Always tuck your child in at night, and let them know they’re safe and loved. Even if other routines have changed, this one can remain mostly the same and be a good anchor point.",
+          "Cuddle with your child and show them physical affection- let them sit in your lap, give them hugs, and hold hands.",
+          "If at all possible, make time for family activities each day- reading books, cooking, walking, talking, working together, or playing games.",
+          "If your child is disobedient or aggressive, be as firm as you can be.  Set consistent expectations of your child, and hold a clear line on your rules.",
+          "Physical punishment, like spanking or slapping, is not an effective way to discipline your child.",
+          "Encourage them to engage in school work if they are in school, but manage both their expectations and your own. Cheer them on and celebrate everything they accomplish but also recognize that every child will have a different experience and interest level in distance learning.  It can be hard to do work under these conditions.",
+          "Give your child household chores and set expectations so that your child can experience success.",
+          "Be open with your child, but spare them unnecessary details."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Help Teenagers",
+    "id": 3006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "It’s tough to be a teenager right now. The usual uncertainty about identity and future that teens often experience is compounded by global uncertainty. "
+      },
+      {
+        "type": "text",
+        "content": "Here are some ideas for ways to support your teen:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Use conversation starters: \"What's on your mind right..this..second?\" \"What’s been the hardest part of this for you?\" \"Is anything going better than you thought?\" \"What are you curious about right now?\"",
+          "Teenagers are skilled at getting you to react in a way that makes your behavior the problem, instead of their own problem behavior.  Avoid this trap- don’t let your teenager provoke you.",
+          "Talk to your teenager.  It’s important to avoid “secrets” in the family.  Be as open as you can, and talk as often as you can. Sit with them, even in silence as they process information.",
+          "As best you can, make sure your child is getting a balanced diet and enough rest.  Teenagers tend to go to bed later, and they need more sleep than when they were younger. Even in these weird times, sleep is important.",
+          "Make a plan for screen time with your teen; work together to decide what the right amount is, and what they should do when not using devices.",
+          "Encourage your teen to connect with their friends virtually. Give them a private space and time to do so.",
+          "Give your teen plenty of opportunities to express their feelings.  Some teens are more likely to talk to their parents at odd times of day, like late at night.",
+          "Recognize when your teen is expressing their feelings in ways other than talking- like music, art, or other activities.",
+          "Learn to read your teen’s non-verbal signals. Ask them without judgment: “What does that mean?”",
+          "If your teen is upset, let them feel their feelings. Encourage them to postpone any major decisions until they’re feeling more settled.",
+          "Make sure your teen has household chores and set expectations so that your teen can experience success.",
+          "If your teenager is being aggressive or self-destructive, it’s important to set your limits.  Have clear, firm, and consistent expectations of your teenager.",
+          "If your teenager’s behavior is too much for you to handle, or you’re worried about depression or suicide, it’s important to reach out for professional help."
+        ]
+      },
+      {
+        "type": "title",
+        "content": "National Suicide Prevention Lifeline"
+      },
+      {
+        "type": "text",
+        "content": "Call the National Suicide Prevention Lifeline in a crisis to access trained counselors:"
+      },
+      {
+        "type": "link_phone",
+        "imageButton": true,
+        "content": "Call the National Suicide Prevention Lifeline",
+        "link": "18002738255",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "Crisis Text Line"
+      },
+      {
+        "type": "text",
+        "content": "Share the Crisis Text Line resource with your teen. They can access trained counselors by texting HOME to 741741:"
+      },
+      {
+        "type": "link_text",
+        "imageButton": true,
+        "content": "Text the National Suicide Prevention Hotline",
+        "link": "741741",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "SAMHSA National Helpline"
+      },
+      {
+        "type": "text",
+        "content": "Try SAMHSA’s National Helpline for more information about how to support your teen:"
+      },
+      {
+        "type": "link_phone",
+        "imageButton": true,
+        "content": "Call SAMHSA’s National Helpline",
+        "link": "1-800-662-4357",
+        "full": true
+      },
+      {
+        "type": "title",
+        "content": "Find a Therapist"
+      },
+      {
+        "type": "text",
+        "content": "To find virtual therapy resources visit the Psychology Today website:"
+      },
+      {
+        "type": "link",
+        "imageButton": true,
+        "content": "Psychology Today Website",
+        "link": "https://www.psychologytoday.com/us/therapists",
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Parenting During a Pandemic",
+    "id": 3007,
+    "related_tools": [
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Here are some tips for parenting during this time."
+      },
+      {
+        "type": "title",
+        "content": "Practice Radical Self-Compassion"
+      },
+      {
+        "type": "text",
+        "content": "It’s hard to be a parent right now. Parents are juggling multiple roles: teacher, employee, parent, support person, all at once. Notice the expectations you have for yourself around parenting and try to gently release them. Remember that these are quite the departure from  normal times, and you may want to just focus on getting through the day, rather than on accomplishing a whole lot. Use mindfulness to center yourself when things feel out of control."
+      },
+      {
+        "type": "title",
+        "content": "Take Breaks"
+      },
+      {
+        "type": "text",
+        "content": "Parenting is usually a contact sport, and you are going to need some time and space to yourself. Reserve a spot in the home or yard (or car!) where you can go when you need a minute alone. Let your partner and family know that you are going to take a 30 minute break at the same time each day, and use it to do something that relaxes you: walking, meditation, funny animal videos, connecting with friends, journaling, enjoying delicious food. You can’t pour out of an empty cup; consider how you will replenish yours."
+      },
+      {
+        "type": "title",
+        "content": "Stay Connected to Your Favorite People"
+      },
+      {
+        "type": "text",
+        "content": "Parents need support just like kids do. Schedule a regular virtual hang out with your friends or family as a way to let off steam at the end of the day. Make it fun by playing a game or enjoying a snack together."
+      },
+      {
+        "type": "title",
+        "content": "Reserve Time for your Partner"
+      },
+      {
+        "type": "text",
+        "content": "If you’re in a relationship, let the kids know that you and your partner need some alone time. Even more than usual, a strong relationship will be a core part of making it through this tough time. Have a “date” by ordering in (if you’re comfortable), picking a show or movie that you want to watch, or playing a game. Make it a “no kid zone” to give yourself a break from the parenting role for a bit."
+      },
+      {
+        "type": "title",
+        "content": "Find Support"
+      },
+      {
+        "type": "text",
+        "content": "Most therapists are now offering care virtually. Even if things are going relatively well, the added load can feel heavy. Set up some short term counseling with a therapist to help you get through this time. Find therapists in your area using the locators below or contact your insurance for a list of covered providers."
+      },
+      {
+        "type": "title",
+        "content": "Therapy Locators:"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.psychologytoday.com/us/therapists",
+        "content": "Psychology Today Locator"
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://locator.apa.org",
+        "content": "American Psychological Association Locator"
+      }
+    ]
+  },
+  {
+    "displayName": "Dealing With Distance Learning",
+    "id": 300001,
+    "related_tools": [
+      65,
+      105
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "So you’ve been asked to oversee your child’s distance learning. Chances are this isn’t the only stress on your plate and you’re now being asked to step in to play the role of teacher along with everything else. This is a really hard time for parents with children in school. If distance learning is in the cards for you, explore some of these suggestions for how to handle these challenging times."
+      },
+      {
+        "type": "list",
+        "content": [
+          "Set the tone you want for the day. You may not have had a choice about  distance learning, but you can be in charge of the vibe . Decide what matters most to you as a parent and start each morning with a moment that reminds you and your child (or children) of what that is. This could be taking deep breaths together, sharing what you feel grateful for , or a mini-dance party.",
+          "Have a routine. Post a schedule so you and your child know what’s next. Routine also helps children feel independent and confident.",
+          "Try not to nag or get too involved in your child’s school work.  Create a checklist or some other kind of chart that shows what has been done throughout the day.",
+          "When possible, try to make a dedicated space for your child to do their learning.  Clear the area from clutter or toys that may distract your child from paying attention or doing their work. Creating a work space for school will signal to your child - it’s “go time” for learning.",
+          "Lower your expectations and celebrate small victories.  You’re not a teacher and your child is not in their usual learning environment.  It’s okay to take your foot off the gas.  Everyone is doing the best they can.",
+          "Check-in with your child’s teacher. If aspects of distance learning are not working for you or your child, speak up.  Teachers are flying the airplane while building it. They need your feedback to be successful. Don’t be shy about telling them what you need.",
+          "Stand up and move. Kids' brains and bodies are not made for sitting in front of a computer all day. If possible, try getting outside for a quick walk or play break or find ways to get your bodies moving indoors through stretches, dancing, or exercise. Schedule time to be kind to yourself throughout the day. Distance learning is hard, if not impossible! Show your kids that it is helpful to  recharge your batteries when feeling low."
+        ]
+      },
+      {
+        "type": "list",
+        "content": [
+          "Go with the flow and be flexible - some days and activities will be easier than others. Trust that you know what works best for you and your child  Remember, you’re the expert on your child."
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "Managing Parenting Rage",
+    "id": 300002,
+    "related_tools": [
+      5,
+      29,
+      65
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Parents are managing a lot during the pandemic. They’re depleted, dealing with inadequate childcare support, social isolation, financial insecurity, strained partnerships, and growing stress and anxiety.  For parents who are experiencing frustration, irritability and rage, you’re not alone.  Many report feeling like they are going to physically explode because they are being asked to be everything to everybody right now.  It’s an impossible situation!"
+      },
+      {
+        "type": "text",
+        "content": "Often beneath the surface of anger lies grief, fear, and loneliness Explore these methods for how to understand and cope with these feelings:"
+      },
+      {
+        "type": "list",
+        "content": [
+          "Stop. Pause. Breathe. Sit on the floor and slooooow down. Check-in with yourself and collect information. What are your emotions?  How intense are they? What expectations are you placing on yourself?  Are they realistic or useful? ",
+          "Use your empathy. Physically get down on your child’s level, eye-to-eye.  Try to take their perspective when you are frustrated with each other.  Envision what it’s like to be in their shoes in that exact moment.",
+          "If possible, take a  moment.  Ask for temporary space and calmly communicate your plan to your child. Model coping you might want them to use, like: “I need a few minutes of privacy because I’m feeling frustrated. I’m going to take some time to breathe deeply and calm down.”",
+          "Change the temperature. Place a bag of frozen fruits or veggies on your face, hold an ice cube, or hop in a cold shower.",
+          "Imagine your family as an island that you must protect.  Grant entry to people and situations that bring positivity.  Deny entry to anything that brings stress or fear.",
+          "Acknowledge what you don’t have control over (lots of things right now).  Focus on managing your reaction.",
+          "Practice radical self-compassion and put love for yourself into action.  Recognize that pain, suffering, and rage are part of your humanity.  What would you say to a friend that was coming to you with these struggles?"
+        ]
+      }
+    ]
+  },
+  {
+    "displayName": "For Expecting and New Parents",
+    "id": 3008,
+    "related_tools": [
+      105,
+      104
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "This can be a tough time to be welcoming a new family member.  With increased worries about health exposures, changing hospital policies, and more isolation, being pregnant or having a newborn can feel especially vulnerable during this crisis."
+      },
+      {
+        "type": "text",
+        "content": "The good news is there is a strong network of supportive care for growing families, and that many of these services have moved to being delivered virtually. Postpartum Support International offers free support groups, a provider directory and information about how to manage stress, anxiety and low mood during pregnancy or after your baby arrives."
+      },
+      {
+        "type": "link",
+        "full": true,
+        "imageButton": true,
+        "link": "https://www.postpartum.net",
+        "content": "Postpartum Support International Website"
+      },
+      {
+        "type": "text",
+        "content": "Birthing classes and other baby prep information are also now available online, training new parents in the comfort of their own homes. Contact your hospital for information about how they are handling delivery during the COVID-19 crisis, and ask your OB-GYN provider about virtual birth support resources in your area."
+      },
+      {
+        "type": "text",
+        "content": "If you are experiencing anxiety about how COVID-19 might affect your pregnancy or delivery, it can be helpful to try to center yourself on the outcome. There are many unknowns that go into becoming pregnant, growing a baby and delivery. The current situation can magnify these as things get thrown into even more uncertainty. As your mind naturally starts to worry about how things will go, try to bring up an image of you sitting safely and peacefully with your baby at home. When anxiety arises again, try to pull that picture into focus; practice this until it becomes automatic."
+      },
+      {
+        "type": "text",
+        "content": "Also check out the tools in the Manage Stress section of this app, which can help with managing anxiety."
+      }
+    ]
+  },
+  {
+    "displayName": "For Caregivers",
+    "id": 3009,
+    "related_tools": [
+      105,
+      20
+    ],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "Caregiving for older adults and people with special needs during stressful times can be extremely challenging. You may not be able to access the resources or supports that you usually can, and you may find it really hard to take much-needed breaks."
+      },
+      {
+        "type": "text",
+        "content": "It is normal to feel overwhelmed. You may feel exhausted, irritable, or impatient."
+      },
+      {
+        "type": "text",
+        "content": "To help manage caregiver stress during these times, try to schedule breaks or moments of respite if at all possible. Even five minutes of mindfulness can help regulate stress and frustration. Check out the Manage Stress section of this app for different tools that might help with feelings of overwhelm."
+      },
+      {
+        "type": "text",
+        "content": "It’s also important to reach out for help when things feel tough to manage.  The resources below can provide assistance to caregivers:"
+      },
+      {
+        "type": "title",
+        "content": "Caregiver Action Network"
+      },
+      {
+        "type": "text",
+        "content": "The Caregiver Action Network has a free caregiver hotline. They also have lots of resources related to caregiving during COVID-19."
+      },
+      {
+        "type": "link_phone",
+        "content": "Call Caregiver Action Network",
+        "imageButton": true,
+        "full": true,
+        "link": "855-227-3640"
+      },
+      {
+        "type": "link",
+        "content": "Chat with Caregiver Action Network",
+        "imageButton": true,
+        "full": true,
+        "link": "https://caregiveraction.org/"
+      },
+      {
+        "type": "title",
+        "content": "The Family Caregiver Alliance"
+      },
+      {
+        "type": "text",
+        "content": "The Family Caregiver Alliance also has resources and support programs for caregivers and offers a hotline during business hours."
+      },
+      {
+        "type": "link_phone",
+        "content": "Call Family Caregiver Alliance",
+        "imageButton": true,
+        "full": true,
+        "link": "800-445-8106)"
+      },
+      {
+        "type": "link",
+        "content": "Caregiver Alliance Website",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.caregiver.org"
+      },
+      {
+        "type": "title",
+        "content": "Alzheimer's Association"
+      },
+      {
+        "type": "text",
+        "content": "If you’re caring for someone with dementia, the Alzheimer’s Association has a 24/7 helpline. Your loved one doesn't have to have Alzheimer's Disease, they can have any type of dementia for you to receive support there."
+      },
+      {
+        "type": "link_phone",
+        "content": "Call Alzheimer’s Association",
+        "imageButton": true,
+        "full": true,
+        "link": "18002723900"
+      },
+      {
+        "type": "link",
+        "content": "Alzheimer’s Association Website",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.alz.org"
+      },
+      {
+        "type": "title",
+        "content": "VA Caregiver Support Program"
+      },
+      {
+        "type": "text",
+        "content": "The VA Caregiver support program provides help to people working with Veterans. Connect with other caregivers, healthcare providers and important information about how the VA can support caregivers."
+      },
+      {
+        "type": "link_phone",
+        "content": "Call VA Caregiver Support",
+        "imageButton": true,
+        "full": true,
+        "link": "1-855-260-3274"
+      },
+      {
+        "type": "link",
+        "content": "VA Caregiver Support Website",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.caregiver.va.gov/Connect_Others.asp"
+      }
+    ]
+  },
+  {
+    "displayName": "Anti-Racist Allyship",
+    "id": 300003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "type": "text",
+        "content": "White allies are individuals who stand up against the many forms of oppression that people of color experience. Learning what it means to be an ally is an important step White people can take to fight racism. "
+      },
+      {
+        "type": "text",
+        "content": "To become a supportive ally, it is important to learn there are a lot of ways people may contribute to racism in their day-to-day lives that they may not be aware of. Being a supportive ally means attempting to change the behaviors that are contributing to racism, and bring awareness to others about how these behaviors cause harm to people of color."
+      },
+      {
+        "type": "text",
+        "content": "Here are some resources for how to support people of color, intervene when racism is happening, and find support from other White people who want to stand alongside people of color in the fight against racism: "
+      },
+      {
+        "type": "text",
+        "content": "Read about the kinds of support that people of color need from White allies and learn about tactics to make a difference."
+      },
+      {
+        "type": "link",
+        "content": "Guidelines for Allies",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.racialequitytools.org/resourcefiles/kivel3.pdf"
+      },
+      {
+        "type": "text",
+        "content": "To learn more, check out the Whites for Racial Equity website where you can find suggested readings, podcasts, handouts, and other resources for fighting racism."
+      },
+      {
+        "type": "link",
+        "content": "Whites for Racial Equity",
+        "imageButton": true,
+        "full": true,
+        "link": "https://whitesforracialequity.org/"
+      },
+      {
+        "type": "text",
+        "content": "Learn how to speak up and intervene safely if you witness public instances of racism."
+      },
+      {
+        "type": "link",
+        "content": "Bystander Intervention",
+        "imageButton": true,
+        "full": true,
+        "link": "https://www.afsc.org/bystanderintervention"
+      },
+      {
+        "type": "text",
+        "content": "Consider starting or joining an anti-racist affinity group as a space for reflection and constructive conversation around white privilege and structural racism. An affinity group is an assembly of people who share a common element of identity and gather to reflect upon their shared experiences. "
+      },
+      {
+        "type": "text",
+        "content": "You can read more about how affinity groups can be a productive space for white people to challenge themselves in the fight against racism here:"
+      },
+      {
+        "type": "link",
+        "content": "Anti-Racism Groups",
+        "imageButton": true,
+        "full": true,
+        "link": "https://urbanedjournal.gse.upenn.edu/sites/default/files/pdf_archive/56-60--Michael_and_Conger.pdf"
+      }
+    ]
+  }
+]

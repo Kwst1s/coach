@@ -1,0 +1,29 @@
+[{
+		"type": "title",
+		"content": "Places I can go for a distraction"
+	},
+	{
+		"type": "text",
+		"content": "This step is asking you to think of places you can go where you might have the chance to socialize and/or be around people. Social settings can provide a healthy distraction until your crisis passes. It is important to select <u>specific</u> places that are <u>easy to get to</u>, and <u>you have been to before</u>. Consider how much it costs for you to be there, and how far it is from your home."
+	},
+	{
+		"type": "text",
+		"content": "For example, if you’ve listed a museum as one of your social distractions, it’s important that you don’t have to spend time looking up the various museums that are affordable and in your area before leaving your home. Instead of museum, you might enter the name of a specific museum you can easily get to, like the Museum of Natural History."
+	},
+	{
+		"type": "text",
+		"content": "Here are some examples of other activities that might provide a social distraction:"
+	},
+	{
+		"type": "list",
+		"content": ["Go to a coffee shop (e.g., “Go to The Big Bean”)",
+			"Go to a support group (e.g., “Go to Veterans Group at 4pm at the Vet Center”)",
+			"Go to the park (e.g., “Go to Hyde Park”)",
+			"Take a train to a nearby town (e.g., “Take the train to Red Bank”)",
+			"Go to a 12-step meeting (e.g., “Go to 12-step meeting, Tues at 7pm)",
+			"Go to a community event (e.g., “Go to the Farmer’s Market on Sunday”)",
+			"Go to a library or bookstore (e.g., “Go to the library at 334 E Main St”)",
+			"Visit a house of worship (e.g., “Go to the spiritual center at 17 Front St”)"
+		]
+	}
+]

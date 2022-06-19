@@ -1,0 +1,1689 @@
+[
+  {
+    "displayName": "Apoyo de Crisis",
+    "id": 10000,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Línea Nacional de Prevención del Suicidio",
+        "type": "title"
+      },
+      {
+        "content": "Si está pensando en hacerse daño, llame a la Línea Nacional de Prevención del Suicidio. La línea está disponible 24 horas al día, 7 días a la semana para apoyo gratuito y confidencial.",
+        "type": "text"
+      },
+      {
+        "content": "Línea para la prevención del suicidio",
+        "type": "link_phone",
+        "link": "1-888-628-9454",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SAMHSA Disaster Distress Line (SAMHSA Línea de Ayuda para Los Afectados por Catástrofes)",
+        "type": "title"
+      },
+      {
+        "content": "La Línea  de Ayuda para Los Afectados por Catástrofes por mensaje de texto esta disponibles las 24 horas del día, los siete días de la semana, y todo el año. Es gratuito, y está a cargo de consejeros capacitados para tratar situaciones de crisis",
+        "type": "text"
+      },
+      {
+        "content": "Envíe un mensaje de texto con el mensaje \"Hablanos\"",
+        "type": "link_text",
+        "link": "66746",
+        "fill": "Hablanos",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Sitio de web de SAMHSA Linea De Ayuda Para Los Afectados Por Catástrofes",
+        "type": "link",
+        "link": "https://www.samhsa.gov/disaster-distress-helpline/espanol",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Línea De Ayuda de SAMHSA",
+        "type": "title"
+      },
+      {
+        "content": "La Línea De Ayuda Nacional de SAMHSA es un servicio gratuito de información confidencial y referencias que está disponible las 24 horas del día, los 7 días de la semana para personas o familias que enfrentan problemas de salud mental o uso de sustancias.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea De Ayuda Nacional de SAMHSA",
+        "type": "link_phone",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "La Línea De Ayuda De Asalto Sexual",
+        "type": "title"
+      },
+      {
+        "content": "La Línea De Ayuda Nacional De Asalto Sexual está disponible las 24 horas del día, los 7 días de la semana para obtener información y apoyo confidencial gratuito sobre los recursos.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea De Ayuda Nacional De Asalto Sexual",
+        "type": "link_phone",
+        "link": "1-800-656-4673",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "El sitio de web de la Línea de Ayuda Nacional De Asalto Sexual",
+        "type": "link",
+        "link": "https://www.rainn.org/es",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Línea Directa de Violencia Doméstica",
+        "type": "title"
+      },
+      {
+        "content": "La Línea Directa Nacional de Violencia Doméstica está disponible las 24 horas del día para cualquier persona afectada por el abuso y que necesite apoyo.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea Directa de Violencia Doméstica",
+        "type": "link_phone",
+        "link": "1-800-799-7233",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Mande un mensaje de text con el mensaje \"LOVEIS\"",
+        "type": "link_text",
+        "link": "1-866-331-9474",
+        "fill": "LOVEIS",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Sitio de web de la  Línea Directa de Violencia Doméstica",
+        "type": "link",
+        "link": "https://espanol.thehotline.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "The Network/La Red",
+        "type": "title"
+      },
+      {
+        "content": "The Network/La Red ofrece una línea de crisis de 24 horas que proporciona apoyo emocional, información y planificaciones de seguridad para la gente lesbiana, gay, bisexual, queer y/o transgénera (LGBQ/T), y también para la gente en las comunidades SM/kink y poliamorosas que está siendo abusada o ha sido abusada por una pareja",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea de Crisis (Voz)",
+        "type": "link_phone",
+        "link": "617-742-4911",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Llame a la Línea de Crisis (Número gratuito)",
+        "type": "link_phone",
+        "link": "800-832-1901",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Sitio web de The Network/La Red",
+        "type": "link",
+        "link": "https://www.tnlr.org/es/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Línea Directa de Abuso Infantil",
+        "type": "title"
+      },
+      {
+        "content": "La Línea Directa de Abuso Infantil de Childhelp es una línea directa confidencial las 24 horas del día, los 7 días de la semana, con consejeros capacitados que pueden ofrecer apoyo, información y asistencia para denunciar el abuso.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea Directa de Abuso Infantil",
+        "type": "link_phone",
+        "link": "1-800-422-4453",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "La Línea Directa Nacional de Boys Town",
+        "type": "title"
+      },
+      {
+        "content": "La Línea Directa Nacional de Boys Towna esta disponible las 24 horas del día, los 365 días del año, y cuenta con consejeros de Boys Town especialmente capacitados. Está acreditado por la Asociación Americana de Suicidología (AAS). Los consejeros hablan español y servicios de traducción para más de 100 idiomas también están disponibles las 24 horas del día.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la La Línea Directa Nacional de Boys Town",
+        "type": "link_phone",
+        "link": "1-800-448-3000",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Boys Town: Saving Children, Healing Families Website",
+        "type": "link",
+        "link": "https://www.boystown.org/Pages/default.aspx",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Busqué Ayuda en Línea",
+    "id": 10001,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Puede ser útil conectarse con un terapeuta o un consejero para ayudar a controlar el estrés y los síntomas del estado de ánimo. Muchos proveedores de salud mental ahora ofrecen sesiones de video o telefónicas remotas, para que las personas puedan participar en la terapia desde sus propios hogares.",
+        "type": "text"
+      },
+      {
+        "content": "Encuentre un Proveedor Si Tiene Seguro de Salud",
+        "type": "title"
+      },
+      {
+        "content": "Antes de comunicarse con un terapeuta, es posible que desee comunicarse con su compañía de seguro de salud para conocer los beneficios de salud mental que pueda tener.\nSu aseguradora puede recomendar ciertos terapeutas que se consideran \"en su red\" de su seguro. O puede tener beneficios que cubran a terapeutas \"fuera de su red\".",
+        "type": "text"
+      },
+      {
+        "content": "Para localizar un terapeuta cerca de usted, explore los enlaces a continuación.",
+        "type": "text"
+      },
+      {
+        "content": "Busque un psicólogo, terapeuta, consejero, trabajador social o capellán:",
+        "type": "text"
+      },
+      {
+        "content": "Busque un terapeuta o consejero",
+        "type": "link",
+        "link": "https://www.psychologytoday.com/us/therapists/spanish",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Busque Terapeuta Matrimonial y Familiar ",
+        "type": "link",
+        "link": "https://www.latinxtherapistsactionnetwork.org/directorio",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Busque trabajador social",
+        "type": "link",
+        "link": "https://www.therapyforlatinx.com/search_results?q=LCSW",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Busque un psicólogo clínico",
+        "type": "link",
+        "link": "https://www.apa.org/centrodeapoyo/elegir",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Encontrar un Proveedor Gratuito o de Bajo Costo",
+        "type": "title"
+      },
+      {
+        "content": "Si no tiene beneficios de salud mental, puede buscar terapeutas que atiendan a los clientes a un precio reducido, gratuito o con una escala móvil. Intente buscar los siguientes lugares en su comunidad que probablemente ofrezcan terapia virtual gratuita o de bajo costo:",
+        "type": "text"
+      },
+      {
+        "content": [
+          "Centros comunitarios de salud mental",
+          "Centros de salud financiados por el gobierno federal",
+          "Universidades o facultades locales que ofrecen programas de entrenamiento para terapeutas",
+          "Las líneas directas nacionales pueden conectarlo con clínicas locales gratuitas",
+          "Consejería en lugares de culto",
+          "Programas de asistencia al empleado a través del trabajo",
+          "Grupos de apoyo o grupos de recuperación",
+          "Terapia de grupo en clínicas de salud locales",
+          "Servicios de salud del comportamiento estatales o del condado"
+        ],
+        "type": "list"
+      },
+      {
+        "content": "211 es una base de datos nacional de recursos que refiere a personas a una organización local que puede ayudarles.",
+        "type": "text"
+      },
+      {
+        "content": "Llame 211",
+        "type": "link_phone",
+        "link": "211",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Acceda recursos de 211 en línea",
+        "type": "link",
+        "link": "https://www.211.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "La Alianza Nacional de Enfermedades Mentales (NAMI) ofrece recursos grupales virtuales gratuitos.",
+        "type": "text"
+      },
+      {
+        "content": "Grupo de Apoyo",
+        "type": "link",
+        "link": "https://www.nami.org/Find-Your-Local-NAMI/Affiliate/Programs?classkey=a1x36000003TN9OAAW",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "La Oficina de Salud de las Minorías del Departamento de Salud y Servicios Humanos de los Estados Unidos y la Administración de Servicios de Salud Mental y Abuso de Sustancias (SAMHSA) tienen bases de datos en línea con recursos.",
+        "type": "text"
+      },
+      {
+        "content": "Oficina de Salud de las Minorías del Departamento de Salud y Servicios Humanos de los Estados Unidos",
+        "type": "link",
+        "link": "https://minorityhealth.hhs.gov/espanol/cuidadodesalud",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Recursos de Autoayuda",
+        "type": "title"
+      },
+      {
+        "content": "Ejercicios para la Ansiedad por Coronavirus de The Wellness Society",
+        "type": "link",
+        "link": "https://thewellnesssociety.org/wp-content/uploads/2020/04/Spanish-Managing-Coronavirus-Anxiety-Workbook.pdf",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Ojo Público",
+        "type": "link",
+        "link": "https://ojo-publico.com/1993/guia-para-proteger-nuestra-salud-mental-durante-la-pandemia",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Apoyo para Uso de Sustancias",
+    "id": 10002,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Si tiene problemas con el consumo de sustancias o desea seguir recibiendo apoyo para mantener la sobriedad, los siguientes recursos pueden ser útiles durante este momento difícil. Muchos grupos y servicios de apoyo están ahora disponibles virtualmente.",
+        "type": "text"
+      },
+      {
+        "content": "Línea de Ayuda de SAMHSA",
+        "type": "title"
+      },
+      {
+        "content": "La Línea de Ayuda Nacional de SAMHSA es un servicio gratuito de información confidencial y referencias que está disponible las 24 horas del día, los 7 días de la semana para personas o familias que enfrentan problemas de salud mental o uso de sustancias.-800-662-4357",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea de Ayuda Nacional de SAMHSA",
+        "type": "link_phone",
+        "link": "1-800-662-4357",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Helpline Website",
+        "type": "link",
+        "link": "https://www.samhsa.gov/find-help/national-helpline",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Narcóticos Anónimos",
+        "type": "title"
+      },
+      {
+        "content": "Narcóticos Anónimos es una asociación mundial sin fines de lucro, basada en la comunidad, de adictos en recuperación que se reúnen regularmente para ayudarse mutuamente a mantenerse limpios. Visite su sitio web para obtener un directorio de reuniones en línea a las que puede asistir.",
+        "type": "text"
+      },
+      {
+        "content": "Reuniones en Línea de NA",
+        "type": "link",
+        "link": "https://www.narcoticosanonimos.es/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SMART Recovery",
+        "type": "title"
+      },
+      {
+        "content": "SMART Recovery es una comunidad global que organiza grupos de apoyo mutuo para cualquier adicción. Los programas están basados en la ciencia y enfatizan el auto-empoderamiento para superar la adicción. Visite su sitio web para obtener un directorio de reuniones en línea a las que puede asistir.",
+        "type": "text"
+      },
+      {
+        "content": "Alcohólicos Anónimos",
+        "type": "title"
+      },
+      {
+        "content": "Alcohólicos Anónimos es una asociación mundial sin fines de lucro de alcohólicos en recuperación que se reúne con regularidad para ayudarse mutuamente a mantenerse sobrios. Visite su sitio web para obtener información sobre los intergrupos en línea a los que puede asistir.",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de Web de AA",
+        "type": "link",
+        "link": "https://www.aa.org/pages/es_ES",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "LifeRing",
+        "type": "title"
+      },
+      {
+        "content": "LifeRing es una organización de personas que comparten experiencias prácticas y apoyo a la sobriedad para superar la adicción a las drogas y el alcohol. Visite su sitio web para conocer el calendario de reuniones en línea.",
+        "type": "text"
+      },
+      {
+        "content": "LifeRing Website",
+        "type": "link",
+        "link": "https://www.lifering.org/online-meetings",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Cocaína Anónimos",
+        "type": "title"
+      },
+      {
+        "content": "Cocaína Anónimos es una asociación mundial sin fines de lucro de adictos en recuperación que se reúnen con regularidad para ayudarse mutuamente a mantenerse limpios. Visite su sitio web para obtener un directorio de reuniones en línea a las que puede asistir.",
+        "type": "text"
+      },
+      {
+        "content": "Sitio Web de Cocaína Anónimos",
+        "type": "link",
+        "link": "https://cocainaanonimos.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "In The Rooms",
+        "type": "title"
+      },
+      {
+        "content": "In The Rooms es una comunidad en línea global que comparte fortalezas y experiencias a través de reuniones en vivo, grupos de discusión y otras herramientas en línea.",
+        "type": "text"
+      },
+      {
+        "content": "In The Rooms Website",
+        "type": "link",
+        "link": " https://www.intherooms.com/home/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Satisfaciendo sus Necesidades",
+    "id": 10003,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Beneficios Públicos",
+        "type": "title"
+      },
+      {
+        "content": "Lista actualizada periódicamente de recursos y beneficios financieros.",
+        "type": "text"
+      },
+      {
+        "content": "Recursos para la Comunidad Inmigrante durante el Coronavirus",
+        "type": "link",
+        "link": "https://www.inmigranteinformado.com/guides/coronavirus/#",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Buscador de ayuda para pagar facturas, mantener los servicios públicos, encontrar comida.",
+        "type": "text"
+      },
+      {
+        "content": "211 Línea de Información",
+        "type": "link",
+        "link": "https://www.211.org/services/covid19",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo solicitar beneficios en efectivo por desempleo.",
+        "type": "text"
+      },
+      {
+        "content": "Seguro de Desempleo",
+        "type": "link",
+        "link": "https://www.benefits.gov/es/benefit/91",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo solicitar beneficios en efectivo y de apoyo de TANF.",
+        "type": "text"
+      },
+      {
+        "content": "Asistencia Temporal para Familias Necesitadas (TANF)",
+        "type": "link",
+        "link": "https://www.benefits.gov/es/benefit/613",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo solicitar los beneficios de alimentos de WIC.",
+        "type": "text"
+      },
+      {
+        "content": "Programa Especial de Nutrición Suplementaria para Mujeres, Bebés y Niños (WIC)",
+        "type": "link",
+        "link": "https://wic.fns.usda.gov/wps/pages/preScreenTool.xhtml",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo solicitar los beneficios de alimentos SNAP.",
+        "type": "text"
+      },
+      {
+        "content": "Programa de Asistencia Nutricional Suplementaria (SNAP)",
+        "type": "link",
+        "link": "https://www.benefits.gov/es/benefit/361",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo solicitar beneficios de jubilación, discapacidad, Medicare, sobrevivientes o Seguridad de Ingreso Suplementario (SSI).",
+        "type": "text"
+      },
+      {
+        "content": "La Administración del Seguro Social (SSA)",
+        "type": "link",
+        "link": "https://www.ssa.gov/espanol/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo inscribirse para una cobertura de atención médica subsidiada.",
+        "type": "text"
+      },
+      {
+        "content": "Cuidado de Salud-Si Usted pierde el Seguro Médico que Tiene a Través de su Empleo",
+        "type": "link",
+        "link": "https://www.cuidadodesalud.gov/es/have-job-based-coverage/if-you-lose-job-based-coverage/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Organizaciones Privadas",
+        "type": "title"
+      },
+      {
+        "content": "Encuentra un banco de alimentos local.",
+        "type": "text"
+      },
+      {
+        "content": "Feeding America (Alimentando a América)",
+        "type": "link",
+        "link": "https://www.feedingamerica.org/en-espanol",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Food Finder",
+        "type": "link",
+        "link": "http://foodfinder.us",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Servicio de comida a domicilio para personas mayores.",
+        "type": "text"
+      },
+      {
+        "content": "Meals on Wheels",
+        "type": "link",
+        "link": "https://www.mealsonwheelsamerica.org/find-meals",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Organizaciones locales que pueden ayudarlo a pagar la renta.",
+        "type": "text"
+      },
+      {
+        "content": "United Way-Recursos Comunitarios para Ayudar con la Vivienda",
+        "type": "link",
+        "link": "https://www.unitedway.org/my-smart-money/pages/community-resources-to-help-with-housing#",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Para los Veteranos y miembros militares en servicio activo, ayuda para pagar la renta, préstamos y los servicios públicos.",
+        "type": "text"
+      },
+      {
+        "content": "PenFed Foundation - Emergency Financial Relief Program",
+        "type": "link",
+        "link": "https://penfedfoundation.org/apply-for-assistance/coronavirus-emergency-financial-assistance/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Bank and credit card companies’ financial assistance programs during the outbreak.",
+        "type": "text"
+      },
+      {
+        "content": "Mint Life- Qué Hacen las Instituciones Financieras para Ayudar a sus Clientes",
+        "type": "link",
+        "link": "https://blog.mint.com/coronavirus-covid-19/que-hacen-las-instituciones-financieras-para-ayudar-a-sus-clientes/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Ayuda comunitaria, EE. UU.",
+        "type": "title"
+      },
+      {
+        "content": "Grupos comunitarios locales que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "Recursos de Ayuda Mutua de COVID-19",
+        "type": "link",
+        "link": "https://www.paperrevolution.org/mutual-aid/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Grupos comunitarios locales que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "Centro de Ayuda Mutua",
+        "type": "link",
+        "link": "https://www.mutualaidhub.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Iniciativa para entregar equipo de protección personal a los trabajadores de la salud.",
+        "type": "text"
+      },
+      {
+        "content": "Get Us PPE (Consíguenos EEP)",
+        "type": "link",
+        "link": "https://getusppe.org/es/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de web donde trabajadores de la salud soliciten máscaras y voluntarios para enviarlas.",
+        "type": "text"
+      },
+      {
+        "content": "Mask Match",
+        "type": "link",
+        "link": "https://www.mask-match.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de web donde trabajadores de la salud soliciten máscaras y voluntarios para enviarlas.",
+        "type": "text"
+      },
+      {
+        "content": "Masks for Docs",
+        "type": "link",
+        "link": "https://masksfordocs.com",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Ayuda Comunitaria, Reino Unido",
+        "type": "title"
+      },
+      {
+        "content": "Grupos comunitarios locales que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "Latin American House-Información General de Coronavirus",
+        "type": "link",
+        "link": "https://www.casalatina.org.uk/en/coronavirus-information.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Grupos comunitarios de Londres que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "COVID-19 Mutual Aid UK",
+        "type": "link",
+        "link": "https://covidmutualaid.org/local-groups/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Ayuda Comunitaria, Australia",
+        "type": "title"
+      },
+      {
+        "content": "Grupos comunitarios locales que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "Australia groups",
+        "type": "link",
+        "link": "https://docs.google.com/spreadsheets/d/1J7bjI-2bD4zpvpQM3v1QB9dlbbUgPErnn-JjBq4NrNs/htmlview",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Ayuda Comunitaria, Canadá",
+        "type": "title"
+      },
+      {
+        "content": "Grupos comunitarios locales que ofrecen ayuda con las compras, las tareas del hogar y el pago de facturas.",
+        "type": "text"
+      },
+      {
+        "content": "Canada groups",
+        "type": "link",
+        "link": "https://docs.google.com/document/d/1LsHkTBMS0YX_4F7OSAt55ppV0xICi50AXdF62vRw4W8/mobilebasic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Cómo Hacerlo",
+        "type": "title"
+      },
+      {
+        "content": "Consejos para comprar de forma segura y limpiar los alimentos.",
+        "type": "text"
+      },
+      {
+        "content": "FDA-Compra de Comestibles Durante la Pandemia del COVID-19",
+        "type": "link",
+        "link": "https://www.fda.gov/food/food-safety-during-emergencies/compra-de-comestibles-durante-la-pandemia-del-covid-19-informacion-para-los-consumidores",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "",
+        "type": "text"
+      },
+      {
+        "content": "Instrucciones y patrones de costura para hacer máscaras protectoras.",
+        "type": "text"
+      },
+      {
+        "content": "Cómo Hacer Mascarillas",
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Información Local de COVID-19",
+    "id": 10009,
+    "related_tools": [],
+    "cdata": []
+  },
+  {
+    "displayName": "Manténgase Informado Sobre el COVID-19",
+    "id": 10004,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Información Sobre Pandemias",
+        "type": "title"
+      },
+      {
+        "content": "Dear Pandemic (Querida Pandemia)",
+        "type": "title"
+      },
+      {
+        "content": "Un sitio web dirigido por un equipo de investigadores y médicos para ayudar a navegar toda la información sobre COVID-19 y proporcionar información creíble y actual sobre la pandemia. Las respuestas a las preguntas enviadas se publican en el sitio.",
+        "type": "text"
+      },
+      {
+        "link": " https://dearpandemic.org/",
+        "type": "link",
+        "content": "Dear Pandemic",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centros para el Control de Enfermedades (CDC)",
+        "type": "title"
+      },
+      {
+        "content": "Información oficial sobre la pandemia del CDC de EE. UU.",
+        "type": "text"
+      },
+      {
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/index.html",
+        "type": "link",
+        "content": "Información del CDC",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Gobierno Federal",
+        "type": "title"
+      },
+      {
+        "content": "Manténgase actualizado sobre lo que está haciendo el gobierno federal en respuesta a la pandemia.",
+        "type": "text"
+      },
+      {
+        "link": "https://www.usa.gov/espanol/coronavirus",
+        "type": "link",
+        "content": "Información USA.Gov",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "U.S. Department of Veterans Affairs (Departamento de Asuntos de los Veteranos)",
+        "type": "title"
+      },
+      {
+        "content": "Manténgase involucrado con la información de VA a medida que esté disponible.",
+        "type": "text"
+      },
+      {
+        "link": "https://www.publichealth.va.gov/n-coronavirus/?utm_source=Homepage&utm_campaign=Coronavirus",
+        "type": "link",
+        "content": "VA’s Novel Coronavirus Webpage",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "link": "https://www.va.gov/coronavirus-veteran-frequently-asked-questions/",
+        "type": "link",
+        "content": "VA’s Coronavirus FAQs",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Johns Hopkins University Coronavirus Resource Center (Centro de Recursos para el Coronavirus de la Universidad Johns Hopkins)",
+        "type": "title"
+      },
+      {
+        "content": "Actualizaciones de expertos en salud pública y enfermedades para informar al público.",
+        "type": "text"
+      },
+      {
+        "content": "Hopkins Resource Center",
+        "type": "link",
+        "link": "https://coronavirus.jhu.edu/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Asociación Estadounidense para Jubilados (AARP) Actualizaciones sobre el Coronavirus",
+        "type": "title"
+      },
+      {
+        "content": "Sugerencias y eventos de llamadas regulares para estadounidenses mayores de edad.",
+        "type": "text"
+      },
+      {
+        "content": "Actualizaciones sobre el Coronavirus de AARP",
+        "type": "link",
+        "link": "https://www.aarp.org/espanol/salud/enfermedades-y-tratamientos/info-2020/coronavirus-sintomas-evitar-el-contagio.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Consejos de Salud Mental",
+        "type": "title"
+      },
+      {
+        "content": "Actualizaciones sobre el Coronavirus de la Alianza Nacional sobre Enfermedades Mentales (NAMI) ",
+        "type": "title"
+      },
+      {
+        "content": "NAMI ofrece consejos para que las personas con enfermedades de salud mental mejoren su funcionamiento durante el brote de COVID-19.",
+        "type": "text"
+      },
+      {
+        "content": "Actualizaciones de NAMI",
+        "type": "link",
+        "link": "https://www.nami.org/Your-Journey/Identity-and-Cultural-Dimensions/Latinx-Hispanic/La-salud-mental-en-la-comunidad-latina",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centros para el Control de Enfermedades y SAMHSA - Manejo del Estrés y la Ansiedad",
+        "type": "title"
+      },
+      {
+        "content": "Obtenga más información de los consejos del CDC y SAMHSA para lidiar con el estrés.",
+        "type": "text"
+      },
+      {
+        "content": "Consejos del Manejo de Estrés del CDC ",
+        "type": "link",
+        "link": "https://espanol.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "SAMHSA Stress Management Tips",
+        "type": "link",
+        "link": "https://store.samhsa.gov/product/Coping-with-Stress-During-Infectious-Disease-Outbreaks/sma14-4885",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "U.S. Department of Veterans Affairs (Departamento de Asuntos de los Veteranos)",
+        "type": "title"
+      },
+      {
+        "content": "Lea la información más reciente de VA sobre el coronavirus y la salud mental.",
+        "type": "text"
+      },
+      {
+        "content": "Coronavirus and Mental Health Info",
+        "type": "link",
+        "link": "https://www.mentalhealth.va.gov/coronavirus/",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Para Padres y Cuidadores",
+    "id": 10005,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Red Nacional de Estrés Traumático Infantil (NCTSN)",
+        "type": "title"
+      },
+      {
+        "content": "La NCTSN proporciona recursos para apoyar el bienestar de los niños durante este tiempo.",
+        "type": "text"
+      },
+      {
+        "content": "Recursos del NCTSN",
+        "type": "link",
+        "link": "https://www.nctsn.org/resources/como-ayudar-a-los-ninos-a-lidiar-con-la-pandemia-de-COVID-19",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Hablar con sus Hijos sobre el Cierre de Escuelas",
+        "type": "title"
+      },
+      {
+        "content": "Obtenga más información en Los Angeles Times sobre cómo abordar el tema del cierre de escuelas con sus hijos.",
+        "type": "text"
+      },
+      {
+        "content": "Hablando de Cierres Escolares",
+        "type": "link",
+        "link": "https://www.latimes.com/espanol/california/articulo/2020-03-15/cierre-de-escuelas-que-necesitan-saber-los-padres",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Línea Nacional de Ayuda para Padres",
+        "type": "title"
+      },
+      {
+        "content": "También puede llamar a la Línea Nacional de Ayuda para Padres para obtener apoyo relacionado con el estrés o la ansiedad en torno a la crianza de los hijos. Alguien está disponible de lunes a viernes de 10:00 a. M. PST a 7:00 p. M. PST. Se habla español.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea Nacional de Ayuda para Padres",
+        "type": "link_phone",
+        "link": "1-855-427-2736",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Parent Helpline Website",
+        "type": "link",
+        "link": "https://www.nationalparenthelpline.org/find-support",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Apoyo Posparto Internacional",
+        "type": "title"
+      },
+      {
+        "content": "Para familias que están esperando un hijo o que han dado la bienvenida a un bebé recientemente pueden acceder a recursos y apoyo a través de Apoyo Postparto Internacional.",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de web de Apoyo Posparto Internacional",
+        "type": "link",
+        "link": "https://www.postpartum.net/en-espanol/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Línea Tlefónica de Apoyo Posparto Internacional",
+        "type": "link_phone",
+        "link": "1-800-944-4773",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Asociación Estadounidense para Jubilados (AARP)",
+        "type": "title"
+      },
+      {
+        "content": "El AARP también tiene recursos para levantar el ánimo de los adultos mayores.",
+        "type": "text"
+      },
+      {
+        "content": "Recursos de AARP",
+        "type": "link",
+        "link": "https://www.aarp.org/espanol/recursos-para-el-cuidado/prestar-cuidado/info-2020/levantar-el-animo-de-un-familiar.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Asociación Estadounidense de Alzheimer",
+        "type": "title"
+      },
+      {
+        "content": "La Asociación Estadounidense de Alzheimer brinda información para las personas que cuidan a alguien con demencia durante la pandemia de COVID-19.",
+        "type": "text"
+      },
+      {
+        "content": "Consejos de la Asociación Estadounidense de Alzheimer",
+        "type": "link",
+        "link": "https://www.alz.org/ayuda-y-apoyo/cuidado/coronavirus-(covid-19)",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Para Veteranos y Miembros del Servicio",
+    "id": 10006,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Give An Hour (Dar Una Hora)",
+        "type": "title"
+      },
+      {
+        "content": "Give an Hour es un grupo sin fines de lucro que brinda acceso a servicios de salud mental de bajo costo o sin costo para abordar una variedad de necesidades.",
+        "type": "text"
+      },
+      {
+        "content": "Give An Hour",
+        "type": "link",
+        "link": "https://giveanhour.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Encuentre una Instalacion de VA",
+        "type": "title"
+      },
+      {
+        "content": "El VA ofrece una variedad de servicios que incluyen atención médica, asesoramiento y beneficios. Haga clic a continuación para encontrar la ubicación de VA más cercana.",
+        "type": "text"
+      },
+      {
+        "content": "Find a VA",
+        "type": "link",
+        "link": "https://www.va.gov/find-locations/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centros de Veteranos",
+        "type": "title"
+      },
+      {
+        "content": "Centros de Veteranos también tienen cuidado de los Veteranos, y continúan sirviendo a los Veteranos durante la pandemia COVID-19.",
+        "type": "text"
+      },
+      {
+        "content": "Find a Vet Center",
+        "type": "link",
+        "link": "https://www.va.gov/find-locations/?facilityType=vet_center",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Centro de Llamadas del Centro Veterano",
+        "type": "link_phone",
+        "link": "1-877-927-8387",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Asistencia para Cuidadores de VA",
+        "type": "title"
+      },
+      {
+        "content": "Busque al Coordinador de Apoyo para Cuidadores de VA y pregunte sobre la terapia de pareja o familiar.",
+        "type": "text"
+      },
+      {
+        "content": "Llame a la Línea de Asistencia para Cuidadores de VA",
+        "type": "link_phone",
+        "link": "1-855-260-3274",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visite el sitio web de Benefits.Gov Programas y Servicios para Cuidadores de VA",
+        "type": "link",
+        "link": "https://www.benefits.gov/es/benefit/5918",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Mujeres Veteranas",
+        "type": "title"
+      },
+      {
+        "content": "Las Mujeres Veteranas y sus familias pueden acceder a una amplia gama de información y recursos a través del Center for Women Veterans (CWV), o pueden llamar o enviar un mensaje de texto al Women Veterans Call Center (WVCC).",
+        "type": "text"
+      },
+      {
+        "content": "Visit CWV Website",
+        "type": "link",
+        "link": "https://www.va.gov/womenvet/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Call WVCC",
+        "type": "link_phone",
+        "link": "1-855-829-6636",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Text WVCC",
+        "type": "link_text",
+        "link": "1-855-829-6636",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Coaching into Care (Entrenando en el Cuidado)",
+        "type": "title"
+      },
+      {
+        "content": "¿Es miembro de la familia de un veterano? Hable con un experto sobre cómo ayudar a motivar a su ser querido a probar la atención de salud mental. El servicio telefónico de Coaching into Care está disponible de 8:00 AM a 5:00 PM EST, de lunes a viernes.",
+        "type": "text"
+      },
+      {
+        "content": "Call Coaching into Care",
+        "type": "link_phone",
+        "link": "1-888-823-7458",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit Coaching into Care",
+        "type": "link",
+        "link": "https://www.mirecc.va.gov/coaching/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Military OneSource",
+        "type": "title"
+      },
+      {
+        "content": "Military OneSource ofrece información y apoyo a los miembros del ejército y sus familias.",
+        "type": "text"
+      },
+      {
+        "content": "Visit Military Onesource",
+        "type": "link",
+        "link": "https://www.militaryonesource.mil/all-the-ways?gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1vqhKSLUVv1lJb3aziNUBgaaElgParx_7cmXLFoOK4BBlaEwL9SVnQaAmc7EALw_wcB",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Call Military Onesource",
+        "type": "link_phone",
+        "link": "1-800-342-9647",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Psychological Health Resource Center (Centro de Recursos de Salud Psicológica)",
+        "type": "title"
+      },
+      {
+        "content": "Respuestas a sus preguntas sobre salud mental de consultores que entienden la cultura militar.",
+        "type": "text"
+      },
+      {
+        "content": "Call PHRC",
+        "type": "link_phone",
+        "link": "1-866-966-1020",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit PHRC",
+        "type": "link",
+        "link": "https://www.pdhealth.mil/resources/call-centers/psychological-health-resource-center",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Wounded Warrior Project (Proyecto Guerrero Herido)",
+        "type": "title"
+      },
+      {
+        "content": "Apoyo de pares para los desafíos de la vida de la comunidad militar.",
+        "type": "text"
+      },
+      {
+        "content": "Llame al Wounded Warrior Project",
+        "type": "link_phone",
+        "link": "1-888-997-2586",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visite Wounded Warrior Project",
+        "type": "link",
+        "link": "https://es.woundedwarriorproject.org/programs/peer-support",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Wounded Warrior Project-Conoce un Veterano",
+        "type": "title"
+      },
+      {
+        "content": "Aprenda sobre el PTSD de los veteranos y vea testimonios en video.",
+        "type": "text"
+      },
+      {
+        "content": "Visite Wounded Warrior Project",
+        "type": "link",
+        "link": "https://es.woundedwarriorproject.org/mission/meet-a-warrior",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Visit AboutFace",
+        "type": "link",
+        "link": "https://www.ptsd.va.gov/appps/AboutFace",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "National Resource Directory",
+        "type": "title"
+      },
+      {
+        "content": "Base de datos completa de recursos, herramientas y servicios para veteranos, miembros del servicio y sus familias.",
+        "type": "text"
+      },
+      {
+        "content": "Visit the National Resource Directory",
+        "type": "link",
+        "link": "https://nrd.gov",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Military Health System",
+        "type": "title"
+      },
+      {
+        "content": "Noticias médicas útiles, información sobre programas y enlaces a los beneficios y otros servicios de TRICARE.",
+        "type": "text"
+      },
+      {
+        "content": "Visit the MHS Website",
+        "type": "link",
+        "link": "https://health.mil",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Para Trabajadores de Salud",
+    "id": 10010,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Asesoramiento y crisis",
+        "type": "title"
+      },
+      {
+        "content": "<b>Línea de Apoyo para Médicos</b>",
+        "type": "text"
+      },
+      {
+        "content": "Apoyo confidencial y gratuito de psiquiatras voluntarios para ayudar a médicos con las tensiones únicas y los desafíos de bienestar mental de su trabajo. Disponible de 8 a. M. A 1 a. M., Hora del este.",
+        "type": "text"
+      },
+      {
+        "content": "Call Physician Support Line",
+        "type": "link_phone",
+        "link": "1-888-409-0141",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Physician Support Line Website",
+        "type": "link",
+        "link": "https://www.physiciansupportline.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>Para Trabajadores de Línea Primera </b>",
+        "type": "text"
+      },
+      {
+        "content": "Consejería del el estrés y las crisis para los trabajadores de salud y trabajadores esenciales durante la pandemia.",
+        "type": "text"
+      },
+      {
+        "content": "For the Frontlines",
+        "type": "link",
+        "link": "https://www.forthefrontlines.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>Therapy Aid Coalition</b>",
+        "type": "text"
+      },
+      {
+        "content": "Terapia gratuita o de bajo costo para trabajadores esenciales.",
+        "type": "text"
+      },
+      {
+        "content": "Therapy Aid Coalition",
+        "type": "link",
+        "link": "https://therapyaid.org/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>PeerRxMed</b>",
+        "type": "text"
+      },
+      {
+        "content": "Apoyo entre pares para ayudar a los trabajadores de la salud a lidiar con la angustia y el agotamiento profesional.",
+        "type": "text"
+      },
+      {
+        "content": "PeerRxMed Website",
+        "type": "link",
+        "link": "https://www.peerrxmed.com/",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Porporcionando Cuidado",
+        "type": "title"
+      },
+      {
+        "content": "<b>Sociedad Española de Medicina Interna (SEMI)-Información para Internistas</b>",
+        "type": "text"
+      },
+      {
+        "content": "Guías, juegos de herramientas e información para médicos que brindan atención relacionada con COVID-19.",
+        "type": "text"
+      },
+      {
+        "content": "SEMI COVID-19 Información",
+        "type": "link",
+        "link": "https://www.fesemi.org/canal-semi-para-profesionales-covid-19",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>Centros de Control y Prevención de Enfermedades (CDC)-Recomendaciones para Prevención y Control de Infecciones para el Personal de Atención Médica Durante COVID-19 Pandemia</b>",
+        "type": "text"
+      },
+      {
+        "content": "Recursos para brindar atención y proteger al personal médico.",
+        "type": "text"
+      },
+      {
+        "content": "Recursos de CDC",
+        "type": "link",
+        "link": "https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-prevention-control-faq-sp.html",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "<b>Asociación Médica Estadounidense - Recursos COVID-19</b>",
+        "type": "text"
+      },
+      {
+        "content": "Consejos de apoyo y listas de varios servicios disponibles para el personal de atención médica.",
+        "type": "text"
+      },
+      {
+        "content": "AMA Resources",
+        "type": "link",
+        "link": "https://www.ama-assn.org/delivering-care/public-health/caring-our-caregivers-during-covid-19",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Aplicaciones Móviles para Apoyar la Salud Mental",
+    "id": 10007,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "Hay muchas aplicaciones diferentes que podrían usarse para ayudar a apoyar la salud mental y el bienestar. De las aplicaciones enumeradas aquí, PTSD Coach está disponible en español.",
+        "type": "text"
+      },
+      {
+        "content": "Mindfulness Coach",
+        "type": "title"
+      },
+      {
+        "content": "Creada por el Centro Nacional de TEPT, esta es una aplicación diseñada para ayudarlo a incorporar las prácticas de atención plena a su vida diaria. Ofrece ejercicios de meditación guiada, material educativo y un registro de rastreo de su práctica de atención plena.",
+        "type": "text"
+      },
+      {
+        "content": "Mindfulness Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.mindfulnesscoach",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "PTSD Coach",
+        "type": "title"
+      },
+      {
+        "content": "Una aplicación diseñada para miembros del servicio, veteranos y sobrevivientes de traumas que están experimentando síntomas de TEPT. Esta aplicación proporciona material educativo, herramientas interactivas, evaluaciones para realizar un seguimiento de los síntomas a lo largo del tiempo y recursos importantes. Fue desarrollado por el Centro Nacional de TEPT y el Centro de Telesalud y Tecnología.",
+        "type": "text"
+      },
+      {
+        "content": "PTSD Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=is.vertical.ptsdcoach&hl=es",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "AIMS (Anger & Irritability Management Skills)",
+        "type": "title"
+      },
+      {
+        "content": "Una aplicación diseñada para veteranos y miembros del servicio militar, pero puede ser utilizada por cualquier persona que enfrente problemas de ira. AIMS brinda a los usuarios educación sobre la ira, oportunidades para encontrar apoyo, la capacidad de crear un plan de manejo de la ira, seguimiento de la ira y herramientas para ayudar a controlar las reacciones de enojo. Los usuarios también pueden crear herramientas personalizadas según sus preferencias y pueden integrar sus propios contactos, fotografías y música. AIMS fue creado por el Centro Nacional de TEPT y Servicios de Salud Mental en el Departamento de Asuntos de Veteranos.",
+        "type": "text"
+      },
+      {
+        "content": "AIMS for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.aims&hl=en",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "ACT Coach",
+        "type": "title"
+      },
+      {
+        "content": "Una aplicación basada en la Terapia de Aceptación y Compromiso (ACT), que tiene como objetivo ayudarlo a vivir con pensamientos, sentimientos e impulsos desagradables sin evitarlos o ser controlado por ellos. En ACT, se le anima a comprometerse con las acciones para que pueda vivir su vida de acuerdo con sus valores, incluso frente a estas experiencias desagradables. La aplicación ofrece ejercicios, herramientas, información y registros de rastreo para que pueda practicar lo que está aprendiendo en su vida diaria.",
+        "type": "text"
+      },
+      {
+        "content": "ACT Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=is.vertical.actcoach&hl=en",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "CBT-i Coach",
+        "type": "title"
+      },
+      {
+        "content": "Una aplicación basada en la terapia cognitiva-conductual para el insomnio (CBT-i) que enseña estrategias comprobadas para ayudarlo a mejorar su sueño. La aplicación proporciona un programa estructurado para aprender sobre el sueño, desarrollar rutinas de sueño positivas y mejorar su entorno de sueño.",
+        "type": "text"
+      },
+      {
+        "content": "CBT-i Coach for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.cbti",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Help Kids Cope",
+        "type": "title"
+      },
+      {
+        "content": "Una aplicación diseñada para ayudar a los padres a hablar con sus hijos sobre las experiencias de desastres. Proporciona información sobre cómo explicar, prepararse, responder y curarse de diez tipos de desastres. También brinda orientación sobre cómo apoyar a los niños cuando se enfrentan a desastres y reaccionan ante ellos.",
+        "type": "text"
+      },
+      {
+        "content": "Help Kids Cope for Android",
+        "type": "link",
+        "link": "https://play.google.com/store/apps/details?id=nctsn.helpkidscope",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  },
+  {
+    "displayName": "Aprenda Más Sobre la Salud Mental",
+    "id": 10008,
+    "related_tools": [],
+    "cdata": [
+      {
+        "content": "La salud mental incluye nuestro bienestar emocional, psicológico y social. Afecta la forma en que pensamos, sentimos y actuamos.",
+        "type": "text"
+      },
+      {
+        "content": "También ayuda a determinar cómo manejamos el estrés, nos relacionamos con los demás y tomamos decisiones. La salud mental es importante en todas las etapas de la vida, desde la niñez y la adolescencia hasta la edad adulta.",
+        "type": "text"
+      },
+      {
+        "content": "Señales de Alerta Temprana de Problemas de Salud Mental",
+        "type": "title"
+      },
+      {
+        "content": "¿No está seguro de si usted o alguien que conoce tiene problemas de salud mental? Experimentar uno o más de los siguientes sentimientos o comportamientos puede ser una señal de advertencia temprana de un problema:",
+        "type": "text"
+      },
+      {
+        "content": [
+          "Comer o dormir demasiado o muy poco",
+          "Alejarse de las personas y las actividades habituales",
+          "Tener poca o nada de energía",
+          "Sentirse entumecido o como si nada importara",
+          "Tener dolores y molestias inexplicables",
+          "Sentirse impotente o desesperanzado",
+          "Fumar, beber o consumir drogas más de lo habitual",
+          "Sentirse inusualmente confundido, olvidadizo, nervioso, enojado, molesto, preocupado o asustado",
+          "Gritar o pelear con familiares y amigos",
+          "Experimentar cambios de humor severos que causan problemas en las relaciones.",
+          "Tener pensamientos y recuerdos persistentes que no se pueden quitar de la cabeza.",
+          "Escuchar voces o creer cosas que no son ciertas",
+          "Pensando en hacerse daño a sí mismo u otros",
+          "Incapacidad para realizar tareas diarias como cuidar a sus hijos o ir al trabajo o la escuela"
+        ],
+        "type": "list"
+      },
+      {
+        "content": "You can learn more about mental health at the National Alliance of Mental Illness website:",
+        "type": "text"
+      },
+      {
+        "content": "NAMI website",
+        "type": "link",
+        "link": "https://nami.org",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Puede obtener más información sobre la salud mental en el sitio web de la Alianza Nacional de Enfermedades Mentales (NAMI):",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de web de NAMI",
+        "type": "link",
+        "link": "https://nami.org/Your-Journey/Identity-and-Cultural-Dimensions/Latinx-Hispanic/La-salud-mental-en-la-comunidad-latina",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Si usted o alguien que conoce necesita ayuda con problemas de salud mental, visite el Instituto Nacional de Salud Mental",
+        "type": "text"
+      },
+      {
+        "content": "Sitio de web de NIH",
+        "type": "link",
+        "link": "https://www.nimh.nih.gov/health/education-awareness/espanol/recursos-para-compartir-sobre-la-salud-mental-en-espa-ol.shtml",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Puede obtener más información sobre los trastornos del estado de ánimo en el sitio web de la clínica de Mayo:",
+        "type": "text"
+      },
+      {
+        "content": "Aprenda Más Sobre los Trastornos del Estado de Ánimo",
+        "type": "link",
+        "link": "https://www.mayoclinic.org/es-es/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057",
+        "imageButton": true,
+        "full": true
+      },
+      {
+        "content": "Aprenda más sobre los trastornos de ansiedad:",
+        "type": "text"
+      },
+      {
+        "content": "Aprenda sobre Trastornos de Ansiedad",
+        "type": "link",
+        "link": "https://www.nami.org/NAMI/media/NAMI-Media/Images/FactSheets/Spanish_Anxiety_(trastornos-de-ansiedad).pdf",
+        "imageButton": true,
+        "full": true
+      }
+    ]
+  }
+]

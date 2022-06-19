@@ -1,0 +1,27 @@
+[{
+		"type": "text",
+		"content": "Buenas noticias: Su puntaje ha mejorado desde la última vez que hizo la autoevaluación. Esto significa que usted está teniendo menos problemas que antes."
+	},
+	{
+		"type": "text",
+		"content": "Usted está teniendo algunas dificultades relacionadas con su experiencia traumática, pero estos problemas probablemente no se le darían un diagnóstico de Trastorno de estrés postraumático (TEPT)."
+	},
+	{
+		"type": "text",
+		"content": "Sin embargo, es posible que aún esté luchando. Incluso el estrés postraumático leve puede ser lo suficientemente angustioso como para interrumpir tu vida. Además, problemas como la depresión, el abuso de sustancias y la ansiedad también pueden ocurrir después de un trauma y es posible que no se registren en una escala de TEPT. "
+	},
+	{
+		"type": "text",
+		"content": "Si bien no existe un reemplazo para la atención profesional, esta aplicación puede ayudarlo a aprender herramientas para manejar su estrés a medida que surja. Si está en tratamiento, esta aplicación puede ser un complemento útil para el cuidado profesional que esta recibiendo."
+	},
+	{
+		"type": "text",
+		"content": "Si alguna vez tiene ganas de hacerse daño a sí mismo o a otra persona, oprima el botón Encuentre recursos a continuación para obtener ayuda de inmediato. De lo contrario, puede realizar esta evaluación una vez al mes para ver cómo cambian sus síntomas -- y ojala mejorando -- con el tiempo."
+	},
+	{
+		"type":"link_internal",
+		"content":"Encuentre Recursos",
+		"full":true,
+		"link":"get_support"
+	}
+]

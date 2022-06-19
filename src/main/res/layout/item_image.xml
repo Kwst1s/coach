@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/item_image_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@+id/item_image_img_img" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/padding_small" android:scaleType="centerCrop"/>
+    <View android:id="@+id/item_image_white_alpha" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0.6"/>
+    <ImageView android:id="@+id/item_image_img_check" android:visibility="gone" android:layout_width="24dp" android:layout_height="24dp" android:layout_margin="@dimen/padding_x_small" android:src="@drawable/radio_unckecked" android:layout_alignParentLeft="true" android:layout_alignParentTop="true"/>
+</RelativeLayout>

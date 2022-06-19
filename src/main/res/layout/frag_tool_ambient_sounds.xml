@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/grey_hh_light" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/ambient_sounds_rview" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <View android:background="@android:color/black" android:focusable="false" android:layout_width="match_parent" android:layout_height="1px" android:layout_marginLeft="@dimen/padding_mlarge" android:layout_marginRight="@dimen/padding_mlarge" android:accessibilityLiveRegion="none"/>
+        <LinearLayout android:orientation="vertical" android:padding="@dimen/padding_large" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <androidx.appcompat.widget.AppCompatTextView android:textSize="@dimen/txt_normal" android:textColor="@android:color/black" android:gravity="center_horizontal" android:id="@+id/ambient_sounds_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/padding_large" android:text="@string/choose_a_song_from_list" android:fontFamily="@font/font_regular" app:fontFamily="@font/font_regular"/>
+            <vainstrum.Components.FABTracking android:layout_gravity="center_horizontal" android:id="@+id/ambient_sounds_play_pause" android:padding="@dimen/padding_medium" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/padding_small" android:src="@drawable/icon_play_white" android:contentDescription="@string/only_play_audio" app:fabSize="0" app:tracking_id="29521"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:padding="@dimen/padding_x_small" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginRight="@dimen/padding_medium" android:layout_weight="1" layout="@layout/bottom_tool_layout_standard"/>
+    </LinearLayout>
+</LinearLayout>

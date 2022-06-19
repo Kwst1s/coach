@@ -1,0 +1,432 @@
+[
+  {
+    "type": "kids",
+    "phrases": [
+      {
+        "content": "Build an indoor fort. Challenge your kids to get creative using sheets, blankets, boxes, rope, duct tape, and newspaper.  Wrapping paper and holiday lights make for great decorations!",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Do science experiments. Science Fun for Everyone has great ideas for easy and safe experiments that you can do at home with kids of all ages.",
+        "link": "http://www.sciencefun.org/kidszone/experiments/",
+        "link_name": "Science Fun for Everyone"
+      },
+      {
+        "content": "Hide a prize and leave clues to find it. Treasure hunts can be easy to create by searching online for kid-friendly riddles and clues! ",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Bake cookies. Check out the BBC’s Goodfood website for recipe ideas for kids.",
+        "link": "https://www.bbcgoodfood.com/recipes/collection/kids-baking",
+        "link_name": "Goodfood"
+      },
+      {
+        "content": "Set up a painting and craft station. Parents magazine has easy and inexpensive craft ideas for kids of all ages.",
+        "link": "https://www.parents.com/fun/arts-crafts/kid/",
+        "link_name": "Parents magazine"
+      },
+      {
+        "content": "Make paper airplanes. Origami Way has easy to follow instructions for folding paper airplanes and spacecrafts!",
+        "link": "https://www.origamiway.com/paper-airplanes-for-kids.shtml",
+        "link_name": "Origami Way"
+      },
+      {
+        "content": "Have a dance party. Take turns playing your favorite songs or encourage your kids to record their own music video.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Play dress up. Choose your favorite characters from books, movies, and TV, and hunt for clothing items to dress up and act like them.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Read a story.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Make up your own story together.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Put your favorite activity ideas in a hat to randomly choose from.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Play a board game.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Invent a board game.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Hold an American Idol competition and sing or lip synch your favorite songs.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Create a scavenger hunt. Good Housekeeping has creative tips for scavenger hunt themes!",
+        "link": "https://www.goodhousekeeping.com/life/parenting/g32050844/scavenger-hunt-ideas-for-kids/",
+        "link_name": "Good Housekeeping"
+      },
+      {
+        "content": "Do a puzzle together.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Plant an indoor herb garden together.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Create an obstacle course and compete to see who is the fastest. It is easy to search online for safe activities to include for kids of all ages.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Make cards or write letters to send to loved ones.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Virtually visit the Monterey Bay Aquarium! Check out the world-famous otters and more, all set to calming background music (available 7 am - 6 pm PST).",
+        "link": "https://www.montereybayaquarium.org/animals/live-cams",
+        "link_name": "Monterey Bay Aquarium"
+      },
+      {
+        "content": "Try a virtual movie night with friends or family! Download the Google Chrome extension and you can stream the same show at the same time.",
+        "link": "https://www.netflixparty.com/",
+        "link_name": "Netflix Together"
+      }
+    ]
+  },
+  {
+    "type": "time_alone",
+    "phrases": [
+      {
+        "content": "Bake something. The Food Network has a wide variety of recipe ideas that won’t add to your stress.",
+        "link": "https://www.foodnetwork.com/topics/easy-baking",
+        "link_name": "No Stress Recipes"
+      },
+      {
+        "content": "Cook a meal for yourself. Pure Wow can help you brainstorm some simple dishes.",
+        "link": "https://www.purewow.com/food/easy-dinner-recipes-for-beginners",
+        "link_name": "Pure Wow"
+      },
+      {
+        "content": "Dance. Dance magazine has a list of online dance classes you can take and free tutorials you can watch.",
+        "link": "https://www.dancemagazine.com/online-dance-classes-2645462403.html",
+        "link_name": "Dance magazine"
+      },
+      {
+        "content": "Do a crossword or Sudoku puzzle.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Do a jigsaw puzzle.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Do arts and crafts. Joann’s has all kinds of ideas! ",
+        "link": "https://www.joann.com/projects/projects-videos/arts-and-crafts-projects/",
+        "link_name": "Joann’s"
+      },
+      {
+        "content": "Eat something delicious.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Have coffee or tea.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Knit or do needlepoint. The NY Times posted a helpful online article with tips for how to start knitting. ",
+        "link": "https://www.nytimes.com/2018/07/11/smarter-living/how-to-start-knitting.html",
+        "link_name": "NY Times"
+      },
+      {
+        "content": "Light some candles.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "List 5 things you like about yourself.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Listen to the radio.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Paint or draw.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Plan a trip for the future. Fodor’s Travel website has fun ideas for every kind of getaway,  including budget friendly ideas.",
+        "link": "https://www.fodors.com/trip-ideas/",
+        "link_name": "Fodor’s Travel"
+      },
+      {
+        "content": "Play cards. Bicycle shares some great solo card games!",
+        "link": "https://bicyclecards.com/players/1/",
+        "link_name": "Bicycle"
+      },
+      {
+        "content": "Play with animals",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Practice a martial art.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Pray, meditate, or practice yoga.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Put on an outfit that makes you feel good.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Read a relaxing magazine or book.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Remember a fun vacation.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Remember someone being kind to you.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Sew, knit or crochet.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Sing around the house.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Take a warm bath.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Take photographs. It is easy to search online for  creative photo projects you can work on from home.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Think about someone you love.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Watch a movie or TV show.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Watch funny videos.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Watch past sports highlights on TV or online.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Write a poem or story. Oprah.com’s tips can help you get started!",
+        "link": "https://www.oprah.com/spirit/12-ways-to-write-a-poem",
+        "link_name": "Oprah.com"
+      },
+      {
+        "content": "Put on your favorite shirt to “feel good”.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Take a relaxing shower.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Build something with your hands. Popular Mechanics has plenty of ideas for hands on projects you can do at home.",
+        "link": "https://www.popularmechanics.com/home/how-to-plans/",
+        "link_name": "Popular Mechanics"
+      },
+      {
+        "content": "Have a virtual museum day. Take advantage of twelve renowned museums that offer a virtual tour, including New York's Guggenheim, Musée d'Orsay in Paris, and Uffizi Gallery in Florence, Italy.",
+        "link": "https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours",
+        "link_name": "Take A Tour"
+      }
+    ]
+  },
+  {
+    "type": "partner",
+    "phrases": [
+      {
+        "content": "Listen to music. KCRW curates a unique mix of music around news and cultural exploration. You can check out their content through their app or online.",
+        "link": "https://www.kcrw.com/",
+        "link_name": "KCRW"
+      },
+      {
+        "content": "Make ice cream sundaes or create your own chocolate tasting where you sample and compare what you are tasting.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Make dinner. BBC’s Goodfood website offers a variety of free recipes online that cater to healthy eating, families, and foodies alike.",
+        "link": "https://www.bbcgoodfood.com/",
+        "link_name": "BBC’s Goodfood"
+      },
+      {
+        "content": "Make a sightseeing list. Share your bucket list of places you want to travel to or visit in your city. Search online for fun itineraries or activities you’ve never tried.",
+        "link": "http://www.travelandleisure.com/travel-guide",
+        "link_name": "Travel + Leisure"
+      },
+      {
+        "content": "Read aloud to each other.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Read and have coffee or tea.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Watch a performance of theater play online. Filmed On Stage has a library of free productions you can watch from home.",
+        "link": "http://filmedonstage.com/news/76-free-musicals-and-plays-you-can-now-stream-during-the-coronavirus-outbreak-updating-daily",
+        "link_name": "Filmed On Stage"
+      },
+      {
+        "content": "Visit a museum online.",
+        "link": "https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours",
+        "link_name": "Take A Tour"
+      },
+      {
+        "content": "Visit an online church/temple/mosque.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Watch a movie. Rotten Tomatoes has a list of 200 essential movies to watch from the 1920s to today!",
+        "link": "https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/",
+        "link_name": "Rotten Tomatoes"
+      },
+      {
+        "content": "Take an online class in a craft, a language, or a dance. Open Culture will direct you to free resources for learning a new language!",
+        "link": "http://www.openculture.com/freelanguagelessons",
+        "link_name": "Open Culture"
+      },
+      {
+        "content": "Volunteer at an online school. Upchieve supports low-income high schoolers with free volunteer tutors. Anyone can become a volunteer!",
+        "link": "https://upchieve.org/about",
+        "link_name": "Upchieve"
+      },
+      {
+        "content": "Play each other your favorite songs.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Create a music playlist for the morning, evening, and night.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Take an online yoga class. ",
+        "link": "https://www.youtube.com/user/yogawithadriene",
+        "link_name": "Yoga with Adriene"
+      },
+      {
+        "content": "Teach each other a skill the other person doesn’t know",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Play cards. Bicycle has card game recommendations for classic card games.",
+        "link": "https://bicyclecards.com/article/top-three-classic-family-card-games/",
+        "link_name": "Bicycle"
+      },
+      {
+        "content": "Rearrange your living space.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Clean. Country Living has some great cleaning tips.",
+        "link": "https://www.countryliving.com/home-maintenance/cleaning/",
+        "link_name": "Country Living"
+      },
+      {
+        "content": "Play a board game.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Set up an online party.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Write a song. BBC’s Bitesize has a great step by step process for beginners!",
+        "link": "https://www.bbc.co.uk/bitesize/topics/z3dqhyc/articles/zrx3vk7",
+        "link_name": "Bitesize"
+      },
+      {
+        "content": "Create a donation box and add to it.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Plan the week’s meals.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Work out.  Good Housekeeping has a great list of ways you can keep fit at home!",
+        "link": "https://www.goodhousekeeping.com/health/fitness/a31792038/coronavirus-live-stream-workout-classes/",
+        "link_name": "Good Housekeeping"
+      },
+      {
+        "content": "Make a list of your favorite movies. Share them with one another.",
+        "link": "",
+        "link_name": ""
+      },
+      {
+        "content": "Bake. The Food Network offers a list of baking recipes that won’t add to your stress.",
+        "link": "https://www.foodnetwork.com/topics/easy-baking",
+        "link_name": "Food Network"
+      }
+    ]
+  }
+]
