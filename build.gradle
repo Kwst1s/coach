@@ -27,7 +27,7 @@ sonarqube {
 }
 
 apply plugin: 'com.android.application'
-
+apply plugin: "org.sonarqube"
 
 apply plugin: "com.hiya.jacoco-android"
 
